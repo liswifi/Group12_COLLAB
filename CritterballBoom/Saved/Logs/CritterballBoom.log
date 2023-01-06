@@ -3733,3 +3733,269 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.01.06-15.46.03:441][317]AssetCheck: New page: Asset Save: multiple assets
 [2023.01.06-15.46.03:441][317]LogContentValidation: Display: Validating World /Game/LevelDesign/p018948l_Josh/Hole1Resources/L_Hole1.L_Hole1
 [2023.01.06-15.46.03:441][317]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/LevelDesign/p018948l_Josh/Hole1Resources/L_Hole1_BuiltData.L_Hole1_BuiltData
+[2023.01.06-15.48.10:207][251]LogViewport: Scene viewport resized to 481x265, mode Windowed.
+[2023.01.06-15.48.12:904][413]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.01.06-15.48.12:911][413]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.06-15.48.12:911][413]PIE: New page: PIE session: L_Hole1 (6 Jan 2023, 15:48:12)
+[2023.01.06-15.48.12:912][413]LogPlayLevel: Creating play world package: /Game/LevelDesign/p018948l_Josh/Hole1Resources/UEDPIE_0_L_Hole1
+[2023.01.06-15.48.12:918][413]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006234s)
+[2023.01.06-15.48.12:918][413]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelDesign/p018948l_Josh/Hole1Resources/L_Hole1.L_Hole1 to /Game/LevelDesign/p018948l_Josh/Hole1Resources/UEDPIE_0_L_Hole1.L_Hole1 (0.006349s)
+[2023.01.06-15.48.12:918][413]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.06-15.48.12:918][413]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.06-15.48.12:918][413]LogAIModule: Creating AISystem for world L_Hole1
+[2023.01.06-15.48.12:919][413]LogPlayLevel: PIE: World Init took: (0.000832s)
+[2023.01.06-15.48.12:939][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.01.06-15.48.12:945][413]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2023.01.06-15.48.12:945][413]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.06-15.48.12:945][413]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.06-15.48.12:946][413]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.06-15.48.12:946][413]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.06-15.48.12:946][413]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.06-15.48.12:946][413]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.06-15.48.12:946][413]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.06-15.48.12:946][413]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.06-15.48.12:946][413]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.06-15.48.12:946][413]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.06-15.48.12:946][413]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.06-15.48.12:948][413]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.06-15.48.12:963][413]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.01.06-15.48.12:963][413]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.06-15.48.12:963][413]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.06-15.48.12:963][413]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.06-15.48.12:964][413]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2023.01.06-15.48.12:964][413]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=33
+[2023.01.06-15.48.12:966][413]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2023.01.06-15.48.12:966][413]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2023.01.06-15.48.12:966][413]LogInit: FAudioDevice initialized.
+[2023.01.06-15.48.12:966][413]LogAudio: Display: Audio Device (ID: 33) registered with world 'L_Hole1'.
+[2023.01.06-15.48.13:018][413]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.06-15.48.13:019][413]LogLoad: Game class is 'GameModeBase'
+[2023.01.06-15.48.13:021][413]LogWorld: Bringing World /Game/LevelDesign/p018948l_Josh/Hole1Resources/UEDPIE_0_L_Hole1.L_Hole1 up for play (max tick rate 0) at 2023.01.06-15.48.13
+[2023.01.06-15.48.13:021][413]LogWorld: Bringing up level for play took: 0.002382
+[2023.01.06-15.48.13:023][413]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2023.01.06-15.48.13:026][413]PIE: Server logged in
+[2023.01.06-15.48.13:027][413]PIE: Play in editor total start time 0.115 seconds.
+[2023.01.06-15.48.13:104][413]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.01.06-15.48.14:353][549]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.06-15.48.14:353][549]LogWorld: BeginTearingDown for /Game/LevelDesign/p018948l_Josh/Hole1Resources/UEDPIE_0_L_Hole1
+[2023.01.06-15.48.14:354][549]LogSlate: Window 'CritterballBoom Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.01.06-15.48.14:365][549]LogWorld: UWorld::CleanupWorld for L_Hole1, bSessionEnded=true, bCleanupResources=true
+[2023.01.06-15.48.14:366][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.06-15.48.14:375][549]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.06-15.48.14:378][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.06-15.48.14:393][549]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2023.01.06-15.48.14:395][549]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2023.01.06-15.48.14:400][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.01.06-15.48.14:459][550]LogViewport: Scene viewport resized to 481x265, mode Windowed.
+[2023.01.06-15.48.14:502][551]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2023.01.06-15.48.18:690][847]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.01.06-15.48.18:694][847]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.06-15.48.18:694][847]PIE: New page: PIE session: L_Hole1 (6 Jan 2023, 15:48:18)
+[2023.01.06-15.48.18:695][847]LogPlayLevel: Creating play world package: /Game/LevelDesign/p018948l_Josh/Hole1Resources/UEDPIE_0_L_Hole1
+[2023.01.06-15.48.18:699][847]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004877s)
+[2023.01.06-15.48.18:700][847]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelDesign/p018948l_Josh/Hole1Resources/L_Hole1.L_Hole1 to /Game/LevelDesign/p018948l_Josh/Hole1Resources/UEDPIE_0_L_Hole1.L_Hole1 (0.004963s)
+[2023.01.06-15.48.18:700][847]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.06-15.48.18:700][847]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.06-15.48.18:700][847]LogAIModule: Creating AISystem for world L_Hole1
+[2023.01.06-15.48.18:700][847]LogPlayLevel: PIE: World Init took: (0.000702s)
+[2023.01.06-15.48.18:717][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.01.06-15.48.18:720][847]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2023.01.06-15.48.18:720][847]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.06-15.48.18:720][847]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.06-15.48.18:720][847]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.06-15.48.18:720][847]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.06-15.48.18:720][847]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.06-15.48.18:720][847]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.06-15.48.18:720][847]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.06-15.48.18:720][847]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.06-15.48.18:720][847]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.06-15.48.18:721][847]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.06-15.48.18:721][847]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.06-15.48.18:722][847]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.06-15.48.18:735][847]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.01.06-15.48.18:736][847]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.06-15.48.18:736][847]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.06-15.48.18:736][847]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.06-15.48.18:736][847]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2023.01.06-15.48.18:736][847]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2023.01.06-15.48.18:737][847]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2023.01.06-15.48.18:737][847]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2023.01.06-15.48.18:737][847]LogInit: FAudioDevice initialized.
+[2023.01.06-15.48.18:737][847]LogAudio: Display: Audio Device (ID: 34) registered with world 'L_Hole1'.
+[2023.01.06-15.48.18:769][847]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.06-15.48.18:770][847]LogLoad: Game class is 'GameModeBase'
+[2023.01.06-15.48.18:772][847]LogWorld: Bringing World /Game/LevelDesign/p018948l_Josh/Hole1Resources/UEDPIE_0_L_Hole1.L_Hole1 up for play (max tick rate 0) at 2023.01.06-15.48.18
+[2023.01.06-15.48.18:773][847]LogWorld: Bringing up level for play took: 0.002577
+[2023.01.06-15.48.18:774][847]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2023.01.06-15.48.18:776][847]PIE: Server logged in
+[2023.01.06-15.48.18:777][847]PIE: Play in editor total start time 0.083 seconds.
+[2023.01.06-15.48.18:845][847]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.01.06-15.48.31:814][373]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.06-15.48.31:814][373]LogWorld: BeginTearingDown for /Game/LevelDesign/p018948l_Josh/Hole1Resources/UEDPIE_0_L_Hole1
+[2023.01.06-15.48.31:815][373]LogSlate: Window 'CritterballBoom Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.01.06-15.48.31:822][373]LogWorld: UWorld::CleanupWorld for L_Hole1, bSessionEnded=true, bCleanupResources=true
+[2023.01.06-15.48.31:822][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.06-15.48.31:834][373]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.06-15.48.31:837][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.06-15.48.31:852][373]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2023.01.06-15.48.31:853][373]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2023.01.06-15.48.31:858][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.01.06-15.48.31:875][374]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2023.01.06-15.48.31:878][374]LogViewport: Scene viewport resized to 481x265, mode Windowed.
+[2023.01.06-15.54.46:178][306]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.01.06-15.54.46:178][306]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.01.06-15.54.46:178][306]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/LevelDesign/p018948l_Josh/Hole1Resources/L_Hole1.L_Hole1:PersistentLevel.StaticMeshActor_135
+[2023.01.06-15.54.46:179][306]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/LevelDesign/p018948l_Josh/Hole1Resources/L_Hole1.L_Hole1:PersistentLevel.StaticMeshActor_135
+[2023.01.06-15.55.25:304][774]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.01.06-15.55.25:388][774]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.01.06-15.55.25:401][774]LogSavePackage: Moving output files for package: /Game/LevelDesign/p018948l_Josh/Hole1Resources/L_Hole1
+[2023.01.06-15.55.25:401][774]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/L_Hole15CD7762E425FC64DBFA13FB949FD31B0.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/p018948l_Josh/Hole1Resources/L_Hole1.umap'
+[2023.01.06-15.55.25:409][774]LogFileHelpers: No new changes to save!
+[2023.01.06-15.55.25:409][774]LogFileHelpers: Saving map 'L_Hole1' took 0.036
+[2023.01.06-15.55.25:411][774]LogSavePackage: Moving output files for package: /Game/LevelDesign/p018948l_Josh/Hole1Resources/Material
+[2023.01.06-15.55.25:411][774]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/MaterialDB56AF6148B7FE1A71E8E0984766A101.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/p018948l_Josh/Hole1Resources/Material.uasset'
+[2023.01.06-15.55.25:414][774]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/ModularWall_2_SM_Large
+[2023.01.06-15.55.25:414][774]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/ModularWall_2_SM_Large44225EE84A3ED9F7BA44D18AB27C7C01.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/ModularWall_2_SM_Large.uasset'
+[2023.01.06-15.55.25:416][774]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/ModularWall_1_SM_Large
+[2023.01.06-15.55.25:416][774]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/ModularWall_1_SM_Large46BF7D59458D68B5833809947DD0F26A.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/ModularWall_1_SM_Large.uasset'
+[2023.01.06-15.55.25:419][774]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/ModularWall_3_SM_Large
+[2023.01.06-15.55.25:419][774]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/ModularWall_3_SM_Large489934BC48AB79A920986DBAE2D222E2.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/ModularWall_3_SM_Large.uasset'
+[2023.01.06-15.55.25:422][774]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/computer-kinairo
+[2023.01.06-15.55.25:422][774]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/computer-kinairoD32320504313669776947EA4763FD03A.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/computer-kinairo.uasset'
+[2023.01.06-15.55.25:439][774]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/01_-_Default
+[2023.01.06-15.55.25:439][774]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/01_-_DefaultB040C26340BEB094F198F9ADE586194D.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/01_-_Default.uasset'
+[2023.01.06-15.55.25:460][774]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/Kinairo_models/keyboard-kinairo
+[2023.01.06-15.55.25:460][774]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/keyboard-kinairoC9A7B4B946CC5761865371B47B2D47A9.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/Kinairo_models/keyboard-kinairo.uasset'
+[2023.01.06-15.55.25:469][774]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/Kinairo_models/01_-_Default
+[2023.01.06-15.55.25:469][774]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/01_-_Default930E73C54E9DE1B8ABDC59A453D70C03.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/Kinairo_models/01_-_Default.uasset'
+[2023.01.06-15.55.25:473][774]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/Kinairo_models/Electrical-Plug-01-kinairo
+[2023.01.06-15.55.25:473][774]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Electrical-Plug-01-kinairo5181673B48C6437E33578AABAD775876.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/Kinairo_models/Electrical-Plug-01-kinairo.uasset'
+[2023.01.06-15.55.25:477][774]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/Kinairo_models/speaker-01-0kinairo
+[2023.01.06-15.55.25:477][774]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/speaker-01-0kinairoCD090DBD44DA1CBBB100F9B7C472E22C.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/Kinairo_models/speaker-01-0kinairo.uasset'
+[2023.01.06-15.55.25:481][774]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/Kinairo_models/Mouse-kinairo
+[2023.01.06-15.55.25:481][774]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Mouse-kinairoBB7A56ED4517A5F16D321597A3CC7588.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/Kinairo_models/Mouse-kinairo.uasset'
+[2023.01.06-15.55.25:490][774]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/Kinairo_models/01_-_Default_ncl1_1
+[2023.01.06-15.55.25:490][774]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/01_-_Default_ncl1_1545A0CA54AAEB96D029F5D869619A414.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/Kinairo_models/01_-_Default_ncl1_1.uasset'
+[2023.01.06-15.55.25:495][774]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/Kinairo_models/Monitor-kinairo
+[2023.01.06-15.55.25:495][774]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Monitor-kinairo6F83E8AC49A4F88149905AB85917D7C6.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/Kinairo_models/Monitor-kinairo.uasset'
+[2023.01.06-15.55.25:503][774]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/Kinairo_models/Material__55
+[2023.01.06-15.55.25:503][774]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Material__550A7F91B241C5A286D79B098FC29350B9.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/Kinairo_models/Material__55.uasset'
+[2023.01.06-15.55.25:511][774]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/Kinairo_models/Material__56
+[2023.01.06-15.55.25:511][774]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Material__56DC71616F4645E2364ADA9EB8C51E5E06.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/Kinairo_models/Material__56.uasset'
+[2023.01.06-15.55.25:518][774]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/Kinairo_models/Material__57
+[2023.01.06-15.55.25:518][774]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Material__5737D0DD574AA28792FC779D8EAC5499D0.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/Kinairo_models/Material__57.uasset'
+[2023.01.06-15.55.25:526][774]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/Kinairo_models/Material__58
+[2023.01.06-15.55.25:526][774]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Material__5868B6D66F446E783BC38A57B41BF64C0D.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/Kinairo_models/Material__58.uasset'
+[2023.01.06-15.55.25:533][774]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/Kinairo_models/Material__59
+[2023.01.06-15.55.25:533][774]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Material__59DBDA76F04C6DA8AE659E4B884860F1ED.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/Kinairo_models/Material__59.uasset'
+[2023.01.06-15.55.25:541][774]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/Kinairo_models/Material__60
+[2023.01.06-15.55.25:541][774]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Material__6043C4CF5348A2C8C6958ED1BF6A209F72.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/Kinairo_models/Material__60.uasset'
+[2023.01.06-15.55.25:549][774]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/Kinairo_models/screen
+[2023.01.06-15.55.25:549][774]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/screen239B142A4E7E594FBA82459773D27142.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/Kinairo_models/screen.uasset'
+[2023.01.06-15.55.25:557][774]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/Kinairo_models/Monitor
+[2023.01.06-15.55.25:557][774]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Monitor2A8EDEE04897619F192F0F8333D4DCA3.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/Kinairo_models/Monitor.uasset'
+[2023.01.06-15.55.25:576][774]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/Kinairo_models/9xScaleManakin
+[2023.01.06-15.55.25:576][774]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/9xScaleManakin5F9CA5C949BEFC9C73CF5183AE3195ED.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/Kinairo_models/9xScaleManakin.uasset'
+[2023.01.06-15.55.25:586][774]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/Kinairo_models/MI_Quinn_01
+[2023.01.06-15.55.25:586][774]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/MI_Quinn_0177FE46974ADFC3B861F293A09025F749.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/Kinairo_models/MI_Quinn_01.uasset'
+[2023.01.06-15.55.25:594][774]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/Kinairo_models/MI_Quinn_02
+[2023.01.06-15.55.25:594][774]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/MI_Quinn_0270F02B464F431D658062A5B503AF886E.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/Kinairo_models/MI_Quinn_02.uasset'
+[2023.01.06-15.55.25:597][774]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/Kinairo_models/Desk-01-kinairo
+[2023.01.06-15.55.25:597][774]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Desk-01-kinairoC6BC7B52452C7F30D72E0A8C276FDCB0.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/Kinairo_models/Desk-01-kinairo.uasset'
+[2023.01.06-15.55.25:604][774]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/Kinairo_models/07_-_Default
+[2023.01.06-15.55.25:604][774]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/07_-_Default2C78EC8642D6432D1006BB90690B49A0.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/Kinairo_models/07_-_Default.uasset'
+[2023.01.06-15.55.25:607][774]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/Kinairo_models/Desk/desk_back_Full-kinairo
+[2023.01.06-15.55.25:607][774]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/desk_back_Full-kinairoB52BFABA4C7F67EFC1A431B702E61083.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/Kinairo_models/Desk/desk_back_Full-kinairo.uasset'
+[2023.01.06-15.55.25:615][774]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/Kinairo_models/Desk/01_-_Default
+[2023.01.06-15.55.25:615][774]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/01_-_Default745A771A40DD5EF2B9960D955A08D36E.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/Kinairo_models/Desk/01_-_Default.uasset'
+[2023.01.06-15.55.25:617][774]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/Kinairo_models/Desk/desk_back_center-kinairo
+[2023.01.06-15.55.25:617][774]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/desk_back_center-kinairo7A1BA4C944411CFB885989A63C84B0CC.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/Kinairo_models/Desk/desk_back_center-kinairo.uasset'
+[2023.01.06-15.55.25:619][774]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/Kinairo_models/Desk/Desktop-Flat-kinairo
+[2023.01.06-15.55.25:619][774]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Desktop-Flat-kinairo95C3DC9342CBFE2E5996EC9712FFEEA3.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/Kinairo_models/Desk/Desktop-Flat-kinairo.uasset'
+[2023.01.06-15.55.25:622][774]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/Kinairo_models/Desk/Desktop-curve-kinairo
+[2023.01.06-15.55.25:622][774]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Desktop-curve-kinairoD233E5E442EBDBCBE7502F95A5CC8C4F.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/Kinairo_models/Desk/Desktop-curve-kinairo.uasset'
+[2023.01.06-15.55.25:624][774]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/Kinairo_models/Desk/door-Left-kinairo
+[2023.01.06-15.55.25:625][774]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/door-Left-kinairo959BFA9A444A74DEA35818934155EA59.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/Kinairo_models/Desk/door-Left-kinairo.uasset'
+[2023.01.06-15.55.25:632][774]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/Kinairo_models/Desk/07_-_Default
+[2023.01.06-15.55.25:633][774]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/07_-_Default04FCDAFD43B4F23A9D48C680EA5E6021.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/Kinairo_models/Desk/07_-_Default.uasset'
+[2023.01.06-15.55.25:635][774]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/door-right-kinairo
+[2023.01.06-15.55.25:635][774]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/door-right-kinairo31A108A9422843379E8F1BA2EF61732D.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/door-right-kinairo.uasset'
+[2023.01.06-15.55.25:642][774]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/07_-_Default
+[2023.01.06-15.55.25:642][774]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/07_-_DefaultBE1B9C9C4E7EFF34D935BF9E47AF0C71.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/07_-_Default.uasset'
+[2023.01.06-15.55.25:658][774]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.06-15.55.25:658][774]LogContentValidation: Display: Validating World /Game/LevelDesign/p018948l_Josh/Hole1Resources/L_Hole1.L_Hole1
+[2023.01.06-15.55.25:658][774]LogContentValidation: Display: Validating StaticMesh /Game/LevelDesign/s027702k_Mause/ModularWall_3_SM_Large.ModularWall_3_SM_Large
+[2023.01.06-15.55.25:658][774]LogContentValidation: Display: Validating StaticMesh /Game/LevelDesign/s027702k_Mause/ModularWall_1_SM_Large.ModularWall_1_SM_Large
+[2023.01.06-15.55.25:658][774]LogContentValidation: Display: Validating StaticMesh /Game/LevelDesign/s027702k_Mause/ModularWall_2_SM_Large.ModularWall_2_SM_Large
+[2023.01.06-15.55.25:658][774]LogContentValidation: Display: Validating Material /Game/LevelDesign/p018948l_Josh/Hole1Resources/Material.Material
+[2023.01.06-15.55.25:659][774]LogContentValidation: Display: Validating Material /Game/LevelDesign/s027702k_Mause/Kinairo_models/Monitor.Monitor
+[2023.01.06-15.55.25:659][774]LogContentValidation: Display: Validating Material /Game/LevelDesign/s027702k_Mause/Kinairo_models/screen.screen
+[2023.01.06-15.55.25:659][774]LogContentValidation: Display: Validating Material /Game/LevelDesign/s027702k_Mause/Kinairo_models/Material__60.Material__60
+[2023.01.06-15.55.25:659][774]LogContentValidation: Display: Validating Material /Game/LevelDesign/s027702k_Mause/Kinairo_models/Material__59.Material__59
+[2023.01.06-15.55.25:659][774]LogContentValidation: Display: Validating Material /Game/LevelDesign/s027702k_Mause/Kinairo_models/Material__58.Material__58
+[2023.01.06-15.55.25:659][774]LogContentValidation: Display: Validating Material /Game/LevelDesign/s027702k_Mause/Kinairo_models/Material__57.Material__57
+[2023.01.06-15.55.25:659][774]LogContentValidation: Display: Validating Material /Game/LevelDesign/s027702k_Mause/Kinairo_models/Material__56.Material__56
+[2023.01.06-15.55.25:659][774]LogContentValidation: Display: Validating Material /Game/LevelDesign/s027702k_Mause/Kinairo_models/Material__55.Material__55
+[2023.01.06-15.55.25:659][774]LogContentValidation: Display: Validating StaticMesh /Game/LevelDesign/s027702k_Mause/Kinairo_models/Monitor-kinairo.Monitor-kinairo
+[2023.01.06-15.55.25:659][774]LogContentValidation: Display: Validating Material /Game/LevelDesign/s027702k_Mause/Kinairo_models/01_-_Default_ncl1_1.01_-_Default_ncl1_1
+[2023.01.06-15.55.25:659][774]LogContentValidation: Display: Validating StaticMesh /Game/LevelDesign/s027702k_Mause/Kinairo_models/Mouse-kinairo.Mouse-kinairo
+[2023.01.06-15.55.25:659][774]LogContentValidation: Display: Validating StaticMesh /Game/LevelDesign/s027702k_Mause/Kinairo_models/speaker-01-0kinairo.speaker-01-0kinairo
+[2023.01.06-15.55.25:659][774]LogContentValidation: Display: Validating StaticMesh /Game/LevelDesign/s027702k_Mause/Kinairo_models/Desk/Desktop-curve-kinairo.Desktop-curve-kinairo
+[2023.01.06-15.55.25:659][774]LogContentValidation: Display: Validating StaticMesh /Game/LevelDesign/s027702k_Mause/Kinairo_models/Desk/Desktop-Flat-kinairo.Desktop-Flat-kinairo
+[2023.01.06-15.55.25:659][774]LogContentValidation: Display: Validating StaticMesh /Game/LevelDesign/s027702k_Mause/Kinairo_models/Desk/desk_back_center-kinairo.desk_back_center-kinairo
+[2023.01.06-15.55.25:659][774]LogContentValidation: Display: Validating Material /Game/LevelDesign/s027702k_Mause/Kinairo_models/Desk/01_-_Default.01_-_Default
+[2023.01.06-15.55.25:659][774]LogContentValidation: Display: Validating StaticMesh /Game/LevelDesign/s027702k_Mause/Kinairo_models/Desk/desk_back_Full-kinairo.desk_back_Full-kinairo
+[2023.01.06-15.55.25:659][774]LogContentValidation: Display: Validating StaticMesh /Game/LevelDesign/s027702k_Mause/Kinairo_models/Electrical-Plug-01-kinairo.Electrical-Plug-01-kinairo
+[2023.01.06-15.55.25:659][774]LogContentValidation: Display: Validating Material /Game/LevelDesign/s027702k_Mause/Kinairo_models/MI_Quinn_02.MI_Quinn_02
+[2023.01.06-15.55.25:659][774]LogContentValidation: Display: Validating Material /Game/LevelDesign/s027702k_Mause/Kinairo_models/01_-_Default.01_-_Default
+[2023.01.06-15.55.25:659][774]LogContentValidation: Display: Validating StaticMesh /Game/LevelDesign/s027702k_Mause/Kinairo_models/keyboard-kinairo.keyboard-kinairo
+[2023.01.06-15.55.25:659][774]LogContentValidation: Display: Validating Material /Game/LevelDesign/s027702k_Mause/01_-_Default.01_-_Default
+[2023.01.06-15.55.25:659][774]LogContentValidation: Display: Validating StaticMesh /Game/LevelDesign/s027702k_Mause/computer-kinairo.computer-kinairo
+[2023.01.06-15.55.25:659][774]LogContentValidation: Display: Validating Material /Game/LevelDesign/s027702k_Mause/Kinairo_models/MI_Quinn_01.MI_Quinn_01
+[2023.01.06-15.55.25:659][774]LogContentValidation: Display: Validating StaticMesh /Game/LevelDesign/s027702k_Mause/Kinairo_models/9xScaleManakin.9xScaleManakin
+[2023.01.06-15.55.25:659][774]LogContentValidation: Display: Validating StaticMesh /Game/LevelDesign/s027702k_Mause/door-right-kinairo.door-right-kinairo
+[2023.01.06-15.55.25:659][774]LogContentValidation: Display: Validating Material /Game/LevelDesign/s027702k_Mause/07_-_Default.07_-_Default
+[2023.01.06-15.55.25:659][774]LogContentValidation: Display: Validating Material /Game/LevelDesign/s027702k_Mause/Kinairo_models/Desk/07_-_Default.07_-_Default
+[2023.01.06-15.55.25:659][774]LogContentValidation: Display: Validating StaticMesh /Game/LevelDesign/s027702k_Mause/Kinairo_models/Desk/door-Left-kinairo.door-Left-kinairo
+[2023.01.06-15.55.25:659][774]LogContentValidation: Display: Validating Material /Game/LevelDesign/s027702k_Mause/Kinairo_models/07_-_Default.07_-_Default
+[2023.01.06-15.55.25:659][774]LogContentValidation: Display: Validating StaticMesh /Game/LevelDesign/s027702k_Mause/Kinairo_models/Desk-01-kinairo.Desk-01-kinairo
+[2023.01.06-15.57.57:767][644]Cmd: DELETE
+[2023.01.06-15.57.57:767][644]Cmd: ACTOR DELETE
+[2023.01.06-15.57.57:769][644]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.01.06-15.57.57:784][644]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.01.06-15.57.57:786][644]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2023.01.06-15.58.39:303][427]Cmd: EDIT COPY
+[2023.01.06-15.58.39:565][455]Cmd: EDIT PASTE
+[2023.01.06-15.58.42:673][782]Cmd: TRANSACTION UNDO
+[2023.01.06-15.58.42:673][782]LogEditorTransaction: Undo Move Elements
+[2023.01.06-15.58.50:840][579]Cmd: EDIT COPY
+[2023.01.06-15.58.51:105][607]Cmd: EDIT PASTE
+[2023.01.06-16.00.13:443][862]Cmd: EDIT COPY
+[2023.01.06-16.00.13:701][893]Cmd: EDIT PASTE
+[2023.01.06-16.00.35:671][288]Cmd: EDIT COPY
+[2023.01.06-16.00.35:881][310]Cmd: EDIT PASTE
+[2023.01.06-16.05.25:189][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.01.06-16.05.25:206][312]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelDesign/p018948l_Josh/Hole1Resources/L_Hole1_Auto3
+[2023.01.06-16.05.25:207][312]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/L_Hole1_Auto31DF183134331BCF4CC06C4BF79FFAD75.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Autosaves/Game/LevelDesign/p018948l_Josh/Hole1Resources/L_Hole1_Auto3.umap'
+[2023.01.06-16.05.25:212][312]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LevelDesign/p018948l_Josh/Hole1Resources/L_Hole1' took 0.040
+[2023.01.06-16.05.25:212][312]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.040
+[2023.01.06-16.15.20:996][696]LogDerivedDataCache: C:/Users/s027702k/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.032 and deleted 0 file(s) with total size 0 MiB.
+[2023.01.06-16.15.35:305][152]Cmd: TRANSACTION UNDO
+[2023.01.06-16.15.35:306][152]LogEditorTransaction: Undo Clicking on Elements
+[2023.01.06-16.15.35:783][161]Cmd: TRANSACTION UNDO
+[2023.01.06-16.15.35:783][161]LogEditorTransaction: Undo Move Elements
+[2023.01.06-16.15.36:168][195]Cmd: TRANSACTION UNDO
+[2023.01.06-16.15.36:168][195]LogEditorTransaction: Undo Move Elements
+[2023.01.06-16.15.36:593][238]Cmd: TRANSACTION UNDO
+[2023.01.06-16.15.36:593][238]LogEditorTransaction: Undo Rotate Elements
+[2023.01.06-16.16.05:337][308]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.01.06-16.16.05:351][308]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelDesign/p018948l_Josh/Hole1Resources/L_Hole1_Auto4
+[2023.01.06-16.16.05:352][308]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/L_Hole1_Auto46AD1D5E8496529982F9E0F9094D5351A.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Autosaves/Game/LevelDesign/p018948l_Josh/Hole1Resources/L_Hole1_Auto4.umap'
+[2023.01.06-16.16.05:356][308]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LevelDesign/p018948l_Josh/Hole1Resources/L_Hole1' took 0.037
+[2023.01.06-16.16.05:356][308]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.037
+[2023.01.06-16.20.00:570][501]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.01.06-16.20.00:585][501]LogSavePackage: Moving output files for package: /Game/LevelDesign/p018948l_Josh/Hole1Resources/L_Hole1
+[2023.01.06-16.20.00:585][501]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/L_Hole1C53D41E343F93A3E4DB2939591A95995.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/p018948l_Josh/Hole1Resources/L_Hole1.umap'
+[2023.01.06-16.20.00:594][501]LogFileHelpers: No new changes to save!
+[2023.01.06-16.20.00:604][501]AssetCheck: New page: Asset Save: L_Hole1
+[2023.01.06-16.20.00:604][501]LogContentValidation: Display: Validating World /Game/LevelDesign/p018948l_Josh/Hole1Resources/L_Hole1.L_Hole1
