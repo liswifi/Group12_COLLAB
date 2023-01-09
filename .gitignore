@@ -72,8 +72,4 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-CritterballBoom/Saved/Config/CrashReportClient/UECC-Windows-E782EA4347BE1209C10E56A85FB3F54C/CrashReportClient.ini
-*.ini
-*.ini
-CritterballBoom/Saved/Config/WindowsEditor/SourceControlSettings.ini
-CritterballBoom/Saved/Config/WindowsEditor/Engine.ini
+CritterballBoom/Saved/Logs/CritterballBoom.log
