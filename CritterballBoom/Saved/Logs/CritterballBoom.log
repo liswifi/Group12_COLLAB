@@ -5486,3 +5486,1761 @@ Make sure 'BP_Turn_By_Turn_C' has been compiled for  Initialize Spawn Points
 [2023.01.12-15.35.42:909][304]AssetCheck: New page: Asset Save: Turn_By_Turn
 [2023.01.12-15.35.42:909][304]LogContentValidation: Display: Validating World /Game/s017186k/Multiplayer/Turn_BY_Turn/Turn_By_Turn.Turn_By_Turn
 [2023.01.12-15.35.47:282][812]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.01.12-15.37.58:098][567]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.12-15.41.09:041][898]BlueprintLog: New page: Compile BP_Turn_By_Turn
+[2023.01.12-15.41.09:093][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.01.12-15.41.09:524][938]LogSavePackage: Moving output files for package: /Game/s017186k/Multiplayer/Turn_BY_Turn/BP_Turn_By_Turn
+[2023.01.12-15.41.09:524][938]LogSavePackage: Moving '../../../../../../Users/s017186k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/BP_Turn_By_Turn3B466FC74ABB4983083789A4684F2FCC.tmp' to '../../../../../../Users/s017186k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/s017186k/Multiplayer/Turn_BY_Turn/BP_Turn_By_Turn.uasset'
+[2023.01.12-15.41.09:533][938]AssetCheck: New page: Asset Save: BP_Turn_By_Turn
+[2023.01.12-15.41.09:534][938]LogContentValidation: Display: Validating Blueprint /Game/s017186k/Multiplayer/Turn_BY_Turn/BP_Turn_By_Turn.BP_Turn_By_Turn
+[2023.01.12-15.41.42:781][915]LogViewport: Scene viewport resized to 1141x693, mode Windowed.
+[2023.01.12-15.42.54:601][234]BlueprintLog: New page: Compile BP_Turn_By_Turn
+[2023.01.12-15.42.54:649][234]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.01.12-15.42.55:059][272]LogSavePackage: Moving output files for package: /Game/s017186k/Multiplayer/Turn_BY_Turn/BP_Turn_By_Turn
+[2023.01.12-15.42.55:059][272]LogSavePackage: Moving '../../../../../../Users/s017186k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/BP_Turn_By_Turn8D6F3F8A4A608453FD4B50AABE12034C.tmp' to '../../../../../../Users/s017186k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/s017186k/Multiplayer/Turn_BY_Turn/BP_Turn_By_Turn.uasset'
+[2023.01.12-15.42.55:070][272]AssetCheck: New page: Asset Save: BP_Turn_By_Turn
+[2023.01.12-15.42.55:070][272]LogContentValidation: Display: Validating Blueprint /Game/s017186k/Multiplayer/Turn_BY_Turn/BP_Turn_By_Turn.BP_Turn_By_Turn
+[2023.01.12-15.42.57:466][550]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.12-15.42.57:471][550]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.12-15.42.57:471][550]PIE: New page: PIE session: Turn_By_Turn (12 Jan 2023, 15:42:57)
+[2023.01.12-15.42.57:508][550]LogPlayLevel: Creating play world package: /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn
+[2023.01.12-15.42.57:509][550]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001044s)
+[2023.01.12-15.42.57:509][550]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/s017186k/Multiplayer/Turn_BY_Turn/Turn_By_Turn.Turn_By_Turn to /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn.Turn_By_Turn (0.001152s)
+[2023.01.12-15.42.57:509][550]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.12-15.42.57:509][550]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.12-15.42.57:509][550]LogAIModule: Creating AISystem for world Turn_By_Turn
+[2023.01.12-15.42.57:510][550]LogPlayLevel: PIE: World Init took: (0.000855s)
+[2023.01.12-15.42.57:537][550]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.01.12-15.42.57:540][550]LogAudio: Display: Creating Audio Device:                 Id: 61, Scope: Unique, Realtime: True
+[2023.01.12-15.42.57:540][550]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.12-15.42.57:540][550]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.12-15.42.57:540][550]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.12-15.42.57:540][550]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.12-15.42.57:540][550]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.12-15.42.57:540][550]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.12-15.42.57:540][550]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.12-15.42.57:540][550]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.12-15.42.57:540][550]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.12-15.42.57:540][550]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.12-15.42.57:540][550]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.12-15.42.57:542][550]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.12-15.42.57:558][550]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.01.12-15.42.57:559][550]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.12-15.42.57:559][550]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.12-15.42.57:559][550]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.12-15.42.57:559][550]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=61
+[2023.01.12-15.42.57:559][550]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=61
+[2023.01.12-15.42.57:560][550]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=61
+[2023.01.12-15.42.57:560][550]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=61
+[2023.01.12-15.42.57:560][550]LogInit: FAudioDevice initialized.
+[2023.01.12-15.42.57:560][550]LogAudio: Display: Audio Device (ID: 61) registered with world 'Turn_By_Turn'.
+[2023.01.12-15.42.57:569][550]LogLoad: Game class is 'BP_Turn_By_Turn_C'
+[2023.01.12-15.42.57:573][550]LogWorld: Bringing World /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn.Turn_By_Turn up for play (max tick rate 0) at 2023.01.12-15.42.57
+[2023.01.12-15.42.57:573][550]LogWorld: Bringing up level for play took: 0.000414
+[2023.01.12-15.42.57:575][550]LogOnline: OSS: Created online subsystem instance for: :Context_79
+[2023.01.12-15.42.57:575][550]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2023.01.12-15.42.57:575][550]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2023.01.12-15.42.57:576][550]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2023.01.12-15.42.57:577][550]PIE: Server logged in
+[2023.01.12-15.42.57:577][550]PIE: Play in editor total start time 0.107 seconds.
+[2023.01.12-15.43.07:038][680]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.12-15.43.07:038][680]LogWorld: BeginTearingDown for /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn
+[2023.01.12-15.43.07:038][680]LogWorld: UWorld::CleanupWorld for Turn_By_Turn, bSessionEnded=true, bCleanupResources=true
+[2023.01.12-15.43.07:038][680]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.12-15.43.07:046][680]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.12-15.43.07:050][680]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.12-15.43.07:076][680]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.12-15.43.07:076][680]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=61
+[2023.01.12-15.43.07:077][680]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=61
+[2023.01.12-15.43.07:081][680]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.12-15.43.07:082][680]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.01.12-15.43.07:129][681]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.01.12-15.43.07:140][682]LogPlayLevel: Display: Destroying online subsystem :Context_79
+[2023.01.12-15.43.13:830][128]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.12-15.43.13:834][128]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.12-15.43.13:835][128]PIE: New page: PIE session: Turn_By_Turn (12 Jan 2023, 15:43:13)
+[2023.01.12-15.43.13:867][128]LogPlayLevel: Creating play world package: /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn
+[2023.01.12-15.43.13:868][128]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001146s)
+[2023.01.12-15.43.13:868][128]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/s017186k/Multiplayer/Turn_BY_Turn/Turn_By_Turn.Turn_By_Turn to /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn.Turn_By_Turn (0.001228s)
+[2023.01.12-15.43.13:868][128]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.12-15.43.13:868][128]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.12-15.43.13:869][128]LogAIModule: Creating AISystem for world Turn_By_Turn
+[2023.01.12-15.43.13:869][128]LogPlayLevel: PIE: World Init took: (0.000821s)
+[2023.01.12-15.43.13:897][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.01.12-15.43.13:899][128]LogAudio: Display: Creating Audio Device:                 Id: 62, Scope: Unique, Realtime: True
+[2023.01.12-15.43.13:899][128]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.12-15.43.13:899][128]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.12-15.43.13:899][128]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.12-15.43.13:899][128]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.12-15.43.13:899][128]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.12-15.43.13:899][128]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.12-15.43.13:899][128]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.12-15.43.13:899][128]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.12-15.43.13:899][128]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.12-15.43.13:899][128]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.12-15.43.13:899][128]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.12-15.43.13:900][128]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.12-15.43.13:915][128]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.01.12-15.43.13:916][128]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.12-15.43.13:916][128]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.12-15.43.13:916][128]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.12-15.43.13:916][128]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=62
+[2023.01.12-15.43.13:916][128]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=62
+[2023.01.12-15.43.13:917][128]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=62
+[2023.01.12-15.43.13:917][128]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=62
+[2023.01.12-15.43.13:917][128]LogInit: FAudioDevice initialized.
+[2023.01.12-15.43.13:917][128]LogAudio: Display: Audio Device (ID: 62) registered with world 'Turn_By_Turn'.
+[2023.01.12-15.43.13:930][128]LogLoad: Game class is 'BP_Turn_By_Turn_C'
+[2023.01.12-15.43.13:934][128]LogWorld: Bringing World /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn.Turn_By_Turn up for play (max tick rate 0) at 2023.01.12-15.43.13
+[2023.01.12-15.43.13:934][128]LogWorld: Bringing up level for play took: 0.000268
+[2023.01.12-15.43.13:936][128]LogOnline: OSS: Created online subsystem instance for: :Context_80
+[2023.01.12-15.43.13:936][128]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2023.01.12-15.43.13:936][128]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2023.01.12-15.43.13:937][128]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2023.01.12-15.43.13:938][128]PIE: Server logged in
+[2023.01.12-15.43.13:938][128]PIE: Play in editor total start time 0.103 seconds.
+[2023.01.12-15.43.15:598][319]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.12-15.43.15:598][319]LogWorld: BeginTearingDown for /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn
+[2023.01.12-15.43.15:598][319]LogWorld: UWorld::CleanupWorld for Turn_By_Turn, bSessionEnded=true, bCleanupResources=true
+[2023.01.12-15.43.15:598][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.12-15.43.15:604][319]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.12-15.43.15:608][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.12-15.43.15:634][319]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.12-15.43.15:635][319]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=62
+[2023.01.12-15.43.15:636][319]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=62
+[2023.01.12-15.43.15:659][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.01.12-15.43.15:680][320]LogPlayLevel: Display: Destroying online subsystem :Context_80
+[2023.01.12-15.43.15:707][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.01.12-15.43.16:574][419]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.12-15.43.16:577][419]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.12-15.43.16:577][419]PIE: New page: PIE session: Turn_By_Turn (12 Jan 2023, 15:43:16)
+[2023.01.12-15.43.16:578][419]LogPlayLevel: Creating play world package: /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn
+[2023.01.12-15.43.16:579][419]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000950s)
+[2023.01.12-15.43.16:579][419]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/s017186k/Multiplayer/Turn_BY_Turn/Turn_By_Turn.Turn_By_Turn to /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn.Turn_By_Turn (0.001006s)
+[2023.01.12-15.43.16:579][419]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.12-15.43.16:579][419]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.12-15.43.16:579][419]LogAIModule: Creating AISystem for world Turn_By_Turn
+[2023.01.12-15.43.16:579][419]LogPlayLevel: PIE: World Init took: (0.000655s)
+[2023.01.12-15.43.16:606][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.01.12-15.43.16:608][419]LogAudio: Display: Creating Audio Device:                 Id: 63, Scope: Unique, Realtime: True
+[2023.01.12-15.43.16:608][419]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.12-15.43.16:608][419]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.12-15.43.16:608][419]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.12-15.43.16:608][419]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.12-15.43.16:608][419]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.12-15.43.16:608][419]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.12-15.43.16:608][419]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.12-15.43.16:608][419]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.12-15.43.16:608][419]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.12-15.43.16:608][419]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.12-15.43.16:608][419]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.12-15.43.16:610][419]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.12-15.43.16:624][419]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.01.12-15.43.16:624][419]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.12-15.43.16:624][419]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.12-15.43.16:624][419]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.12-15.43.16:625][419]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=63
+[2023.01.12-15.43.16:625][419]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=63
+[2023.01.12-15.43.16:626][419]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=63
+[2023.01.12-15.43.16:626][419]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=63
+[2023.01.12-15.43.16:626][419]LogInit: FAudioDevice initialized.
+[2023.01.12-15.43.16:626][419]LogAudio: Display: Audio Device (ID: 63) registered with world 'Turn_By_Turn'.
+[2023.01.12-15.43.16:634][419]LogLoad: Game class is 'BP_Turn_By_Turn_C'
+[2023.01.12-15.43.16:638][419]LogWorld: Bringing World /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn.Turn_By_Turn up for play (max tick rate 0) at 2023.01.12-15.43.16
+[2023.01.12-15.43.16:638][419]LogWorld: Bringing up level for play took: 0.000274
+[2023.01.12-15.43.16:640][419]LogOnline: OSS: Created online subsystem instance for: :Context_81
+[2023.01.12-15.43.16:640][419]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2023.01.12-15.43.16:641][419]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2023.01.12-15.43.16:641][419]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2023.01.12-15.43.16:642][419]PIE: Server logged in
+[2023.01.12-15.43.16:643][419]PIE: Play in editor total start time 0.065 seconds.
+[2023.01.12-15.43.20:608][890]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.12-15.43.20:608][890]LogWorld: BeginTearingDown for /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn
+[2023.01.12-15.43.20:609][890]LogWorld: UWorld::CleanupWorld for Turn_By_Turn, bSessionEnded=true, bCleanupResources=true
+[2023.01.12-15.43.20:609][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.12-15.43.20:618][890]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.12-15.43.20:621][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.12-15.43.20:649][890]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.12-15.43.20:650][890]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=63
+[2023.01.12-15.43.20:651][890]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=63
+[2023.01.12-15.43.20:656][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.01.12-15.43.20:703][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.01.12-15.43.20:713][892]LogPlayLevel: Display: Destroying online subsystem :Context_81
+[2023.01.12-15.43.21:696][  7]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.12-15.43.21:700][  7]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.12-15.43.21:701][  7]PIE: New page: PIE session: Turn_By_Turn (12 Jan 2023, 15:43:21)
+[2023.01.12-15.43.21:738][  7]LogPlayLevel: Creating play world package: /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn
+[2023.01.12-15.43.21:741][  7]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002263s)
+[2023.01.12-15.43.21:741][  7]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/s017186k/Multiplayer/Turn_BY_Turn/Turn_By_Turn.Turn_By_Turn to /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn.Turn_By_Turn (0.002417s)
+[2023.01.12-15.43.21:741][  7]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.12-15.43.21:741][  7]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.12-15.43.21:742][  7]LogAIModule: Creating AISystem for world Turn_By_Turn
+[2023.01.12-15.43.21:742][  7]LogPlayLevel: PIE: World Init took: (0.001296s)
+[2023.01.12-15.43.21:770][  7]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.01.12-15.43.21:771][  7]LogAudio: Display: Creating Audio Device:                 Id: 64, Scope: Unique, Realtime: True
+[2023.01.12-15.43.21:771][  7]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.12-15.43.21:771][  7]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.12-15.43.21:771][  7]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.12-15.43.21:771][  7]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.12-15.43.21:771][  7]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.12-15.43.21:771][  7]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.12-15.43.21:771][  7]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.12-15.43.21:771][  7]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.12-15.43.21:771][  7]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.12-15.43.21:771][  7]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.12-15.43.21:771][  7]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.12-15.43.21:773][  7]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.12-15.43.21:787][  7]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.01.12-15.43.21:787][  7]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.12-15.43.21:788][  7]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.12-15.43.21:788][  7]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.12-15.43.21:788][  7]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=64
+[2023.01.12-15.43.21:788][  7]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=64
+[2023.01.12-15.43.21:789][  7]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=64
+[2023.01.12-15.43.21:789][  7]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=64
+[2023.01.12-15.43.21:789][  7]LogInit: FAudioDevice initialized.
+[2023.01.12-15.43.21:789][  7]LogAudio: Display: Audio Device (ID: 64) registered with world 'Turn_By_Turn'.
+[2023.01.12-15.43.21:795][  7]LogLoad: Game class is 'BP_Turn_By_Turn_C'
+[2023.01.12-15.43.21:799][  7]LogWorld: Bringing World /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn.Turn_By_Turn up for play (max tick rate 0) at 2023.01.12-15.43.21
+[2023.01.12-15.43.21:799][  7]LogWorld: Bringing up level for play took: 0.000270
+[2023.01.12-15.43.21:801][  7]LogOnline: OSS: Created online subsystem instance for: :Context_82
+[2023.01.12-15.43.21:801][  7]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2023.01.12-15.43.21:801][  7]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2023.01.12-15.43.21:802][  7]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2023.01.12-15.43.21:803][  7]PIE: Server logged in
+[2023.01.12-15.43.21:803][  7]PIE: Play in editor total start time 0.104 seconds.
+[2023.01.12-15.43.24:438][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.12-15.43.24:438][317]LogWorld: BeginTearingDown for /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn
+[2023.01.12-15.43.24:439][317]LogWorld: UWorld::CleanupWorld for Turn_By_Turn, bSessionEnded=true, bCleanupResources=true
+[2023.01.12-15.43.24:439][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.12-15.43.24:452][317]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.12-15.43.24:455][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.12-15.43.24:481][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.12-15.43.24:482][317]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=64
+[2023.01.12-15.43.24:483][317]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=64
+[2023.01.12-15.43.24:488][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.01.12-15.43.24:507][318]LogPlayLevel: Display: Destroying online subsystem :Context_82
+[2023.01.12-15.43.24:534][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.01.12-15.43.25:527][433]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.12-15.43.25:531][433]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.12-15.43.25:531][433]PIE: New page: PIE session: Turn_By_Turn (12 Jan 2023, 15:43:25)
+[2023.01.12-15.43.25:558][433]LogPlayLevel: Creating play world package: /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn
+[2023.01.12-15.43.25:559][433]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001209s)
+[2023.01.12-15.43.25:559][433]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/s017186k/Multiplayer/Turn_BY_Turn/Turn_By_Turn.Turn_By_Turn to /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn.Turn_By_Turn (0.001296s)
+[2023.01.12-15.43.25:559][433]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.12-15.43.25:559][433]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.12-15.43.25:559][433]LogAIModule: Creating AISystem for world Turn_By_Turn
+[2023.01.12-15.43.25:560][433]LogPlayLevel: PIE: World Init took: (0.000784s)
+[2023.01.12-15.43.25:587][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.01.12-15.43.25:588][433]LogAudio: Display: Creating Audio Device:                 Id: 65, Scope: Unique, Realtime: True
+[2023.01.12-15.43.25:588][433]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.12-15.43.25:588][433]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.12-15.43.25:588][433]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.12-15.43.25:588][433]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.12-15.43.25:588][433]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.12-15.43.25:588][433]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.12-15.43.25:588][433]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.12-15.43.25:588][433]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.12-15.43.25:589][433]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.12-15.43.25:589][433]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.12-15.43.25:589][433]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.12-15.43.25:591][433]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.12-15.43.25:605][433]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.01.12-15.43.25:605][433]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.12-15.43.25:605][433]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.12-15.43.25:605][433]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.12-15.43.25:605][433]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=65
+[2023.01.12-15.43.25:605][433]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=65
+[2023.01.12-15.43.25:606][433]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=65
+[2023.01.12-15.43.25:606][433]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=65
+[2023.01.12-15.43.25:606][433]LogInit: FAudioDevice initialized.
+[2023.01.12-15.43.25:607][433]LogAudio: Display: Audio Device (ID: 65) registered with world 'Turn_By_Turn'.
+[2023.01.12-15.43.25:613][433]LogLoad: Game class is 'BP_Turn_By_Turn_C'
+[2023.01.12-15.43.25:617][433]LogWorld: Bringing World /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn.Turn_By_Turn up for play (max tick rate 0) at 2023.01.12-15.43.25
+[2023.01.12-15.43.25:617][433]LogWorld: Bringing up level for play took: 0.000275
+[2023.01.12-15.43.25:619][433]LogOnline: OSS: Created online subsystem instance for: :Context_83
+[2023.01.12-15.43.25:619][433]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2023.01.12-15.43.25:619][433]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2023.01.12-15.43.25:620][433]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2023.01.12-15.43.25:621][433]PIE: Server logged in
+[2023.01.12-15.43.25:621][433]PIE: Play in editor total start time 0.09 seconds.
+[2023.01.12-15.43.26:478][530]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.12-15.43.26:478][530]LogWorld: BeginTearingDown for /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn
+[2023.01.12-15.43.26:478][530]LogWorld: UWorld::CleanupWorld for Turn_By_Turn, bSessionEnded=true, bCleanupResources=true
+[2023.01.12-15.43.26:478][530]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.12-15.43.26:484][530]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.12-15.43.26:488][530]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.12-15.43.26:514][530]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.12-15.43.26:514][530]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=65
+[2023.01.12-15.43.26:515][530]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=65
+[2023.01.12-15.43.26:520][530]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.01.12-15.43.26:563][531]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.01.12-15.43.26:568][532]LogPlayLevel: Display: Destroying online subsystem :Context_83
+[2023.01.12-15.43.27:295][615]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.12-15.43.27:299][615]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.12-15.43.27:299][615]PIE: New page: PIE session: Turn_By_Turn (12 Jan 2023, 15:43:27)
+[2023.01.12-15.43.27:327][615]LogPlayLevel: Creating play world package: /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn
+[2023.01.12-15.43.27:328][615]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000982s)
+[2023.01.12-15.43.27:328][615]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/s017186k/Multiplayer/Turn_BY_Turn/Turn_By_Turn.Turn_By_Turn to /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn.Turn_By_Turn (0.001058s)
+[2023.01.12-15.43.27:328][615]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.12-15.43.27:328][615]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.12-15.43.27:328][615]LogAIModule: Creating AISystem for world Turn_By_Turn
+[2023.01.12-15.43.27:329][615]LogPlayLevel: PIE: World Init took: (0.000847s)
+[2023.01.12-15.43.27:355][615]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.01.12-15.43.27:357][615]LogAudio: Display: Creating Audio Device:                 Id: 66, Scope: Unique, Realtime: True
+[2023.01.12-15.43.27:357][615]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.12-15.43.27:357][615]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.12-15.43.27:357][615]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.12-15.43.27:357][615]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.12-15.43.27:357][615]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.12-15.43.27:357][615]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.12-15.43.27:357][615]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.12-15.43.27:357][615]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.12-15.43.27:357][615]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.12-15.43.27:357][615]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.12-15.43.27:357][615]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.12-15.43.27:359][615]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.12-15.43.27:373][615]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.01.12-15.43.27:373][615]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.12-15.43.27:373][615]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.12-15.43.27:373][615]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.12-15.43.27:373][615]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=66
+[2023.01.12-15.43.27:373][615]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=66
+[2023.01.12-15.43.27:375][615]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=66
+[2023.01.12-15.43.27:375][615]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=66
+[2023.01.12-15.43.27:375][615]LogInit: FAudioDevice initialized.
+[2023.01.12-15.43.27:375][615]LogAudio: Display: Audio Device (ID: 66) registered with world 'Turn_By_Turn'.
+[2023.01.12-15.43.27:381][615]LogLoad: Game class is 'BP_Turn_By_Turn_C'
+[2023.01.12-15.43.27:385][615]LogWorld: Bringing World /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn.Turn_By_Turn up for play (max tick rate 0) at 2023.01.12-15.43.27
+[2023.01.12-15.43.27:385][615]LogWorld: Bringing up level for play took: 0.000283
+[2023.01.12-15.43.27:386][615]LogOnline: OSS: Created online subsystem instance for: :Context_84
+[2023.01.12-15.43.27:386][615]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2023.01.12-15.43.27:387][615]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2023.01.12-15.43.27:387][615]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2023.01.12-15.43.27:389][615]PIE: Server logged in
+[2023.01.12-15.43.27:389][615]PIE: Play in editor total start time 0.091 seconds.
+[2023.01.12-15.43.28:208][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.12-15.43.28:208][706]LogWorld: BeginTearingDown for /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn
+[2023.01.12-15.43.28:208][706]LogWorld: UWorld::CleanupWorld for Turn_By_Turn, bSessionEnded=true, bCleanupResources=true
+[2023.01.12-15.43.28:208][706]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.12-15.43.28:216][706]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.12-15.43.28:220][706]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.12-15.43.28:246][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.12-15.43.28:246][706]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=66
+[2023.01.12-15.43.28:247][706]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=66
+[2023.01.12-15.43.28:252][706]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.01.12-15.43.28:268][707]LogPlayLevel: Display: Destroying online subsystem :Context_84
+[2023.01.12-15.43.28:296][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.01.12-15.43.28:725][755]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.12-15.43.28:730][755]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.12-15.43.28:731][755]PIE: New page: PIE session: Turn_By_Turn (12 Jan 2023, 15:43:28)
+[2023.01.12-15.43.28:758][755]LogPlayLevel: Creating play world package: /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn
+[2023.01.12-15.43.28:759][755]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000968s)
+[2023.01.12-15.43.28:759][755]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/s017186k/Multiplayer/Turn_BY_Turn/Turn_By_Turn.Turn_By_Turn to /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn.Turn_By_Turn (0.001044s)
+[2023.01.12-15.43.28:759][755]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.12-15.43.28:759][755]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.12-15.43.28:759][755]LogAIModule: Creating AISystem for world Turn_By_Turn
+[2023.01.12-15.43.28:760][755]LogPlayLevel: PIE: World Init took: (0.000613s)
+[2023.01.12-15.43.28:787][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.01.12-15.43.28:788][755]LogAudio: Display: Creating Audio Device:                 Id: 67, Scope: Unique, Realtime: True
+[2023.01.12-15.43.28:788][755]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.12-15.43.28:788][755]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.12-15.43.28:788][755]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.12-15.43.28:788][755]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.12-15.43.28:788][755]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.12-15.43.28:788][755]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.12-15.43.28:788][755]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.12-15.43.28:788][755]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.12-15.43.28:788][755]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.12-15.43.28:788][755]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.12-15.43.28:788][755]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.12-15.43.28:790][755]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.12-15.43.28:803][755]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.01.12-15.43.28:803][755]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.12-15.43.28:803][755]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.12-15.43.28:803][755]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.12-15.43.28:804][755]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=67
+[2023.01.12-15.43.28:804][755]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=67
+[2023.01.12-15.43.28:805][755]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=67
+[2023.01.12-15.43.28:805][755]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=67
+[2023.01.12-15.43.28:805][755]LogInit: FAudioDevice initialized.
+[2023.01.12-15.43.28:805][755]LogAudio: Display: Audio Device (ID: 67) registered with world 'Turn_By_Turn'.
+[2023.01.12-15.43.28:815][755]LogLoad: Game class is 'BP_Turn_By_Turn_C'
+[2023.01.12-15.43.28:819][755]LogWorld: Bringing World /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn.Turn_By_Turn up for play (max tick rate 0) at 2023.01.12-15.43.28
+[2023.01.12-15.43.28:819][755]LogWorld: Bringing up level for play took: 0.000300
+[2023.01.12-15.43.28:820][755]LogOnline: OSS: Created online subsystem instance for: :Context_85
+[2023.01.12-15.43.28:821][755]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2023.01.12-15.43.28:821][755]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2023.01.12-15.43.28:822][755]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2023.01.12-15.43.28:823][755]PIE: Server logged in
+[2023.01.12-15.43.28:823][755]PIE: Play in editor total start time 0.093 seconds.
+[2023.01.12-15.43.29:379][816]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.12-15.43.29:379][816]LogWorld: BeginTearingDown for /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn
+[2023.01.12-15.43.29:379][816]LogWorld: UWorld::CleanupWorld for Turn_By_Turn, bSessionEnded=true, bCleanupResources=true
+[2023.01.12-15.43.29:379][816]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.12-15.43.29:389][816]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.12-15.43.29:392][816]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.12-15.43.29:420][816]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.12-15.43.29:420][816]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=67
+[2023.01.12-15.43.29:421][816]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=67
+[2023.01.12-15.43.29:426][816]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.01.12-15.43.29:466][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.01.12-15.43.29:472][818]LogPlayLevel: Display: Destroying online subsystem :Context_85
+[2023.01.12-15.43.29:925][870]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.12-15.43.29:930][870]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.12-15.43.29:930][870]PIE: New page: PIE session: Turn_By_Turn (12 Jan 2023, 15:43:29)
+[2023.01.12-15.43.29:957][870]LogPlayLevel: Creating play world package: /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn
+[2023.01.12-15.43.29:958][870]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000999s)
+[2023.01.12-15.43.29:958][870]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/s017186k/Multiplayer/Turn_BY_Turn/Turn_By_Turn.Turn_By_Turn to /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn.Turn_By_Turn (0.001075s)
+[2023.01.12-15.43.29:958][870]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.12-15.43.29:958][870]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.12-15.43.29:959][870]LogAIModule: Creating AISystem for world Turn_By_Turn
+[2023.01.12-15.43.29:959][870]LogPlayLevel: PIE: World Init took: (0.000635s)
+[2023.01.12-15.43.29:985][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.01.12-15.43.29:986][870]LogAudio: Display: Creating Audio Device:                 Id: 68, Scope: Unique, Realtime: True
+[2023.01.12-15.43.29:986][870]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.12-15.43.29:986][870]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.12-15.43.29:986][870]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.12-15.43.29:986][870]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.12-15.43.29:986][870]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.12-15.43.29:986][870]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.12-15.43.29:987][870]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.12-15.43.29:987][870]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.12-15.43.29:987][870]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.12-15.43.29:987][870]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.12-15.43.29:987][870]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.12-15.43.29:988][870]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.12-15.43.30:001][870]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.01.12-15.43.30:001][870]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.12-15.43.30:001][870]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.12-15.43.30:002][870]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.12-15.43.30:002][870]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=68
+[2023.01.12-15.43.30:002][870]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=68
+[2023.01.12-15.43.30:003][870]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=68
+[2023.01.12-15.43.30:003][870]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=68
+[2023.01.12-15.43.30:003][870]LogInit: FAudioDevice initialized.
+[2023.01.12-15.43.30:003][870]LogAudio: Display: Audio Device (ID: 68) registered with world 'Turn_By_Turn'.
+[2023.01.12-15.43.30:009][870]LogLoad: Game class is 'BP_Turn_By_Turn_C'
+[2023.01.12-15.43.30:013][870]LogWorld: Bringing World /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn.Turn_By_Turn up for play (max tick rate 0) at 2023.01.12-15.43.30
+[2023.01.12-15.43.30:013][870]LogWorld: Bringing up level for play took: 0.000315
+[2023.01.12-15.43.30:015][870]LogOnline: OSS: Created online subsystem instance for: :Context_86
+[2023.01.12-15.43.30:015][870]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2023.01.12-15.43.30:015][870]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2023.01.12-15.43.30:016][870]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2023.01.12-15.43.30:017][870]PIE: Server logged in
+[2023.01.12-15.43.30:017][870]PIE: Play in editor total start time 0.088 seconds.
+[2023.01.12-15.43.30:538][926]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.12-15.43.30:538][926]LogWorld: BeginTearingDown for /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn
+[2023.01.12-15.43.30:538][926]LogWorld: UWorld::CleanupWorld for Turn_By_Turn, bSessionEnded=true, bCleanupResources=true
+[2023.01.12-15.43.30:538][926]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.12-15.43.30:546][926]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.12-15.43.30:550][926]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.12-15.43.30:577][926]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.12-15.43.30:577][926]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=68
+[2023.01.12-15.43.30:578][926]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=68
+[2023.01.12-15.43.30:583][926]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.01.12-15.43.30:624][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.01.12-15.43.30:631][928]LogPlayLevel: Display: Destroying online subsystem :Context_86
+[2023.01.12-15.43.31:058][977]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.12-15.43.31:063][977]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.12-15.43.31:063][977]PIE: New page: PIE session: Turn_By_Turn (12 Jan 2023, 15:43:31)
+[2023.01.12-15.43.31:088][977]LogPlayLevel: Creating play world package: /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn
+[2023.01.12-15.43.31:089][977]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001155s)
+[2023.01.12-15.43.31:089][977]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/s017186k/Multiplayer/Turn_BY_Turn/Turn_By_Turn.Turn_By_Turn to /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn.Turn_By_Turn (0.001244s)
+[2023.01.12-15.43.31:089][977]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.12-15.43.31:089][977]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.12-15.43.31:090][977]LogAIModule: Creating AISystem for world Turn_By_Turn
+[2023.01.12-15.43.31:090][977]LogPlayLevel: PIE: World Init took: (0.000732s)
+[2023.01.12-15.43.31:116][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.01.12-15.43.31:118][977]LogAudio: Display: Creating Audio Device:                 Id: 69, Scope: Unique, Realtime: True
+[2023.01.12-15.43.31:118][977]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.12-15.43.31:118][977]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.12-15.43.31:118][977]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.12-15.43.31:118][977]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.12-15.43.31:118][977]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.12-15.43.31:118][977]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.12-15.43.31:118][977]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.12-15.43.31:118][977]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.12-15.43.31:118][977]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.12-15.43.31:118][977]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.12-15.43.31:118][977]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.12-15.43.31:120][977]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.12-15.43.31:133][977]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.01.12-15.43.31:133][977]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.12-15.43.31:133][977]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.12-15.43.31:133][977]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.12-15.43.31:133][977]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=69
+[2023.01.12-15.43.31:133][977]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=69
+[2023.01.12-15.43.31:135][977]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=69
+[2023.01.12-15.43.31:135][977]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=69
+[2023.01.12-15.43.31:135][977]LogInit: FAudioDevice initialized.
+[2023.01.12-15.43.31:135][977]LogAudio: Display: Audio Device (ID: 69) registered with world 'Turn_By_Turn'.
+[2023.01.12-15.43.31:146][977]LogLoad: Game class is 'BP_Turn_By_Turn_C'
+[2023.01.12-15.43.31:151][977]LogWorld: Bringing World /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn.Turn_By_Turn up for play (max tick rate 0) at 2023.01.12-15.43.31
+[2023.01.12-15.43.31:151][977]LogWorld: Bringing up level for play took: 0.000482
+[2023.01.12-15.43.31:153][977]LogOnline: OSS: Created online subsystem instance for: :Context_87
+[2023.01.12-15.43.31:153][977]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2023.01.12-15.43.31:153][977]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2023.01.12-15.43.31:154][977]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2023.01.12-15.43.31:155][977]PIE: Server logged in
+[2023.01.12-15.43.31:155][977]PIE: Play in editor total start time 0.093 seconds.
+[2023.01.12-15.43.50:379][277]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.12-15.43.50:379][277]LogWorld: BeginTearingDown for /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn
+[2023.01.12-15.43.50:379][277]LogWorld: UWorld::CleanupWorld for Turn_By_Turn, bSessionEnded=true, bCleanupResources=true
+[2023.01.12-15.43.50:379][277]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.12-15.43.50:392][277]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.12-15.43.50:396][277]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.12-15.43.50:421][277]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.12-15.43.50:421][277]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=69
+[2023.01.12-15.43.50:423][277]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=69
+[2023.01.12-15.43.50:428][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.01.12-15.43.50:448][278]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2023.01.12-15.43.50:476][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.01.12-15.45.48:141][933]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.12-15.45.48:146][933]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.12-15.45.48:146][933]PIE: New page: PIE session: Turn_By_Turn (12 Jan 2023, 15:45:48)
+[2023.01.12-15.45.48:177][933]LogPlayLevel: Creating play world package: /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn
+[2023.01.12-15.45.48:178][933]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001117s)
+[2023.01.12-15.45.48:178][933]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/s017186k/Multiplayer/Turn_BY_Turn/Turn_By_Turn.Turn_By_Turn to /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn.Turn_By_Turn (0.001196s)
+[2023.01.12-15.45.48:178][933]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.12-15.45.48:178][933]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.12-15.45.48:179][933]LogAIModule: Creating AISystem for world Turn_By_Turn
+[2023.01.12-15.45.48:179][933]LogPlayLevel: PIE: World Init took: (0.000746s)
+[2023.01.12-15.45.48:205][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.01.12-15.45.48:207][933]LogAudio: Display: Creating Audio Device:                 Id: 70, Scope: Unique, Realtime: True
+[2023.01.12-15.45.48:207][933]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.12-15.45.48:207][933]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.12-15.45.48:207][933]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.12-15.45.48:207][933]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.12-15.45.48:207][933]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.12-15.45.48:207][933]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.12-15.45.48:207][933]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.12-15.45.48:207][933]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.12-15.45.48:207][933]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.12-15.45.48:207][933]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.12-15.45.48:207][933]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.12-15.45.48:209][933]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.12-15.45.48:223][933]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.01.12-15.45.48:224][933]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.12-15.45.48:224][933]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.12-15.45.48:224][933]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.12-15.45.48:224][933]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=70
+[2023.01.12-15.45.48:224][933]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=70
+[2023.01.12-15.45.48:225][933]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=70
+[2023.01.12-15.45.48:226][933]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=70
+[2023.01.12-15.45.48:226][933]LogInit: FAudioDevice initialized.
+[2023.01.12-15.45.48:226][933]LogAudio: Display: Audio Device (ID: 70) registered with world 'Turn_By_Turn'.
+[2023.01.12-15.45.48:233][933]LogLoad: Game class is 'BP_Turn_By_Turn_C'
+[2023.01.12-15.45.48:237][933]LogWorld: Bringing World /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn.Turn_By_Turn up for play (max tick rate 0) at 2023.01.12-15.45.48
+[2023.01.12-15.45.48:237][933]LogWorld: Bringing up level for play took: 0.000336
+[2023.01.12-15.45.48:239][933]LogOnline: OSS: Created online subsystem instance for: :Context_88
+[2023.01.12-15.45.48:239][933]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2023.01.12-15.45.48:240][933]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2023.01.12-15.45.48:240][933]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2023.01.12-15.45.48:241][933]PIE: Server logged in
+[2023.01.12-15.45.48:242][933]PIE: Play in editor total start time 0.096 seconds.
+[2023.01.12-15.45.50:637][215]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.12-15.45.50:637][215]LogWorld: BeginTearingDown for /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn
+[2023.01.12-15.45.50:639][215]LogWorld: UWorld::CleanupWorld for Turn_By_Turn, bSessionEnded=true, bCleanupResources=true
+[2023.01.12-15.45.50:639][215]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.12-15.45.50:645][215]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.12-15.45.50:648][215]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.12-15.45.50:675][215]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.12-15.45.50:675][215]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=70
+[2023.01.12-15.45.50:676][215]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=70
+[2023.01.12-15.45.50:681][215]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.01.12-15.45.50:730][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.01.12-15.45.50:778][217]LogPlayLevel: Display: Destroying online subsystem :Context_88
+[2023.01.12-15.45.51:711][327]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.12-15.45.51:715][327]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.12-15.45.51:715][327]PIE: New page: PIE session: Turn_By_Turn (12 Jan 2023, 15:45:51)
+[2023.01.12-15.45.51:737][327]LogPlayLevel: Creating play world package: /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn
+[2023.01.12-15.45.51:737][327]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000972s)
+[2023.01.12-15.45.51:737][327]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/s017186k/Multiplayer/Turn_BY_Turn/Turn_By_Turn.Turn_By_Turn to /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn.Turn_By_Turn (0.001043s)
+[2023.01.12-15.45.51:737][327]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.12-15.45.51:737][327]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.12-15.45.51:738][327]LogAIModule: Creating AISystem for world Turn_By_Turn
+[2023.01.12-15.45.51:738][327]LogPlayLevel: PIE: World Init took: (0.000662s)
+[2023.01.12-15.45.51:765][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.01.12-15.45.51:766][327]LogAudio: Display: Creating Audio Device:                 Id: 71, Scope: Unique, Realtime: True
+[2023.01.12-15.45.51:766][327]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.12-15.45.51:766][327]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.12-15.45.51:766][327]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.12-15.45.51:766][327]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.12-15.45.51:766][327]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.12-15.45.51:766][327]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.12-15.45.51:766][327]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.12-15.45.51:766][327]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.12-15.45.51:767][327]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.12-15.45.51:767][327]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.12-15.45.51:767][327]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.12-15.45.51:768][327]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.12-15.45.51:782][327]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.01.12-15.45.51:782][327]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.12-15.45.51:782][327]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.12-15.45.51:782][327]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.12-15.45.51:783][327]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=71
+[2023.01.12-15.45.51:783][327]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=71
+[2023.01.12-15.45.51:784][327]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=71
+[2023.01.12-15.45.51:784][327]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=71
+[2023.01.12-15.45.51:784][327]LogInit: FAudioDevice initialized.
+[2023.01.12-15.45.51:784][327]LogAudio: Display: Audio Device (ID: 71) registered with world 'Turn_By_Turn'.
+[2023.01.12-15.45.51:791][327]LogLoad: Game class is 'BP_Turn_By_Turn_C'
+[2023.01.12-15.45.51:795][327]LogWorld: Bringing World /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn.Turn_By_Turn up for play (max tick rate 0) at 2023.01.12-15.45.51
+[2023.01.12-15.45.51:795][327]LogWorld: Bringing up level for play took: 0.000350
+[2023.01.12-15.45.51:797][327]LogOnline: OSS: Created online subsystem instance for: :Context_89
+[2023.01.12-15.45.51:797][327]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2023.01.12-15.45.51:798][327]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2023.01.12-15.45.51:798][327]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2023.01.12-15.45.51:799][327]PIE: Server logged in
+[2023.01.12-15.45.51:800][327]PIE: Play in editor total start time 0.085 seconds.
+[2023.01.12-15.45.52:507][407]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.12-15.45.52:507][407]LogWorld: BeginTearingDown for /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn
+[2023.01.12-15.45.52:507][407]LogWorld: UWorld::CleanupWorld for Turn_By_Turn, bSessionEnded=true, bCleanupResources=true
+[2023.01.12-15.45.52:508][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.12-15.45.52:515][407]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.12-15.45.52:518][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.12-15.45.52:544][407]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.12-15.45.52:544][407]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=71
+[2023.01.12-15.45.52:546][407]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=71
+[2023.01.12-15.45.52:551][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.01.12-15.45.52:593][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.01.12-15.45.52:598][409]LogPlayLevel: Display: Destroying online subsystem :Context_89
+[2023.01.12-15.45.53:010][456]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.12-15.45.53:015][456]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.12-15.45.53:015][456]PIE: New page: PIE session: Turn_By_Turn (12 Jan 2023, 15:45:53)
+[2023.01.12-15.45.53:037][456]LogPlayLevel: Creating play world package: /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn
+[2023.01.12-15.45.53:038][456]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001098s)
+[2023.01.12-15.45.53:038][456]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/s017186k/Multiplayer/Turn_BY_Turn/Turn_By_Turn.Turn_By_Turn to /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn.Turn_By_Turn (0.001177s)
+[2023.01.12-15.45.53:038][456]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.12-15.45.53:038][456]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.12-15.45.53:039][456]LogAIModule: Creating AISystem for world Turn_By_Turn
+[2023.01.12-15.45.53:039][456]LogPlayLevel: PIE: World Init took: (0.000633s)
+[2023.01.12-15.45.53:066][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.01.12-15.45.53:067][456]LogAudio: Display: Creating Audio Device:                 Id: 72, Scope: Unique, Realtime: True
+[2023.01.12-15.45.53:067][456]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.12-15.45.53:067][456]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.12-15.45.53:067][456]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.12-15.45.53:067][456]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.12-15.45.53:067][456]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.12-15.45.53:067][456]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.12-15.45.53:067][456]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.12-15.45.53:067][456]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.12-15.45.53:067][456]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.12-15.45.53:067][456]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.12-15.45.53:067][456]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.12-15.45.53:069][456]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.12-15.45.53:082][456]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.01.12-15.45.53:083][456]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.12-15.45.53:083][456]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.12-15.45.53:083][456]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.12-15.45.53:083][456]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=72
+[2023.01.12-15.45.53:083][456]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=72
+[2023.01.12-15.45.53:084][456]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=72
+[2023.01.12-15.45.53:084][456]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=72
+[2023.01.12-15.45.53:084][456]LogInit: FAudioDevice initialized.
+[2023.01.12-15.45.53:084][456]LogAudio: Display: Audio Device (ID: 72) registered with world 'Turn_By_Turn'.
+[2023.01.12-15.45.53:092][456]LogLoad: Game class is 'BP_Turn_By_Turn_C'
+[2023.01.12-15.45.53:096][456]LogWorld: Bringing World /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn.Turn_By_Turn up for play (max tick rate 0) at 2023.01.12-15.45.53
+[2023.01.12-15.45.53:097][456]LogWorld: Bringing up level for play took: 0.000319
+[2023.01.12-15.45.53:098][456]LogOnline: OSS: Created online subsystem instance for: :Context_90
+[2023.01.12-15.45.53:098][456]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2023.01.12-15.45.53:099][456]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2023.01.12-15.45.53:099][456]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2023.01.12-15.45.53:100][456]PIE: Server logged in
+[2023.01.12-15.45.53:101][456]PIE: Play in editor total start time 0.086 seconds.
+[2023.01.12-15.46.02:833][622]LogBlueprintUserMessages: [BP_Hole_C_1] EndGame
+[2023.01.12-15.46.04:387][802]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.12-15.46.04:387][802]LogWorld: BeginTearingDown for /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn
+[2023.01.12-15.46.04:387][802]LogWorld: UWorld::CleanupWorld for Turn_By_Turn, bSessionEnded=true, bCleanupResources=true
+[2023.01.12-15.46.04:387][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.12-15.46.04:399][802]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.12-15.46.04:404][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.12-15.46.04:431][802]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.12-15.46.04:431][802]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=72
+[2023.01.12-15.46.04:432][802]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=72
+[2023.01.12-15.46.04:438][802]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.01.12-15.46.04:485][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.01.12-15.46.04:495][804]LogPlayLevel: Display: Destroying online subsystem :Context_90
+[2023.01.12-15.50.17:606][149]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/s017186k/Dust_Poof/P_DustPoof.P_DustPoof
+[2023.01.12-15.50.17:606][149]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/s017186k/Dust_Poof/P_DustPoof.P_DustPoof
+[2023.01.12-15.50.17:607][149]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/s017186k/Dust_Poof/P_DustPoof.P_DustPoof as actor: NiagaraActor /Game/s017186k/Multiplayer/Turn_BY_Turn/Turn_By_Turn.Turn_By_Turn:PersistentLevel.NiagaraActor_0
+[2023.01.12-15.50.17:607][149]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/s017186k/Dust_Poof/P_DustPoof.P_DustPoof as actor: NiagaraActor /Game/s017186k/Multiplayer/Turn_BY_Turn/Turn_By_Turn.Turn_By_Turn:PersistentLevel.NiagaraActor_0
+[2023.01.12-15.50.17:868][177]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/s017186k/Dust_Poof/P_DustPoof.P_DustPoof
+[2023.01.12-15.50.17:868][177]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/s017186k/Dust_Poof/P_DustPoof.P_DustPoof
+[2023.01.12-15.50.17:869][177]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/s017186k/Dust_Poof/P_DustPoof.P_DustPoof as actor: NiagaraActor /Game/s017186k/Multiplayer/Turn_BY_Turn/Turn_By_Turn.Turn_By_Turn:PersistentLevel.NiagaraActor_1
+[2023.01.12-15.50.17:869][177]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/s017186k/Dust_Poof/P_DustPoof.P_DustPoof as actor: NiagaraActor /Game/s017186k/Multiplayer/Turn_BY_Turn/Turn_By_Turn.Turn_By_Turn:PersistentLevel.NiagaraActor_1
+[2023.01.12-15.50.30:104][636]Cmd: DELETE
+[2023.01.12-15.50.30:104][636]Cmd: ACTOR DELETE
+[2023.01.12-15.50.30:106][636]LogEditorActor: Deleted Actor: NiagaraActor
+[2023.01.12-15.50.30:135][636]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.01.12-15.50.30:137][636]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2023.01.12-15.50.54:765][522]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.01.12-15.50.54:770][522]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/s017186k/Multiplayer/Turn_BY_Turn/Turn_By_Turn_Auto1
+[2023.01.12-15.50.54:770][522]LogSavePackage: Moving '../../../../../../Users/s017186k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Turn_By_Turn_Auto15ED9213B439815967ADFF596C96D481B.tmp' to '../../../../../../Users/s017186k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Autosaves/Game/s017186k/Multiplayer/Turn_BY_Turn/Turn_By_Turn_Auto1.umap'
+[2023.01.12-15.50.54:774][522]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/s017186k/Multiplayer/Turn_BY_Turn/Turn_By_Turn' took 0.035
+[2023.01.12-15.50.54:774][522]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.035
+[2023.01.12-15.52.35:048][553]LogDerivedDataCache: C:/Users/s017186k/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.019 and deleted 0 file(s) with total size 0 MiB.
+[2023.01.12-16.07.55:571][903]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.12-16.07.55:576][903]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.12-16.07.55:576][903]PIE: New page: PIE session: Turn_By_Turn (12 Jan 2023, 16:07:55)
+[2023.01.12-16.07.55:609][903]LogPlayLevel: Creating play world package: /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn
+[2023.01.12-16.07.55:612][903]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002171s)
+[2023.01.12-16.07.55:612][903]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/s017186k/Multiplayer/Turn_BY_Turn/Turn_By_Turn.Turn_By_Turn to /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn.Turn_By_Turn (0.002308s)
+[2023.01.12-16.07.55:612][903]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.12-16.07.55:612][903]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.12-16.07.55:612][903]LogAIModule: Creating AISystem for world Turn_By_Turn
+[2023.01.12-16.07.55:613][903]LogPlayLevel: PIE: World Init took: (0.001157s)
+[2023.01.12-16.07.55:644][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.01.12-16.07.55:645][903]LogAudio: Display: Creating Audio Device:                 Id: 73, Scope: Unique, Realtime: True
+[2023.01.12-16.07.55:645][903]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.12-16.07.55:645][903]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.12-16.07.55:645][903]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.12-16.07.55:645][903]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.12-16.07.55:645][903]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.12-16.07.55:645][903]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.12-16.07.55:645][903]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.12-16.07.55:645][903]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.12-16.07.55:646][903]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.12-16.07.55:646][903]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.12-16.07.55:646][903]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.12-16.07.55:647][903]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.12-16.07.55:663][903]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.01.12-16.07.55:663][903]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.12-16.07.55:663][903]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.12-16.07.55:663][903]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.12-16.07.55:664][903]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=73
+[2023.01.12-16.07.55:664][903]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=73
+[2023.01.12-16.07.55:665][903]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=73
+[2023.01.12-16.07.55:665][903]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=73
+[2023.01.12-16.07.55:665][903]LogInit: FAudioDevice initialized.
+[2023.01.12-16.07.55:665][903]LogAudio: Display: Audio Device (ID: 73) registered with world 'Turn_By_Turn'.
+[2023.01.12-16.07.55:675][903]LogLoad: Game class is 'BP_Turn_By_Turn_C'
+[2023.01.12-16.07.55:679][903]LogWorld: Bringing World /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn.Turn_By_Turn up for play (max tick rate 0) at 2023.01.12-16.07.55
+[2023.01.12-16.07.55:679][903]LogWorld: Bringing up level for play took: 0.000373
+[2023.01.12-16.07.55:681][903]LogOnline: OSS: Created online subsystem instance for: :Context_91
+[2023.01.12-16.07.55:681][903]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2023.01.12-16.07.55:682][903]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2023.01.12-16.07.55:682][903]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2023.01.12-16.07.55:683][903]PIE: Server logged in
+[2023.01.12-16.07.55:684][903]PIE: Play in editor total start time 0.108 seconds.
+[2023.01.12-16.08.07:040][253]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.12-16.08.07:040][253]LogWorld: BeginTearingDown for /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn
+[2023.01.12-16.08.07:041][253]LogWorld: UWorld::CleanupWorld for Turn_By_Turn, bSessionEnded=true, bCleanupResources=true
+[2023.01.12-16.08.07:041][253]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.12-16.08.07:053][253]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.12-16.08.07:057][253]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.12-16.08.07:084][253]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.12-16.08.07:084][253]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=73
+[2023.01.12-16.08.07:086][253]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=73
+[2023.01.12-16.08.07:091][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.01.12-16.08.07:112][254]LogPlayLevel: Display: Destroying online subsystem :Context_91
+[2023.01.12-16.08.07:139][254]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.01.12-16.08.48:727][645]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.01.12-16.08.48:746][645]LogContentBrowser: Creating deferred item: NewFolder
+[2023.01.12-16.08.48:752][646]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.01.12-16.08.54:149][294]LogContentBrowser: Attempting asset rename: NewFolder -> Kill_Colume
+[2023.01.12-16.08.54:149][294]LogContentBrowser: End creating deferred item NewFolder
+[2023.01.12-16.08.59:051][882]LogContentBrowser: Attempting asset rename: Kill_Colume -> Kill_Volume
+[2023.01.12-16.10.12:020][430]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.12-16.10.13:490][430]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.01.12-16.10.13:498][430]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.01.12-16.10.13:502][430]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.01.12-16.10.13:519][432]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.01.12-16.10.18:382][ 16]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Kill_Colume
+[2023.01.12-16.10.18:387][ 16]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.01.12-16.10.22:933][560]LogContentBrowser: Attempting asset rename: BP_Kill_Colume -> BP_Kill_Volume
+[2023.01.12-16.10.22:951][560]LogMetaData: Removing '/Game/s017186k/Kill_Volume/BP_Kill_Volume.BP_Kill_Volume:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/s017186k/Kill_Volume/BP_Kill_Colume.PackageMetaData'
+[2023.01.12-16.10.22:951][560]LogMetaData: Removing '/Game/s017186k/Kill_Volume/BP_Kill_Volume.SKEL_BP_Kill_Volume_C:UserConstructionScript' ref from Metadata '/Game/s017186k/Kill_Volume/BP_Kill_Colume.PackageMetaData'
+[2023.01.12-16.10.22:951][560]LogMetaData: Removing '/Game/s017186k/Kill_Volume/BP_Kill_Volume.SKEL_BP_Kill_Volume_C' ref from Metadata '/Game/s017186k/Kill_Volume/BP_Kill_Colume.PackageMetaData'
+[2023.01.12-16.10.22:951][560]LogMetaData: Removing '/Game/s017186k/Kill_Volume/BP_Kill_Volume.BP_Kill_Volume_C' ref from Metadata '/Game/s017186k/Kill_Volume/BP_Kill_Colume.PackageMetaData'
+[2023.01.12-16.10.22:951][560]LogMetaData: Removing '/Game/s017186k/Kill_Volume/BP_Kill_Volume.BP_Kill_Volume:EventGraph.K2Node_Event_0' ref from Metadata '/Game/s017186k/Kill_Volume/BP_Kill_Colume.PackageMetaData'
+[2023.01.12-16.10.22:951][560]LogMetaData: Removing '/Game/s017186k/Kill_Volume/BP_Kill_Volume.BP_Kill_Volume:EventGraph.K2Node_Event_1' ref from Metadata '/Game/s017186k/Kill_Volume/BP_Kill_Colume.PackageMetaData'
+[2023.01.12-16.10.22:951][560]LogMetaData: Removing '/Game/s017186k/Kill_Volume/BP_Kill_Volume.BP_Kill_Volume:EventGraph.K2Node_Event_2' ref from Metadata '/Game/s017186k/Kill_Volume/BP_Kill_Colume.PackageMetaData'
+[2023.01.12-16.10.23:010][560]LogSavePackage: Moving output files for package: /Game/s017186k/Kill_Volume/BP_Kill_Volume
+[2023.01.12-16.10.23:010][560]LogSavePackage: Moving '../../../../../../Users/s017186k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/BP_Kill_VolumeBA34D7AE4728DF2430134BA4887B298B.tmp' to '../../../../../../Users/s017186k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/s017186k/Kill_Volume/BP_Kill_Volume.uasset'
+[2023.01.12-16.10.23:058][560]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.01.12-16.10.23:087][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.01.12-16.10.23:113][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.01.12-16.10.23:118][560]AssetCheck: New page: Asset Save: BP_Kill_Volume
+[2023.01.12-16.10.23:118][560]LogContentValidation: Display: Validating Blueprint /Game/s017186k/Kill_Volume/BP_Kill_Volume.BP_Kill_Volume
+[2023.01.12-16.10.24:603][738]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/s017186k/Kill_Volume/BP_Kill_Volume.BP_Kill_Volume
+[2023.01.12-16.10.24:603][738]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.12-16.10.24:948][738]LogViewport: Scene viewport resized to 1141x693, mode Windowed.
+[2023.01.12-16.10.54:438][519]LogSlate: Window 'Color Picker' being destroyed
+[2023.01.12-16.14.11:817][636]BlueprintLog: New page: Compile BP_Kill_Volume
+[2023.01.12-16.14.11:867][636]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.01.12-16.14.12:560][703]LogSavePackage: Moving output files for package: /Game/s017186k/Kill_Volume/BP_Kill_Volume
+[2023.01.12-16.14.12:561][703]LogSavePackage: Moving '../../../../../../Users/s017186k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/BP_Kill_Volume325184364FE6D4A556FCAC872AE8A4CC.tmp' to '../../../../../../Users/s017186k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/s017186k/Kill_Volume/BP_Kill_Volume.uasset'
+[2023.01.12-16.14.12:570][703]AssetCheck: New page: Asset Save: BP_Kill_Volume
+[2023.01.12-16.14.12:571][703]LogContentValidation: Display: Validating Blueprint /Game/s017186k/Kill_Volume/BP_Kill_Volume.BP_Kill_Volume
+[2023.01.12-16.15.13:793][933]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.12-16.15.13:797][933]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.12-16.15.13:797][933]PIE: New page: PIE session: Turn_By_Turn (12 Jan 2023, 16:15:13)
+[2023.01.12-16.15.13:818][933]LogPlayLevel: Creating play world package: /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn
+[2023.01.12-16.15.13:819][933]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001075s)
+[2023.01.12-16.15.13:819][933]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/s017186k/Multiplayer/Turn_BY_Turn/Turn_By_Turn.Turn_By_Turn to /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn.Turn_By_Turn (0.001154s)
+[2023.01.12-16.15.13:819][933]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.12-16.15.13:819][933]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.12-16.15.13:820][933]LogAIModule: Creating AISystem for world Turn_By_Turn
+[2023.01.12-16.15.13:820][933]LogPlayLevel: PIE: World Init took: (0.000789s)
+[2023.01.12-16.15.13:853][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.01.12-16.15.13:854][933]LogAudio: Display: Creating Audio Device:                 Id: 74, Scope: Unique, Realtime: True
+[2023.01.12-16.15.13:854][933]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.12-16.15.13:854][933]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.12-16.15.13:854][933]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.12-16.15.13:854][933]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.12-16.15.13:854][933]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.12-16.15.13:854][933]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.12-16.15.13:854][933]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.12-16.15.13:854][933]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.12-16.15.13:855][933]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.12-16.15.13:855][933]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.12-16.15.13:855][933]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.12-16.15.13:857][933]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.12-16.15.13:871][933]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.01.12-16.15.13:871][933]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.12-16.15.13:871][933]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.12-16.15.13:871][933]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.12-16.15.13:872][933]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=74
+[2023.01.12-16.15.13:872][933]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=74
+[2023.01.12-16.15.13:873][933]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=74
+[2023.01.12-16.15.13:873][933]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=74
+[2023.01.12-16.15.13:873][933]LogInit: FAudioDevice initialized.
+[2023.01.12-16.15.13:873][933]LogAudio: Display: Audio Device (ID: 74) registered with world 'Turn_By_Turn'.
+[2023.01.12-16.15.13:883][933]LogLoad: Game class is 'BP_Turn_By_Turn_C'
+[2023.01.12-16.15.13:887][933]LogWorld: Bringing World /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn.Turn_By_Turn up for play (max tick rate 0) at 2023.01.12-16.15.13
+[2023.01.12-16.15.13:887][933]LogWorld: Bringing up level for play took: 0.000366
+[2023.01.12-16.15.13:888][933]LogOnline: OSS: Created online subsystem instance for: :Context_93
+[2023.01.12-16.15.13:889][933]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2023.01.12-16.15.13:889][933]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2023.01.12-16.15.13:890][933]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2023.01.12-16.15.13:891][933]PIE: Server logged in
+[2023.01.12-16.15.13:891][933]PIE: Play in editor total start time 0.094 seconds.
+[2023.01.12-16.15.15:558][128]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.12-16.15.15:558][128]LogWorld: BeginTearingDown for /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn
+[2023.01.12-16.15.15:559][128]LogWorld: UWorld::CleanupWorld for Turn_By_Turn, bSessionEnded=true, bCleanupResources=true
+[2023.01.12-16.15.15:559][128]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.12-16.15.15:569][128]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.12-16.15.15:573][128]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.12-16.15.15:604][128]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.12-16.15.15:604][128]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=74
+[2023.01.12-16.15.15:606][128]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=74
+[2023.01.12-16.15.15:609][128]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.12-16.15.15:612][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.01.12-16.15.15:633][129]LogPlayLevel: Display: Destroying online subsystem :Context_93
+[2023.01.12-16.15.15:665][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.01.12-16.15.16:118][179]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.12-16.15.16:123][179]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.12-16.15.16:123][179]PIE: New page: PIE session: Turn_By_Turn (12 Jan 2023, 16:15:16)
+[2023.01.12-16.15.16:167][179]LogPlayLevel: Creating play world package: /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn
+[2023.01.12-16.15.16:168][179]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001651s)
+[2023.01.12-16.15.16:168][179]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/s017186k/Multiplayer/Turn_BY_Turn/Turn_By_Turn.Turn_By_Turn to /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn.Turn_By_Turn (0.001775s)
+[2023.01.12-16.15.16:168][179]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.12-16.15.16:169][179]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.12-16.15.16:169][179]LogAIModule: Creating AISystem for world Turn_By_Turn
+[2023.01.12-16.15.16:170][179]LogPlayLevel: PIE: World Init took: (0.001420s)
+[2023.01.12-16.15.16:203][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.01.12-16.15.16:204][179]LogAudio: Display: Creating Audio Device:                 Id: 75, Scope: Unique, Realtime: True
+[2023.01.12-16.15.16:204][179]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.12-16.15.16:204][179]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.12-16.15.16:204][179]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.12-16.15.16:204][179]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.12-16.15.16:204][179]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.12-16.15.16:204][179]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.12-16.15.16:204][179]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.12-16.15.16:204][179]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.12-16.15.16:204][179]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.12-16.15.16:204][179]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.12-16.15.16:204][179]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.12-16.15.16:206][179]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.12-16.15.16:221][179]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.01.12-16.15.16:221][179]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.12-16.15.16:221][179]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.12-16.15.16:221][179]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.12-16.15.16:222][179]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=75
+[2023.01.12-16.15.16:222][179]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=75
+[2023.01.12-16.15.16:223][179]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=75
+[2023.01.12-16.15.16:223][179]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=75
+[2023.01.12-16.15.16:223][179]LogInit: FAudioDevice initialized.
+[2023.01.12-16.15.16:223][179]LogAudio: Display: Audio Device (ID: 75) registered with world 'Turn_By_Turn'.
+[2023.01.12-16.15.16:233][179]LogLoad: Game class is 'BP_Turn_By_Turn_C'
+[2023.01.12-16.15.16:236][179]LogWorld: Bringing World /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn.Turn_By_Turn up for play (max tick rate 0) at 2023.01.12-16.15.16
+[2023.01.12-16.15.16:237][179]LogWorld: Bringing up level for play took: 0.000308
+[2023.01.12-16.15.16:238][179]LogOnline: OSS: Created online subsystem instance for: :Context_94
+[2023.01.12-16.15.16:239][179]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2023.01.12-16.15.16:239][179]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2023.01.12-16.15.16:239][179]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2023.01.12-16.15.16:240][179]PIE: Server logged in
+[2023.01.12-16.15.16:241][179]PIE: Play in editor total start time 0.119 seconds.
+[2023.01.12-16.15.16:778][239]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.12-16.15.16:778][239]LogWorld: BeginTearingDown for /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn
+[2023.01.12-16.15.16:778][239]LogWorld: UWorld::CleanupWorld for Turn_By_Turn, bSessionEnded=true, bCleanupResources=true
+[2023.01.12-16.15.16:778][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.12-16.15.16:788][239]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.12-16.15.16:792][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.12-16.15.16:825][239]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.12-16.15.16:825][239]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=75
+[2023.01.12-16.15.16:827][239]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=75
+[2023.01.12-16.15.16:832][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.01.12-16.15.16:879][240]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.01.12-16.15.16:923][241]LogPlayLevel: Display: Destroying online subsystem :Context_94
+[2023.01.12-16.15.17:669][330]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.12-16.15.17:673][330]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.12-16.15.17:673][330]PIE: New page: PIE session: Turn_By_Turn (12 Jan 2023, 16:15:17)
+[2023.01.12-16.15.17:698][330]LogPlayLevel: Creating play world package: /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn
+[2023.01.12-16.15.17:699][330]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001037s)
+[2023.01.12-16.15.17:699][330]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/s017186k/Multiplayer/Turn_BY_Turn/Turn_By_Turn.Turn_By_Turn to /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn.Turn_By_Turn (0.001112s)
+[2023.01.12-16.15.17:699][330]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.12-16.15.17:699][330]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.12-16.15.17:699][330]LogAIModule: Creating AISystem for world Turn_By_Turn
+[2023.01.12-16.15.17:699][330]LogPlayLevel: PIE: World Init took: (0.000659s)
+[2023.01.12-16.15.17:729][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.01.12-16.15.17:730][330]LogAudio: Display: Creating Audio Device:                 Id: 76, Scope: Unique, Realtime: True
+[2023.01.12-16.15.17:730][330]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.12-16.15.17:730][330]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.12-16.15.17:730][330]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.12-16.15.17:730][330]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.12-16.15.17:730][330]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.12-16.15.17:730][330]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.12-16.15.17:730][330]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.12-16.15.17:730][330]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.12-16.15.17:731][330]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.12-16.15.17:731][330]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.12-16.15.17:731][330]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.12-16.15.17:732][330]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.12-16.15.17:747][330]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.01.12-16.15.17:747][330]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.12-16.15.17:747][330]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.12-16.15.17:747][330]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.12-16.15.17:747][330]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=76
+[2023.01.12-16.15.17:747][330]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=76
+[2023.01.12-16.15.17:748][330]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=76
+[2023.01.12-16.15.17:749][330]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=76
+[2023.01.12-16.15.17:749][330]LogInit: FAudioDevice initialized.
+[2023.01.12-16.15.17:749][330]LogAudio: Display: Audio Device (ID: 76) registered with world 'Turn_By_Turn'.
+[2023.01.12-16.15.17:754][330]LogLoad: Game class is 'BP_Turn_By_Turn_C'
+[2023.01.12-16.15.17:759][330]LogWorld: Bringing World /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn.Turn_By_Turn up for play (max tick rate 0) at 2023.01.12-16.15.17
+[2023.01.12-16.15.17:759][330]LogWorld: Bringing up level for play took: 0.000359
+[2023.01.12-16.15.17:760][330]LogOnline: OSS: Created online subsystem instance for: :Context_95
+[2023.01.12-16.15.17:761][330]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2023.01.12-16.15.17:761][330]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2023.01.12-16.15.17:761][330]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2023.01.12-16.15.17:762][330]PIE: Server logged in
+[2023.01.12-16.15.17:763][330]PIE: Play in editor total start time 0.091 seconds.
+[2023.01.12-16.15.18:329][393]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.12-16.15.18:329][393]LogWorld: BeginTearingDown for /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn
+[2023.01.12-16.15.18:329][393]LogWorld: UWorld::CleanupWorld for Turn_By_Turn, bSessionEnded=true, bCleanupResources=true
+[2023.01.12-16.15.18:329][393]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.12-16.15.18:337][393]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.12-16.15.18:341][393]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.12-16.15.18:371][393]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.12-16.15.18:371][393]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=76
+[2023.01.12-16.15.18:373][393]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=76
+[2023.01.12-16.15.18:377][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.01.12-16.15.18:430][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.01.12-16.15.18:479][395]LogPlayLevel: Display: Destroying online subsystem :Context_95
+[2023.01.12-16.15.18:871][442]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.12-16.15.18:875][442]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.12-16.15.18:876][442]PIE: New page: PIE session: Turn_By_Turn (12 Jan 2023, 16:15:18)
+[2023.01.12-16.15.18:918][442]LogPlayLevel: Creating play world package: /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn
+[2023.01.12-16.15.18:919][442]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000980s)
+[2023.01.12-16.15.18:919][442]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/s017186k/Multiplayer/Turn_BY_Turn/Turn_By_Turn.Turn_By_Turn to /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn.Turn_By_Turn (0.001054s)
+[2023.01.12-16.15.18:919][442]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.12-16.15.18:919][442]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.12-16.15.18:920][442]LogAIModule: Creating AISystem for world Turn_By_Turn
+[2023.01.12-16.15.18:920][442]LogPlayLevel: PIE: World Init took: (0.000636s)
+[2023.01.12-16.15.18:951][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.01.12-16.15.18:952][442]LogAudio: Display: Creating Audio Device:                 Id: 77, Scope: Unique, Realtime: True
+[2023.01.12-16.15.18:952][442]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.12-16.15.18:952][442]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.12-16.15.18:952][442]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.12-16.15.18:952][442]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.12-16.15.18:952][442]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.12-16.15.18:952][442]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.12-16.15.18:952][442]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.12-16.15.18:952][442]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.12-16.15.18:952][442]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.12-16.15.18:952][442]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.12-16.15.18:952][442]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.12-16.15.18:954][442]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.12-16.15.18:967][442]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.01.12-16.15.18:967][442]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.12-16.15.18:967][442]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.12-16.15.18:967][442]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.12-16.15.18:967][442]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=77
+[2023.01.12-16.15.18:967][442]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=77
+[2023.01.12-16.15.18:969][442]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=77
+[2023.01.12-16.15.18:969][442]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=77
+[2023.01.12-16.15.18:969][442]LogInit: FAudioDevice initialized.
+[2023.01.12-16.15.18:969][442]LogAudio: Display: Audio Device (ID: 77) registered with world 'Turn_By_Turn'.
+[2023.01.12-16.15.18:977][442]LogLoad: Game class is 'BP_Turn_By_Turn_C'
+[2023.01.12-16.15.18:981][442]LogWorld: Bringing World /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn.Turn_By_Turn up for play (max tick rate 0) at 2023.01.12-16.15.18
+[2023.01.12-16.15.18:981][442]LogWorld: Bringing up level for play took: 0.000284
+[2023.01.12-16.15.18:982][442]LogOnline: OSS: Created online subsystem instance for: :Context_96
+[2023.01.12-16.15.18:983][442]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2023.01.12-16.15.18:983][442]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2023.01.12-16.15.18:984][442]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2023.01.12-16.15.18:985][442]PIE: Server logged in
+[2023.01.12-16.15.18:985][442]PIE: Play in editor total start time 0.111 seconds.
+[2023.01.12-16.15.48:028][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.12-16.15.48:028][920]LogWorld: BeginTearingDown for /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn
+[2023.01.12-16.15.48:028][920]LogWorld: UWorld::CleanupWorld for Turn_By_Turn, bSessionEnded=true, bCleanupResources=true
+[2023.01.12-16.15.48:028][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.12-16.15.48:035][920]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.12-16.15.48:039][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.12-16.15.48:069][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.12-16.15.48:069][920]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=77
+[2023.01.12-16.15.48:070][920]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=77
+[2023.01.12-16.15.48:075][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.01.12-16.15.48:097][921]LogPlayLevel: Display: Destroying online subsystem :Context_96
+[2023.01.12-16.15.48:128][921]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.01.12-16.16.26:461][514]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.12-16.16.26:465][514]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.12-16.16.26:466][514]PIE: New page: PIE session: Turn_By_Turn (12 Jan 2023, 16:16:26)
+[2023.01.12-16.16.26:498][514]LogPlayLevel: Creating play world package: /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn
+[2023.01.12-16.16.26:500][514]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001470s)
+[2023.01.12-16.16.26:500][514]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/s017186k/Multiplayer/Turn_BY_Turn/Turn_By_Turn.Turn_By_Turn to /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn.Turn_By_Turn (0.001573s)
+[2023.01.12-16.16.26:500][514]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.12-16.16.26:500][514]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.12-16.16.26:500][514]LogAIModule: Creating AISystem for world Turn_By_Turn
+[2023.01.12-16.16.26:500][514]LogPlayLevel: PIE: World Init took: (0.001007s)
+[2023.01.12-16.16.26:532][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.01.12-16.16.26:533][514]LogAudio: Display: Creating Audio Device:                 Id: 78, Scope: Unique, Realtime: True
+[2023.01.12-16.16.26:533][514]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.12-16.16.26:533][514]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.12-16.16.26:533][514]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.12-16.16.26:533][514]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.12-16.16.26:533][514]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.12-16.16.26:533][514]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.12-16.16.26:533][514]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.12-16.16.26:533][514]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.12-16.16.26:533][514]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.12-16.16.26:533][514]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.12-16.16.26:533][514]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.12-16.16.26:535][514]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.12-16.16.26:549][514]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.01.12-16.16.26:549][514]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.12-16.16.26:549][514]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.12-16.16.26:549][514]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.12-16.16.26:550][514]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=78
+[2023.01.12-16.16.26:550][514]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=78
+[2023.01.12-16.16.26:551][514]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=78
+[2023.01.12-16.16.26:551][514]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=78
+[2023.01.12-16.16.26:551][514]LogInit: FAudioDevice initialized.
+[2023.01.12-16.16.26:551][514]LogAudio: Display: Audio Device (ID: 78) registered with world 'Turn_By_Turn'.
+[2023.01.12-16.16.26:563][514]LogLoad: Game class is 'BP_Turn_By_Turn_C'
+[2023.01.12-16.16.26:567][514]LogWorld: Bringing World /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn.Turn_By_Turn up for play (max tick rate 0) at 2023.01.12-16.16.26
+[2023.01.12-16.16.26:567][514]LogWorld: Bringing up level for play took: 0.000334
+[2023.01.12-16.16.26:569][514]LogOnline: OSS: Created online subsystem instance for: :Context_97
+[2023.01.12-16.16.26:569][514]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2023.01.12-16.16.26:569][514]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2023.01.12-16.16.26:570][514]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2023.01.12-16.16.26:571][514]PIE: Server logged in
+[2023.01.12-16.16.26:571][514]PIE: Play in editor total start time 0.106 seconds.
+[2023.01.12-16.16.28:237][705]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.12-16.16.28:238][705]LogWorld: BeginTearingDown for /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn
+[2023.01.12-16.16.28:238][705]LogWorld: UWorld::CleanupWorld for Turn_By_Turn, bSessionEnded=true, bCleanupResources=true
+[2023.01.12-16.16.28:238][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.12-16.16.28:247][705]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.12-16.16.28:251][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.12-16.16.28:281][705]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.12-16.16.28:281][705]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=78
+[2023.01.12-16.16.28:282][705]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=78
+[2023.01.12-16.16.28:287][705]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.01.12-16.16.28:332][706]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.01.12-16.16.28:339][707]LogPlayLevel: Display: Destroying online subsystem :Context_97
+[2023.01.12-16.16.30:688][986]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.12-16.16.30:693][986]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.12-16.16.30:693][986]PIE: New page: PIE session: Turn_By_Turn (12 Jan 2023, 16:16:30)
+[2023.01.12-16.16.30:728][986]LogPlayLevel: Creating play world package: /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn
+[2023.01.12-16.16.30:730][986]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001736s)
+[2023.01.12-16.16.30:730][986]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/s017186k/Multiplayer/Turn_BY_Turn/Turn_By_Turn.Turn_By_Turn to /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn.Turn_By_Turn (0.001866s)
+[2023.01.12-16.16.30:730][986]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.12-16.16.30:730][986]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.12-16.16.30:730][986]LogAIModule: Creating AISystem for world Turn_By_Turn
+[2023.01.12-16.16.30:731][986]LogPlayLevel: PIE: World Init took: (0.001032s)
+[2023.01.12-16.16.30:763][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.01.12-16.16.30:764][986]LogAudio: Display: Creating Audio Device:                 Id: 79, Scope: Unique, Realtime: True
+[2023.01.12-16.16.30:764][986]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.12-16.16.30:764][986]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.12-16.16.30:764][986]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.12-16.16.30:764][986]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.12-16.16.30:764][986]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.12-16.16.30:764][986]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.12-16.16.30:764][986]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.12-16.16.30:764][986]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.12-16.16.30:765][986]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.12-16.16.30:765][986]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.12-16.16.30:765][986]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.12-16.16.30:766][986]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.12-16.16.30:780][986]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.01.12-16.16.30:781][986]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.12-16.16.30:781][986]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.12-16.16.30:781][986]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.12-16.16.30:781][986]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=79
+[2023.01.12-16.16.30:781][986]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=79
+[2023.01.12-16.16.30:782][986]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=79
+[2023.01.12-16.16.30:782][986]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=79
+[2023.01.12-16.16.30:782][986]LogInit: FAudioDevice initialized.
+[2023.01.12-16.16.30:782][986]LogAudio: Display: Audio Device (ID: 79) registered with world 'Turn_By_Turn'.
+[2023.01.12-16.16.30:792][986]LogLoad: Game class is 'BP_Turn_By_Turn_C'
+[2023.01.12-16.16.30:796][986]LogWorld: Bringing World /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn.Turn_By_Turn up for play (max tick rate 0) at 2023.01.12-16.16.30
+[2023.01.12-16.16.30:796][986]LogWorld: Bringing up level for play took: 0.000303
+[2023.01.12-16.16.30:797][986]LogOnline: OSS: Created online subsystem instance for: :Context_98
+[2023.01.12-16.16.30:797][986]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2023.01.12-16.16.30:798][986]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2023.01.12-16.16.30:798][986]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2023.01.12-16.16.30:799][986]PIE: Server logged in
+[2023.01.12-16.16.30:800][986]PIE: Play in editor total start time 0.108 seconds.
+[2023.01.12-16.16.33:957][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.12-16.16.33:957][359]LogWorld: BeginTearingDown for /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn
+[2023.01.12-16.16.33:958][359]LogWorld: UWorld::CleanupWorld for Turn_By_Turn, bSessionEnded=true, bCleanupResources=true
+[2023.01.12-16.16.33:958][359]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.12-16.16.33:968][359]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.12-16.16.33:972][359]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.12-16.16.34:001][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.12-16.16.34:001][359]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=79
+[2023.01.12-16.16.34:002][359]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=79
+[2023.01.12-16.16.34:008][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.01.12-16.16.34:052][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.01.12-16.16.34:059][361]LogPlayLevel: Display: Destroying online subsystem :Context_98
+[2023.01.12-16.16.34:511][411]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.12-16.16.34:516][411]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.12-16.16.34:516][411]PIE: New page: PIE session: Turn_By_Turn (12 Jan 2023, 16:16:34)
+[2023.01.12-16.16.34:537][411]LogPlayLevel: Creating play world package: /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn
+[2023.01.12-16.16.34:538][411]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001170s)
+[2023.01.12-16.16.34:538][411]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/s017186k/Multiplayer/Turn_BY_Turn/Turn_By_Turn.Turn_By_Turn to /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn.Turn_By_Turn (0.001245s)
+[2023.01.12-16.16.34:538][411]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.12-16.16.34:538][411]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.12-16.16.34:539][411]LogAIModule: Creating AISystem for world Turn_By_Turn
+[2023.01.12-16.16.34:539][411]LogPlayLevel: PIE: World Init took: (0.000658s)
+[2023.01.12-16.16.34:569][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.01.12-16.16.34:570][411]LogAudio: Display: Creating Audio Device:                 Id: 80, Scope: Unique, Realtime: True
+[2023.01.12-16.16.34:570][411]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.12-16.16.34:570][411]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.12-16.16.34:570][411]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.12-16.16.34:570][411]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.12-16.16.34:571][411]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.12-16.16.34:571][411]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.12-16.16.34:571][411]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.12-16.16.34:571][411]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.12-16.16.34:571][411]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.12-16.16.34:571][411]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.12-16.16.34:571][411]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.12-16.16.34:572][411]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.12-16.16.34:586][411]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.01.12-16.16.34:587][411]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.12-16.16.34:587][411]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.12-16.16.34:587][411]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.12-16.16.34:587][411]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=80
+[2023.01.12-16.16.34:587][411]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=80
+[2023.01.12-16.16.34:588][411]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=80
+[2023.01.12-16.16.34:588][411]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=80
+[2023.01.12-16.16.34:588][411]LogInit: FAudioDevice initialized.
+[2023.01.12-16.16.34:588][411]LogAudio: Display: Audio Device (ID: 80) registered with world 'Turn_By_Turn'.
+[2023.01.12-16.16.34:599][411]LogLoad: Game class is 'BP_Turn_By_Turn_C'
+[2023.01.12-16.16.34:603][411]LogWorld: Bringing World /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn.Turn_By_Turn up for play (max tick rate 0) at 2023.01.12-16.16.34
+[2023.01.12-16.16.34:603][411]LogWorld: Bringing up level for play took: 0.000341
+[2023.01.12-16.16.34:605][411]LogOnline: OSS: Created online subsystem instance for: :Context_99
+[2023.01.12-16.16.34:605][411]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2023.01.12-16.16.34:606][411]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2023.01.12-16.16.34:606][411]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2023.01.12-16.16.34:607][411]PIE: Server logged in
+[2023.01.12-16.16.34:608][411]PIE: Play in editor total start time 0.092 seconds.
+[2023.01.12-16.16.47:889][998]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.12-16.16.47:889][998]LogWorld: BeginTearingDown for /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn
+[2023.01.12-16.16.47:889][998]LogWorld: UWorld::CleanupWorld for Turn_By_Turn, bSessionEnded=true, bCleanupResources=true
+[2023.01.12-16.16.47:889][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.12-16.16.47:897][998]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.12-16.16.47:901][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.12-16.16.47:931][998]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.12-16.16.47:931][998]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=80
+[2023.01.12-16.16.47:932][998]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=80
+[2023.01.12-16.16.47:938][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.01.12-16.16.47:957][999]LogPlayLevel: Display: Destroying online subsystem :Context_99
+[2023.01.12-16.16.47:989][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.01.12-16.18.20:496][ 94]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.12-16.18.20:500][ 94]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.12-16.18.20:500][ 94]PIE: New page: PIE session: Turn_By_Turn (12 Jan 2023, 16:18:20)
+[2023.01.12-16.18.20:527][ 94]LogPlayLevel: Creating play world package: /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn
+[2023.01.12-16.18.20:529][ 94]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001449s)
+[2023.01.12-16.18.20:529][ 94]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/s017186k/Multiplayer/Turn_BY_Turn/Turn_By_Turn.Turn_By_Turn to /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn.Turn_By_Turn (0.001545s)
+[2023.01.12-16.18.20:529][ 94]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.12-16.18.20:529][ 94]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.12-16.18.20:529][ 94]LogAIModule: Creating AISystem for world Turn_By_Turn
+[2023.01.12-16.18.20:530][ 94]LogPlayLevel: PIE: World Init took: (0.000832s)
+[2023.01.12-16.18.20:562][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.01.12-16.18.20:563][ 94]LogAudio: Display: Creating Audio Device:                 Id: 81, Scope: Unique, Realtime: True
+[2023.01.12-16.18.20:563][ 94]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.12-16.18.20:563][ 94]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.12-16.18.20:563][ 94]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.12-16.18.20:563][ 94]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.12-16.18.20:563][ 94]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.12-16.18.20:563][ 94]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.12-16.18.20:563][ 94]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.12-16.18.20:563][ 94]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.12-16.18.20:564][ 94]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.12-16.18.20:564][ 94]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.12-16.18.20:564][ 94]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.12-16.18.20:565][ 94]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.12-16.18.20:580][ 94]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.01.12-16.18.20:581][ 94]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.12-16.18.20:581][ 94]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.12-16.18.20:581][ 94]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.12-16.18.20:581][ 94]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=81
+[2023.01.12-16.18.20:581][ 94]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=81
+[2023.01.12-16.18.20:582][ 94]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=81
+[2023.01.12-16.18.20:582][ 94]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=81
+[2023.01.12-16.18.20:582][ 94]LogInit: FAudioDevice initialized.
+[2023.01.12-16.18.20:582][ 94]LogAudio: Display: Audio Device (ID: 81) registered with world 'Turn_By_Turn'.
+[2023.01.12-16.18.20:589][ 94]LogLoad: Game class is 'BP_Turn_By_Turn_C'
+[2023.01.12-16.18.20:592][ 94]LogWorld: Bringing World /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn.Turn_By_Turn up for play (max tick rate 0) at 2023.01.12-16.18.20
+[2023.01.12-16.18.20:593][ 94]LogWorld: Bringing up level for play took: 0.000335
+[2023.01.12-16.18.20:594][ 94]LogOnline: OSS: Created online subsystem instance for: :Context_100
+[2023.01.12-16.18.20:594][ 94]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2023.01.12-16.18.20:595][ 94]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2023.01.12-16.18.20:595][ 94]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2023.01.12-16.18.20:596][ 94]PIE: Server logged in
+[2023.01.12-16.18.20:597][ 94]PIE: Play in editor total start time 0.097 seconds.
+[2023.01.12-16.18.27:067][863]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.12-16.18.27:067][863]LogWorld: BeginTearingDown for /Game/s017186k/Multiplayer/Turn_BY_Turn/UEDPIE_0_Turn_By_Turn
+[2023.01.12-16.18.27:068][863]LogWorld: UWorld::CleanupWorld for Turn_By_Turn, bSessionEnded=true, bCleanupResources=true
+[2023.01.12-16.18.27:068][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.12-16.18.27:076][863]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.12-16.18.27:080][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.12-16.18.27:110][863]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.12-16.18.27:111][863]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=81
+[2023.01.12-16.18.27:112][863]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=81
+[2023.01.12-16.18.27:117][863]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.01.12-16.18.27:138][864]LogPlayLevel: Display: Destroying online subsystem :Context_100
+[2023.01.12-16.18.27:169][864]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.01.12-16.18.28:709][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.01.12-16.18.28:714][ 33]LogSavePackage: Moving output files for package: /Game/s017186k/Multiplayer/Turn_BY_Turn/Turn_By_Turn
+[2023.01.12-16.18.28:714][ 33]LogSavePackage: Moving '../../../../../../Users/s017186k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Turn_By_TurnEF604C044A41B1B17067FD899C663E04.tmp' to '../../../../../../Users/s017186k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/s017186k/Multiplayer/Turn_BY_Turn/Turn_By_Turn.umap'
+[2023.01.12-16.18.28:734][ 33]AssetCheck: New page: Asset Save: Turn_By_Turn
+[2023.01.12-16.18.28:734][ 33]LogContentValidation: Display: Validating World /Game/s017186k/Multiplayer/Turn_BY_Turn/Turn_By_Turn.Turn_By_Turn
+[2023.01.12-16.18.33:810][638]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.01.12-16.18.33:811][638]LogStall: Shutdown...
+[2023.01.12-16.18.33:813][638]LogStall: Shutdown complete.
+[2023.01.12-16.18.33:877][638]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.01.12-16.18.33:877][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.12-16.18.33:943][638]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.01.12-16.18.33:943][638]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.01.12-16.18.33:943][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.12-16.18.34:011][638]LogSlate: Window 'BP_Kill_Volume' being destroyed
+[2023.01.12-16.18.34:020][638]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.01.12-16.18.34:020][638]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.01.12-16.18.34:020][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.12-16.18.34:088][638]LogSlate: Window 'CritterballBoom - Unreal Editor' being destroyed
+[2023.01.12-16.18.34:193][639]Cmd: QUIT_EDITOR
+[2023.01.12-16.18.34:193][639]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.01.12-16.18.34:196][639]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.01.12-16.18.34:196][639]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.01.12-16.18.34:196][639]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.01.12-16.18.34:621][639]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.01.12-16.18.34:621][639]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.01.12-16.18.34:621][639]LogAudio: Display: Audio Device unregistered from world 'Turn_By_Turn'.
+[2023.01.12-16.18.34:627][639]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.01.12-16.18.34:628][639]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.01.12-16.18.34:638][639]LogAudio: Display: Audio Device Manager Shutdown
+[2023.01.12-16.18.34:641][639]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.01.12-16.18.34:641][639]LogSlate: Slate User Destroyed.  User Index 1, Is Virtual User: 0
+[2023.01.12-16.18.34:641][639]LogSlate: Slate User Destroyed.  User Index 2, Is Virtual User: 0
+[2023.01.12-16.18.34:641][639]LogSlate: Slate User Destroyed.  User Index 3, Is Virtual User: 0
+[2023.01.12-16.18.34:642][639]LogExit: Preparing to exit.
+[2023.01.12-16.18.34:667][639]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.01.12-16.18.34:679][639]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.01.12-16.18.34:679][639]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.01.12-16.18.34:679][639]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.01.12-16.18.34:679][639]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.01.12-16.18.34:679][639]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.01.12-16.18.34:679][639]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.01.12-16.18.34:679][639]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.01.12-16.18.34:679][639]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.01.12-16.18.34:679][639]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.01.12-16.18.34:679][639]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.01.12-16.18.34:679][639]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.01.12-16.18.35:379][639]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.01.12-16.18.35:381][639]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.01.12-16.18.35:383][639]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.01.12-16.18.35:386][639]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.01.12-16.18.35:388][639]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.01.12-16.18.35:390][639]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.01.12-16.18.35:392][639]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.01.12-16.18.35:393][639]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.01.12-16.18.35:395][639]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.01.12-16.18.35:397][639]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.01.12-16.18.35:408][639]LogWorld: UWorld::CleanupWorld for Turn_By_Turn, bSessionEnded=true, bCleanupResources=true
+[2023.01.12-16.18.35:408][639]LogWorld: UWorld::CleanupWorld for Level_TestLevel_Tori_Gameplay, bSessionEnded=true, bCleanupResources=true
+[2023.01.12-16.18.35:408][639]LogWorld: UWorld::CleanupWorld for Level_TestLevel_Andrew_Gameplay, bSessionEnded=true, bCleanupResources=true
+[2023.01.12-16.18.35:408][639]LogWorld: UWorld::CleanupWorld for Level_TestLevel_Andrew_Geometry, bSessionEnded=true, bCleanupResources=true
+[2023.01.12-16.18.35:442][639]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2023.01.12-16.18.35:449][639]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.01.12-16.18.35:449][639]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.01.12-16.18.35:452][639]LogExit: Editor shut down
+[2023.01.12-16.18.35:454][639]LogExit: Transaction tracking system shut down
+[2023.01.12-16.18.35:645][639]LogExit: Object subsystem successfully closed.
+[2023.01.12-16.18.35:653][639]LogShaderCompilers: Display: ================================================
+[2023.01.12-16.18.35:653][639]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.12-16.18.35:653][639]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.01.12-16.18.35:653][639]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.01.12-16.18.35:653][639]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2023.01.12-16.18.35:653][639]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.12-16.18.35:653][639]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.01.12-16.18.35:653][639]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.01.12-16.18.35:653][639]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.01.12-16.18.35:653][639]LogShaderCompilers: Display: ================================================
+[2023.01.12-16.18.35:765][639]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.01.12-16.18.35:785][639]LogModuleManager: Shutting down and abandoning module BlueprintGraph (890)
+[2023.01.12-16.18.35:785][639]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (888)
+[2023.01.12-16.18.35:785][639]LogModuleManager: Shutting down and abandoning module Voice (886)
+[2023.01.12-16.18.35:785][639]LogModuleManager: Shutting down and abandoning module DataLayerEditor (884)
+[2023.01.12-16.18.35:785][639]LogModuleManager: Shutting down and abandoning module StatsViewer (882)
+[2023.01.12-16.18.35:785][639]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (880)
+[2023.01.12-16.18.35:785][639]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (878)
+[2023.01.12-16.18.35:786][639]LogModuleManager: Shutting down and abandoning module AddContentDialog (876)
+[2023.01.12-16.18.35:786][639]LogModuleManager: Shutting down and abandoning module WidgetCarousel (875)
+[2023.01.12-16.18.35:786][639]LogModuleManager: Shutting down and abandoning module SubobjectEditor (870)
+[2023.01.12-16.18.35:786][639]LogModuleManager: Shutting down and abandoning module SceneOutliner (868)
+[2023.01.12-16.18.35:786][639]LogModuleManager: Shutting down and abandoning module StatusBar (866)
+[2023.01.12-16.18.35:786][639]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (864)
+[2023.01.12-16.18.35:786][639]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (862)
+[2023.01.12-16.18.35:786][639]LogModuleManager: Shutting down and abandoning module AutomationWorker (860)
+[2023.01.12-16.18.35:786][639]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (858)
+[2023.01.12-16.18.35:786][639]LogModuleManager: Shutting down and abandoning module GooglePADEditor (856)
+[2023.01.12-16.18.35:786][639]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (854)
+[2023.01.12-16.18.35:786][639]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (852)
+[2023.01.12-16.18.35:786][639]LogModuleManager: Shutting down and abandoning module PlanarCut (850)
+[2023.01.12-16.18.35:786][639]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (848)
+[2023.01.12-16.18.35:786][639]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (846)
+[2023.01.12-16.18.35:786][639]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (844)
+[2023.01.12-16.18.35:786][639]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (842)
+[2023.01.12-16.18.35:786][639]LogModuleManager: Shutting down and abandoning module WebMMedia (840)
+[2023.01.12-16.18.35:786][639]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (838)
+[2023.01.12-16.18.35:786][639]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (836)
+[2023.01.12-16.18.35:786][639]LogModuleManager: Shutting down and abandoning module SequenceRecorder (835)
+[2023.01.12-16.18.35:786][639]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (832)
+[2023.01.12-16.18.35:786][639]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (830)
+[2023.01.12-16.18.35:786][639]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (828)
+[2023.01.12-16.18.35:786][639]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (826)
+[2023.01.12-16.18.35:786][639]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (824)
+[2023.01.12-16.18.35:786][639]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (822)
+[2023.01.12-16.18.35:786][639]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (820)
+[2023.01.12-16.18.35:786][639]LogModuleManager: Shutting down and abandoning module CharacterAI (818)
+[2023.01.12-16.18.35:786][639]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (816)
+[2023.01.12-16.18.35:786][639]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (814)
+[2023.01.12-16.18.35:786][639]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (812)
+[2023.01.12-16.18.35:786][639]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (810)
+[2023.01.12-16.18.35:786][639]LogModuleManager: Shutting down and abandoning module TextureAlignMode (808)
+[2023.01.12-16.18.35:786][639]LogModuleManager: Shutting down and abandoning module BspMode (806)
+[2023.01.12-16.18.35:786][639]LogModuleManager: Shutting down and abandoning module GeometryMode (804)
+[2023.01.12-16.18.35:786][639]LogModuleManager: Shutting down and abandoning module IKRigEditor (802)
+[2023.01.12-16.18.35:786][639]LogModuleManager: Shutting down and abandoning module ControlRigEditor (800)
+[2023.01.12-16.18.35:786][639]LogModuleManager: Shutting down and abandoning module AnimationEditor (799)
+[2023.01.12-16.18.35:786][639]LogModuleManager: Shutting down and abandoning module ControlRigSplineEditor (796)
+[2023.01.12-16.18.35:786][639]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (794)
+[2023.01.12-16.18.35:786][639]LogModuleManager: Shutting down and abandoning module SmartSnapping (792)
+[2023.01.12-16.18.35:786][639]LogModuleManager: Shutting down and abandoning module SessionServices (790)
+[2023.01.12-16.18.35:791][639]LogModuleManager: Shutting down and abandoning module MeshPaint (788)
+[2023.01.12-16.18.35:791][639]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (786)
+[2023.01.12-16.18.35:791][639]LogModuleManager: Shutting down and abandoning module PlacementMode (785)
+[2023.01.12-16.18.35:791][639]LogModuleManager: Shutting down and abandoning module FoliageEdit (782)
+[2023.01.12-16.18.35:792][639]LogModuleManager: Shutting down and abandoning module LandscapeEditor (780)
+[2023.01.12-16.18.35:792][639]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (778)
+[2023.01.12-16.18.35:792][639]LogModuleManager: Shutting down and abandoning module ActorPickerMode (776)
+[2023.01.12-16.18.35:792][639]LogModuleManager: Shutting down and abandoning module ViewportSnapping (774)
+[2023.01.12-16.18.35:792][639]LogModuleManager: Shutting down and abandoning module EditorWidgets (772)
+[2023.01.12-16.18.35:792][639]LogModuleManager: Shutting down and abandoning module ViewportInteraction (770)
+[2023.01.12-16.18.35:792][639]LogModuleManager: Shutting down and abandoning module ClothPainter (768)
+[2023.01.12-16.18.35:792][639]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (767)
+[2023.01.12-16.18.35:792][639]LogModuleManager: Shutting down and abandoning module LogVisualizer (764)
+[2023.01.12-16.18.35:792][639]LogModuleManager: Shutting down and abandoning module IntroTutorials (762)
+[2023.01.12-16.18.35:792][639]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (760)
+[2023.01.12-16.18.35:792][639]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (758)
+[2023.01.12-16.18.35:792][639]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (757)
+[2023.01.12-16.18.35:792][639]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (755)
+[2023.01.12-16.18.36:154][639]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (752)
+[2023.01.12-16.18.36:154][639]LogModuleManager: Shutting down and abandoning module HoloLensPlatformEditor (750)
+[2023.01.12-16.18.36:154][639]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (748)
+[2023.01.12-16.18.36:154][639]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (746)
+[2023.01.12-16.18.36:154][639]LogModuleManager: Shutting down and abandoning module CSVtoSVG (744)
+[2023.01.12-16.18.36:154][639]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (742)
+[2023.01.12-16.18.36:155][639]LogModuleManager: Shutting down and abandoning module EditorConfig (740)
+[2023.01.12-16.18.36:155][639]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (738)
+[2023.01.12-16.18.36:155][639]LogModuleManager: Shutting down and abandoning module EditorFramework (736)
+[2023.01.12-16.18.36:155][639]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (734)
+[2023.01.12-16.18.36:155][639]LogModuleManager: Shutting down and abandoning module TraceInsights (732)
+[2023.01.12-16.18.36:155][639]MemoryProfiler: Shutdown
+[2023.01.12-16.18.36:155][639]NetworkingProfiler: Shutdown
+[2023.01.12-16.18.36:155][639]LoadingProfiler: Shutdown
+[2023.01.12-16.18.36:155][639]TimingProfiler: Shutdown
+[2023.01.12-16.18.36:155][639]LogModuleManager: Shutting down and abandoning module TraceServices (731)
+[2023.01.12-16.18.36:155][639]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (728)
+[2023.01.12-16.18.36:155][639]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (727)
+[2023.01.12-16.18.36:155][639]LogModuleManager: Shutting down and abandoning module InputBindingEditor (724)
+[2023.01.12-16.18.36:155][639]LogModuleManager: Shutting down and abandoning module MergeActors (722)
+[2023.01.12-16.18.36:155][639]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (720)
+[2023.01.12-16.18.36:155][639]LogModuleManager: Shutting down and abandoning module LocalizationService (719)
+[2023.01.12-16.18.36:155][639]LogModuleManager: Shutting down and abandoning module HardwareTargeting (716)
+[2023.01.12-16.18.36:155][639]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (714)
+[2023.01.12-16.18.36:155][639]LogModuleManager: Shutting down and abandoning module UndoHistory (712)
+[2023.01.12-16.18.36:155][639]LogModuleManager: Shutting down and abandoning module XmlParser (710)
+[2023.01.12-16.18.36:155][639]LogModuleManager: Shutting down and abandoning module Blutility (708)
+[2023.01.12-16.18.36:155][639]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (706)
+[2023.01.12-16.18.36:155][639]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (705)
+[2023.01.12-16.18.36:155][639]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (702)
+[2023.01.12-16.18.36:155][639]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (701)
+[2023.01.12-16.18.36:155][639]LogModuleManager: Shutting down and abandoning module SettingsEditor (698)
+[2023.01.12-16.18.36:155][639]LogModuleManager: Shutting down and abandoning module ProjectLauncher (696)
+[2023.01.12-16.18.36:155][639]LogModuleManager: Shutting down and abandoning module SessionFrontend (694)
+[2023.01.12-16.18.36:155][639]LogModuleManager: Shutting down and abandoning module ProfilerClient (692)
+[2023.01.12-16.18.36:156][639]LogModuleManager: Shutting down and abandoning module DeviceManager (690)
+[2023.01.12-16.18.36:156][639]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (689)
+[2023.01.12-16.18.36:167][639]LogModuleManager: Shutting down and abandoning module AutomationController (686)
+[2023.01.12-16.18.36:167][639]LogModuleManager: Shutting down and abandoning module AutomationWindow (684)
+[2023.01.12-16.18.36:167][639]LogModuleManager: Shutting down and abandoning module Layers (682)
+[2023.01.12-16.18.36:167][639]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (680)
+[2023.01.12-16.18.36:167][639]LogModuleManager: Shutting down and abandoning module DetailCustomizations (678)
+[2023.01.12-16.18.36:167][639]LogModuleManager: Shutting down and abandoning module PackagesDialog (676)
+[2023.01.12-16.18.36:167][639]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (674)
+[2023.01.12-16.18.36:167][639]LogModuleManager: Shutting down and abandoning module Persona (672)
+[2023.01.12-16.18.36:167][639]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (671)
+[2023.01.12-16.18.36:167][639]LogModuleManager: Shutting down and abandoning module AnimGraph (669)
+[2023.01.12-16.18.36:167][639]LogModuleManager: Shutting down and abandoning module Kismet (666)
+[2023.01.12-16.18.36:173][639]LogModuleManager: Shutting down and abandoning module KismetWidgets (665)
+[2023.01.12-16.18.36:173][639]LogModuleManager: Shutting down and abandoning module GraphEditor (662)
+[2023.01.12-16.18.36:173][639]LogModuleManager: Shutting down and abandoning module StructViewer (660)
+[2023.01.12-16.18.36:173][639]LogModuleManager: Shutting down and abandoning module ClassViewer (658)
+[2023.01.12-16.18.36:175][639]LogModuleManager: Shutting down and abandoning module NaniteTools (656)
+[2023.01.12-16.18.36:175][639]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (654)
+[2023.01.12-16.18.36:175][639]LogModuleManager: Shutting down and abandoning module SourceControlWindows (652)
+[2023.01.12-16.18.36:175][639]LogModuleManager: Shutting down and abandoning module OutputLog (650)
+[2023.01.12-16.18.36:176][639]LogModuleManager: Shutting down and abandoning module Documentation (648)
+[2023.01.12-16.18.36:176][639]LogModuleManager: Shutting down and abandoning module LiveCoding (646)
+[2023.01.12-16.18.36:186][639]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (644)
+[2023.01.12-16.18.36:186][639]LogModuleManager: Shutting down and abandoning module MovieScene (642)
+[2023.01.12-16.18.36:186][639]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (640)
+[2023.01.12-16.18.36:186][639]LogModuleManager: Shutting down and abandoning module LauncherPlatform (638)
+[2023.01.12-16.18.36:186][639]LogModuleManager: Shutting down and abandoning module AnalyticsET (636)
+[2023.01.12-16.18.36:186][639]LogModuleManager: Shutting down and abandoning module PortalServices (634)
+[2023.01.12-16.18.36:186][639]LogModuleManager: Shutting down and abandoning module PortalRpc (632)
+[2023.01.12-16.18.36:186][639]LogModuleManager: Shutting down and abandoning module MessagingRpc (630)
+[2023.01.12-16.18.36:186][639]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (628)
+[2023.01.12-16.18.36:186][639]LogModuleManager: Shutting down and abandoning module AudioMixer (627)
+[2023.01.12-16.18.36:186][639]LogModuleManager: Shutting down and abandoning module AudioMixerCore (626)
+[2023.01.12-16.18.36:186][639]LogModuleManager: Shutting down and abandoning module AIModule (622)
+[2023.01.12-16.18.36:186][639]LogModuleManager: Shutting down and abandoning module GameplayDebugger (621)
+[2023.01.12-16.18.36:186][639]LogModuleManager: Shutting down and abandoning module AITestSuite (619)
+[2023.01.12-16.18.36:186][639]LogModuleManager: Shutting down and abandoning module NavigationSystem (617)
+[2023.01.12-16.18.36:186][639]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (614)
+[2023.01.12-16.18.36:186][639]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (612)
+[2023.01.12-16.18.36:186][639]LogModuleManager: Shutting down and abandoning module TypedElementFramework (610)
+[2023.01.12-16.18.36:186][639]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (608)
+[2023.01.12-16.18.36:186][639]LogModuleManager: Shutting down and abandoning module ProfilerService (606)
+[2023.01.12-16.18.36:281][639]LogModuleManager: Shutting down and abandoning module TaskGraph (604)
+[2023.01.12-16.18.36:281][639]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (602)
+[2023.01.12-16.18.36:281][639]LogModuleManager: Shutting down and abandoning module MegascansPlugin (600)
+[2023.01.12-16.18.36:281][639]LogModuleManager: Shutting down and abandoning module Bridge (598)
+[2023.01.12-16.18.36:281][639]LogModuleManager: Shutting down and abandoning module InterchangeResultsBrowser (596)
+[2023.01.12-16.18.36:282][639]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (594)
+[2023.01.12-16.18.36:282][639]LogModuleManager: Shutting down and abandoning module InterchangeEditor (592)
+[2023.01.12-16.18.36:282][639]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (590)
+[2023.01.12-16.18.36:282][639]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (588)
+[2023.01.12-16.18.36:282][639]LogModuleManager: Shutting down and abandoning module InterchangePipelines (586)
+[2023.01.12-16.18.36:282][639]LogModuleManager: Shutting down and abandoning module InterchangeExport (584)
+[2023.01.12-16.18.36:282][639]LogModuleManager: Shutting down and abandoning module InterchangeMessages (582)
+[2023.01.12-16.18.36:282][639]LogModuleManager: Shutting down and abandoning module InterchangeImport (580)
+[2023.01.12-16.18.36:282][639]LogModuleManager: Shutting down and abandoning module InterchangeNodes (578)
+[2023.01.12-16.18.36:282][639]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (576)
+[2023.01.12-16.18.36:282][639]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (574)
+[2023.01.12-16.18.36:282][639]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (572)
+[2023.01.12-16.18.36:282][639]LogModuleManager: Shutting down and abandoning module CollectionManager (571)
+[2023.01.12-16.18.36:283][639]LogModuleManager: Shutting down and abandoning module SynthesisEditor (568)
+[2023.01.12-16.18.36:283][639]LogModuleManager: Shutting down and abandoning module Synthesis (566)
+[2023.01.12-16.18.36:283][639]LogModuleManager: Shutting down and abandoning module ResonanceAudio (564)
+[2023.01.12-16.18.36:283][639]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (562)
+[2023.01.12-16.18.36:283][639]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (560)
+[2023.01.12-16.18.36:283][639]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (558)
+[2023.01.12-16.18.36:283][639]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (556)
+[2023.01.12-16.18.36:283][639]LogModuleManager: Shutting down and abandoning module ModelingOperators (554)
+[2023.01.12-16.18.36:283][639]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (552)
+[2023.01.12-16.18.36:283][639]LogModuleManager: Shutting down and abandoning module ModelingComponents (550)
+[2023.01.12-16.18.36:283][639]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (548)
+[2023.01.12-16.18.36:283][639]LogModuleManager: Shutting down and abandoning module MeshModelingTools (546)
+[2023.01.12-16.18.36:283][639]LogModuleManager: Shutting down and abandoning module GooglePAD (544)
+[2023.01.12-16.18.36:283][639]LogModuleManager: Shutting down and abandoning module HairStrandsEditor (542)
+[2023.01.12-16.18.36:283][639]LogModuleManager: Shutting down and abandoning module DynamicMesh (540)
+[2023.01.12-16.18.36:284][639]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (538)
+[2023.01.12-16.18.36:284][639]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (536)
+[2023.01.12-16.18.36:284][639]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (534)
+[2023.01.12-16.18.36:284][639]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (532)
+[2023.01.12-16.18.36:284][639]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (530)
+[2023.01.12-16.18.36:284][639]LogModuleManager: Shutting down and abandoning module AudioCapture (528)
+[2023.01.12-16.18.36:284][639]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (527)
+[2023.01.12-16.18.36:284][639]LogModuleManager: Shutting down and abandoning module AssetTags (524)
+[2023.01.12-16.18.36:284][639]LogModuleManager: Shutting down and abandoning module CableComponent (522)
+[2023.01.12-16.18.36:284][639]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (520)
+[2023.01.12-16.18.36:284][639]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (518)
+[2023.01.12-16.18.36:284][639]LogModuleManager: Shutting down and abandoning module AppleImageUtils (516)
+[2023.01.12-16.18.36:284][639]LogModuleManager: Shutting down and abandoning module AndroidPermission (514)
+[2023.01.12-16.18.36:284][639]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (512)
+[2023.01.12-16.18.36:284][639]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (510)
+[2023.01.12-16.18.36:284][639]LogModuleManager: Shutting down and abandoning module MeshLODToolset (508)
+[2023.01.12-16.18.36:284][639]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (506)
+[2023.01.12-16.18.36:284][639]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (504)
+[2023.01.12-16.18.36:284][639]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (502)
+[2023.01.12-16.18.36:285][639]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (500)
+[2023.01.12-16.18.36:285][639]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (498)
+[2023.01.12-16.18.36:285][639]LogOpenImageDenoise: OIDN shutting down
+[2023.01.12-16.18.36:285][639]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (496)
+[2023.01.12-16.18.36:285][639]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (495)
+[2023.01.12-16.18.36:285][639]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (492)
+[2023.01.12-16.18.36:285][639]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (490)
+[2023.01.12-16.18.36:285][639]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (488)
+[2023.01.12-16.18.36:285][639]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (486)
+[2023.01.12-16.18.36:285][639]LogModuleManager: Shutting down and abandoning module MediaCompositing (482)
+[2023.01.12-16.18.36:285][639]LogModuleManager: Shutting down and abandoning module ImgMedia (480)
+[2023.01.12-16.18.36:285][639]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (478)
+[2023.01.12-16.18.36:285][639]LogModuleManager: Shutting down and abandoning module FractureEditor (476)
+[2023.01.12-16.18.36:285][639]LogModuleManager: Shutting down and abandoning module ChaosNiagara (474)
+[2023.01.12-16.18.36:285][639]LogModuleManager: Shutting down and abandoning module BackChannel (472)
+[2023.01.12-16.18.36:285][639]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (470)
+[2023.01.12-16.18.36:285][639]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (468)
+[2023.01.12-16.18.36:285][639]LogModuleManager: Shutting down and abandoning module AutomationUtils (466)
+[2023.01.12-16.18.36:285][639]LogModuleManager: Shutting down and abandoning module TemplateSequence (464)
+[2023.01.12-16.18.36:285][639]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (462)
+[2023.01.12-16.18.36:285][639]LogModuleManager: Shutting down and abandoning module SequencerScripting (460)
+[2023.01.12-16.18.36:285][639]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (458)
+[2023.01.12-16.18.36:285][639]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (456)
+[2023.01.12-16.18.36:286][639]LogModuleManager: Shutting down and abandoning module StylusInput (454)
+[2023.01.12-16.18.36:286][639]LogModuleManager: Shutting down and abandoning module PluginBrowser (452)
+[2023.01.12-16.18.36:286][639]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (450)
+[2023.01.12-16.18.36:286][639]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (448)
+[2023.01.12-16.18.36:286][639]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (446)
+[2023.01.12-16.18.36:286][639]LogModuleManager: Shutting down and abandoning module EditorDebugTools (444)
+[2023.01.12-16.18.36:286][639]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (442)
+[2023.01.12-16.18.36:286][639]LogModuleManager: Shutting down and abandoning module CurveEditorTools (440)
+[2023.01.12-16.18.36:287][639]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (438)
+[2023.01.12-16.18.36:287][639]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (436)
+[2023.01.12-16.18.36:287][639]LogModuleManager: Shutting down and abandoning module CryptoKeys (434)
+[2023.01.12-16.18.36:287][639]LogModuleManager: Shutting down and abandoning module AlembicImporter (432)
+[2023.01.12-16.18.36:287][639]LogModuleManager: Shutting down and abandoning module AlembicLibrary (431)
+[2023.01.12-16.18.36:287][639]LogModuleManager: Shutting down and abandoning module GeometryCache (430)
+[2023.01.12-16.18.36:287][639]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (429)
+[2023.01.12-16.18.36:287][639]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (424)
+[2023.01.12-16.18.36:287][639]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (422)
+[2023.01.12-16.18.36:287][639]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (420)
+[2023.01.12-16.18.36:287][639]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (418)
+[2023.01.12-16.18.36:287][639]LogModuleManager: Shutting down and abandoning module UnrealInsightsInterface (416)
+[2023.01.12-16.18.36:287][639]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (414)
+[2023.01.12-16.18.36:287][639]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (412)
+[2023.01.12-16.18.36:287][639]LogModuleManager: Shutting down and abandoning module UObjectPlugin (410)
+[2023.01.12-16.18.36:287][639]LogModuleManager: Shutting down and abandoning module PluginUtils (408)
+[2023.01.12-16.18.36:287][639]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (406)
+[2023.01.12-16.18.36:288][639]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (404)
+[2023.01.12-16.18.36:288][639]LogModuleManager: Shutting down and abandoning module GitSourceControl (402)
+[2023.01.12-16.18.36:288][639]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (400)
+[2023.01.12-16.18.36:288][639]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (398)
+[2023.01.12-16.18.36:288][639]LogModuleManager: Shutting down and abandoning module ControlRigSpline (396)
+[2023.01.12-16.18.36:288][639]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (394)
+[2023.01.12-16.18.36:288][639]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (392)
+[2023.01.12-16.18.36:288][639]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (390)
+[2023.01.12-16.18.36:288][639]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (388)
+[2023.01.12-16.18.36:288][639]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (386)
+[2023.01.12-16.18.36:288][639]LogModuleManager: Shutting down and abandoning module Paper2DEditor (384)
+[2023.01.12-16.18.36:288][639]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (382)
+[2023.01.12-16.18.36:288][639]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (380)
+[2023.01.12-16.18.36:288][639]LogModuleManager: Shutting down and abandoning module SoundFields (378)
+[2023.01.12-16.18.36:288][639]LogModuleManager: Shutting down and abandoning module SignificanceManager (376)
+[2023.01.12-16.18.36:288][639]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (374)
+[2023.01.12-16.18.36:288][639]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (372)
+[2023.01.12-16.18.36:288][639]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (370)
+[2023.01.12-16.18.36:289][639]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (368)
+[2023.01.12-16.18.36:289][639]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (367)
+[2023.01.12-16.18.36:289][639]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (364)
+[2023.01.12-16.18.36:289][639]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (362)
+[2023.01.12-16.18.36:289][639]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (360)
+[2023.01.12-16.18.36:289][639]LogModuleManager: Shutting down and abandoning module PBIK (358)
+[2023.01.12-16.18.36:289][639]LogModuleManager: Shutting down and abandoning module FullBodyIK (356)
+[2023.01.12-16.18.36:289][639]LogModuleManager: Shutting down and abandoning module UdpMessaging (354)
+[2023.01.12-16.18.36:390][639]LogModuleManager: Shutting down and abandoning module TcpMessaging (352)
+[2023.01.12-16.18.36:491][639]LogModuleManager: Shutting down and abandoning module ActorSequence (350)
+[2023.01.12-16.18.36:491][639]LogModuleManager: Shutting down and abandoning module DataValidation (348)
+[2023.01.12-16.18.36:491][639]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (346)
+[2023.01.12-16.18.36:491][639]LogModuleManager: Shutting down and abandoning module FacialAnimation (344)
+[2023.01.12-16.18.36:491][639]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (342)
+[2023.01.12-16.18.36:491][639]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (340)
+[2023.01.12-16.18.36:492][639]LogModuleManager: Shutting down and abandoning module LevelEditor (339)
+[2023.01.12-16.18.36:497][639]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (338)
+[2023.01.12-16.18.36:497][639]LogModuleManager: Shutting down and abandoning module LevelAssetEditor (336)
+[2023.01.12-16.18.36:497][639]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (334)
+[2023.01.12-16.18.36:497][639]LogModuleManager: Shutting down and abandoning module MainFrame (332)
+[2023.01.12-16.18.36:498][639]LogModuleManager: Shutting down and abandoning module HotReload (331)
+[2023.01.12-16.18.36:498][639]LogModuleManager: Shutting down and abandoning module TreeMap (327)
+[2023.01.12-16.18.36:498][639]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (324)
+[2023.01.12-16.18.36:498][639]LogModuleManager: Shutting down and abandoning module Niagara (322)
+[2023.01.12-16.18.36:498][639]LogModuleManager: Shutting down and abandoning module SignalProcessing (321)
+[2023.01.12-16.18.36:498][639]LogModuleManager: Shutting down and abandoning module NiagaraEditor (319)
+[2023.01.12-16.18.36:498][639]LogModuleManager: Shutting down and abandoning module ContentBrowser (318)
+[2023.01.12-16.18.36:498][639]LogModuleManager: Shutting down and abandoning module ToolMenus (317)
+[2023.01.12-16.18.36:498][639]LogModuleManager: Shutting down and abandoning module ContentBrowserData (315)
+[2023.01.12-16.18.36:498][639]LogModuleManager: Shutting down and abandoning module NiagaraCore (310)
+[2023.01.12-16.18.36:498][639]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (308)
+[2023.01.12-16.18.36:498][639]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (306)
+[2023.01.12-16.18.36:498][639]LogModuleManager: Shutting down and abandoning module AnimationSharing (304)
+[2023.01.12-16.18.36:498][639]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (302)
+[2023.01.12-16.18.36:498][639]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (300)
+[2023.01.12-16.18.36:498][639]LogModuleManager: Shutting down and abandoning module IKRig (298)
+[2023.01.12-16.18.36:498][639]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (296)
+[2023.01.12-16.18.36:498][639]LogModuleManager: Shutting down and abandoning module ControlRig (294)
+[2023.01.12-16.18.36:498][639]LogModuleManager: Shutting down and abandoning module LevelSequence (293)
+[2023.01.12-16.18.36:498][639]LogModuleManager: Shutting down and abandoning module GameplayCameras (290)
+[2023.01.12-16.18.36:498][639]LogModuleManager: Shutting down and abandoning module Paper2D (288)
+[2023.01.12-16.18.36:498][639]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (286)
+[2023.01.12-16.18.36:499][639]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (284)
+[2023.01.12-16.18.36:499][639]LogModuleManager: Shutting down and abandoning module AndroidFileServer (282)
+[2023.01.12-16.18.36:499][639]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (280)
+[2023.01.12-16.18.36:499][639]LogModuleManager: Shutting down and abandoning module PacketHandler (278)
+[2023.01.12-16.18.36:499][639]LogModuleManager: Shutting down and abandoning module AnimationDataController (276)
+[2023.01.12-16.18.36:499][639]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (274)
+[2023.01.12-16.18.36:499][639]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (272)
+[2023.01.12-16.18.36:499][639]LogModuleManager: Shutting down and abandoning module MediaAssets (270)
+[2023.01.12-16.18.36:499][639]LogModuleManager: Shutting down and abandoning module Overlay (268)
+[2023.01.12-16.18.36:499][639]LogModuleManager: Shutting down and abandoning module OverlayEditor (267)
+[2023.01.12-16.18.36:499][639]LogModuleManager: Shutting down and abandoning module VREditor (264)
+[2023.01.12-16.18.36:499][639]LogModuleManager: Shutting down and abandoning module StringTableEditor (262)
+[2023.01.12-16.18.36:499][639]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (260)
+[2023.01.12-16.18.36:499][639]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (258)
+[2023.01.12-16.18.36:499][639]LogModuleManager: Shutting down and abandoning module FunctionalTesting (256)
+[2023.01.12-16.18.36:499][639]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (254)
+[2023.01.12-16.18.36:499][639]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (253)
+[2023.01.12-16.18.36:499][639]LogModuleManager: Shutting down and abandoning module UMG (250)
+[2023.01.12-16.18.36:499][639]LogModuleManager: Shutting down and abandoning module UMGEditor (249)
+[2023.01.12-16.18.36:499][639]LogModuleManager: Shutting down and abandoning module SlateReflector (244)
+[2023.01.12-16.18.36:499][639]LogModuleManager: Shutting down and abandoning module Slate (242)
+[2023.01.12-16.18.36:499][639]LogModuleManager: Shutting down and abandoning module SlateCore (240)
+[2023.01.12-16.18.36:500][639]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (238)
+[2023.01.12-16.18.36:500][639]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (236)
+[2023.01.12-16.18.36:500][639]LogModuleManager: Shutting down and abandoning module UnrealEd (234)
+[2023.01.12-16.18.36:500][639]LogModuleManager: Shutting down and abandoning module MRMesh (232)
+[2023.01.12-16.18.36:500][639]LogModuleManager: Shutting down and abandoning module Messaging (230)
+[2023.01.12-16.18.36:500][639]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (228)
+[2023.01.12-16.18.36:500][639]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (226)
+[2023.01.12-16.18.36:500][639]LogModuleManager: Shutting down and abandoning module Networking (224)
+[2023.01.12-16.18.36:500][639]LogModuleManager: Shutting down and abandoning module Core (222)
+[2023.01.12-16.18.36:500][639]LogModuleManager: Shutting down and abandoning module MaterialEditor (220)
+[2023.01.12-16.18.36:500][639]LogModuleManager: Shutting down and abandoning module MovieSceneTools (218)
+[2023.01.12-16.18.36:500][639]LogModuleManager: Shutting down and abandoning module CurveEditor (217)
+[2023.01.12-16.18.36:500][639]LogModuleManager: Shutting down and abandoning module Sequencer (215)
+[2023.01.12-16.18.36:500][639]LogModuleManager: Shutting down and abandoning module EditorStyle (214)
+[2023.01.12-16.18.36:500][639]LogModuleManager: Shutting down and abandoning module KismetCompiler (210)
+[2023.01.12-16.18.36:500][639]LogModuleManager: Shutting down and abandoning module MeshBuilder (208)
+[2023.01.12-16.18.36:500][639]LogModuleManager: Shutting down and abandoning module NaniteBuilder (206)
+[2023.01.12-16.18.36:500][639]LogModuleManager: Shutting down and abandoning module MeshUtilities (204)
+[2023.01.12-16.18.36:500][639]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (203)
+[2023.01.12-16.18.36:500][639]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (202)
+[2023.01.12-16.18.36:500][639]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (201)
+[2023.01.12-16.18.36:500][639]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (199)
+[2023.01.12-16.18.36:500][639]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (197)
+[2023.01.12-16.18.36:500][639]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (195)
+[2023.01.12-16.18.36:500][639]LogModuleManager: Shutting down and abandoning module MaterialBaking (191)
+[2023.01.12-16.18.36:500][639]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (186)
+[2023.01.12-16.18.36:500][639]LogModuleManager: Shutting down and abandoning module DerivedDataCache (184)
+[2023.01.12-16.18.36:502][639]LogModuleManager: Shutting down and abandoning module TargetPlatform (182)
+[2023.01.12-16.18.36:502][639]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (181)
+[2023.01.12-16.18.36:502][639]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (179)
+[2023.01.12-16.18.36:502][639]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (177)
+[2023.01.12-16.18.36:502][639]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (175)
+[2023.01.12-16.18.36:502][639]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (173)
+[2023.01.12-16.18.36:502][639]LogModuleManager: Shutting down and abandoning module AudioFormatBink (171)
+[2023.01.12-16.18.36:502][639]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (169)
+[2023.01.12-16.18.36:502][639]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (167)
+[2023.01.12-16.18.36:502][639]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (165)
+[2023.01.12-16.18.36:502][639]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (163)
+[2023.01.12-16.18.36:502][639]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (161)
+[2023.01.12-16.18.36:502][639]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (159)
+[2023.01.12-16.18.36:502][639]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (157)
+[2023.01.12-16.18.36:502][639]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (155)
+[2023.01.12-16.18.36:503][639]LogModuleManager: Shutting down and abandoning module HoloLensTargetPlatform (153)
+[2023.01.12-16.18.36:503][639]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (151)
+[2023.01.12-16.18.36:503][639]LogModuleManager: Shutting down and abandoning module TextureFormat (149)
+[2023.01.12-16.18.36:503][639]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (148)
+[2023.01.12-16.18.36:503][639]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (146)
+[2023.01.12-16.18.36:503][639]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (144)
+[2023.01.12-16.18.36:503][639]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (142)
+[2023.01.12-16.18.36:503][639]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (140)
+[2023.01.12-16.18.36:503][639]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (138)
+[2023.01.12-16.18.36:503][639]LogModuleManager: Shutting down and abandoning module ImageWrapper (137)
+[2023.01.12-16.18.36:503][639]LogModuleManager: Shutting down and abandoning module TurnkeySupport (133)
+[2023.01.12-16.18.36:503][639]LogModuleManager: Shutting down and abandoning module InputCore (130)
+[2023.01.12-16.18.36:503][639]LogModuleManager: Shutting down and abandoning module Settings (128)
+[2023.01.12-16.18.36:503][639]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (126)
+[2023.01.12-16.18.36:503][639]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (124)
+[2023.01.12-16.18.36:503][639]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (123)
+[2023.01.12-16.18.36:503][639]LogModuleManager: Shutting down and abandoning module Chaos (120)
+[2023.01.12-16.18.36:503][639]LogModuleManager: Shutting down and abandoning module GeometryCore (119)
+[2023.01.12-16.18.36:503][639]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (116)
+[2023.01.12-16.18.36:503][639]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (115)
+[2023.01.12-16.18.36:503][639]LogModuleManager: Shutting down and abandoning module AVEncoder (114)
+[2023.01.12-16.18.36:503][639]LogModuleManager: Shutting down and abandoning module D3D11RHI (110)
+[2023.01.12-16.18.36:503][639]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (108)
+[2023.01.12-16.18.36:503][639]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (106)
+[2023.01.12-16.18.36:503][639]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (104)
+[2023.01.12-16.18.36:503][639]LogModuleManager: Shutting down and abandoning module HairStrandsCore (102)
+[2023.01.12-16.18.36:503][639]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (100)
+[2023.01.12-16.18.36:503][639]LogModuleManager: Shutting down and abandoning module ChunkDownloader (98)
+[2023.01.12-16.18.36:503][639]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (96)
+[2023.01.12-16.18.36:503][639]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (94)
+[2023.01.12-16.18.36:503][639]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (92)
+[2023.01.12-16.18.36:504][639]LogModuleManager: Shutting down and abandoning module XMPP (87)
+[2023.01.12-16.18.36:504][639]LogModuleManager: Shutting down and abandoning module WebSockets (86)
+[2023.01.12-16.18.36:525][639]LogModuleManager: Shutting down and abandoning module HTTP (83)
+[2023.01.12-16.18.36:526][639]LogHttp: Warning: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2023.01.12-16.18.36:526][639]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB0AD3F73-4E9D-DE93-471D-61BC4BBD1F78%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=6b9447eb4704a1ce7f60438d84dac9f3%7C%7C6bf7ce77-f595-488b-9ab1-40f3a0042457&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2023.01.12-16.18.36:526][639]LogHttp: Warning: Cleaning up 1 outstanding Http requests.
+[2023.01.12-16.18.36:544][639]LogModuleManager: Shutting down and abandoning module SSL (82)
+[2023.01.12-16.18.36:546][639]LogModuleManager: Shutting down and abandoning module WmfMedia (78)
+[2023.01.12-16.18.36:551][639]LogModuleManager: Shutting down and abandoning module Media (77)
+[2023.01.12-16.18.36:553][639]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (74)
+[2023.01.12-16.18.36:553][639]LogModuleManager: Shutting down and abandoning module ChaosCloth (72)
+[2023.01.12-16.18.36:553][639]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (70)
+[2023.01.12-16.18.36:553][639]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (68)
+[2023.01.12-16.18.36:553][639]LogModuleManager: Shutting down and abandoning module NiagaraShader (66)
+[2023.01.12-16.18.36:553][639]LogModuleManager: Shutting down and abandoning module DatasmithContent (64)
+[2023.01.12-16.18.36:554][639]LogModuleManager: Shutting down and abandoning module VariantManagerContent (62)
+[2023.01.12-16.18.36:554][639]LogModuleManager: Shutting down and abandoning module PixWinPlugin (60)
+[2023.01.12-16.18.36:554][639]LogModuleManager: Shutting down and abandoning module AISupportModule (58)
+[2023.01.12-16.18.36:554][639]LogModuleManager: Shutting down and abandoning module DesktopPlatform (56)
+[2023.01.12-16.18.36:554][639]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (54)
+[2023.01.12-16.18.36:554][639]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (52)
+[2023.01.12-16.18.36:554][639]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (50)
+[2023.01.12-16.18.36:554][639]LogModuleManager: Shutting down and abandoning module PlatformCrypto (48)
+[2023.01.12-16.18.36:554][639]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (46)
+[2023.01.12-16.18.36:554][639]LogModuleManager: Shutting down and abandoning module SourceControl (45)
+[2023.01.12-16.18.36:554][639]LogModuleManager: Shutting down and abandoning module XGEController (42)
+[2023.01.12-16.18.36:554][639]LogXGEController: Cleaning working directory: C:/Users/s017186k/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2023.01.12-16.18.36:555][639]LogModuleManager: Shutting down and abandoning module FastBuildController (40)
+[2023.01.12-16.18.36:555][639]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2023.01.12-16.18.36:555][639]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2023.01.12-16.18.36:555][639]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2023.01.12-16.18.36:555][639]LogModuleManager: Shutting down and abandoning module Virtualization (32)
+[2023.01.12-16.18.36:555][639]LogModuleManager: Shutting down and abandoning module MessageLog (31)
+[2023.01.12-16.18.36:555][639]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2023.01.12-16.18.36:555][639]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2023.01.12-16.18.36:556][639]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2023.01.12-16.18.36:556][639]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2023.01.12-16.18.36:557][639]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2023.01.12-16.18.36:557][639]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2023.01.12-16.18.36:557][639]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2023.01.12-16.18.36:557][639]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2023.01.12-16.18.36:557][639]LogModuleManager: Shutting down and abandoning module SandboxFile (12)
+[2023.01.12-16.18.36:557][639]LogModuleManager: Shutting down and abandoning module PakFile (10)
+[2023.01.12-16.18.36:557][639]LogModuleManager: Shutting down and abandoning module RSA (9)
+[2023.01.12-16.18.36:557][639]LogModuleManager: Shutting down and abandoning module NetworkFile (6)
+[2023.01.12-16.18.36:557][639]LogModuleManager: Shutting down and abandoning module StreamingFile (4)
+[2023.01.12-16.18.36:557][639]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2023.01.12-16.18.36:584][639]LogD3D11RHI: Shutdown
+[2023.01.12-16.18.36:584][639]LogD3D11RHI: CleanupD3DDevice
+[2023.01.12-16.18.36:587][639]LogExit: Exiting.
+[2023.01.12-16.18.36:600][639]Log file closed, 01/12/23 16:18:36
