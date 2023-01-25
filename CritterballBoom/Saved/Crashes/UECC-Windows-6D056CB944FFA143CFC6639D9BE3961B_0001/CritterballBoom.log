@@ -1,0 +1,1246 @@
+﻿Log file open, 01/25/23 18:37:19
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=46640)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CritterballBoom
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:\Users\mathu\Documents\GitHub\Group12_COLLAB\CritterballBoom\CritterballBoom.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (22H2) [10.0.22621.963] "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 9 5900X 12-Core Processor"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="fe81509246600c89f12183b083387d77"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.815612
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-6D056CB944FFA143CFC6639D9BE3961B
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading IOS ini files took 0.03 seconds
+LogConfig: Display: Loading Mac ini files took 0.03 seconds
+LogConfig: Display: Loading Android ini files took 0.03 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.03 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.03 seconds
+LogConfig: Display: Loading TVOS ini files took 0.03 seconds
+LogConfig: Display: Loading Windows ini files took 0.04 seconds
+LogConfig: Display: Loading Unix ini files took 0.04 seconds
+LogConfig: Display: Loading Linux ini files took 0.04 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.04 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (22H2) [10.0.22621.963] (), CPU: AMD Ryzen 9 5900X 12-Core Processor            , GPU: NVIDIA GeForce RTX 3070
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.01.25-18.37.19:428][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.01.25-18.37.19:428][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.01.25-18.37.19:428][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.01.25-18.37.19:428][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.01.25-18.37.19:428][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.01.25-18.37.19:428][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.01.25-18.37.19:428][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.01.25-18.37.19:428][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.01.25-18.37.19:428][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.01.25-18.37.19:428][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.01.25-18.37.19:428][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.01.25-18.37.19:428][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.01.25-18.37.19:428][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.01.25-18.37.19:428][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.01.25-18.37.19:428][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.01.25-18.37.19:428][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.01.25-18.37.19:428][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.01.25-18.37.19:428][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.01.25-18.37.19:428][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.01.25-18.37.19:428][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.01.25-18.37.19:429][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.01.25-18.37.19:429][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.01.25-18.37.19:429][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.01.25-18.37.19:429][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.01.25-18.37.19:429][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.01.25-18.37.19:429][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.01.25-18.37.19:429][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.01.25-18.37.19:429][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.01.25-18.37.19:429][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.01.25-18.37.19:429][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.01.25-18.37.19:429][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.01.25-18.37.19:429][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.01.25-18.37.19:429][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.01.25-18.37.19:429][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.01.25-18.37.19:429][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.01.25-18.37.19:429][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.01.25-18.37.19:429][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.01.25-18.37.19:429][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.01.25-18.37.19:429][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.01.25-18.37.19:429][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.01.25-18.37.19:429][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.01.25-18.37.19:429][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.01.25-18.37.19:429][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.01.25-18.37.19:429][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.01.25-18.37.19:429][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.01.25-18.37.19:429][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.01.25-18.37.19:429][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.01.25-18.37.19:429][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.01.25-18.37.19:429][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.01.25-18.37.19:429][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.01.25-18.37.19:429][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.01.25-18.37.19:429][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.01.25-18.37.19:429][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.01.25-18.37.19:429][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.01.25-18.37.19:429][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.01.25-18.37.19:429][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.01.25-18.37.19:429][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.01.25-18.37.19:431][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.01.25-18.37.19:431][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.01.25-18.37.19:431][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.01.25-18.37.19:431][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.01.25-18.37.19:431][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.01.25-18.37.19:431][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.01.25-18.37.19:431][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.01.25-18.37.19:431][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.01.25-18.37.19:431][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.01.25-18.37.19:431][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.01.25-18.37.19:431][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.01.25-18.37.19:447][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.01.25-18.37.19:449][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.01.25-18.37.19:449][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_1
+[2023.01.25-18.37.19:449][  0]LogD3D11RHI: D3D11 adapters:
+[2023.01.25-18.37.19:449][  0]LogD3D11RHI: Testing D3D11 Adapter 0:
+[2023.01.25-18.37.19:449][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3070
+[2023.01.25-18.37.19:449][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.01.25-18.37.19:449][  0]LogD3D11RHI:     DeviceId    : 2488
+[2023.01.25-18.37.19:449][  0]LogD3D11RHI:     SubSysId    : 39091462
+[2023.01.25-18.37.19:449][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.01.25-18.37.19:449][  0]LogD3D11RHI:     DedicatedVideoMemory : 8433696768 bytes
+[2023.01.25-18.37.19:449][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.01.25-18.37.19:449][  0]LogD3D11RHI:     SharedSystemMemory : 17140731904 bytes
+[2023.01.25-18.37.19:449][  0]LogD3D11RHI:     AdapterLuid : 0 59853
+[2023.01.25-18.37.19:536][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3070' (Feature Level 11_1)
+[2023.01.25-18.37.19:536][  0]LogD3D11RHI:       8043/0/16346 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2023.01.25-18.37.19:536][  0]LogD3D11RHI: Testing D3D11 Adapter 1:
+[2023.01.25-18.37.19:536][  0]LogD3D11RHI:     Description : Microsoft Basic Render Driver
+[2023.01.25-18.37.19:536][  0]LogD3D11RHI:     VendorId    : 1414
+[2023.01.25-18.37.19:536][  0]LogD3D11RHI:     DeviceId    : 008c
+[2023.01.25-18.37.19:536][  0]LogD3D11RHI:     SubSysId    : 0000
+[2023.01.25-18.37.19:536][  0]LogD3D11RHI:     Revision    : 0000
+[2023.01.25-18.37.19:536][  0]LogD3D11RHI:     DedicatedVideoMemory : 0 bytes
+[2023.01.25-18.37.19:536][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.01.25-18.37.19:536][  0]LogD3D11RHI:     SharedSystemMemory : 17140731904 bytes
+[2023.01.25-18.37.19:536][  0]LogD3D11RHI:     AdapterLuid : 0 63328
+[2023.01.25-18.37.19:538][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_1)
+[2023.01.25-18.37.19:538][  0]LogD3D11RHI:       0/0/16346 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.01.25-18.37.19:538][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.01.25-18.37.19:538][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3070
+[2023.01.25-18.37.19:538][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.01.25-18.37.19:538][  0]LogD3D11RHI:     DeviceId    : 2488
+[2023.01.25-18.37.19:538][  0]LogD3D11RHI:     SubSysId    : 39091462
+[2023.01.25-18.37.19:538][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.01.25-18.37.19:538][  0]LogD3D11RHI:     DedicatedVideoMemory : 8433696768 bytes
+[2023.01.25-18.37.19:538][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.01.25-18.37.19:538][  0]LogD3D11RHI:     SharedSystemMemory : 17140731904 bytes
+[2023.01.25-18.37.19:538][  0]LogD3D11RHI:     AdapterLuid : 0 59853
+[2023.01.25-18.37.19:538][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.01.25-18.37.19:538][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.01.25-18.37.19:538][  0]LogHAL: Display: Platform has ~ 32 GB [34281463808 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.01.25-18.37.19:538][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.01.25-18.37.19:538][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.01.25-18.37.19:539][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.01.25-18.37.19:539][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.01.25-18.37.19:539][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/mathu/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Config/WindowsEditor/Editor.ini]
+[2023.01.25-18.37.19:539][  0]LogInit: Computer: MAUSE
+[2023.01.25-18.37.19:539][  0]LogInit: User: mathu
+[2023.01.25-18.37.19:539][  0]LogInit: CPU Page size=4096, Cores=12
+[2023.01.25-18.37.19:539][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.01.25-18.37.19:539][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2023.01.25-18.37.19:539][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.01.25-18.37.19:539][  0]LogMemory: Process Physical Memory: 284.60 MB used, 291.26 MB peak
+[2023.01.25-18.37.19:539][  0]LogMemory: Process Virtual Memory: 266.25 MB used, 266.25 MB peak
+[2023.01.25-18.37.19:539][  0]LogMemory: Physical Memory: 13978.57 MB used,  18714.78 MB free, 32693.35 MB total
+[2023.01.25-18.37.19:539][  0]LogMemory: Virtual Memory: 32580.80 MB used,  8999.90 MB free, 41580.70 MB total
+[2023.01.25-18.37.19:539][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.01.25-18.37.19:547][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.01.25-18.37.19:561][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.01.25-18.37.19:564][  0]LogInit: Using OS detected language (en-GB).
+[2023.01.25-18.37.19:564][  0]LogInit: Using OS detected locale (en-GB).
+[2023.01.25-18.37.19:569][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so 'en' will be used for the language.
+[2023.01.25-18.37.19:687][  0]LogInit: Setting process to per monitor DPI aware
+[2023.01.25-18.37.19:701][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.01.25-18.37.19:701][  0]LogWindowsTextInputMethodSystem:   - English (United Kingdom) - (Keyboard).
+[2023.01.25-18.37.19:701][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2023.01.25-18.37.19:702][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2023.01.25-18.37.19:717][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.01.25-18.37.19:717][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.01.25-18.37.19:839][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.01.25-18.37.19:839][  0]LogD3D11RHI:     GPU DeviceId: 0x2488 (for the marketing name, search the web for "GPU Device Id")
+[2023.01.25-18.37.19:839][  0]LogWindows: Attached monitors:
+[2023.01.25-18.37.19:839][  0]LogWindows:     resolution: 3840x2160, work area: (0, 0) -> (3840, 2088), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.01.25-18.37.19:839][  0]LogWindows:     resolution: 1920x1080, work area: (-1920, 130) -> (0, 1162), device: '\\.\DISPLAY2'
+[2023.01.25-18.37.19:839][  0]LogWindows: Found 2 attached monitors.
+[2023.01.25-18.37.19:839][  0]LogWindows: EnumDisplayDevices:
+[2023.01.25-18.37.19:839][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3070' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.01.25-18.37.19:839][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3070' (P:0 D:1), name: '\\.\DISPLAY2'
+[2023.01.25-18.37.19:839][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3070' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.01.25-18.37.19:840][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3070' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.01.25-18.37.19:840][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.01.25-18.37.19:840][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3070
+[2023.01.25-18.37.19:840][  0]LogD3D11RHI:   Driver Version: 512.59 (internal:30.0.15.1259, unified:512.59)
+[2023.01.25-18.37.19:840][  0]LogD3D11RHI:      Driver Date: 4-20-2022
+[2023.01.25-18.37.19:840][  0]LogRHI: Texture pool is 5630 MB (70% of 8043 MB)
+[2023.01.25-18.37.19:840][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2023.01.25-18.37.19:840][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3070
+[2023.01.25-18.37.19:840][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.01.25-18.37.19:840][  0]LogD3D11RHI:     DeviceId    : 2488
+[2023.01.25-18.37.19:840][  0]LogD3D11RHI:     SubSysId    : 39091462
+[2023.01.25-18.37.19:840][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.01.25-18.37.19:840][  0]LogD3D11RHI:     DedicatedVideoMemory : 8433696768 bytes
+[2023.01.25-18.37.19:840][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.01.25-18.37.19:840][  0]LogD3D11RHI:     SharedSystemMemory : 17140731904 bytes
+[2023.01.25-18.37.19:840][  0]LogD3D11RHI:     AdapterLuid : 0 59853
+[2023.01.25-18.37.19:883][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.01.25-18.37.19:884][  0]LogD3D11RHI: Async texture creation enabled
+[2023.01.25-18.37.19:884][  0]LogD3D11RHI: D3D11_MAP_WRITE_NO_OVERWRITE for dynamic buffer SRVs is supported
+[2023.01.25-18.37.19:884][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.01.25-18.37.19:885][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061082).
+[2023.01.25-18.37.19:899][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2023.01.25-18.37.19:921][  0]LogRHI: GeForceNow SDK initialized: 1
+[2023.01.25-18.37.19:926][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/mathu/Documents/GitHub/Group12_COLLAB/CritterballBoom/CritterballBoom.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/mathu/Documents/GitHub/Group12_COLLAB/CritterballBoom/Intermediate/TurnkeyReport_0.log" -log="C:/Users/mathu/Documents/GitHub/Group12_COLLAB/CritterballBoom/Intermediate/TurnkeyLog_0.log" -project="C:/Users/mathu/Documents/GitHub/Group12_COLLAB/CritterballBoom/CritterballBoom.uproject"  -platform=all'
+[2023.01.25-18.37.19:926][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/mathu/Documents/GitHub/Group12_COLLAB/CritterballBoom/CritterballBoom.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/mathu/Documents/GitHub/Group12_COLLAB/CritterballBoom/Intermediate/TurnkeyReport_0.log" -log="C:/Users/mathu/Documents/GitHub/Group12_COLLAB/CritterballBoom/Intermediate/TurnkeyLog_0.log" -project="C:/Users/mathu/Documents/GitHub/Group12_COLLAB/CritterballBoom/CritterballBoom.uproject"  -platform=all" ]
+[2023.01.25-18.37.19:949][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.01.25-18.37.19:959][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.01.25-18.37.19:959][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.01.25-18.37.19:959][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.01.25-18.37.19:959][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.01.25-18.37.19:959][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.01.25-18.37.19:959][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.01.25-18.37.19:959][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.01.25-18.37.19:959][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.01.25-18.37.19:959][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.01.25-18.37.19:959][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.01.25-18.37.19:976][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.01.25-18.37.19:976][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.01.25-18.37.19:981][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.01.25-18.37.19:981][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.01.25-18.37.19:984][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.01.25-18.37.19:984][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.01.25-18.37.19:984][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.01.25-18.37.19:984][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.01.25-18.37.19:986][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.01.25-18.37.19:986][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.01.25-18.37.19:986][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.01.25-18.37.19:989][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.01.25-18.37.19:989][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.01.25-18.37.19:994][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.01.25-18.37.19:994][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.01.25-18.37.19:994][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.01.25-18.37.19:994][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.01.25-18.37.19:994][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.01.25-18.37.20:001][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.01.25-18.37.20:003][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.01.25-18.37.20:003][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.01.25-18.37.20:003][  0]LogTargetPlatformManager:   ADPCM
+[2023.01.25-18.37.20:003][  0]LogTargetPlatformManager:   PCM
+[2023.01.25-18.37.20:007][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.01.25-18.37.20:007][  0]LogTargetPlatformManager:   BINKA
+[2023.01.25-18.37.20:007][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.01.25-18.37.20:007][  0]LogTargetPlatformManager:   OGG
+[2023.01.25-18.37.20:007][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.01.25-18.37.20:007][  0]LogTargetPlatformManager:   OPUS
+[2023.01.25-18.37.20:042][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.01.25-18.37.20:042][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.01.25-18.37.20:047][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.01.25-18.37.20:047][  0]LogTargetPlatformManager:   SF_METAL
+[2023.01.25-18.37.20:047][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.01.25-18.37.20:047][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.01.25-18.37.20:047][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.01.25-18.37.20:047][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.01.25-18.37.20:047][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.01.25-18.37.20:047][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.01.25-18.37.20:047][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.01.25-18.37.20:047][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.01.25-18.37.20:047][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.01.25-18.37.20:047][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.01.25-18.37.20:047][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.01.25-18.37.20:047][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.01.25-18.37.20:047][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.01.25-18.37.20:047][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.01.25-18.37.20:050][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.01.25-18.37.20:050][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.01.25-18.37.20:050][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.01.25-18.37.20:050][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.01.25-18.37.20:050][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.01.25-18.37.20:050][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.01.25-18.37.20:050][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.01.25-18.37.20:050][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.01.25-18.37.20:050][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/mathu/Documents/GitHub/Group12_COLLAB/CritterballBoom/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.01.25-18.37.20:051][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.01.25-18.37.20:051][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/mathu/Documents/GitHub/Group12_COLLAB/CritterballBoom/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.01.25-18.37.20:051][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.01.25-18.37.20:053][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/mathu/Documents/GitHub/Group12_COLLAB/CritterballBoom/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.01.25-18.37.20:053][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.01.25-18.37.20:053][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/mathu/Documents/GitHub/Group12_COLLAB/CritterballBoom/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.01.25-18.37.20:053][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.01.25-18.37.20:071][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.01.25-18.37.20:071][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.01.25-18.37.20:071][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.01.25-18.37.20:079][  0]LogDerivedDataCache: Speed tests for C:/Users/mathu/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.01.25-18.37.20:079][  0]LogDerivedDataCache: Display: Performance to C:/Users/mathu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=326.21MBs, RandomWriteSpeed=205.66MBs. Assigned SpeedClass 'Local'
+[2023.01.25-18.37.20:080][  0]LogDerivedDataCache: Using Local data cache path C:/Users/mathu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.01.25-18.37.20:080][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.01.25-18.37.20:080][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.01.25-18.37.20:085][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.01.25-18.37.20:085][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.01.25-18.37.20:086][  0]LogShaderCompilers: Guid format shader working directory is -32 characters bigger than the processId version (../../../../../../Users/mathu/Documents/GitHub/Group12_COLLAB/CritterballBoom/Intermediate/Shaders/WorkingDirectory/42400/).
+[2023.01.25-18.37.20:086][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/mathu/AppData/Local/Temp/UnrealShaderWorkingDir/6F13E5704D3354A39057558F93E19C29/'.
+[2023.01.25-18.37.20:086][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.01.25-18.37.20:086][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 12 workers.
+[2023.01.25-18.37.21:149][  0]LogSlate: Using FreeType 2.10.0
+[2023.01.25-18.37.21:149][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.01.25-18.37.21:177][  0]LogAssetRegistry: FAssetRegistry took 0.0112 seconds to start up
+[2023.01.25-18.37.21:182][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.01.25-18.37.21:371][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.01.25-18.37.21:372][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.01.25-18.37.21:615][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.01.25-18.37.21:615][  0]LogDeviceProfileManager: Active device profile: [00000B26A5C22D80][00000B2676A7C800 50] WindowsEditor
+[2023.01.25-18.37.21:615][  0]LogDeviceProfileManager: Profiles: [00000B26A5C22840][00000B2696CB2800 50] Windows, [00000B26A5C22D80][00000B2676A7C800 50] WindowsEditor, [00000B26A5C21F80][00000B269772A000 50] WindowsServer, [00000B26A5C21DC0][00000B2697772800 50] WindowsClient, [00000B26A5C21C00][00000B26A5C40000 50] IOS, [00000B26A5C21A40][00000B26A5C45000 50] iPadAir2, [00000B26A5C25400][00000B26A5C4A000 50] IPadPro, [00000B26A5C25780][00000B26A5C47800 50] iPadAir3, [00000B26A5C23640][00000B26A5C4C800 50] iPadAir4, [00000B26A5C22300][00000B2693FFA000 50] iPadMini4, [00000B26A5C24600][00000B26A5C60000 50] iPadMini5, [00000B26A5C201C0][00000B26A5C65000 50] iPadMini6, [00000B26A5C28500][00000B26A5C6C800 50] iPhone6S, [00000B26A5C28880][00000B26A5C6A000 50] iPhone7, [00000B26A5C28C00][00000B26A5C67800 50] iPodTouch7, [00000B26A5C26200][00000B26A5C42800 50] iPhone6SPlus, [00000B26A5C208C0][00000B26A5C70000 50] iPhone7Plus, [00000B26A5C24EC0][00000B26A5C75000 50] iPhoneSE, [00000B26A5C27380][00000B26A5C77800 50] iPhone8, [00000B26A5C24280][00000B26A5C7A000 50] iPhone8Plus, [00000B26A5C25080][00000B26A5C7C800 50] iPhoneX, [00000B26A5C25E80][00000B26A5C62800 50] iPhoneXS, [00000B26A5C24980][00000B26A5C80000 50] iPhoneXSMax, [00000B26A5C247C0][00000B26A5C85000 50] iPhoneXR, [00000B26A5C28340][00000B26A5C87800 50] iPhone11, [00000B26A5C20000][00000B26A5C8A000 50] iPhone11Pro, [00000B26A5C22BC0][00000B26A5C8C800 50] iPhone11ProMax, [00000B26A5C21500][00000B26A5C72800 50] iPhoneSE2, [00000B26A5C27000][00000B26A5C90000 50] iPhone12Mini, [00000B26A5C21180][00000B26A5C95000 50] iPhone12, [00000B26A5C263C0][00000B26A5C97800 50] iPhone12Pro, [00000B26A5C224C0][00000B26A5C9A000 50] iPhone12ProMax, [00000B26A5C26580][00000B26A5C9C800 50] iPhone13Mini, [00000B26A5C24B40][00000B26A5C82800 50] iPhone13, [00000B26A5C23D40][00000B26A5BE0000 50] iPhone13Pro, [00000B26A5C22140][00000B26A5BE5000 50] iPhone13ProMax, [00000B26A5C27E00][00000B26A5BE7800 50] iPadPro105, [00000B26A5C20700][00000B26A5BEA000 50] iPadPro129, [00000B26A5C25940][00000B26A5BEC800 50] iPadPro97, [00000B26A5C21340][00000B26A5C92800 50] iPadPro2_129, [00000B26A5C22F40][00000B26A5CC0000 50] iPad5, [00000B26A5C26740][00000B26A5CC5000 50] iPad6, [00000B26A5C23480][00000B26A5CC7800 50] iPad7, [00000B26A5C27540][00000B26A5CCA000 50] iPad8, [00000B26A5C23F00][00000B26A5CCC800 50] iPad9, [00000B26A5C278C0][00000B26A5BE2800 50] iPadPro11, [00000B26A5C26040][00000B26A5CD0000 50] iPadPro2_11, [00000B26A5C25CC0][00000B26A5CD5000 50] iPadPro3_11, [00000B26A5C27C40][00000B26A5CD7800 50] iPadPro3_129, [00000B26A5C27700][00000B26A5CDA000 50] iPadPro4_129, [00000B26A5C20FC0][00000B26A5CDC800 50] iPadPro5_129, [00000B26A5C20380][00000B26A5CC2800 50] AppleTV, [00000B26A5C27FC0][00000B26A5CE0000 50] AppleTV4K, [00000B26A5C20E00][00000B26A5CE5000 50] TVOS, [00000B26A5C2A480][00000B26A5CEA000 50] Mac, [00000B26A5C2A800][00000B26A5CE7800 50] MacEditor, [00000B26A5C24440][00000B26A5CEC800 50] MacClient, [00000B26A5C23100][00000B26A5CD2800 50] MacServer, [00000B26A5C240C0][00000B26A5CF2800 50] Linux, [00000B26A5C28DC0][00000B26A5CF0000 50] LinuxEditor, [00000B26A5C29680][00000B26A5CF7800 50] LinuxArm64Editor, [00000B26A5C255C0][00000B26A5CFA000 50] LinuxArm64, [00000B26A5C29D80][00000B26A5CFC800 50] LinuxClient, [00000B26A5C20A80][00000B26A5CE2800 50] LinuxArm64Client, [00000B26A5C286C0][00000B26A5D00000 50] LinuxServer, [00000B26A5C29840][00000B26A5D05000 50] LinuxArm64Server, [00000B26A5C2AB80][00000B26A5D07800 50] Android, [00000B26A5C25240][00000B26A5D0A000 50] Android_Preview_OpenGL, [00000B26A5C28180][00000B26A5D0C800 50] Android_Preview_Vulkan, [00000B26A5C29BC0][00000B26A5CF5000 50] Android_Low, [00000B26A5C28A40][00000B26A5D10000 50] Android_Mid, [00000B26A5C2A100][00000B26A5D15000 50] Android_High, [00000B26A5C29F40][00000B26A5D17800 50] Android_Default, [00000B26A5C29A00][00000B26A5D1A000 50] Android_Adreno4xx, [00000B26A5C29300][00000B26A5D1C800 50] Android_Adreno5xx_Low, [00000B26A5C239C0][00000B26A5D02800 50] Android_Adreno5xx, [00000B26A5C271C0][00000B26A5D20000 50] Android_Adreno6xx, [00000B26A5C26900][00000B26A5D25000 50] Android_Adreno6xx_Vulkan, [00000B26A5C2A9C0][00000B26A5D27800 50] Android_Adreno7xx, [00000B26A5C20C40][00000B26A5D2A000 50] Android_Adreno7xx_Vulkan, [00000B26A5C27A80][00000B26A5D2C800 50] Android_Mali_T6xx, [00000B26A5C2AD40][00000B26A5D12800 50] Android_Mali_T7xx, [00000B26A5C26AC0][00000B26A5D30000 50] Android_Mali_T8xx, [00000B26A5C20540][00000B26A5D35000 50] Android_Mali_G71, [00000B26A5C2AF00][00000B26A5D37800 50] Android_Mali_G72, [00000B26A5C2A2C0][00000B26A5D3A000 50] Android_Mali_G72_Vulkan, [00000B26A5C25B00][00000B26A5D3C800 50] Android_Mali_G76, [00000B26A5C2B0C0][00000B26A5D22800 50] Android_Mali_G76_Vulkan, [00000B26A5C26C80][00000B26A5D40000 50] Android_Mali_G77, [00000B26A5C29140][00000B26A5D45000 50] Android_Mali_G77_Vulkan, [00000B26A5C2BD00][00000B26A5D47800 50] Android_Mali_G78, [00000B26A5C24D00][00000B26A5D4A000 50] Android_Mali_G78_Vulkan, [00000B26A5C2B980][00000B26A5D4C800 50] Android_Mali_G710, [00000B26A5C2BEC0][00000B26A5D32800 50] Android_Mali_G710_Vulkan, [00000B26A5C2B280][00000B26A5D50000 50] Android_Xclipse_920, [00000B26A5C28F80][00000B26A5D55000 50] Android_Xclipse_920_Vulkan, [00000B26A5C2C080][00000B26A5D57800 50] Android_Vulkan_SM5, [00000B26A5C26E40][00000B26A5D5A000 50] Android_PowerVR_G6xxx, [00000B26A5C216C0][00000B26A5D5C800 50] Android_PowerVR_GT7xxx, [00000B26A5C2C240][00000B26A5D42800 50] Android_PowerVR_GE8xxx, [00000B26A5C22680][00000B26A5D60000 50] Android_PowerVR_GM9xxx, [00000B26A5C2CE80][00000B26A5D65000 50] Android_PowerVR_GM9xxx_Vulkan, [00000B26A5C23B80][00000B26A5D67800 50] Android_TegraK1, [00000B26A5C232C0][00000B26A5D6A000 50] Android_Unknown_Vulkan, [00000B26A5C2C400][00000B26A5D6C800 50] Oculus_Quest, [00000B26A5C2D040][00000B26A5D52800 50] Oculus_Quest2, [00000B26A5C2B7C0][00000B26A5D70000 50] HoloLens, 
+[2023.01.25-18.37.21:615][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.01.25-18.37.21:779][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.01.25-18.37.21:779][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.01.25-18.37.21:780][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.01.25-18.37.21:780][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.01.25-18.37.21:780][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.01.25-18.37.21:792][  0]LogNetVersion: CritterballBoom 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 2663492005)
+[2023.01.25-18.37.21:890][  0]LogSlate: Border
+[2023.01.25-18.37.21:890][  0]LogSlate: BreadcrumbButton
+[2023.01.25-18.37.21:890][  0]LogSlate: Default
+[2023.01.25-18.37.21:890][  0]LogSlate: Icons.Save
+[2023.01.25-18.37.21:890][  0]LogSlate: Icons.Toolbar.Settings
+[2023.01.25-18.37.21:890][  0]LogSlate: ListView
+[2023.01.25-18.37.21:890][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.01.25-18.37.21:890][  0]LogSlate: SoftwareCursor_Grab
+[2023.01.25-18.37.21:890][  0]LogSlate: TableView.DarkRow
+[2023.01.25-18.37.21:890][  0]LogSlate: TableView.Row
+[2023.01.25-18.37.21:890][  0]LogSlate: TreeView
+[2023.01.25-18.37.22:032][  0]SourceControl: Source control is disabled
+[2023.01.25-18.37.22:053][  0]SourceControl: Source control is disabled
+[2023.01.25-18.37.22:053][  0]SourceControl: Source control is disabled
+[2023.01.25-18.37.22:145][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.01.25-18.37.22:145][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2023.01.25-18.37.22:145][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.01.25-18.37.22:429][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 7F2A702846F12B6351414681ED38F08C | Instance: 2D7131E44787D3383EB570A769E03A6D (MAUSE-42400).
+[2023.01.25-18.37.22:476][  0]LogPython: Using Python 3.9.7
+[2023.01.25-18.37.23:146][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.01.25-18.37.23:146][  0]LogWindows: Warning: URL: C:/Users/q021572k/AppData/Local/Microsoft/GitHubDesktop/current/resources/app/git/cmd/git.exe version
+[2023.01.25-18.37.23:405][  0]LogOpenImageDenoise: OIDN starting up
+[2023.01.25-18.37.23:425][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.01.25-18.37.23:425][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.01.25-18.37.23:511][  0]LogCollectionManager: Loaded 0 collections in 0.001664 seconds
+[2023.01.25-18.37.23:584][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mathu/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Collections/' took 0.00s
+[2023.01.25-18.37.23:584][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mathu/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Developers/mathu/Collections/' took 0.00s
+[2023.01.25-18.37.23:584][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mathu/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Collections/' took 0.00s
+[2023.01.25-18.37.23:803][  0]LogEngine: Initializing Engine...
+[2023.01.25-18.37.23:813][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.01.25-18.37.23:814][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.01.25-18.37.24:014][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.01.25-18.37.24:014][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.25-18.37.24:024][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.25-18.37.24:048][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.01.25-18.37.24:049][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.01.25-18.37.24:077][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.01.25-18.37.24:078][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.01.25-18.37.24:078][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.01.25-18.37.24:078][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.01.25-18.37.24:078][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.01.25-18.37.24:078][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.25-18.37.24:078][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.25-18.37.24:078][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.25-18.37.24:078][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.25-18.37.24:078][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.25-18.37.24:078][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.25-18.37.24:078][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.25-18.37.24:078][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.25-18.37.24:079][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.25-18.37.24:079][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.25-18.37.24:079][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.25-18.37.24:084][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.25-18.37.24:108][  0]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2023.01.25-18.37.24:109][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.25-18.37.24:111][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.25-18.37.24:111][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.25-18.37.24:111][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.01.25-18.37.24:112][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.01.25-18.37.24:113][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.01.25-18.37.24:113][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.01.25-18.37.24:113][  0]LogInit: FAudioDevice initialized.
+[2023.01.25-18.37.24:113][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.01.25-18.37.24:113][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.01.25-18.37.24:113][  0]LogInit: Texture streaming: Enabled
+[2023.01.25-18.37.24:144][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.01.25-18.37.24:153][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.01.25-18.37.24:154][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={7EBFACA8-420C-F5FB-0FD1-5E96EDFA0D1C}
+[2023.01.25-18.37.24:175][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.01.25-18.37.24:183][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.01.25-18.37.24:183][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.01.25-18.37.25:528][  0]LogLiveCoding: Display: First instance in process group "UE_CritterballBoom_0x02c0d45a", spawning console
+[2023.01.25-18.37.25:528][  0]LogLiveCoding: Display: Waiting for server
+[2023.01.25-18.37.25:528][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.01.25-18.37.25:558][  0]LogInit: Transaction tracking system initialized
+[2023.01.25-18.37.25:579][  0]LogSourceControl: Error: Version number is invalid (file: 1, current: 0).
+[2023.01.25-18.37.25:626][  0]BlueprintLog: New page: Editor Load
+[2023.01.25-18.37.25:792][  0]LocalizationService: Localization service is disabled
+[2023.01.25-18.37.25:831][  0]TimingProfiler: Initialize
+[2023.01.25-18.37.25:831][  0]TimingProfiler: OnSessionChanged
+[2023.01.25-18.37.25:831][  0]LoadingProfiler: Initialize
+[2023.01.25-18.37.25:831][  0]LoadingProfiler: OnSessionChanged
+[2023.01.25-18.37.25:831][  0]NetworkingProfiler: Initialize
+[2023.01.25-18.37.25:831][  0]NetworkingProfiler: OnSessionChanged
+[2023.01.25-18.37.25:831][  0]MemoryProfiler: Initialize
+[2023.01.25-18.37.25:831][  0]MemoryProfiler: OnSessionChanged
+[2023.01.25-18.37.26:346][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mathu/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/' took 0.01s
+[2023.01.25-18.37.26:346][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.01.25-18.37.26:388][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.01.25-18.37.26:390][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.01.25-18.37.26:390][  0]LogWindows: Warning: URL: C:/Users/q021572k/AppData/Local/Microsoft/GitHubDesktop/current/resources/app/git/cmd/git.exe version
+[2023.01.25-18.37.26:495][  0]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.01.25-18.37.29:290][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2023.01.25-18.37.31:850][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2023.01.25-18.37.31:855][  0]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Levels/Bedroom/Set1_Persistant
+[2023.01.25-18.37.31:862][  0]LogUnrealEdMisc: Loading editor; pre map load, took 14.543
+[2023.01.25-18.37.31:863][  0]Cmd: MAP LOAD FILE="../../../../../../Users/mathu/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Levels/Menus/LevelTITLESCREEN_Persistent.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.01.25-18.37.31:863][  0]LightingResults: New page: Lighting Build
+[2023.01.25-18.37.31:869][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.01.25-18.37.31:869][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.25-18.37.31:869][  0]MapCheck: New page: Map Check
+[2023.01.25-18.37.31:869][  0]LightingResults: New page: Lighting Build
+[2023.01.25-18.37.31:875][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.25-18.37.31:877][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.01.25-18.37.31:923][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelTITLESCREEN_Persistent'.
+[2023.01.25-18.37.31:923][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.25-18.37.31:923][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.25-18.37.31:923][  0]LogAIModule: Creating AISystem for world LevelTITLESCREEN_Persistent
+[2023.01.25-18.37.31:926][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.01.25-18.37.31:932][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.01.25-18.37.31:932][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.01.25-18.37.31:932][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.118ms to complete.
+[2023.01.25-18.37.31:932][  0]LogFileHelpers: Loading map 'LevelTITLESCREEN_Persistent' took 0.070
+[2023.01.25-18.37.31:944][  0]LogUnrealEdMisc: Total Editor Startup Time, took 14.624
+[2023.01.25-18.37.31:944][  0]LogShaderCompilers: Display: ================================================
+[2023.01.25-18.37.31:944][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.25-18.37.31:944][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.01.25-18.37.31:944][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.01.25-18.37.31:944][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2023.01.25-18.37.31:944][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.25-18.37.31:944][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.01.25-18.37.31:944][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.01.25-18.37.31:944][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.01.25-18.37.31:944][  0]LogShaderCompilers: Display: ================================================
+[2023.01.25-18.37.32:102][  0]LogBlueprint: Warning: [AssetLog] C:\Users\mathu\Documents\GitHub\Group12_COLLAB\CritterballBoom\Content\Animation\WeasleSwingBP.uasset: [Compiler] Weasle_Swing_Blendspace to HighSwing_Base  will never be taken, please connect something to  Can Enter Transition
+[2023.01.25-18.37.32:103][  0]LogBlueprint: Warning: [AssetLog] C:\Users\mathu\Documents\GitHub\Group12_COLLAB\CritterballBoom\Content\Animation\WeasleSwingBP.uasset: [Compiler] Weasle_Swing_Blendspace to Swing_Low_Full  will never be taken, please connect something to  Can Enter Transition
+[2023.01.25-18.37.32:103][  0]LogBlueprint: Warning: [AssetLog] C:\Users\mathu\Documents\GitHub\Group12_COLLAB\CritterballBoom\Content\Animation\WeasleSwingBP.uasset: [Compiler] Swing_Low_Full to Weasle_Swing_Blendspace  will never be taken, please connect something to  Can Enter Transition
+[2023.01.25-18.37.32:103][  0]LogBlueprint: Warning: [AssetLog] C:\Users\mathu\Documents\GitHub\Group12_COLLAB\CritterballBoom\Content\Animation\WeasleSwingBP.uasset: [Compiler] HighSwing_Base to Weasle_Swing_Blendspace  will never be taken, please connect something to  Can Enter Transition
+[2023.01.25-18.37.32:234][  0]LogLinker: Warning: [AssetLog] C:\Users\mathu\Documents\GitHub\Group12_COLLAB\CritterballBoom\Content\Gameplay\Obstacles\BP_PendulumAxe_SI.uasset: Failed to load '/Game/LevelDesign/s027702k_Mause/All_blockouts/Wardrobe/Shoe_SM': Can't find file.
+[2023.01.25-18.37.32:235][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/LevelDesign/s027702k_Mause/All_blockouts/Wardrobe/Shoe_SM'
+[2023.01.25-18.37.32:481][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.25-18.37.32:484][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.25-18.37.32:488][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.25-18.37.32:492][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.25-18.37.32:537][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.01.25-18.37.32:537][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.25-18.37.32:538][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.01.25-18.37.32:538][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.25-18.37.32:538][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.01.25-18.37.32:538][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.25-18.37.32:539][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.01.25-18.37.32:539][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.25-18.37.32:539][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.01.25-18.37.32:539][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.25-18.37.32:540][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.01.25-18.37.32:540][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.25-18.37.32:540][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.01.25-18.37.32:540][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.25-18.37.32:541][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.01.25-18.37.32:541][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.25-18.37.32:541][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.01.25-18.37.32:541][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.25-18.37.32:542][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.01.25-18.37.32:542][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.25-18.37.32:542][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.01.25-18.37.32:681][  0]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.01.25-18.37.32:682][  0]LogSlate: Took 0.000190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.01.25-18.37.32:698][  0]LogViewport: Scene viewport resized to 3056x1881, mode Windowed.
+[2023.01.25-18.37.32:801][  0]LogStall: Startup...
+[2023.01.25-18.37.32:803][  0]LogStall: Startup complete.
+[2023.01.25-18.37.32:817][  0]LogLoad: (Engine Initialization) Total time: 15.50 seconds
+[2023.01.25-18.37.32:817][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.01.25-18.37.32:906][  0]LogAssetRegistry: Asset discovery search completed in 11.7308 seconds
+[2023.01.25-18.37.32:915][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2023.01.25-18.37.32:941][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.01.25-18.37.32:998][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/mathu/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/' took 0.11s
+[2023.01.25-18.37.35:107][246]LogEditorViewport: Clicking Background
+[2023.01.25-18.37.35:574][300]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.01.25-18.37.35:575][300]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.01.25-18.37.35:580][300]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.01.25-18.37.39:589][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.01.25-18.37.39:739][757]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Bedroom/Set1_Persistant.Set1_Persistant
+[2023.01.25-18.37.39:740][757]Cmd: MAP LOAD FILE="../../../../../../Users/mathu/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Levels/Bedroom/Set1_Persistant.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.01.25-18.37.39:740][757]LightingResults: New page: Lighting Build
+[2023.01.25-18.37.39:740][757]LoadErrors: New page: Loading map: Set1_Persistant.umap
+[2023.01.25-18.37.39:766][757]LogWorld: UWorld::CleanupWorld for LevelTITLESCREEN_Persistent, bSessionEnded=true, bCleanupResources=true
+[2023.01.25-18.37.39:766][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.25-18.37.39:766][757]MapCheck: New page: Map Check
+[2023.01.25-18.37.39:766][757]LightingResults: New page: Lighting Build
+[2023.01.25-18.37.39:771][757]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.25-18.37.39:773][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.01.25-18.37.39:780][757]LogWorld: UWorld::CleanupWorld for Set1_Persistant, bSessionEnded=true, bCleanupResources=true
+[2023.01.25-18.37.39:780][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.25-18.37.39:786][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.01.25-18.37.39:791][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.01.25-18.37.39:800][757]LogAudio: Display: Audio Device (ID: 1) registered with world 'Set1_Persistant'.
+[2023.01.25-18.37.39:800][757]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.25-18.37.39:800][757]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.25-18.37.39:801][757]LogAIModule: Creating AISystem for world Set1_Persistant
+[2023.01.25-18.37.39:819][757]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Bedroom/Stage2/Set1_Hole2_Gameplay) is flushing async loading
+[2023.01.25-18.37.39:819][757]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2023.01.25-18.37.39:826][757]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Bedroom/Stage5/Set1_Hole_5_Gameplay) is flushing async loading
+[2023.01.25-18.37.39:826][757]LogStreaming: Error: Couldn't find file for package /Game/Levels/Bedroom/Stage5/Set1_Hole_5_Gameplay_BuiltData requested by async loading code. NameToLoad: /Game/Levels/Bedroom/Stage5/Set1_Hole_5_Gameplay_BuiltData
+[2023.01.25-18.37.39:827][757]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Bedroom/Stage3/Set1_Hole3_Lighting) is flushing async loading
+[2023.01.25-18.37.39:827][757]LogStreaming: Error: Couldn't find file for package /Game/Levels/Bedroom/Stage3/Set1_Hole3_Lighting_BuiltData requested by async loading code. NameToLoad: /Game/Levels/Bedroom/Stage3/Set1_Hole3_Lighting_BuiltData
+[2023.01.25-18.37.39:828][757]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Bedroom/Stage4/Set1_Hole_4_Lighting) is flushing async loading
+[2023.01.25-18.37.39:828][757]LogStreaming: Error: Couldn't find file for package /Game/Levels/Bedroom/Stage4/Set1_Hole_4_Lighting_BuiltData requested by async loading code. NameToLoad: /Game/Levels/Bedroom/Stage4/Set1_Hole_4_Lighting_BuiltData
+[2023.01.25-18.37.39:829][757]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Gameplay) is flushing async loading
+[2023.01.25-18.37.39:829][757]LogStreaming: Error: Couldn't find file for package /Game/Levels/Bedroom/Stage3/Set1_Hole_3_Gameplay_BuiltData requested by async loading code. NameToLoad: /Game/Levels/Bedroom/Stage3/Set1_Hole_3_Gameplay_BuiltData
+[2023.01.25-18.37.39:830][757]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry) is flushing async loading
+[2023.01.25-18.37.39:939][757]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-18.37.39:949][757]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-18.37.39:950][757]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-18.37.39:950][757]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Bedroom/Stage4/Set1_Hole_4_Gameplay) is flushing async loading
+[2023.01.25-18.37.39:951][757]LogStreaming: Error: Couldn't find file for package /Game/Levels/Bedroom/Stage4/Set1_Hole_4_Gameplay_BuiltData requested by async loading code. NameToLoad: /Game/Levels/Bedroom/Stage4/Set1_Hole_4_Gameplay_BuiltData
+[2023.01.25-18.37.39:953][757]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Bedroom/Stage2/Set1_Hole_2_Geometry) is flushing async loading
+[2023.01.25-18.37.39:985][757]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Bedroom/Stage2/Set1_Hole_2_Lighting) is flushing async loading
+[2023.01.25-18.37.39:985][757]LogStreaming: Error: Couldn't find file for package /Game/Levels/Bedroom/Stage2/Set1_Hole_2_Lighting_BuiltData requested by async loading code. NameToLoad: /Game/Levels/Bedroom/Stage2/Set1_Hole_2_Lighting_BuiltData
+[2023.01.25-18.37.39:989][757]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Bedroom/Stage1/Set1_Hole1_Gameplay) is flushing async loading
+[2023.01.25-18.37.39:993][757]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Bedroom/Stage5/Set1_Hole_5_Lighting) is flushing async loading
+[2023.01.25-18.37.39:995][757]LogStreaming: Error: Couldn't find file for package /Game/Levels/Bedroom/Stage5/Set1_Hole_5_Lighting_BuiltData requested by async loading code. NameToLoad: /Game/Levels/Bedroom/Stage5/Set1_Hole_5_Lighting_BuiltData
+[2023.01.25-18.37.39:996][757]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Bedroom/Stage4/Set1_Hole_4_Geometry) is flushing async loading
+[2023.01.25-18.37.40:056][757]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Bedroom/Stage5/Set1_Hole_5_Geometry) is flushing async loading
+[2023.01.25-18.37.40:069][757]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Bedroom/Stage1/Set1_Hole1_lighting) is flushing async loading
+[2023.01.25-18.37.40:069][757]LogStreaming: Error: Couldn't find file for package /Game/Levels/Bedroom/Stage1/Set1_Hole1_lighting_BuiltData requested by async loading code. NameToLoad: /Game/Levels/Bedroom/Stage1/Set1_Hole1_lighting_BuiltData
+[2023.01.25-18.37.40:070][757]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Bedroom/Stage1/Set1_Hole1_geometry) is flushing async loading
+[2023.01.25-18.37.40:093][757]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.01.25-18.37.40:104][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.01.25-18.37.40:117][757]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.01.25-18.37.40:118][757]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.878ms to complete.
+[2023.01.25-18.37.40:118][757]LogFileHelpers: Loading map 'Set1_Persistant' took 0.379
+[2023.01.25-18.37.52:794][791]LogSlate: Window 'Levels' being destroyed
+[2023.01.25-18.38.06:432][921]PIE: Warning: Constraint in '/Engine/Transient.World_3:PersistentLevel.BP_Pinball_Right_Flipper_C_0.PhysicsConstraint' attempting to create a joint between objects that are both static.  No joint created.
+[2023.01.25-18.38.06:455][922]PIE: Warning: Constraint in '/Engine/Transient.World_4:PersistentLevel.BP_Pinball_Left_Flipper_C_0.PhysicsConstraint' attempting to create a joint between objects that are both static.  No joint created.
+[2023.01.25-18.38.08:169][ 50]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Gameplay/Obstacles/BP_Glue_Mechanic.BP_Glue_Mechanic_C
+[2023.01.25-18.38.08:170][ 50]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Gameplay/Obstacles/BP_Glue_Mechanic.BP_Glue_Mechanic_C
+[2023.01.25-18.38.08:170][ 50]LogActorFactory: Actor Factory spawned Blueprint /Game/Gameplay/Obstacles/BP_Glue_Mechanic.BP_Glue_Mechanic as actor: BP_Glue_Mechanic_C /Game/Levels/Bedroom/Stage4/Set1_Hole_4_Geometry.Set1_Hole_4_Geometry:PersistentLevel.BP_Glue_Mechanic_C_0
+[2023.01.25-18.38.08:171][ 50]LogActorFactory: Actor Factory spawned Blueprint /Game/Gameplay/Obstacles/BP_Glue_Mechanic.BP_Glue_Mechanic as actor: BP_Glue_Mechanic_C /Game/Levels/Bedroom/Stage4/Set1_Hole_4_Geometry.Set1_Hole_4_Geometry:PersistentLevel.BP_Glue_Mechanic_C_0
+[2023.01.25-18.38.09:229][140]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Gameplay/Obstacles/BP_Glue_Mechanic.BP_Glue_Mechanic_C
+[2023.01.25-18.38.09:229][140]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Gameplay/Obstacles/BP_Glue_Mechanic.BP_Glue_Mechanic_C
+[2023.01.25-18.38.09:230][140]LogActorFactory: Actor Factory spawned Blueprint /Game/Gameplay/Obstacles/BP_Glue_Mechanic.BP_Glue_Mechanic as actor: BP_Glue_Mechanic_C /Game/Levels/Bedroom/Stage4/Set1_Hole_4_Geometry.Set1_Hole_4_Geometry:PersistentLevel.BP_Glue_Mechanic_C_2
+[2023.01.25-18.38.09:231][140]LogActorFactory: Actor Factory spawned Blueprint /Game/Gameplay/Obstacles/BP_Glue_Mechanic.BP_Glue_Mechanic as actor: BP_Glue_Mechanic_C /Game/Levels/Bedroom/Stage4/Set1_Hole_4_Geometry.Set1_Hole_4_Geometry:PersistentLevel.BP_Glue_Mechanic_C_2
+[2023.01.25-18.38.58:596][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.01.25-18.38.58:601][901]LogPackageLocalizationCache: Processed 28 localized package path(s) for 1 prioritized culture(s) in 0.004117 seconds
+[2023.01.25-18.38.58:616][901]LogSavePackage: Moving output files for package: /Game/Levels/Bedroom/Stage4/Set1_Hole_4_Geometry
+[2023.01.25-18.38.58:617][901]LogSavePackage: Moving '../../../../../../Users/mathu/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Set1_Hole_4_Geometry5CC0EAA84257DB0E3D275E9EF1CE676E.tmp' to '../../../../../../Users/mathu/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Levels/Bedroom/Stage4/Set1_Hole_4_Geometry.umap'
+[2023.01.25-18.38.58:631][901]AssetCheck: New page: Asset Save: Set1_Hole_4_Geometry
+[2023.01.25-18.38.58:632][901]LogContentValidation: Display: Validating World /Game/Levels/Bedroom/Stage4/Set1_Hole_4_Geometry.Set1_Hole_4_Geometry
+[2023.01.25-18.39.21:976][737]LogDerivedDataCache: C:/Users/mathu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.895 and deleted 0 file(s) with total size 0 MiB.
+[2023.01.25-18.48.58:635][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.01.25-18.48.58:665][428]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/Bedroom/Set1_Persistant_Auto1
+[2023.01.25-18.48.58:665][428]LogSavePackage: Moving '../../../../../../Users/mathu/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Set1_Persistant_Auto1EAFCACE54569B5FE12C8DF8C856C7B41.tmp' to '../../../../../../Users/mathu/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Autosaves/Game/Levels/Bedroom/Set1_Persistant_Auto1.umap'
+[2023.01.25-18.48.58:684][428]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/Bedroom/Stage4/Set1_Hole_4_Geometry_Auto1
+[2023.01.25-18.48.58:684][428]LogSavePackage: Moving '../../../../../../Users/mathu/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Set1_Hole_4_Geometry_Auto1BE377069416BC3497217DEBC9CA9EB60.tmp' to '../../../../../../Users/mathu/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Autosaves/Game/Levels/Bedroom/Stage4/Set1_Hole_4_Geometry_Auto1.umap'
+[2023.01.25-18.48.58:689][428]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Bedroom/Set1_Persistant' took 0.067
+[2023.01.25-18.48.58:689][428]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.067
+[2023.01.25-18.51.21:065][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.01.25-18.51.21:080][874]LogSavePackage: Moving output files for package: /Game/Levels/Bedroom/Stage4/Set1_Hole_4_Geometry
+[2023.01.25-18.51.21:080][874]LogSavePackage: Moving '../../../../../../Users/mathu/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Set1_Hole_4_GeometryE550B6A44C0B38953B3268AF03CCDE33.tmp' to '../../../../../../Users/mathu/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Levels/Bedroom/Stage4/Set1_Hole_4_Geometry.umap'
+[2023.01.25-18.51.21:096][874]AssetCheck: New page: Asset Save: Set1_Hole_4_Geometry
+[2023.01.25-18.51.21:096][874]LogContentValidation: Display: Validating World /Game/Levels/Bedroom/Stage4/Set1_Hole_4_Geometry.Set1_Hole_4_Geometry
+[2023.01.25-18.59.12:191][736]LogViewport: Scene viewport resized to 2098x1881, mode Windowed.
+[2023.01.25-18.59.16:862][189]LogStaticMesh: Display: Building static mesh Torus_6CA538D6...
+[2023.01.25-18.59.16:862][189]LogStaticMesh: Built static mesh [0.00s] /Game/Levels/Bedroom/_GENERATED/mathu/Torus_6CA538D6.Torus_6CA538D6
+[2023.01.25-18.59.16:882][189]LogStaticMesh: Display: Building static mesh Torus_6CA538D6...
+[2023.01.25-18.59.16:882][189]LogStaticMesh: Built static mesh [0.00s] /Game/Levels/Bedroom/_GENERATED/mathu/Torus_6CA538D6.Torus_6CA538D6
+[2023.01.25-18.59.22:389][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.01.25-18.59.22:399][719]LogSavePackage: Moving output files for package: /Game/Levels/Bedroom/Stage2/Set1_Hole_2_Geometry
+[2023.01.25-18.59.22:399][719]LogSavePackage: Moving '../../../../../../Users/mathu/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Set1_Hole_2_Geometry0CD635554D19C23D8FA259BB9395041F.tmp' to '../../../../../../Users/mathu/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Levels/Bedroom/Stage2/Set1_Hole_2_Geometry.umap'
+[2023.01.25-18.59.22:413][719]AssetCheck: New page: Asset Save: Set1_Hole_2_Geometry
+[2023.01.25-18.59.22:414][719]LogContentValidation: Display: Validating World /Game/Levels/Bedroom/Stage2/Set1_Hole_2_Geometry.Set1_Hole_2_Geometry
+[2023.01.25-18.59.23:912][863]LogViewport: Scene viewport resized to 3056x1881, mode Windowed.
+[2023.01.25-19.00.07:790][ 67]Cmd: TRANSACTION UNDO
+[2023.01.25-19.00.07:790][ 67]LogEditorTransaction: Undo Set Scale
+[2023.01.25-19.00.08:690][119]Cmd: TRANSACTION UNDO
+[2023.01.25-19.00.08:690][119]LogEditorTransaction: Undo Set Scale
+[2023.01.25-19.00.15:680][558]LogViewport: Scene viewport resized to 1043x642, mode Windowed.
+[2023.01.25-19.00.17:172][624]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:173][624]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:196][625]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:197][625]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:222][626]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:223][626]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:246][627]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:247][627]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:269][628]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:270][628]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:295][629]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:296][629]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:321][630]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:322][630]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:346][631]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:347][631]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:370][632]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:371][632]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:408][633]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:409][633]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:430][634]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:431][634]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:454][635]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:455][635]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:478][636]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:479][636]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:500][637]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:501][637]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:523][638]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:524][638]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:548][639]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:549][639]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:571][640]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:572][640]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:595][641]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:596][641]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:618][642]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:619][642]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:641][643]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:642][643]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:665][644]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:666][644]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:690][645]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:691][645]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:714][646]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:715][646]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:738][647]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:739][647]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:761][648]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:762][648]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:786][649]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:787][649]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:810][650]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:811][650]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:833][651]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:835][651]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:857][652]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:858][652]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:881][653]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:882][653]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:904][654]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:905][654]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:927][655]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:928][655]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:950][656]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:951][656]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:973][657]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:974][657]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:996][658]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.17:997][658]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.18:019][659]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.18:020][659]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.18:043][660]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.18:044][660]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.18:065][661]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.18:065][661]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.18:108][663]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.18:109][663]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.18:131][664]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.18:132][664]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.18:197][667]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.18:198][667]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.18:265][670]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.18:265][670]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.18:288][671]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.18:289][671]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.18:311][672]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.18:312][672]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.21:771][829]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.21:772][829]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.21:791][830]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.21:792][830]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.21:815][831]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.21:816][831]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.21:839][832]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.21:840][832]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.21:862][833]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.21:863][833]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.21:886][834]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.21:887][834]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.21:908][835]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.21:909][835]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.21:930][836]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.21:931][836]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.21:951][837]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.21:952][837]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.21:972][838]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.21:973][838]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.21:994][839]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.21:995][839]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.22:017][840]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.22:018][840]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.22:038][841]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.22:039][841]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.22:060][842]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.22:061][842]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.22:083][843]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.22:085][843]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.22:111][844]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.22:112][844]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.22:134][845]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.22:135][845]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.22:179][847]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.22:179][847]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.22:202][848]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.22:203][848]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.22:223][849]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.22:223][849]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.22:264][851]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.22:265][851]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.22:284][852]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.22:284][852]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.22:303][853]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.22:304][853]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.22:325][854]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.22:325][854]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.22:347][855]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.22:348][855]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.22:369][856]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.22:370][856]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.22:729][876]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.22:729][876]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.23:362][906]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.23:363][906]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.23:384][907]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.23:384][907]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.23:407][908]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.23:408][908]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.23:428][909]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.23:429][909]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.23:451][910]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.23:452][910]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.23:473][911]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.23:473][911]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.23:495][912]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.23:496][912]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.23:517][913]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.23:518][913]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.23:541][914]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.23:542][914]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.23:564][915]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.23:564][915]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.23:585][916]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.23:586][916]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.23:606][917]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.23:607][917]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.23:629][918]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.23:629][918]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.23:651][919]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.23:652][919]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.23:673][920]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.23:674][920]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.23:921][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.23:922][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.23:998][937]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.23:999][937]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.24:042][939]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.24:043][939]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.24:164][945]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.24:165][945]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.24:251][949]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.24:252][949]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.24:625][970]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.24:626][970]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.24:989][990]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.24:989][990]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.25:922][ 36]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.25:923][ 36]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.25:941][ 37]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.25:942][ 37]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.25:966][ 38]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.25:967][ 38]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.25:989][ 39]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.25:990][ 39]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:013][ 40]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:014][ 40]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:034][ 41]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:035][ 41]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:059][ 42]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:060][ 42]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:082][ 43]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:083][ 43]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:103][ 44]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:104][ 44]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:127][ 45]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:128][ 45]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:150][ 46]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:151][ 46]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:171][ 47]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:172][ 47]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:192][ 48]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:193][ 48]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:213][ 49]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:215][ 49]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:239][ 50]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:240][ 50]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:262][ 51]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:263][ 51]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:284][ 52]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:285][ 52]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:306][ 53]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:307][ 53]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:329][ 54]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:330][ 54]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:372][ 56]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:373][ 56]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:393][ 57]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:394][ 57]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:415][ 58]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:416][ 58]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:438][ 59]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:439][ 59]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:461][ 60]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:462][ 60]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:483][ 61]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:483][ 61]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:503][ 62]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:505][ 62]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:525][ 63]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:526][ 63]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:548][ 64]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:549][ 64]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:570][ 65]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:571][ 65]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:592][ 66]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:593][ 66]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:613][ 67]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:613][ 67]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:635][ 68]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:636][ 68]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:660][ 69]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:661][ 69]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:683][ 70]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:684][ 70]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:706][ 71]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:707][ 71]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:728][ 72]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:729][ 72]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:883][ 80]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:884][ 80]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:903][ 81]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:903][ 81]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:925][ 82]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:926][ 82]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:970][ 84]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:971][ 84]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:992][ 85]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.26:993][ 85]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.27:016][ 86]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.27:016][ 86]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.27:038][ 87]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.27:039][ 87]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.27:060][ 88]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.27:061][ 88]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.27:083][ 89]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.27:083][ 89]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.27:103][ 90]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.27:104][ 90]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.27:126][ 91]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.27:127][ 91]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.27:387][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.27:388][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.27:410][105]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.27:411][105]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.27:537][111]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.27:538][111]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.28:280][147]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.28:280][147]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.28:301][148]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.28:302][148]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.28:325][149]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.28:326][149]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.28:350][150]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.28:351][150]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.28:371][151]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.28:372][151]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.28:394][152]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.28:394][152]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.28:418][153]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.28:419][153]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.28:442][154]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.28:443][154]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.28:465][155]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.28:465][155]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.28:490][156]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.28:491][156]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.28:514][157]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.28:514][157]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.28:537][158]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.28:538][158]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.28:561][159]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.28:562][159]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.28:585][160]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.28:586][160]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.28:608][161]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.28:609][161]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.28:631][162]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.28:631][162]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.28:678][164]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.28:679][164]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.28:742][167]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.28:742][167]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.28:762][168]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.28:762][168]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.28:786][169]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.28:787][169]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.28:831][171]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.28:832][171]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.29:221][191]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.29:222][191]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.29:306][195]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.29:307][195]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.29:349][197]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.29:350][197]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.29:395][199]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.29:395][199]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.29:418][200]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.29:419][200]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.29:442][201]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.29:443][201]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.29:467][202]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.29:468][202]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.29:490][203]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.29:491][203]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.29:515][204]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.29:516][204]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.29:581][207]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.29:582][207]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.29:646][210]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.29:647][210]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.29:667][211]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.29:668][211]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.29:738][214]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.29:739][214]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.29:824][218]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.29:825][218]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.29:942][224]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.29:943][224]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry.Set1_Hole_3_Geometry:PersistentLevel.BP_Ball_Mallet_V2_C_1.SkeletalMesh' Bone: 'CATRigWeaponBone' 
+[2023.01.25-19.00.31:426][300]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.25-19.00.31:434][300]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.25-19.00.31:434][300]PIE: New page: PIE session: Set1_Persistant (25 Jan 2023, 19:00:31)
+[2023.01.25-19.00.31:439][300]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.01.25-19.00.31:439][300]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.01.25-19.00.31:439][300]LogPlayLevel: Creating play world package: /Game/Levels/Bedroom/UEDPIE_0_Set1_Persistant
+[2023.01.25-19.00.31:449][300]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010692s)
+[2023.01.25-19.00.31:449][300]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Bedroom/Set1_Persistant.Set1_Persistant to /Game/Levels/Bedroom/UEDPIE_0_Set1_Persistant.Set1_Persistant (0.010754s)
+[2023.01.25-19.00.31:449][300]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.25-19.00.31:449][300]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.25-19.00.31:450][300]LogAIModule: Creating AISystem for world Set1_Persistant
+[2023.01.25-19.00.31:450][300]LogPlayLevel: PIE: World Init took: (0.000908s)
+[2023.01.25-19.00.31:463][300]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.01.25-19.00.31:467][300]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.01.25-19.00.31:467][300]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.25-19.00.31:467][300]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.25-19.00.31:467][300]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.25-19.00.31:467][300]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.25-19.00.31:467][300]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.25-19.00.31:467][300]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.25-19.00.31:467][300]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.25-19.00.31:467][300]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.25-19.00.31:467][300]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.25-19.00.31:467][300]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.25-19.00.31:467][300]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.25-19.00.31:469][300]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.25-19.00.31:485][300]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2023.01.25-19.00.31:485][300]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.25-19.00.31:485][300]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.25-19.00.31:485][300]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.25-19.00.31:486][300]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.01.25-19.00.31:486][300]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.01.25-19.00.31:487][300]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.01.25-19.00.31:487][300]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.01.25-19.00.31:487][300]LogInit: FAudioDevice initialized.
+[2023.01.25-19.00.31:487][300]LogAudio: Display: Audio Device (ID: 2) registered with world 'Set1_Persistant'.
+[2023.01.25-19.00.31:500][300]LogLoad: Game class is 'GM_Gameplay_C'
+[2023.01.25-19.00.31:623][300]LogWorld: Bringing World /Game/Levels/Bedroom/UEDPIE_0_Set1_Persistant.Set1_Persistant up for play (max tick rate 0) at 2023.01.25-19.00.31
+[2023.01.25-19.00.31:624][300]LogWorld: Bringing up level for play took: 0.003680
+[2023.01.25-19.00.31:625][300]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2023.01.25-19.00.31:626][300]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.01.25-19.00.31:651][300]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.025 s
+[2023.01.25-19.00.31:651][300]LogOutputDevice: Error: === Handled ensure: ===
+[2023.01.25-19.00.31:651][300]LogOutputDevice: Error: 
+[2023.01.25-19.00.31:651][300]LogOutputDevice: Error: Ensure condition failed: Class.IsValid() [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Private\UserInterface\InputSettings.cpp] [Line: 459]
+[2023.01.25-19.00.31:651][300]LogOutputDevice: Error: Invalid PlayerInput class in Input Settings. Manual reset required.
+[2023.01.25-19.00.31:651][300]LogOutputDevice: Error: Stack: 
+[2023.01.25-19.00.31:651][300]LogOutputDevice: Error: [Callstack] 0x00007ffcd5262073 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.01.25-19.00.31:651][300]LogOutputDevice: Error: [Callstack] 0x00007ffcd4c1dcc2 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.01.25-19.00.31:651][300]LogOutputDevice: Error: [Callstack] 0x00007ffcd4c35afc UnrealEditor-Engine.dll!UnknownFunction []
+[2023.01.25-19.00.31:651][300]LogOutputDevice: Error: [Callstack] 0x00007ffcd4134e0d UnrealEditor-Engine.dll!UnknownFunction []
+[2023.01.25-19.00.31:651][300]LogOutputDevice: Error: [Callstack] 0x00007ffcd4184eee UnrealEditor-Engine.dll!UnknownFunction []
+[2023.01.25-19.00.31:651][300]LogOutputDevice: Error: [Callstack] 0x00007ffcd3ee4489 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.01.25-19.00.31:651][300]LogOutputDevice: Error: [Callstack] 0x00007ffcd21b9918 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.01.25-19.00.31:651][300]LogOutputDevice: Error: [Callstack] 0x00007ffcd21eece6 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.01.25-19.00.31:651][300]LogOutputDevice: Error: [Callstack] 0x00007ffcd21ba3c2 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.01.25-19.00.31:651][300]LogOutputDevice: Error: [Callstack] 0x00007ffcd220d4aa UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.01.25-19.00.31:651][300]LogOutputDevice: Error: [Callstack] 0x00007ffcd2210cb7 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.01.25-19.00.31:651][300]LogOutputDevice: Error: [Callstack] 0x00007ffcd22105a1 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.01.25-19.00.31:651][300]LogOutputDevice: Error: [Callstack] 0x00007ffcd1badcf3 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.01.25-19.00.31:651][300]LogOutputDevice: Error: [Callstack] 0x00007ffcd253aac6 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.01.25-19.00.31:651][300]LogOutputDevice: Error: [Callstack] 0x00007ff6bc2382f6 UnrealEditor.exe!UnknownFunction []
+[2023.01.25-19.00.31:651][300]LogOutputDevice: Error: [Callstack] 0x00007ff6bc250d9c UnrealEditor.exe!UnknownFunction []
+[2023.01.25-19.00.31:651][300]LogOutputDevice: Error: [Callstack] 0x00007ff6bc250e8a UnrealEditor.exe!UnknownFunction []
+[2023.01.25-19.00.31:651][300]LogOutputDevice: Error: [Callstack] 0x00007ff6bc253c4d UnrealEditor.exe!UnknownFunction []
+[2023.01.25-19.00.31:651][300]LogOutputDevice: Error: [Callstack] 0x00007ff6bc265564 UnrealEditor.exe!UnknownFunction []
+[2023.01.25-19.00.31:651][300]LogOutputDevice: Error: [Callstack] 0x00007ff6bc268736 UnrealEditor.exe!UnknownFunction []
+[2023.01.25-19.00.31:651][300]LogOutputDevice: Error: [Callstack] 0x00007ffd5cf326bd KERNEL32.DLL!UnknownFunction []
+[2023.01.25-19.00.31:651][300]LogOutputDevice: Error: [Callstack] 0x00007ffd5e0adfb8 ntdll.dll!UnknownFunction []
+[2023.01.25-19.00.31:651][300]LogOutputDevice: Error: 
+[2023.01.25-19.00.31:661][300]LogStats:                SubmitErrorReport -  0.000 s
+[2023.01.25-19.00.32:508][300]LogStats:                    SendNewReport -  0.846 s
+[2023.01.25-19.00.32:508][300]LogStats:             FDebug::EnsureFailed -  0.882 s
+[2023.01.25-19.00.32:508][300]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.01.25-19.00.32:523][300]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.016 s
+[2023.01.25-19.00.32:523][300]LogOutputDevice: Error: === Handled ensure: ===
+[2023.01.25-19.00.32:523][300]LogOutputDevice: Error: 
+[2023.01.25-19.00.32:523][300]LogOutputDevice: Error: Ensure condition failed: Class.IsValid() [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Private\UserInterface\InputSettings.cpp] [Line: 466]
+[2023.01.25-19.00.32:523][300]LogOutputDevice: Error: Invalid InputComponent class in Input Settings. Manual reset required.
+[2023.01.25-19.00.32:523][300]LogOutputDevice: Error: Stack: 
+[2023.01.25-19.00.32:523][300]LogOutputDevice: Error: [Callstack] 0x00007ffcd5261cf3 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.01.25-19.00.32:523][300]LogOutputDevice: Error: [Callstack] 0x00007ffcd4c37231 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.01.25-19.00.32:523][300]LogOutputDevice: Error: [Callstack] 0x00007ffcd4c1dd84 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.01.25-19.00.32:523][300]LogOutputDevice: Error: [Callstack] 0x00007ffcd4c35afc UnrealEditor-Engine.dll!UnknownFunction []
+[2023.01.25-19.00.32:523][300]LogOutputDevice: Error: [Callstack] 0x00007ffcd4134e0d UnrealEditor-Engine.dll!UnknownFunction []
+[2023.01.25-19.00.32:523][300]LogOutputDevice: Error: [Callstack] 0x00007ffcd4184eee UnrealEditor-Engine.dll!UnknownFunction []
+[2023.01.25-19.00.32:523][300]LogOutputDevice: Error: [Callstack] 0x00007ffcd3ee4489 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.01.25-19.00.32:523][300]LogOutputDevice: Error: [Callstack] 0x00007ffcd21b9918 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.01.25-19.00.32:523][300]LogOutputDevice: Error: [Callstack] 0x00007ffcd21eece6 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.01.25-19.00.32:523][300]LogOutputDevice: Error: [Callstack] 0x00007ffcd21ba3c2 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.01.25-19.00.32:523][300]LogOutputDevice: Error: [Callstack] 0x00007ffcd220d4aa UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.01.25-19.00.32:523][300]LogOutputDevice: Error: [Callstack] 0x00007ffcd2210cb7 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.01.25-19.00.32:523][300]LogOutputDevice: Error: [Callstack] 0x00007ffcd22105a1 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.01.25-19.00.32:523][300]LogOutputDevice: Error: [Callstack] 0x00007ffcd1badcf3 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.01.25-19.00.32:523][300]LogOutputDevice: Error: [Callstack] 0x00007ffcd253aac6 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.01.25-19.00.32:523][300]LogOutputDevice: Error: [Callstack] 0x00007ff6bc2382f6 UnrealEditor.exe!UnknownFunction []
+[2023.01.25-19.00.32:523][300]LogOutputDevice: Error: [Callstack] 0x00007ff6bc250d9c UnrealEditor.exe!UnknownFunction []
+[2023.01.25-19.00.32:523][300]LogOutputDevice: Error: [Callstack] 0x00007ff6bc250e8a UnrealEditor.exe!UnknownFunction []
+[2023.01.25-19.00.32:523][300]LogOutputDevice: Error: [Callstack] 0x00007ff6bc253c4d UnrealEditor.exe!UnknownFunction []
+[2023.01.25-19.00.32:523][300]LogOutputDevice: Error: [Callstack] 0x00007ff6bc265564 UnrealEditor.exe!UnknownFunction []
+[2023.01.25-19.00.32:523][300]LogOutputDevice: Error: [Callstack] 0x00007ff6bc268736 UnrealEditor.exe!UnknownFunction []
+[2023.01.25-19.00.32:523][300]LogOutputDevice: Error: [Callstack] 0x00007ffd5cf326bd KERNEL32.DLL!UnknownFunction []
+[2023.01.25-19.00.32:523][300]LogOutputDevice: Error: [Callstack] 0x00007ffd5e0adfb8 ntdll.dll!UnknownFunction []
+[2023.01.25-19.00.32:523][300]LogOutputDevice: Error: 
