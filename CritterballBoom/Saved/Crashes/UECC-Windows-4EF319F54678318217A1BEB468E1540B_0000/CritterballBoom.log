@@ -1,0 +1,1330 @@
+﻿Log file open, 01/21/23 21:48:05
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=18892)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CritterballBoom
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:\Users\m020115k\Documents\GitHub\Group12_COLLAB\CritterballBoom\CritterballBoom.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.2486] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|11th Gen Intel(R) Core(TM) i7-11700 @ 2.50GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="100a3bfe4a4e03a4d80442ab0d847807"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.205697
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-4EF319F54678318217A1BEB468E1540B
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Android ini files took 0.02 seconds
+LogConfig: Display: Loading IOS ini files took 0.02 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading Mac ini files took 0.02 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.02 seconds
+LogConfig: Display: Loading Unix ini files took 0.03 seconds
+LogConfig: Display: Loading Windows ini files took 0.03 seconds
+LogConfig: Display: Loading TVOS ini files took 0.03 seconds
+LogConfig: Display: Loading Linux ini files took 0.03 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) [10.0.19044.2486] (), CPU: 11th Gen Intel(R) Core(TM) i7-11700 @ 2.50GHz, GPU: NVIDIA GeForce RTX 3080
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Epic/UE5/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.01.21-21.48.05:750][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.01.21-21.48.05:750][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.01.21-21.48.05:750][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.01.21-21.48.05:750][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.01.21-21.48.05:750][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.01.21-21.48.05:750][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.01.21-21.48.05:750][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.01.21-21.48.05:750][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.01.21-21.48.05:750][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.01.21-21.48.05:750][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.01.21-21.48.05:750][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.01.21-21.48.05:750][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.01.21-21.48.05:750][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.01.21-21.48.05:750][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.01.21-21.48.05:750][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.01.21-21.48.05:750][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.01.21-21.48.05:750][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.01.21-21.48.05:750][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.01.21-21.48.05:750][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.01.21-21.48.05:750][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.01.21-21.48.05:750][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.01.21-21.48.05:750][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.01.21-21.48.05:750][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.01.21-21.48.05:750][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.01.21-21.48.05:750][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.01.21-21.48.05:750][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.01.21-21.48.05:750][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.01.21-21.48.05:750][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.01.21-21.48.05:750][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.01.21-21.48.05:750][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.01.21-21.48.05:750][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.01.21-21.48.05:750][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.01.21-21.48.05:750][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.01.21-21.48.05:750][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.01.21-21.48.05:750][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.01.21-21.48.05:750][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.01.21-21.48.05:750][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.01.21-21.48.05:750][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.01.21-21.48.05:750][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.01.21-21.48.05:750][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.01.21-21.48.05:750][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.01.21-21.48.05:750][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.01.21-21.48.05:750][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.01.21-21.48.05:750][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.01.21-21.48.05:750][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.01.21-21.48.05:750][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.01.21-21.48.05:750][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.01.21-21.48.05:750][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.01.21-21.48.05:750][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.01.21-21.48.05:750][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.01.21-21.48.05:750][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.01.21-21.48.05:750][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.01.21-21.48.05:750][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.01.21-21.48.05:751][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.01.21-21.48.05:751][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.01.21-21.48.05:751][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.01.21-21.48.05:751][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.01.21-21.48.05:754][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.01.21-21.48.05:754][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.01.21-21.48.05:754][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.01.21-21.48.05:754][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.01.21-21.48.05:754][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.01.21-21.48.05:754][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.01.21-21.48.05:754][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.01.21-21.48.05:754][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.01.21-21.48.05:754][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.01.21-21.48.05:754][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.01.21-21.48.05:754][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.01.21-21.48.05:764][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.01.21-21.48.05:765][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.01.21-21.48.05:765][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_1
+[2023.01.21-21.48.05:765][  0]LogD3D11RHI: D3D11 adapters:
+[2023.01.21-21.48.05:765][  0]LogD3D11RHI: Testing D3D11 Adapter 0:
+[2023.01.21-21.48.05:765][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3080
+[2023.01.21-21.48.05:765][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.01.21-21.48.05:765][  0]LogD3D11RHI:     DeviceId    : 2206
+[2023.01.21-21.48.05:765][  0]LogD3D11RHI:     SubSysId    : 88d7103c
+[2023.01.21-21.48.05:765][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.01.21-21.48.05:765][  0]LogD3D11RHI:     DedicatedVideoMemory : 10567548928 bytes
+[2023.01.21-21.48.05:765][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.01.21-21.48.05:765][  0]LogD3D11RHI:     SharedSystemMemory : 17045770240 bytes
+[2023.01.21-21.48.05:765][  0]LogD3D11RHI:     AdapterLuid : 0 51050
+[2023.01.21-21.48.05:826][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3080' (Feature Level 11_1)
+[2023.01.21-21.48.05:826][  0]LogD3D11RHI:       10078/0/16256 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2023.01.21-21.48.05:827][  0]LogD3D11RHI: Testing D3D11 Adapter 1:
+[2023.01.21-21.48.05:827][  0]LogD3D11RHI:     Description : Intel(R) UHD Graphics 750
+[2023.01.21-21.48.05:827][  0]LogD3D11RHI:     VendorId    : 8086
+[2023.01.21-21.48.05:827][  0]LogD3D11RHI:     DeviceId    : 4c8a
+[2023.01.21-21.48.05:827][  0]LogD3D11RHI:     SubSysId    : 88be103c
+[2023.01.21-21.48.05:827][  0]LogD3D11RHI:     Revision    : 0004
+[2023.01.21-21.48.05:827][  0]LogD3D11RHI:     DedicatedVideoMemory : 134217728 bytes
+[2023.01.21-21.48.05:827][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.01.21-21.48.05:827][  0]LogD3D11RHI:     SharedSystemMemory : 17045770240 bytes
+[2023.01.21-21.48.05:827][  0]LogD3D11RHI:     AdapterLuid : 0 54957
+[2023.01.21-21.48.05:903][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 750' (Feature Level 11_1)
+[2023.01.21-21.48.05:903][  0]LogD3D11RHI:       128/0/16256 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2023.01.21-21.48.05:903][  0]LogD3D11RHI: Testing D3D11 Adapter 2:
+[2023.01.21-21.48.05:903][  0]LogD3D11RHI:     Description : Microsoft Basic Render Driver
+[2023.01.21-21.48.05:903][  0]LogD3D11RHI:     VendorId    : 1414
+[2023.01.21-21.48.05:903][  0]LogD3D11RHI:     DeviceId    : 008c
+[2023.01.21-21.48.05:903][  0]LogD3D11RHI:     SubSysId    : 0000
+[2023.01.21-21.48.05:903][  0]LogD3D11RHI:     Revision    : 0000
+[2023.01.21-21.48.05:903][  0]LogD3D11RHI:     DedicatedVideoMemory : 0 bytes
+[2023.01.21-21.48.05:903][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.01.21-21.48.05:903][  0]LogD3D11RHI:     SharedSystemMemory : 17045770240 bytes
+[2023.01.21-21.48.05:903][  0]LogD3D11RHI:     AdapterLuid : 0 54870
+[2023.01.21-21.48.05:905][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_1)
+[2023.01.21-21.48.05:905][  0]LogD3D11RHI:       0/0/16256 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.01.21-21.48.05:905][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.01.21-21.48.05:905][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3080
+[2023.01.21-21.48.05:905][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.01.21-21.48.05:905][  0]LogD3D11RHI:     DeviceId    : 2206
+[2023.01.21-21.48.05:905][  0]LogD3D11RHI:     SubSysId    : 88d7103c
+[2023.01.21-21.48.05:905][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.01.21-21.48.05:905][  0]LogD3D11RHI:     DedicatedVideoMemory : 10567548928 bytes
+[2023.01.21-21.48.05:905][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.01.21-21.48.05:905][  0]LogD3D11RHI:     SharedSystemMemory : 17045770240 bytes
+[2023.01.21-21.48.05:905][  0]LogD3D11RHI:     AdapterLuid : 0 51050
+[2023.01.21-21.48.05:905][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.01.21-21.48.05:905][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.01.21-21.48.05:905][  0]LogHAL: Display: Platform has ~ 32 GB [34091540480 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.01.21-21.48.05:905][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.01.21-21.48.05:905][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.01.21-21.48.05:905][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.01.21-21.48.05:905][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.01.21-21.48.05:905][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Config/WindowsEditor/Editor.ini]
+[2023.01.21-21.48.05:905][  0]LogInit: Computer: C115-13
+[2023.01.21-21.48.05:905][  0]LogInit: User: m020115k
+[2023.01.21-21.48.05:905][  0]LogInit: CPU Page size=4096, Cores=8
+[2023.01.21-21.48.05:905][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.01.21-21.48.05:905][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2023.01.21-21.48.05:905][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.01.21-21.48.05:905][  0]LogMemory: Process Physical Memory: 272.23 MB used, 289.57 MB peak
+[2023.01.21-21.48.05:905][  0]LogMemory: Process Virtual Memory: 240.08 MB used, 240.08 MB peak
+[2023.01.21-21.48.05:905][  0]LogMemory: Physical Memory: 9593.90 MB used,  22918.32 MB free, 32512.23 MB total
+[2023.01.21-21.48.05:905][  0]LogMemory: Virtual Memory: 14271.46 MB used,  23104.77 MB free, 37376.23 MB total
+[2023.01.21-21.48.05:905][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.01.21-21.48.05:909][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.01.21-21.48.05:919][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.01.21-21.48.05:920][  0]LogInit: Using OS detected language (en-GB).
+[2023.01.21-21.48.05:920][  0]LogInit: Using OS detected locale (en-GB).
+[2023.01.21-21.48.05:922][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so 'en' will be used for the language.
+[2023.01.21-21.48.06:030][  0]LogInit: Setting process to per monitor DPI aware
+[2023.01.21-21.48.06:041][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.01.21-21.48.06:041][  0]LogWindowsTextInputMethodSystem:   - English (United Kingdom) - (Keyboard).
+[2023.01.21-21.48.06:041][  0]LogWindowsTextInputMethodSystem:   - English (United Kingdom) - Touch Input Correction (TSF IME).
+[2023.01.21-21.48.06:042][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2023.01.21-21.48.06:053][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.01.21-21.48.06:053][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.01.21-21.48.06:131][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.01.21-21.48.06:131][  0]LogD3D11RHI:     GPU DeviceId: 0x2206 (for the marketing name, search the web for "GPU Device Id")
+[2023.01.21-21.48.06:131][  0]LogWindows: Attached monitors:
+[2023.01.21-21.48.06:131][  0]LogWindows:     resolution: 1920x1080, work area: (0, -1080) -> (1920, -40), device: '\\.\DISPLAY1'
+[2023.01.21-21.48.06:131][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1040), device: '\\.\DISPLAY2' [PRIMARY]
+[2023.01.21-21.48.06:131][  0]LogWindows: Found 2 attached monitors.
+[2023.01.21-21.48.06:131][  0]LogWindows: EnumDisplayDevices:
+[2023.01.21-21.48.06:131][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3080' (P:0 D:1), name: '\\.\DISPLAY1'
+[2023.01.21-21.48.06:131][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3080' (P:1 D:1), name: '\\.\DISPLAY2'
+[2023.01.21-21.48.06:131][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3080' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.01.21-21.48.06:131][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3080' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.01.21-21.48.06:132][  0]LogWindows:    4. 'Intel(R) UHD Graphics 750' (P:0 D:0), name: '\\.\DISPLAY5'
+[2023.01.21-21.48.06:132][  0]LogWindows:    5. 'Intel(R) UHD Graphics 750' (P:0 D:0), name: '\\.\DISPLAY6'
+[2023.01.21-21.48.06:132][  0]LogWindows:    6. 'Intel(R) UHD Graphics 750' (P:0 D:0), name: '\\.\DISPLAY7'
+[2023.01.21-21.48.06:132][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2023.01.21-21.48.06:132][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3080
+[2023.01.21-21.48.06:132][  0]LogD3D11RHI:   Driver Version: 516.94 (internal:31.0.15.1694, unified:516.94)
+[2023.01.21-21.48.06:132][  0]LogD3D11RHI:      Driver Date: 7-21-2022
+[2023.01.21-21.48.06:132][  0]LogRHI: Texture pool is 7054 MB (70% of 10078 MB)
+[2023.01.21-21.48.06:132][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2023.01.21-21.48.06:132][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3080
+[2023.01.21-21.48.06:132][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.01.21-21.48.06:132][  0]LogD3D11RHI:     DeviceId    : 2206
+[2023.01.21-21.48.06:132][  0]LogD3D11RHI:     SubSysId    : 88d7103c
+[2023.01.21-21.48.06:132][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.01.21-21.48.06:132][  0]LogD3D11RHI:     DedicatedVideoMemory : 10567548928 bytes
+[2023.01.21-21.48.06:132][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.01.21-21.48.06:132][  0]LogD3D11RHI:     SharedSystemMemory : 17045770240 bytes
+[2023.01.21-21.48.06:132][  0]LogD3D11RHI:     AdapterLuid : 0 51050
+[2023.01.21-21.48.06:177][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.01.21-21.48.06:177][  0]LogD3D11RHI: Async texture creation enabled
+[2023.01.21-21.48.06:177][  0]LogD3D11RHI: D3D11_MAP_WRITE_NO_OVERWRITE for dynamic buffer SRVs is supported
+[2023.01.21-21.48.06:177][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.01.21-21.48.06:197][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2023.01.21-21.48.06:215][  0]LogRHI: GeForceNow SDK initialized: 1
+[2023.01.21-21.48.06:219][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/CritterballBoom.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Intermediate/TurnkeyReport_0.log" -log="C:/Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Intermediate/TurnkeyLog_0.log" -project="C:/Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/CritterballBoom.uproject"  -platform=all'
+[2023.01.21-21.48.06:220][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Epic/UE5/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/CritterballBoom.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Intermediate/TurnkeyReport_0.log" -log="C:/Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Intermediate/TurnkeyLog_0.log" -project="C:/Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/CritterballBoom.uproject"  -platform=all" ]
+[2023.01.21-21.48.06:238][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.01.21-21.48.06:247][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.01.21-21.48.06:247][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.01.21-21.48.06:247][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.01.21-21.48.06:247][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.01.21-21.48.06:247][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.01.21-21.48.06:247][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.01.21-21.48.06:247][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.01.21-21.48.06:247][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.01.21-21.48.06:247][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.01.21-21.48.06:247][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.01.21-21.48.06:262][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.01.21-21.48.06:262][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.01.21-21.48.06:265][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.01.21-21.48.06:265][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.01.21-21.48.06:267][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.01.21-21.48.06:267][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.01.21-21.48.06:267][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.01.21-21.48.06:267][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.01.21-21.48.06:269][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.01.21-21.48.06:270][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.01.21-21.48.06:270][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.01.21-21.48.06:271][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.01.21-21.48.06:271][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.01.21-21.48.06:275][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.01.21-21.48.06:275][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.01.21-21.48.06:275][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.01.21-21.48.06:275][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.01.21-21.48.06:275][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.01.21-21.48.06:279][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.01.21-21.48.06:281][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.01.21-21.48.06:281][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.01.21-21.48.06:281][  0]LogTargetPlatformManager:   ADPCM
+[2023.01.21-21.48.06:281][  0]LogTargetPlatformManager:   PCM
+[2023.01.21-21.48.06:283][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.01.21-21.48.06:283][  0]LogTargetPlatformManager:   BINKA
+[2023.01.21-21.48.06:283][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.01.21-21.48.06:283][  0]LogTargetPlatformManager:   OGG
+[2023.01.21-21.48.06:283][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.01.21-21.48.06:283][  0]LogTargetPlatformManager:   OPUS
+[2023.01.21-21.48.06:311][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.01.21-21.48.06:315][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.01.21-21.48.06:315][  0]LogTargetPlatformManager:   SF_METAL
+[2023.01.21-21.48.06:315][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.01.21-21.48.06:315][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.01.21-21.48.06:315][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.01.21-21.48.06:315][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.01.21-21.48.06:315][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.01.21-21.48.06:315][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.01.21-21.48.06:315][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.01.21-21.48.06:315][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.01.21-21.48.06:315][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.01.21-21.48.06:315][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.01.21-21.48.06:315][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.01.21-21.48.06:315][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.01.21-21.48.06:315][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.01.21-21.48.06:315][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.01.21-21.48.06:317][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.01.21-21.48.06:317][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.01.21-21.48.06:317][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.01.21-21.48.06:317][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.01.21-21.48.06:317][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.01.21-21.48.06:317][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.01.21-21.48.06:317][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.01.21-21.48.06:317][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.01.21-21.48.06:317][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.01.21-21.48.06:317][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.01.21-21.48.06:317][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.01.21-21.48.06:317][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.01.21-21.48.06:319][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.01.21-21.48.06:319][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.01.21-21.48.06:319][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.01.21-21.48.06:319][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.01.21-21.48.06:335][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.01.21-21.48.06:336][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.01.21-21.48.06:336][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.01.21-21.48.06:344][  0]LogDerivedDataCache: Speed tests for C:/Users/m020115k/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.01.21-21.48.06:344][  0]LogDerivedDataCache: Display: Performance to C:/Users/m020115k/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1496.60MBs, RandomWriteSpeed=135.56MBs. Assigned SpeedClass 'Local'
+[2023.01.21-21.48.06:345][  0]LogDerivedDataCache: Using Local data cache path C:/Users/m020115k/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.01.21-21.48.06:345][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.01.21-21.48.06:345][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.01.21-21.48.06:350][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.01.21-21.48.06:350][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.01.21-21.48.06:350][  0]LogShaderCompilers: Guid format shader working directory is -32 characters bigger than the processId version (../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Intermediate/Shaders/WorkingDirectory/25088/).
+[2023.01.21-21.48.06:350][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/m020115k/AppData/Local/Temp/UnrealShaderWorkingDir/0420F8004C04A6F0C93C3595C386F5E9/'.
+[2023.01.21-21.48.06:350][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.01.21-21.48.06:351][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2023.01.21-21.48.07:430][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.01.21-21.48.07:430][  0]LogSlate: Using FreeType 2.10.0
+[2023.01.21-21.48.07:431][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.01.21-21.48.07:456][  0]LogAssetRegistry: FAssetRegistry took 0.0087 seconds to start up
+[2023.01.21-21.48.07:460][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.01.21-21.48.07:636][  0]LogAssetRegistry: Error: Package C:/Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/All_blockouts/ceiling_light_frame_Base_Mesh_Sphere001.uasset is too new. Engine Version: 1004  Package Version: 1008
+[2023.01.21-21.48.07:636][  0]LogAssetRegistry: Error: Package C:/Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/All_blockouts/Round_Bulb_Base_Mesh_Sphere004.uasset is too new. Engine Version: 1004  Package Version: 1008
+[2023.01.21-21.48.07:636][  0]LogAssetRegistry: Error: Package C:/Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/All_blockouts/Round_Bulb_Base_Mesh_Object002.uasset is too new. Engine Version: 1004  Package Version: 1008
+[2023.01.21-21.48.07:636][  0]LogAssetRegistry: Error: Package C:/Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/All_blockouts/ceiling_light_frame_Base_Mesh_Sphere002.uasset is too new. Engine Version: 1004  Package Version: 1008
+[2023.01.21-21.48.07:636][  0]LogAssetRegistry: Error: Package C:/Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/All_blockouts/03_-_Default.uasset is too new. Engine Version: 1004  Package Version: 1008
+[2023.01.21-21.48.07:636][  0]LogAssetRegistry: Error: Package C:/Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/All_blockouts/ceiling_light_frame_Base_Mesh_Cylinder001.uasset is too new. Engine Version: 1004  Package Version: 1008
+[2023.01.21-21.48.07:636][  0]LogAssetRegistry: Error: Package C:/Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/All_blockouts/02_-_Default.uasset is too new. Engine Version: 1004  Package Version: 1008
+[2023.01.21-21.48.07:636][  0]LogAssetRegistry: Error: Package C:/Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/All_blockouts/Wardrobe/01_-_Default.uasset is too new. Engine Version: 1004  Package Version: 1008
+[2023.01.21-21.48.07:636][  0]LogAssetRegistry: Error: Package C:/Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/__ExternalActors__/EngineContent/ThirdPerson/Maps/ThirdPersonMap/2/IZ/8QF9LAS21A253FKE3014DG.uasset is too new. Engine Version: 1004  Package Version: 1008
+[2023.01.21-21.48.07:636][  0]LogAssetRegistry: Error: Package C:/Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/__ExternalActors__/EngineContent/ThirdPerson/Maps/ThirdPersonMap/1/4N/YMLM3SSI72MZCO9Z8XZPJ4.uasset is too new. Engine Version: 1004  Package Version: 1008
+[2023.01.21-21.48.07:636][  0]LogAssetRegistry: Error: Package C:/Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/__ExternalActors__/EngineContent/ThirdPerson/Maps/ThirdPersonMap/3/IV/B5K2UMP9LU1U41VPJEPIDH.uasset is too new. Engine Version: 1004  Package Version: 1008
+[2023.01.21-21.48.07:636][  0]LogAssetRegistry: Error: Package C:/Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/__ExternalActors__/EngineContent/ThirdPerson/Maps/ThirdPersonMap/C/5K/91H7G3BH2I8KO6NL68KJM8.uasset is too new. Engine Version: 1004  Package Version: 1008
+[2023.01.21-21.48.07:636][  0]LogAssetRegistry: Error: Package C:/Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/All_blockouts/Walls/09_-_Default.uasset is too new. Engine Version: 1004  Package Version: 1008
+[2023.01.21-21.48.07:636][  0]LogAssetRegistry: Error: Package C:/Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/All_blockouts/Desk_Table/01_-_Default.uasset is too new. Engine Version: 1004  Package Version: 1008
+[2023.01.21-21.48.07:636][  0]LogAssetRegistry: Error: Package C:/Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/All_blockouts/Coffee_Table/Mouse_Basemesh_default.uasset is too new. Engine Version: 1004  Package Version: 1008
+[2023.01.21-21.48.07:636][  0]LogAssetRegistry: Error: Package C:/Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/All_blockouts/Bed/Mouse_Basemesh_default.uasset is too new. Engine Version: 1004  Package Version: 1008
+[2023.01.21-21.48.07:636][  0]LogAssetRegistry: Error: Package C:/Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/All_blockouts/Bed/01_-_Default.uasset is too new. Engine Version: 1004  Package Version: 1008
+[2023.01.21-21.48.07:636][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.01.21-21.48.07:637][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.01.21-21.48.07:816][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.01.21-21.48.07:816][  0]LogDeviceProfileManager: Active device profile: [00000588D74839C0][00000588C3770000 50] WindowsEditor
+[2023.01.21-21.48.07:816][  0]LogDeviceProfileManager: Profiles: [00000588D7483480][00000588C3772800 50] Windows, [00000588D74839C0][00000588C3770000 50] WindowsEditor, [00000588D7482D80][00000588C377A000 50] WindowsServer, [00000588D7481F80][00000588C1F9C800 50] WindowsClient, [00000588D7482140][00000588CA0DC800 50] IOS, [00000588D7480000][00000588C3737800 50] iPadAir2, [00000588D7485940][00000588B67E0000 50] IPadPro, [00000588D7485CC0][00000588C3775000 50] iPadAir3, [00000588D7485240][00000588D7460000 50] iPadAir4, [00000588D7480FC0][00000588D7465000 50] iPadMini4, [00000588D7485080][00000588D7467800 50] iPadMini5, [00000588D7484EC0][00000588D746A000 50] iPadMini6, [00000588D7487A80][00000588D7520000 50] iPhone6S, [00000588D74878C0][00000588D7522800 50] iPhone7, [00000588D7487540][00000588D7525000 50] iPodTouch7, [00000588D7484280][00000588D752A000 50] iPhone6SPlus, [00000588D7483100][00000588D752C800 50] iPhone7Plus, [00000588D7484980][00000588C3735000 50] iPhoneSE, [00000588D7484600][00000588D746C800 50] iPhone8, [00000588D7484B40][00000588D7527800 50] iPhone8Plus, [00000588D7487700][00000588D74A0000 50] iPhoneX, [00000588D7482680][00000588D74A5000 50] iPhoneXS, [00000588D7485400][00000588D74A7800 50] iPhoneXSMax, [00000588D74871C0][00000588D74AA000 50] iPhoneXR, [00000588D7482300][00000588D74AC800 50] iPhone11, [00000588D74840C0][00000588D7462800 50] iPhone11Pro, [00000588D7482A00][00000588D7510000 50] iPhone11ProMax, [00000588D7487C40][00000588D7515000 50] iPhoneSE2, [00000588D74808C0][00000588D7517800 50] iPhone12Mini, [00000588D7485E80][00000588D751A000 50] iPhone12, [00000588D7480700][00000588D751C800 50] iPhone12Pro, [00000588D7483F00][00000588D74A2800 50] iPhone12ProMax, [00000588D7487000][00000588D74C0000 50] iPhone13Mini, [00000588D7482840][00000588D74C5000 50] iPhone13, [00000588D7486900][00000588D74C7800 50] iPhone13Pro, [00000588D7484D00][00000588D74CA000 50] iPhone13ProMax, [00000588D7483B80][00000588D74CC800 50] iPadPro105, [00000588D74816C0][00000588D7512800 50] iPadPro129, [00000588D7481340][00000588D74D0000 50] iPadPro97, [00000588D7480380][00000588D74D5000 50] iPadPro2_129, [00000588D7480E00][00000588D74D7800 50] iPad5, [00000588D7481180][00000588D74DA000 50] iPad6, [00000588D7482F40][00000588D74DC800 50] iPad7, [00000588D7486AC0][00000588D74C2800 50] iPad8, [00000588D7481500][00000588D74E0000 50] iPad9, [00000588D74855C0][00000588D74E5000 50] iPadPro11, [00000588D74863C0][00000588D74E7800 50] iPadPro2_11, [00000588D7481DC0][00000588D74EA000 50] iPadPro3_11, [00000588D7480A80][00000588D74EC800 50] iPadPro3_129, [00000588D7486040][00000588D74D2800 50] iPadPro4_129, [00000588D7480C40][00000588D74F0000 50] iPadPro5_129, [00000588D7486E40][00000588D74F5000 50] AppleTV, [00000588D74847C0][00000588D74F7800 50] AppleTV4K, [00000588D7487E00][00000588D74FA000 50] TVOS, [00000588D748A800][00000588D74E2800 50] Mac, [00000588D748AB80][00000588D74FC800 50] MacEditor, [00000588D748A100][00000588D7530000 50] MacClient, [00000588D7485780][00000588D7535000 50] MacServer, [00000588D748AF00][00000588D753A000 50] Linux, [00000588D748B280][00000588D7537800 50] LinuxEditor, [00000588D7488180][00000588D753C800 50] LinuxArm64Editor, [00000588D7489F40][00000588D74F2800 50] LinuxArm64, [00000588D748A2C0][00000588D7540000 50] LinuxClient, [00000588D7483800][00000588D7545000 50] LinuxArm64Client, [00000588D7488500][00000588D7547800 50] LinuxServer, [00000588D7481880][00000588D754A000 50] LinuxArm64Server, [00000588D7489680][00000588D754C800 50] Android, [00000588D74824C0][00000588D7532800 50] Android_Preview_OpenGL, [00000588D7485B00][00000588D7550000 50] Android_Preview_Vulkan, [00000588D7488DC0][00000588D7555000 50] Android_Low, [00000588D748A640][00000588D7557800 50] Android_Mid, [00000588D74886C0][00000588D755A000 50] Android_High, [00000588D7480540][00000588D755C800 50] Android_Default, [00000588D7489BC0][00000588D7542800 50] Android_Adreno4xx, [00000588D748A480][00000588D7560000 50] Android_Adreno5xx_Low, [00000588D7487380][00000588D7565000 50] Android_Adreno5xx, [00000588D74832C0][00000588D7567800 50] Android_Adreno6xx, [00000588D7488C00][00000588D756A000 50] Android_Adreno6xx_Vulkan, [00000588D7489300][00000588D756C800 50] Android_Adreno7xx, [00000588D7488340][00000588D7552800 50] Android_Adreno7xx_Vulkan, [00000588D7489840][00000588D7570000 50] Android_Mali_T6xx, [00000588D74801C0][00000588D7575000 50] Android_Mali_T7xx, [00000588D748B440][00000588D7577800 50] Android_Mali_T8xx, [00000588D7482BC0][00000588D757A000 50] Android_Mali_G71, [00000588D7487FC0][00000588D757C800 50] Android_Mali_G72, [00000588D7481A40][00000588D7562800 50] Android_Mali_G72_Vulkan, [00000588D7486740][00000588D7580000 50] Android_Mali_G76, [00000588D748AD40][00000588D7585000 50] Android_Mali_G76_Vulkan, [00000588D7489140][00000588D7587800 50] Android_Mali_G77, [00000588D748B7C0][00000588D758A000 50] Android_Mali_G77_Vulkan, [00000588D748B600][00000588D758C800 50] Android_Mali_G78, [00000588D7486580][00000588D7572800 50] Android_Mali_G78_Vulkan, [00000588D7486C80][00000588D7590000 50] Android_Mali_G710, [00000588D748B980][00000588D7595000 50] Android_Mali_G710_Vulkan, [00000588D748BB40][00000588D7597800 50] Android_Xclipse_920, [00000588D748C5C0][00000588D759A000 50] Android_Xclipse_920_Vulkan, [00000588D7489D80][00000588D759C800 50] Android_Vulkan_SM5, [00000588D7481C00][00000588D7582800 50] Android_PowerVR_G6xxx, [00000588D748C780][00000588D75A0000 50] Android_PowerVR_GT7xxx, [00000588D748CE80][00000588D75A5000 50] Android_PowerVR_GE8xxx, [00000588D7489A00][00000588D75A7800 50] Android_PowerVR_GM9xxx, [00000588D748D040][00000588D75AA000 50] Android_PowerVR_GM9xxx_Vulkan, [00000588D7488F80][00000588D75AC800 50] Android_TegraK1, [00000588D74894C0][00000588D7592800 50] Android_Unknown_Vulkan, [00000588D748D200][00000588D75B0000 50] Oculus_Quest, [00000588D748DC80][00000588D75B5000 50] Oculus_Quest2, [00000588D748CB00][00000588D75B7800 50] HoloLens, 
+[2023.01.21-21.48.07:816][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.01.21-21.48.07:819][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2023.01.21-21.48.07:819][  0]LogTurnkeySupport: Turnkey Platform: HoloLens: (Status=Valid, Installed=10.0.19041.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2023.01.21-21.48.07:819][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2023.01.21-21.48.07:819][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.01.21-21.48.07:819][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.01.21-21.48.07:819][  0]LogTurnkeySupport: Turnkey Platform: TVOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2023.01.21-21.48.07:819][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.19041.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2023.01.21-21.48.07:976][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.01.21-21.48.07:976][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.01.21-21.48.07:976][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.01.21-21.48.07:976][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.01.21-21.48.07:976][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.01.21-21.48.07:987][  0]LogNetVersion: CritterballBoom 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 2663492005)
+[2023.01.21-21.48.08:074][  0]LogSlate: Border
+[2023.01.21-21.48.08:074][  0]LogSlate: BreadcrumbButton
+[2023.01.21-21.48.08:074][  0]LogSlate: Default
+[2023.01.21-21.48.08:074][  0]LogSlate: Icons.Save
+[2023.01.21-21.48.08:074][  0]LogSlate: Icons.Toolbar.Settings
+[2023.01.21-21.48.08:074][  0]LogSlate: ListView
+[2023.01.21-21.48.08:074][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.01.21-21.48.08:074][  0]LogSlate: SoftwareCursor_Grab
+[2023.01.21-21.48.08:074][  0]LogSlate: TableView.DarkRow
+[2023.01.21-21.48.08:074][  0]LogSlate: TableView.Row
+[2023.01.21-21.48.08:074][  0]LogSlate: TreeView
+[2023.01.21-21.48.08:202][  0]SourceControl: Source control is disabled
+[2023.01.21-21.48.08:223][  0]SourceControl: Source control is disabled
+[2023.01.21-21.48.08:223][  0]SourceControl: Source control is disabled
+[2023.01.21-21.48.08:311][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.01.21-21.48.08:311][  0]LogUObjectAllocator: 5584264 out of 0 bytes used by permanent object pool.
+[2023.01.21-21.48.08:311][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.01.21-21.48.08:388][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 2498345D48F7794BFB68B692983B3518 | Instance: FD98F14247F70F986C8992897D6938D9 (C115-13-25088).
+[2023.01.21-21.48.08:553][  0]LogPython: Using Python 3.9.7
+[2023.01.21-21.48.09:164][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.01.21-21.48.09:164][  0]LogWindows: Warning: URL: C:/Users/q021572k/AppData/Local/Microsoft/GitHubDesktop/current/resources/app/git/cmd/git.exe version
+[2023.01.21-21.48.09:345][  0]LogOpenImageDenoise: OIDN starting up
+[2023.01.21-21.48.09:384][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.01.21-21.48.09:385][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.01.21-21.48.09:441][  0]LogCollectionManager: Loaded 0 collections in 0.001659 seconds
+[2023.01.21-21.48.09:497][  0]LogFileCache: Scanning file cache for directory 'C:/Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Collections/' took 0.00s
+[2023.01.21-21.48.09:497][  0]LogFileCache: Scanning file cache for directory 'C:/Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Developers/m020115k/Collections/' took 0.00s
+[2023.01.21-21.48.09:497][  0]LogFileCache: Scanning file cache for directory 'C:/Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Collections/' took 0.00s
+[2023.01.21-21.48.09:712][  0]LogEngine: Initializing Engine...
+[2023.01.21-21.48.09:722][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.01.21-21.48.09:722][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.01.21-21.48.09:915][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.01.21-21.48.09:916][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.21-21.48.09:924][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.21-21.48.09:944][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.01.21-21.48.09:945][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.01.21-21.48.09:963][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.01.21-21.48.09:963][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.01.21-21.48.09:963][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.01.21-21.48.09:964][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.01.21-21.48.09:964][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.01.21-21.48.09:964][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.21-21.48.09:964][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.21-21.48.09:964][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.21-21.48.09:964][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.21-21.48.09:964][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.21-21.48.09:964][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.21-21.48.09:964][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.21-21.48.09:964][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.21-21.48.09:965][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.21-21.48.09:965][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.21-21.48.09:965][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.21-21.48.09:970][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.21-21.48.09:994][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.01.21-21.48.09:994][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.21-21.48.09:996][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.21-21.48.09:996][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.21-21.48.09:996][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.01.21-21.48.09:996][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.01.21-21.48.09:997][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.01.21-21.48.09:997][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.01.21-21.48.09:997][  0]LogInit: FAudioDevice initialized.
+[2023.01.21-21.48.09:997][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.01.21-21.48.09:997][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.01.21-21.48.09:997][  0]LogInit: Texture streaming: Enabled
+[2023.01.21-21.48.10:023][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.01.21-21.48.10:030][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.01.21-21.48.10:030][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={632CBC58-4E9E-E048-C07A-C6AE39B2A69C}
+[2023.01.21-21.48.10:050][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.01.21-21.48.10:056][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.01.21-21.48.10:056][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.01.21-21.48.10:807][  0]LogLiveCoding: Display: First instance in process group "UE_CritterballBoom_0x9aced3b0", spawning console
+[2023.01.21-21.48.10:807][  0]LogLiveCoding: Display: Waiting for server
+[2023.01.21-21.48.10:807][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.01.21-21.48.10:830][  0]LogInit: Transaction tracking system initialized
+[2023.01.21-21.48.10:847][  0]LogSourceControl: Error: Version number is invalid (file: 1, current: 0).
+[2023.01.21-21.48.10:888][  0]BlueprintLog: New page: Editor Load
+[2023.01.21-21.48.11:029][  0]LocalizationService: Localization service is disabled
+[2023.01.21-21.48.11:064][  0]TimingProfiler: Initialize
+[2023.01.21-21.48.11:064][  0]TimingProfiler: OnSessionChanged
+[2023.01.21-21.48.11:064][  0]LoadingProfiler: Initialize
+[2023.01.21-21.48.11:064][  0]LoadingProfiler: OnSessionChanged
+[2023.01.21-21.48.11:064][  0]NetworkingProfiler: Initialize
+[2023.01.21-21.48.11:064][  0]NetworkingProfiler: OnSessionChanged
+[2023.01.21-21.48.11:064][  0]MemoryProfiler: Initialize
+[2023.01.21-21.48.11:064][  0]MemoryProfiler: OnSessionChanged
+[2023.01.21-21.48.11:518][  0]LogFileCache: Scanning file cache for directory 'C:/Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/' took 0.01s
+[2023.01.21-21.48.11:518][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.01.21-21.48.11:565][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.01.21-21.48.11:566][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.01.21-21.48.11:566][  0]LogWindows: Warning: URL: C:/Users/q021572k/AppData/Local/Microsoft/GitHubDesktop/current/resources/app/git/cmd/git.exe version
+[2023.01.21-21.48.11:567][  0]LogUnrealEdMisc: Loading editor; pre map load, took 6.526
+[2023.01.21-21.48.11:567][  0]Cmd: MAP LOAD FILE="../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Levels/Menus/LevelTITLESCREEN_Persistent.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.01.21-21.48.11:567][  0]LightingResults: New page: Lighting Build
+[2023.01.21-21.48.11:574][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.01.21-21.48.11:574][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.21-21.48.11:574][  0]MapCheck: New page: Map Check
+[2023.01.21-21.48.11:574][  0]LightingResults: New page: Lighting Build
+[2023.01.21-21.48.11:580][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.21-21.48.11:582][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.01.21-21.48.11:616][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelTITLESCREEN_Persistent'.
+[2023.01.21-21.48.11:616][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.21-21.48.11:616][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.21-21.48.11:616][  0]LogAIModule: Creating AISystem for world LevelTITLESCREEN_Persistent
+[2023.01.21-21.48.11:618][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.01.21-21.48.11:625][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.01.21-21.48.11:625][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.01.21-21.48.11:625][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.166ms to complete.
+[2023.01.21-21.48.11:625][  0]LogFileHelpers: Loading map 'LevelTITLESCREEN_Persistent' took 0.058
+[2023.01.21-21.48.11:634][  0]LogUnrealEdMisc: Total Editor Startup Time, took 6.593
+[2023.01.21-21.48.11:634][  0]LogShaderCompilers: Display: ================================================
+[2023.01.21-21.48.11:634][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.21-21.48.11:634][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.01.21-21.48.11:634][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.01.21-21.48.11:634][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2023.01.21-21.48.11:634][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.21-21.48.11:634][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.01.21-21.48.11:634][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.01.21-21.48.11:634][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.01.21-21.48.11:634][  0]LogShaderCompilers: Display: ================================================
+[2023.01.21-21.48.11:855][  0]LogBlueprint: Warning: [AssetLog] C:\Users\m020115k\Documents\GitHub\Group12_COLLAB\CritterballBoom\Content\Animation\WeasleSwingBP.uasset: [Compiler] Weasle_Swing_Blendspace to HighSwing_Base  will never be taken, please connect something to  Can Enter Transition
+[2023.01.21-21.48.11:855][  0]LogBlueprint: Warning: [AssetLog] C:\Users\m020115k\Documents\GitHub\Group12_COLLAB\CritterballBoom\Content\Animation\WeasleSwingBP.uasset: [Compiler] Weasle_Swing_Blendspace to Swing_Low_Full  will never be taken, please connect something to  Can Enter Transition
+[2023.01.21-21.48.11:855][  0]LogBlueprint: Warning: [AssetLog] C:\Users\m020115k\Documents\GitHub\Group12_COLLAB\CritterballBoom\Content\Animation\WeasleSwingBP.uasset: [Compiler] Swing_Low_Full to Weasle_Swing_Blendspace  will never be taken, please connect something to  Can Enter Transition
+[2023.01.21-21.48.11:855][  0]LogBlueprint: Warning: [AssetLog] C:\Users\m020115k\Documents\GitHub\Group12_COLLAB\CritterballBoom\Content\Animation\WeasleSwingBP.uasset: [Compiler] HighSwing_Base to Weasle_Swing_Blendspace  will never be taken, please connect something to  Can Enter Transition
+[2023.01.21-21.48.12:189][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.21-21.48.12:193][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.21-21.48.12:196][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.21-21.48.12:199][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.21-21.48.12:254][  0]LogPakFile: Display: Mounted Pak file 'C:/Epic/UE5/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.01.21-21.48.12:254][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.21-21.48.12:255][  0]LogPakFile: Display: Mounted Pak file 'C:/Epic/UE5/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.01.21-21.48.12:255][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.21-21.48.12:255][  0]LogPakFile: Display: Mounted Pak file 'C:/Epic/UE5/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.01.21-21.48.12:255][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.21-21.48.12:256][  0]LogPakFile: Display: Mounted Pak file 'C:/Epic/UE5/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.01.21-21.48.12:256][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.21-21.48.12:256][  0]LogPakFile: Display: Mounted Pak file 'C:/Epic/UE5/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.01.21-21.48.12:256][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.21-21.48.12:256][  0]LogPakFile: Display: Mounted Pak file 'C:/Epic/UE5/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.01.21-21.48.12:257][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.21-21.48.12:257][  0]LogPakFile: Display: Mounted Pak file 'C:/Epic/UE5/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.01.21-21.48.12:257][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.21-21.48.12:257][  0]LogPakFile: Display: Mounted Pak file 'C:/Epic/UE5/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.01.21-21.48.12:257][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.21-21.48.12:257][  0]LogPakFile: Display: Mounted Pak file 'C:/Epic/UE5/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.01.21-21.48.12:257][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.21-21.48.12:258][  0]LogPakFile: Display: Mounted Pak file 'C:/Epic/UE5/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.01.21-21.48.12:258][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.21-21.48.12:258][  0]LogFeaturePack: Error: Error in Feature pack C:/Epic/UE5/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.01.21-21.48.12:335][  0]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.01.21-21.48.12:338][  0]LogSlate: Took 0.000114 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.01.21-21.48.12:338][  0]LogSlate: Took 0.000058 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.01.21-21.48.12:355][  0]LogViewport: Scene viewport resized to 1487x902, mode Windowed.
+[2023.01.21-21.48.12:440][  0]LogStall: Startup...
+[2023.01.21-21.48.12:442][  0]LogStall: Startup complete.
+[2023.01.21-21.48.12:451][  0]LogLoad: (Engine Initialization) Total time: 7.41 seconds
+[2023.01.21-21.48.12:451][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.01.21-21.48.12:514][  0]LogAssetRegistry: Asset discovery search completed in 5.0584 seconds
+[2023.01.21-21.48.12:521][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000001 seconds (updated 0 objects)
+[2023.01.21-21.48.12:545][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.01.21-21.48.12:617][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/' took 0.12s
+[2023.01.21-21.48.23:187][267]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.01.21-21.48.23:187][267]LogSlate: Took 0.000087 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.01.21-21.48.23:191][267]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.01.21-21.48.43:512][607]LogPackageLocalizationCache: Processed 28 localized package path(s) for 1 prioritized culture(s) in 0.002932 seconds
+[2023.01.21-21.48.43:514][607]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/All_blockouts/AdaM/Bollard_SM_Albedo_Mat
+[2023.01.21-21.48.43:514][607]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Bollard_SM_Albedo_Mat83EC83CC46E25A2343EFB7AFD9259D86.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/All_blockouts/AdaM/Bollard_SM_Albedo_Mat.uasset'
+[2023.01.21-21.48.43:714][607]LogSavePackage: Moving output files for package: /Game/Textures/Bollard_SM_Normal
+[2023.01.21-21.48.43:714][607]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Bollard_SM_Normal7D11B6D64012175411F85BBFC64A177E.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Textures/Bollard_SM_Normal.uasset'
+[2023.01.21-21.48.43:900][607]LogSavePackage: Moving output files for package: /Game/Textures/Bollard_SM_AO_Metallic_Roughness
+[2023.01.21-21.48.43:900][607]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Bollard_SM_AO_Metallic_Roughness492E59FA4EEEB20C558602938B5B27C9.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Textures/Bollard_SM_AO_Metallic_Roughness.uasset'
+[2023.01.21-21.48.44:112][607]LogSavePackage: Moving output files for package: /Game/Textures/Bollard_SM_Albedo
+[2023.01.21-21.48.44:112][607]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Bollard_SM_AlbedoD68B509D411305DFB24F57B4E4336334.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Textures/Bollard_SM_Albedo.uasset'
+[2023.01.21-21.48.44:138][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.01.21-21.48.44:143][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.01.21-21.48.44:148][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.01.21-21.48.44:162][607]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.21-21.48.44:162][607]LogContentValidation: Display: Validating Texture2D /Game/Textures/Bollard_SM_Normal.Bollard_SM_Normal
+[2023.01.21-21.48.44:162][607]LogContentValidation: Display: Validating Texture2D /Game/Textures/Bollard_SM_AO_Metallic_Roughness.Bollard_SM_AO_Metallic_Roughness
+[2023.01.21-21.48.44:162][607]LogContentValidation: Display: Validating Texture2D /Game/Textures/Bollard_SM_Albedo.Bollard_SM_Albedo
+[2023.01.21-21.48.44:162][607]LogContentValidation: Display: Validating Material /Game/LevelDesign/s027702k_Mause/All_blockouts/AdaM/Bollard_SM_Albedo_Mat.Bollard_SM_Albedo_Mat
+[2023.01.21-21.48.46:895][911]LogSavePackage: Moving output files for package: /Game/Materials/Bollard_SM_Albedo_Mat
+[2023.01.21-21.48.46:895][911]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Bollard_SM_Albedo_MatDB8410B647C90D2DC785588CDF6A22FB.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Materials/Bollard_SM_Albedo_Mat.uasset'
+[2023.01.21-21.48.46:897][911]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/All_blockouts/AdaM/Bollard_SM_Albedo_Mat
+[2023.01.21-21.48.46:897][911]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Bollard_SM_Albedo_Mat96B975A64CBD8AB5EF3E798489391FC4.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/All_blockouts/AdaM/Bollard_SM_Albedo_Mat.uasset'
+[2023.01.21-21.48.46:912][911]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.21-21.48.46:912][911]LogContentValidation: Display: Validating ObjectRedirector /Game/LevelDesign/s027702k_Mause/All_blockouts/AdaM/Bollard_SM_Albedo_Mat.Bollard_SM_Albedo_Mat
+[2023.01.21-21.48.46:912][911]LogContentValidation: Display: Validating Material /Game/Materials/Bollard_SM_Albedo_Mat.Bollard_SM_Albedo_Mat
+[2023.01.21-21.48.47:837][ 15]LogStaticMesh: Display: Building static mesh Bollard_SM...
+[2023.01.21-21.48.47:837][ 15]LogStaticMesh: Built static mesh [0.00s] /Game/LevelDesign/s027702k_Mause/All_blockouts/AdaM/Bollard_SM.Bollard_SM
+[2023.01.21-21.48.49:090][147]LogMetaData: Removing '/Game/Meshes/Bollard_SM.Bollard_SM' ref from Metadata '/Game/LevelDesign/s027702k_Mause/All_blockouts/AdaM/Bollard_SM.PackageMetaData'
+[2023.01.21-21.48.49:172][147]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Bollard_SM" FILE="../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Meshes/Bollard_SM.uasset" SILENT=true
+[2023.01.21-21.48.49:175][147]LogSavePackage: Moving output files for package: /Game/Meshes/Bollard_SM
+[2023.01.21-21.48.49:175][147]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Bollard_SMC9B6726D4531085DEEFF0380EDD75395.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Meshes/Bollard_SM.uasset'
+[2023.01.21-21.48.49:196][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.01.21-21.48.49:202][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.01.21-21.48.49:207][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.01.21-21.48.49:218][147]AssetCheck: New page: Asset Save: Bollard_SM
+[2023.01.21-21.48.49:218][147]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/Bollard_SM.Bollard_SM
+[2023.01.21-21.48.58:445][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/BedWood_MI" FILE="../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Materials/BedWood_MI.uasset" SILENT=true
+[2023.01.21-21.48.58:446][200]LogSavePackage: Moving output files for package: /Game/Materials/BedWood_MI
+[2023.01.21-21.48.58:446][200]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/BedWood_MIC5301C824F71C9833DB7828053EE44BC.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Materials/BedWood_MI.uasset'
+[2023.01.21-21.48.58:447][200]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/All_blockouts/AdaM/TemporaryMats/BedWood_MI
+[2023.01.21-21.48.58:447][200]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/BedWood_MI1914E4684B1F15C7718986B9B7F50DC5.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/All_blockouts/AdaM/TemporaryMats/BedWood_MI.uasset'
+[2023.01.21-21.48.58:448][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/DeskWood_MI" FILE="../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Materials/DeskWood_MI.uasset" SILENT=true
+[2023.01.21-21.48.58:449][200]LogSavePackage: Moving output files for package: /Game/Materials/DeskWood_MI
+[2023.01.21-21.48.58:449][200]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/DeskWood_MIF7A3B79A4724F55DAAEB37A5510D7DF1.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Materials/DeskWood_MI.uasset'
+[2023.01.21-21.48.58:450][200]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/All_blockouts/AdaM/TemporaryMats/DeskWood_MI
+[2023.01.21-21.48.58:450][200]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/DeskWood_MI31E9FF624C1D12C4850CE78866F0FDE2.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/All_blockouts/AdaM/TemporaryMats/DeskWood_MI.uasset'
+[2023.01.21-21.48.58:451][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/FishBowl" FILE="../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Materials/FishBowl.uasset" SILENT=true
+[2023.01.21-21.48.58:452][200]LogSavePackage: Moving output files for package: /Game/Materials/FishBowl
+[2023.01.21-21.48.58:452][200]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/FishBowl1267FF9343D544EE12D8EB8AF6D553B7.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Materials/FishBowl.uasset'
+[2023.01.21-21.48.58:453][200]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/All_blockouts/AdaM/TemporaryMats/FishBowl
+[2023.01.21-21.48.58:454][200]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/FishBowlD72A795941BF4334374B509C4A65045F.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/All_blockouts/AdaM/TemporaryMats/FishBowl.uasset'
+[2023.01.21-21.48.58:454][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/MM" FILE="../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Materials/MM.uasset" SILENT=true
+[2023.01.21-21.48.58:455][200]LogSavePackage: Moving output files for package: /Game/Materials/MM
+[2023.01.21-21.48.58:455][200]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/MM61F055C347DE2439B97F33AE9CC96E84.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Materials/MM.uasset'
+[2023.01.21-21.48.58:456][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/OffWhite_MI" FILE="../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Materials/OffWhite_MI.uasset" SILENT=true
+[2023.01.21-21.48.58:457][200]LogSavePackage: Moving output files for package: /Game/Materials/OffWhite_MI
+[2023.01.21-21.48.58:457][200]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/OffWhite_MI3BCE51D24D026D903CF55094D206196B.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Materials/OffWhite_MI.uasset'
+[2023.01.21-21.48.58:458][200]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/All_blockouts/AdaM/TemporaryMats/OffWhite_MI
+[2023.01.21-21.48.58:458][200]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/OffWhite_MI55B211C34DBDF8BD5FE05AAD89179C98.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/All_blockouts/AdaM/TemporaryMats/OffWhite_MI.uasset'
+[2023.01.21-21.48.58:459][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/OffWhite_MI_2" FILE="../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Materials/OffWhite_MI_2.uasset" SILENT=true
+[2023.01.21-21.48.58:460][200]LogSavePackage: Moving output files for package: /Game/Materials/OffWhite_MI_2
+[2023.01.21-21.48.58:460][200]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/OffWhite_MI_2E362780F48CA24D386854A99DE7FA0B1.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Materials/OffWhite_MI_2.uasset'
+[2023.01.21-21.48.58:461][200]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/All_blockouts/AdaM/TemporaryMats/OffWhite_MI_2
+[2023.01.21-21.48.58:462][200]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/OffWhite_MI_2A43EF62F487A87044698D490163416A6.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/All_blockouts/AdaM/TemporaryMats/OffWhite_MI_2.uasset'
+[2023.01.21-21.48.58:462][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Pillow_MI" FILE="../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Materials/Pillow_MI.uasset" SILENT=true
+[2023.01.21-21.48.58:463][200]LogSavePackage: Moving output files for package: /Game/Materials/Pillow_MI
+[2023.01.21-21.48.58:463][200]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Pillow_MI13C992944BEE0F0FC285AF86E3F64C27.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Materials/Pillow_MI.uasset'
+[2023.01.21-21.48.58:465][200]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/All_blockouts/AdaM/TemporaryMats/Pillow_MI
+[2023.01.21-21.48.58:465][200]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Pillow_MI450ADEE14B05CA38E6431981AF1A8CD2.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/All_blockouts/AdaM/TemporaryMats/Pillow_MI.uasset'
+[2023.01.21-21.48.58:466][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Poster1_MI" FILE="../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Materials/Poster1_MI.uasset" SILENT=true
+[2023.01.21-21.48.58:467][200]LogSavePackage: Moving output files for package: /Game/Materials/Poster1_MI
+[2023.01.21-21.48.58:467][200]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Poster1_MI1AECEEE84E67090D451A6A890FBF6135.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Materials/Poster1_MI.uasset'
+[2023.01.21-21.48.58:468][200]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/All_blockouts/AdaM/TemporaryMats/Poster1_MI
+[2023.01.21-21.48.58:468][200]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Poster1_MI432A936348E15583DD98E881FB3E9E23.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/All_blockouts/AdaM/TemporaryMats/Poster1_MI.uasset'
+[2023.01.21-21.48.58:469][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Poster2_MI" FILE="../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Materials/Poster2_MI.uasset" SILENT=true
+[2023.01.21-21.48.58:470][200]LogSavePackage: Moving output files for package: /Game/Materials/Poster2_MI
+[2023.01.21-21.48.58:470][200]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Poster2_MI691BB7C44D478EC71E6867974EF02B8B.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Materials/Poster2_MI.uasset'
+[2023.01.21-21.48.58:472][200]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/All_blockouts/AdaM/TemporaryMats/Poster2_MI
+[2023.01.21-21.48.58:472][200]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Poster2_MI0B609C7B42EA31ED9C6C6DA7B4DA067A.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/All_blockouts/AdaM/TemporaryMats/Poster2_MI.uasset'
+[2023.01.21-21.48.58:473][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Poster3_MI" FILE="../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Materials/Poster3_MI.uasset" SILENT=true
+[2023.01.21-21.48.58:474][200]LogSavePackage: Moving output files for package: /Game/Materials/Poster3_MI
+[2023.01.21-21.48.58:474][200]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Poster3_MI9E11DB904739B64F84C0B2B95F1EA21A.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Materials/Poster3_MI.uasset'
+[2023.01.21-21.48.58:475][200]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/All_blockouts/AdaM/TemporaryMats/Poster3_MI
+[2023.01.21-21.48.58:476][200]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Poster3_MID32C41E744302EDB5CCAF6B50A004742.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/All_blockouts/AdaM/TemporaryMats/Poster3_MI.uasset'
+[2023.01.21-21.48.58:476][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Purple_MI" FILE="../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Materials/Purple_MI.uasset" SILENT=true
+[2023.01.21-21.48.58:477][200]LogSavePackage: Moving output files for package: /Game/Materials/Purple_MI
+[2023.01.21-21.48.58:477][200]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Purple_MI6EA4CC48413383976D70BAB7AACB5607.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Materials/Purple_MI.uasset'
+[2023.01.21-21.48.58:479][200]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/All_blockouts/AdaM/TemporaryMats/Purple_MI
+[2023.01.21-21.48.58:479][200]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Purple_MICFC60C1840A5DFAC1619F2AEE3C9AFF6.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/All_blockouts/AdaM/TemporaryMats/Purple_MI.uasset'
+[2023.01.21-21.48.58:480][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/RaceTrack_MI" FILE="../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Materials/RaceTrack_MI.uasset" SILENT=true
+[2023.01.21-21.48.58:481][200]LogSavePackage: Moving output files for package: /Game/Materials/RaceTrack_MI
+[2023.01.21-21.48.58:481][200]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/RaceTrack_MID5A414F041F222A7654065A0729696C9.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Materials/RaceTrack_MI.uasset'
+[2023.01.21-21.48.58:481][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/RedBed_MI" FILE="../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Materials/RedBed_MI.uasset" SILENT=true
+[2023.01.21-21.48.58:482][200]LogSavePackage: Moving output files for package: /Game/Materials/RedBed_MI
+[2023.01.21-21.48.58:482][200]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/RedBed_MIE79D41D043BEAF464B2A49B4C58F7A45.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Materials/RedBed_MI.uasset'
+[2023.01.21-21.48.58:484][200]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/All_blockouts/AdaM/TemporaryMats/RedBed_MI
+[2023.01.21-21.48.58:484][200]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/RedBed_MI1865F83F45B52EF8B7BD6086F83DD765.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/All_blockouts/AdaM/TemporaryMats/RedBed_MI.uasset'
+[2023.01.21-21.48.58:485][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Screen_MI" FILE="../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Materials/Screen_MI.uasset" SILENT=true
+[2023.01.21-21.48.58:486][200]LogSavePackage: Moving output files for package: /Game/Materials/Screen_MI
+[2023.01.21-21.48.58:486][200]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Screen_MIE8CA820C4D9EEE6F8DF52CA719B42406.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Materials/Screen_MI.uasset'
+[2023.01.21-21.48.58:487][200]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/All_blockouts/AdaM/TemporaryMats/Screen_MI
+[2023.01.21-21.48.58:488][200]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Screen_MI97598D964FFFC290E6DE31A67338EF81.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/All_blockouts/AdaM/TemporaryMats/Screen_MI.uasset'
+[2023.01.21-21.48.58:508][200]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.01.21-21.48.58:514][200]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.01.21-21.48.58:519][200]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.01.21-21.48.58:531][200]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.21-21.48.58:531][200]LogContentValidation: Display: Validating ObjectRedirector /Game/LevelDesign/s027702k_Mause/All_blockouts/AdaM/TemporaryMats/Screen_MI.Screen_MI
+[2023.01.21-21.48.58:531][200]LogContentValidation: Display: Validating ObjectRedirector /Game/LevelDesign/s027702k_Mause/All_blockouts/AdaM/TemporaryMats/RedBed_MI.RedBed_MI
+[2023.01.21-21.48.58:531][200]LogContentValidation: Display: Validating ObjectRedirector /Game/LevelDesign/s027702k_Mause/All_blockouts/AdaM/TemporaryMats/Purple_MI.Purple_MI
+[2023.01.21-21.48.58:531][200]LogContentValidation: Display: Validating ObjectRedirector /Game/LevelDesign/s027702k_Mause/All_blockouts/AdaM/TemporaryMats/Poster3_MI.Poster3_MI
+[2023.01.21-21.48.58:531][200]LogContentValidation: Display: Validating ObjectRedirector /Game/LevelDesign/s027702k_Mause/All_blockouts/AdaM/TemporaryMats/Poster2_MI.Poster2_MI
+[2023.01.21-21.48.58:531][200]LogContentValidation: Display: Validating ObjectRedirector /Game/LevelDesign/s027702k_Mause/All_blockouts/AdaM/TemporaryMats/Poster1_MI.Poster1_MI
+[2023.01.21-21.48.58:531][200]LogContentValidation: Display: Validating ObjectRedirector /Game/LevelDesign/s027702k_Mause/All_blockouts/AdaM/TemporaryMats/Pillow_MI.Pillow_MI
+[2023.01.21-21.48.58:531][200]LogContentValidation: Display: Validating ObjectRedirector /Game/LevelDesign/s027702k_Mause/All_blockouts/AdaM/TemporaryMats/OffWhite_MI_2.OffWhite_MI_2
+[2023.01.21-21.48.58:531][200]LogContentValidation: Display: Validating ObjectRedirector /Game/LevelDesign/s027702k_Mause/All_blockouts/AdaM/TemporaryMats/OffWhite_MI.OffWhite_MI
+[2023.01.21-21.48.58:531][200]LogContentValidation: Display: Validating ObjectRedirector /Game/LevelDesign/s027702k_Mause/All_blockouts/AdaM/TemporaryMats/FishBowl.FishBowl
+[2023.01.21-21.48.58:531][200]LogContentValidation: Display: Validating ObjectRedirector /Game/LevelDesign/s027702k_Mause/All_blockouts/AdaM/TemporaryMats/DeskWood_MI.DeskWood_MI
+[2023.01.21-21.48.58:532][200]LogContentValidation: Display: Validating ObjectRedirector /Game/LevelDesign/s027702k_Mause/All_blockouts/AdaM/TemporaryMats/BedWood_MI.BedWood_MI
+[2023.01.21-21.48.58:532][200]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/Screen_MI.Screen_MI
+[2023.01.21-21.48.58:532][200]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/RedBed_MI.RedBed_MI
+[2023.01.21-21.48.58:532][200]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/RaceTrack_MI.RaceTrack_MI
+[2023.01.21-21.48.58:532][200]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/Purple_MI.Purple_MI
+[2023.01.21-21.48.58:532][200]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/Poster3_MI.Poster3_MI
+[2023.01.21-21.48.58:532][200]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/Poster2_MI.Poster2_MI
+[2023.01.21-21.48.58:532][200]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/Poster1_MI.Poster1_MI
+[2023.01.21-21.48.58:532][200]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/Pillow_MI.Pillow_MI
+[2023.01.21-21.48.58:532][200]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/OffWhite_MI_2.OffWhite_MI_2
+[2023.01.21-21.48.58:532][200]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/OffWhite_MI.OffWhite_MI
+[2023.01.21-21.48.58:532][200]LogContentValidation: Display: Validating Material /Game/Materials/FishBowl.FishBowl
+[2023.01.21-21.48.58:532][200]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/DeskWood_MI.DeskWood_MI
+[2023.01.21-21.48.58:532][200]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/BedWood_MI.BedWood_MI
+[2023.01.21-21.48.58:532][200]LogContentValidation: Display: Validating Material /Game/Materials/MM.MM
+[2023.01.21-21.49.03:974][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.01.21-21.49.05:316][839]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.21-21.49.05:326][839]LogUObjectGlobals: Force Deleting 13 Package(s):
+	Asset Name: /Game/LevelDesign/s027702k_Mause/All_blockouts/AdaM/TemporaryMats/Screen_MI.Screen_MI
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/LevelDesign/s027702k_Mause/All_blockouts/AdaM/TemporaryMats/RedBed_MI.RedBed_MI
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/LevelDesign/s027702k_Mause/All_blockouts/AdaM/TemporaryMats/Purple_MI.Purple_MI
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/LevelDesign/s027702k_Mause/All_blockouts/AdaM/TemporaryMats/Poster3_MI.Poster3_MI
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/LevelDesign/s027702k_Mause/All_blockouts/AdaM/TemporaryMats/Poster2_MI.Poster2_MI
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/LevelDesign/s027702k_Mause/All_blockouts/AdaM/TemporaryMats/Poster1_MI.Poster1_MI
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/LevelDesign/s027702k_Mause/All_blockouts/AdaM/TemporaryMats/Pillow_MI.Pillow_MI
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/LevelDesign/s027702k_Mause/All_blockouts/AdaM/TemporaryMats/OffWhite_MI_2.OffWhite_MI_2
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/LevelDesign/s027702k_Mause/All_blockouts/AdaM/TemporaryMats/OffWhite_MI.OffWhite_MI
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/LevelDesign/s027702k_Mause/All_blockouts/AdaM/TemporaryMats/FishBowl.FishBowl
+	Asset Type: ObjectRedirector
+[2023.01.21-21.49.05:478][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.01.21-21.49.05:484][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.01.21-21.49.05:489][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.01.21-21.49.10:181][398]LogLinker: Warning: Asset '/Game/LevelDesign/s027702k_Mause/All_blockouts/Bed/01_-_Default' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.01.21-21.49.10:181][398]LoadErrors: Warning: Package '/Game/LevelDesign/s027702k_Mause/All_blockouts/Bed/01_-_Default' contains a newer version than the current process supports. PackageVersion 1,008, MaxExpected 1,004 : LicenseePackageVersion 0, MaxExpected 0.
+[2023.01.21-21.49.10:182][398]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/LevelDesign/s027702k_Mause/All_blockouts/Bed/01_-_Default'
+[2023.01.21-21.49.10:182][398]LogLinker: Warning: Asset '/Game/LevelDesign/s027702k_Mause/All_blockouts/Bed/01_-_Default' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.01.21-21.49.10:182][398]LogLinker: Warning: Asset '/Game/LevelDesign/s027702k_Mause/All_blockouts/Bed/01_-_Default' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.01.21-21.49.10:182][398]LogLinker: Warning: Asset '/Game/LevelDesign/s027702k_Mause/All_blockouts/Bed/01_-_Default' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.01.21-21.49.10:187][398]LogLinker: Warning: Asset '/Game/LevelDesign/s027702k_Mause/All_blockouts/Bed/01_-_Default' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.01.21-21.49.10:187][398]LogLinker: Warning: Asset '/Game/LevelDesign/s027702k_Mause/All_blockouts/Bed/01_-_Default' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.01.21-21.49.10:187][398]LogLinker: Warning: Asset '/Game/LevelDesign/s027702k_Mause/All_blockouts/Bed/01_-_Default' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.01.21-21.49.10:187][398]LogLinker: Warning: Asset '/Game/LevelDesign/s027702k_Mause/All_blockouts/Bed/01_-_Default' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.01.21-21.49.10:188][398]LogLinker: Warning: Asset '/Game/LevelDesign/s027702k_Mause/All_blockouts/Bed/Mouse_Basemesh_default' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.01.21-21.49.10:188][398]LoadErrors: Warning: Package '/Game/LevelDesign/s027702k_Mause/All_blockouts/Bed/Mouse_Basemesh_default' contains a newer version than the current process supports. PackageVersion 1,008, MaxExpected 1,004 : LicenseePackageVersion 0, MaxExpected 0.
+[2023.01.21-21.49.10:188][398]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/LevelDesign/s027702k_Mause/All_blockouts/Bed/Mouse_Basemesh_default'
+[2023.01.21-21.49.10:188][398]LogLinker: Warning: Asset '/Game/LevelDesign/s027702k_Mause/All_blockouts/Bed/Mouse_Basemesh_default' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.01.21-21.49.10:188][398]LogLinker: Warning: Asset '/Game/LevelDesign/s027702k_Mause/All_blockouts/Bed/Mouse_Basemesh_default' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.01.21-21.49.10:189][398]LogLinker: Warning: Asset '/Game/LevelDesign/s027702k_Mause/All_blockouts/Bed/Mouse_Basemesh_default' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.01.21-21.49.10:189][398]LogLinker: Warning: Asset '/Game/LevelDesign/s027702k_Mause/All_blockouts/Bed/01_-_Default' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.01.21-21.49.10:189][398]LogLinker: Warning: Asset '/Game/LevelDesign/s027702k_Mause/All_blockouts/Bed/01_-_Default' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.01.21-21.49.10:190][398]LogLinker: Warning: Asset '/Game/LevelDesign/s027702k_Mause/All_blockouts/Bed/01_-_Default' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.01.21-21.49.10:190][398]LogLinker: Warning: Asset '/Game/LevelDesign/s027702k_Mause/All_blockouts/Bed/01_-_Default' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.01.21-21.49.10:190][398]LogLinker: Warning: Asset '/Game/LevelDesign/s027702k_Mause/All_blockouts/Bed/01_-_Default' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.01.21-21.49.10:190][398]LogLinker: Warning: Asset '/Game/LevelDesign/s027702k_Mause/All_blockouts/Bed/01_-_Default' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.01.21-21.49.10:191][398]LogLinker: Warning: Asset '/Game/LevelDesign/s027702k_Mause/All_blockouts/Bed/01_-_Default' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.01.21-21.49.10:191][398]LogLinker: Warning: Asset '/Game/LevelDesign/s027702k_Mause/All_blockouts/Bed/01_-_Default' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.01.21-21.49.13:259][743]LogMetaData: Removing '/Game/Meshes/BedBody_SM.BedBody_SM' ref from Metadata '/Game/LevelDesign/s027702k_Mause/All_blockouts/Bed/BedBody_SM.PackageMetaData'
+[2023.01.21-21.49.13:265][743]LogMetaData: Removing '/Game/Meshes/BedDuvetTEMP_SM.BedDuvetTEMP_SM' ref from Metadata '/Game/LevelDesign/s027702k_Mause/All_blockouts/Bed/BedDuvetTEMP_SM.PackageMetaData'
+[2023.01.21-21.49.13:267][743]LogMetaData: Removing '/Game/Meshes/BedSideTable_SM__3_.BedSideTable_SM__3_' ref from Metadata '/Game/LevelDesign/s027702k_Mause/All_blockouts/Bed/BedSideTable_SM__3_.PackageMetaData'
+[2023.01.21-21.49.13:269][743]LogMetaData: Removing '/Game/Meshes/Mattress_SM.Mattress_SM' ref from Metadata '/Game/LevelDesign/s027702k_Mause/All_blockouts/Bed/Mattress_SM.PackageMetaData'
+[2023.01.21-21.49.13:270][743]LogMetaData: Removing '/Game/Meshes/Pillow_SM.Pillow_SM' ref from Metadata '/Game/LevelDesign/s027702k_Mause/All_blockouts/Bed/Pillow_SM.PackageMetaData'
+[2023.01.21-21.49.13:358][743]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/BedBody_SM" FILE="../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Meshes/BedBody_SM.uasset" SILENT=true
+[2023.01.21-21.49.13:369][743]LogSavePackage: Moving output files for package: /Game/Meshes/BedBody_SM
+[2023.01.21-21.49.13:369][743]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/BedBody_SM7C1AF6BF4A13A1408443779E2279132B.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Meshes/BedBody_SM.uasset'
+[2023.01.21-21.49.13:370][743]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/All_blockouts/Bed/BedBody_SM
+[2023.01.21-21.49.13:371][743]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/BedBody_SM117390CB43863D8B9B9CBE9557996391.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/All_blockouts/Bed/BedBody_SM.uasset'
+[2023.01.21-21.49.13:381][743]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/BedDuvetTEMP_SM" FILE="../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Meshes/BedDuvetTEMP_SM.uasset" SILENT=true
+[2023.01.21-21.49.13:417][743]LogSavePackage: Moving output files for package: /Game/Meshes/BedDuvetTEMP_SM
+[2023.01.21-21.49.13:417][743]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/BedDuvetTEMP_SMC8A2B32D44B35812BA796EA48B6D3755.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Meshes/BedDuvetTEMP_SM.uasset'
+[2023.01.21-21.49.13:429][743]LogSavePackage: Moving output files for package: /Game/Meshes/BedSideTable_SM__3_
+[2023.01.21-21.49.13:429][743]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/BedSideTable_SM__3_A9842C43424639BDE166109BE564221F.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Meshes/BedSideTable_SM__3_.uasset'
+[2023.01.21-21.49.13:430][743]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/All_blockouts/Bed/BedSideTable_SM__3_
+[2023.01.21-21.49.13:431][743]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/BedSideTable_SM__3_C38B500D49957C3DB312039F494EEE99.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/All_blockouts/Bed/BedSideTable_SM__3_.uasset'
+[2023.01.21-21.49.13:441][743]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Mattress_SM" FILE="../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Meshes/Mattress_SM.uasset" SILENT=true
+[2023.01.21-21.49.13:443][743]LogSavePackage: Moving output files for package: /Game/Meshes/Mattress_SM
+[2023.01.21-21.49.13:443][743]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Mattress_SM20FD3659413E8AE5B1AE76822A3EC28C.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Meshes/Mattress_SM.uasset'
+[2023.01.21-21.49.13:445][743]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/All_blockouts/Bed/Mattress_SM
+[2023.01.21-21.49.13:445][743]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Mattress_SMD5457A0B4AC3DF70BE40E59EF8D31A6F.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/All_blockouts/Bed/Mattress_SM.uasset'
+[2023.01.21-21.49.13:456][743]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Pillow_SM" FILE="../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Meshes/Pillow_SM.uasset" SILENT=true
+[2023.01.21-21.49.13:459][743]LogSavePackage: Moving output files for package: /Game/Meshes/Pillow_SM
+[2023.01.21-21.49.13:459][743]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Pillow_SM815DC7A0471AA3B926904CAB9265E25D.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Meshes/Pillow_SM.uasset'
+[2023.01.21-21.49.13:461][743]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/All_blockouts/Bed/Pillow_SM
+[2023.01.21-21.49.13:461][743]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Pillow_SM9D9F438A4129DE77FEF107A6B9BAC35C.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/All_blockouts/Bed/Pillow_SM.uasset'
+[2023.01.21-21.49.13:480][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.01.21-21.49.13:487][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.01.21-21.49.13:492][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.01.21-21.49.13:501][743]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.21-21.49.13:501][743]LogContentValidation: Display: Validating ObjectRedirector /Game/LevelDesign/s027702k_Mause/All_blockouts/Bed/Pillow_SM.Pillow_SM
+[2023.01.21-21.49.13:501][743]LogContentValidation: Display: Validating ObjectRedirector /Game/LevelDesign/s027702k_Mause/All_blockouts/Bed/Mattress_SM.Mattress_SM
+[2023.01.21-21.49.13:501][743]LogContentValidation: Display: Validating ObjectRedirector /Game/LevelDesign/s027702k_Mause/All_blockouts/Bed/BedSideTable_SM__3_.BedSideTable_SM__3_
+[2023.01.21-21.49.13:501][743]LogContentValidation: Display: Validating ObjectRedirector /Game/LevelDesign/s027702k_Mause/All_blockouts/Bed/BedBody_SM.BedBody_SM
+[2023.01.21-21.49.13:501][743]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/Mattress_SM.Mattress_SM
+[2023.01.21-21.49.13:501][743]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/BedSideTable_SM__3_.BedSideTable_SM__3_
+[2023.01.21-21.49.13:501][743]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/Pillow_SM.Pillow_SM
+[2023.01.21-21.49.13:501][743]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/BedDuvetTEMP_SM.BedDuvetTEMP_SM
+[2023.01.21-21.49.13:501][743]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/BedBody_SM.BedBody_SM
+[2023.01.21-21.49.18:020][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.01.21-21.49.18:823][281]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.21-21.49.18:833][281]LogUObjectGlobals: Force Deleting 4 Package(s):
+	Asset Name: /Game/LevelDesign/s027702k_Mause/All_blockouts/Bed/Pillow_SM.Pillow_SM
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/LevelDesign/s027702k_Mause/All_blockouts/Bed/Mattress_SM.Mattress_SM
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/LevelDesign/s027702k_Mause/All_blockouts/Bed/BedSideTable_SM__3_.BedSideTable_SM__3_
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/LevelDesign/s027702k_Mause/All_blockouts/Bed/BedBody_SM.BedBody_SM
+	Asset Type: ObjectRedirector
+[2023.01.21-21.49.18:930][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.01.21-21.49.18:935][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.01.21-21.49.18:940][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.01.21-21.49.23:798][848]LogLinker: Warning: Asset '/Game/LevelDesign/s027702k_Mause/All_blockouts/Coffee_Table/Mouse_Basemesh_default' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.01.21-21.49.23:798][848]LoadErrors: Warning: Package '/Game/LevelDesign/s027702k_Mause/All_blockouts/Coffee_Table/Mouse_Basemesh_default' contains a newer version than the current process supports. PackageVersion 1,008, MaxExpected 1,004 : LicenseePackageVersion 0, MaxExpected 0.
+[2023.01.21-21.49.23:798][848]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/LevelDesign/s027702k_Mause/All_blockouts/Coffee_Table/Mouse_Basemesh_default'
+[2023.01.21-21.49.23:799][848]LogLinker: Warning: Asset '/Game/LevelDesign/s027702k_Mause/All_blockouts/Coffee_Table/Mouse_Basemesh_default' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.01.21-21.49.23:799][848]LogLinker: Warning: Asset '/Game/LevelDesign/s027702k_Mause/All_blockouts/Coffee_Table/Mouse_Basemesh_default' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.01.21-21.49.23:799][848]LogLinker: Warning: Asset '/Game/LevelDesign/s027702k_Mause/All_blockouts/Coffee_Table/Mouse_Basemesh_default' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.01.21-21.49.28:456][359]LogMetaData: Removing '/Game/Meshes/TvTable_SM__1_.TvTable_SM__1_' ref from Metadata '/Game/LevelDesign/s027702k_Mause/All_blockouts/Coffee_Table/TvTable_SM__1_.PackageMetaData'
+[2023.01.21-21.49.28:532][359]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/TvTable_SM__1_" FILE="../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Meshes/TvTable_SM__1_.uasset" SILENT=true
+[2023.01.21-21.49.28:535][359]LogSavePackage: Moving output files for package: /Game/Meshes/TvTable_SM__1_
+[2023.01.21-21.49.28:535][359]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/TvTable_SM__1_5B8379774D9EF40EE323E78D24A6F511.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Meshes/TvTable_SM__1_.uasset'
+[2023.01.21-21.49.28:536][359]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/All_blockouts/Coffee_Table/TvTable_SM__1_
+[2023.01.21-21.49.28:536][359]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/TvTable_SM__1_57EE82884545FEC8BB36798FEB087D3F.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/All_blockouts/Coffee_Table/TvTable_SM__1_.uasset'
+[2023.01.21-21.49.28:552][359]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.21-21.49.28:552][359]LogContentValidation: Display: Validating ObjectRedirector /Game/LevelDesign/s027702k_Mause/All_blockouts/Coffee_Table/TvTable_SM__1_.TvTable_SM__1_
+[2023.01.21-21.49.28:552][359]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/TvTable_SM__1_.TvTable_SM__1_
+[2023.01.21-21.49.32:684][833]LogMetaData: Removing '/Game/Meshes/VCR__1_.VCR__1_' ref from Metadata '/Game/LevelDesign/s027702k_Mause/All_blockouts/Coffee_Table/VCR/VCR__1_.PackageMetaData'
+[2023.01.21-21.49.32:761][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/VCR__1_" FILE="../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Meshes/VCR__1_.uasset" SILENT=true
+[2023.01.21-21.49.32:778][833]LogSavePackage: Moving output files for package: /Game/Meshes/VCR__1_
+[2023.01.21-21.49.32:778][833]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/VCR__1_73A3A64846CB92EA85C7919FD25AC0E7.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Meshes/VCR__1_.uasset'
+[2023.01.21-21.49.32:779][833]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/All_blockouts/Coffee_Table/VCR/VCR__1_
+[2023.01.21-21.49.32:780][833]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/VCR__1_B2A2CB334AA4A570256DE68F15262BD3.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/All_blockouts/Coffee_Table/VCR/VCR__1_.uasset'
+[2023.01.21-21.49.32:797][833]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.21-21.49.32:797][833]LogContentValidation: Display: Validating ObjectRedirector /Game/LevelDesign/s027702k_Mause/All_blockouts/Coffee_Table/VCR/VCR__1_.VCR__1_
+[2023.01.21-21.49.32:797][833]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/VCR__1_.VCR__1_
+[2023.01.21-21.49.42:027][850]LogSavePackage: Moving output files for package: /Game/Materials/VCR_DefaultMaterial_BaseColor_sRGB_Mat
+[2023.01.21-21.49.42:028][850]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/VCR_DefaultMaterial_BaseColor_sR3123413444A1288BD8135DB039259D9F.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Materials/VCR_DefaultMaterial_BaseColor_sRGB_Mat.uasset'
+[2023.01.21-21.49.42:029][850]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/All_blockouts/Coffee_Table/VCR/VCR/VCR_DefaultMaterial_BaseColor_sRGB_Mat
+[2023.01.21-21.49.42:029][850]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/VCR_DefaultMaterial_BaseColor_sRD21557DC4C86C5B4001D6B9F62326EE2.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/All_blockouts/Coffee_Table/VCR/VCR/VCR_DefaultMaterial_BaseColor_sRGB_Mat.uasset'
+[2023.01.21-21.49.42:045][850]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.21-21.49.42:045][850]LogContentValidation: Display: Validating ObjectRedirector /Game/LevelDesign/s027702k_Mause/All_blockouts/Coffee_Table/VCR/VCR/VCR_DefaultMaterial_BaseColor_sRGB_Mat.VCR_DefaultMaterial_BaseColor_sRGB_Mat
+[2023.01.21-21.49.42:045][850]LogContentValidation: Display: Validating Material /Game/Materials/VCR_DefaultMaterial_BaseColor_sRGB_Mat.VCR_DefaultMaterial_BaseColor_sRGB_Mat
+[2023.01.21-21.49.44:628][125]LogSavePackage: Moving output files for package: /Game/Materials/VCR_DefaultMaterial_BaseColor_sRGB_Mat
+[2023.01.21-21.49.44:628][125]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/VCR_DefaultMaterial_BaseColor_sR01CDBF63499378ED9F05518DA645B5BF.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Materials/VCR_DefaultMaterial_BaseColor_sRGB_Mat.uasset'
+[2023.01.21-21.49.44:737][125]LogSavePackage: Moving output files for package: /Game/Textures/VCR_DefaultMaterial_OcclusionRoughnessMetallic_Raw
+[2023.01.21-21.49.44:737][125]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/VCR_DefaultMaterial_OcclusionRouCFE8271241940DDE094DE7A852AAEF38.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Textures/VCR_DefaultMaterial_OcclusionRoughnessMetallic_Raw.uasset'
+[2023.01.21-21.49.44:877][125]LogSavePackage: Moving output files for package: /Game/Textures/VCR_DefaultMaterial_BaseColor_sRGB
+[2023.01.21-21.49.44:877][125]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/VCR_DefaultMaterial_BaseColor_sRBD7CBA5F44D206C1C06D7BB39E14FB52.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Textures/VCR_DefaultMaterial_BaseColor_sRGB.uasset'
+[2023.01.21-21.49.44:916][125]LogSavePackage: Moving output files for package: /Game/Textures/VCR_DefaultMaterial_Emissive_sRGB
+[2023.01.21-21.49.44:916][125]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/VCR_DefaultMaterial_Emissive_sRGB1A1084942F5D8F4CC73DC849B7B8CE6.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Textures/VCR_DefaultMaterial_Emissive_sRGB.uasset'
+[2023.01.21-21.49.45:108][125]LogSavePackage: Moving output files for package: /Game/Textures/VCR_DefaultMaterial_Normal_Raw
+[2023.01.21-21.49.45:108][125]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/VCR_DefaultMaterial_Normal_Raw805C861D4E8E2569C3D560B83F094094.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Textures/VCR_DefaultMaterial_Normal_Raw.uasset'
+[2023.01.21-21.49.45:132][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.01.21-21.49.45:138][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.01.21-21.49.45:143][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.01.21-21.49.45:155][125]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.21-21.49.45:155][125]LogContentValidation: Display: Validating Material /Game/Materials/VCR_DefaultMaterial_BaseColor_sRGB_Mat.VCR_DefaultMaterial_BaseColor_sRGB_Mat
+[2023.01.21-21.49.45:155][125]LogContentValidation: Display: Validating Texture2D /Game/Textures/VCR_DefaultMaterial_OcclusionRoughnessMetallic_Raw.VCR_DefaultMaterial_OcclusionRoughnessMetallic_Raw
+[2023.01.21-21.49.45:155][125]LogContentValidation: Display: Validating Texture2D /Game/Textures/VCR_DefaultMaterial_Normal_Raw.VCR_DefaultMaterial_Normal_Raw
+[2023.01.21-21.49.45:155][125]LogContentValidation: Display: Validating Texture2D /Game/Textures/VCR_DefaultMaterial_Emissive_sRGB.VCR_DefaultMaterial_Emissive_sRGB
+[2023.01.21-21.49.45:155][125]LogContentValidation: Display: Validating Texture2D /Game/Textures/VCR_DefaultMaterial_BaseColor_sRGB.VCR_DefaultMaterial_BaseColor_sRGB
+[2023.01.21-21.49.57:061][502]LogSavePackage: Moving output files for package: /Game/Materials/TV_01_-_Default_BaseColor_sRGB_Mat
+[2023.01.21-21.49.57:061][502]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/TV_01_-_Default_BaseColor_sRGB_MB4D392EF442B7558D8E4DE947C3260F6.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Materials/TV_01_-_Default_BaseColor_sRGB_Mat.uasset'
+[2023.01.21-21.49.57:062][502]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/All_blockouts/Coffee_Table/TV/TV_01_-_Default_BaseColor_sRGB_Mat
+[2023.01.21-21.49.57:063][502]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/TV_01_-_Default_BaseColor_sRGB_M318C9A29498C3CCABFCD79AECB512BB0.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/All_blockouts/Coffee_Table/TV/TV_01_-_Default_BaseColor_sRGB_Mat.uasset'
+[2023.01.21-21.49.57:065][502]LogSavePackage: Moving output files for package: /Game/Materials/TV_Screen_BaseColor_sRGB_Mat
+[2023.01.21-21.49.57:065][502]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/TV_Screen_BaseColor_sRGB_Mat6EDCAD3940B9E578045FED94A31FD59D.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Materials/TV_Screen_BaseColor_sRGB_Mat.uasset'
+[2023.01.21-21.49.57:066][502]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/All_blockouts/Coffee_Table/TV/TV_Screen_BaseColor_sRGB_Mat
+[2023.01.21-21.49.57:066][502]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/TV_Screen_BaseColor_sRGB_Mat156A5F474F577337A195C6AB82FC0411.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/All_blockouts/Coffee_Table/TV/TV_Screen_BaseColor_sRGB_Mat.uasset'
+[2023.01.21-21.49.57:079][502]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.21-21.49.57:079][502]LogContentValidation: Display: Validating ObjectRedirector /Game/LevelDesign/s027702k_Mause/All_blockouts/Coffee_Table/TV/TV_Screen_BaseColor_sRGB_Mat.TV_Screen_BaseColor_sRGB_Mat
+[2023.01.21-21.49.57:079][502]LogContentValidation: Display: Validating ObjectRedirector /Game/LevelDesign/s027702k_Mause/All_blockouts/Coffee_Table/TV/TV_01_-_Default_BaseColor_sRGB_Mat.TV_01_-_Default_BaseColor_sRGB_Mat
+[2023.01.21-21.49.57:079][502]LogContentValidation: Display: Validating Material /Game/Materials/TV_Screen_BaseColor_sRGB_Mat.TV_Screen_BaseColor_sRGB_Mat
+[2023.01.21-21.49.57:079][502]LogContentValidation: Display: Validating Material /Game/Materials/TV_01_-_Default_BaseColor_sRGB_Mat.TV_01_-_Default_BaseColor_sRGB_Mat
+[2023.01.21-21.50.00:865][919]LogMetaData: Removing '/Game/Meshes/TV__1_.TV__1_' ref from Metadata '/Game/LevelDesign/s027702k_Mause/All_blockouts/Coffee_Table/TV/TV__1_.PackageMetaData'
+[2023.01.21-21.50.00:916][919]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/TV__1_" FILE="../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Meshes/TV__1_.uasset" SILENT=true
+[2023.01.21-21.50.00:932][919]LogSavePackage: Moving output files for package: /Game/Meshes/TV__1_
+[2023.01.21-21.50.00:932][919]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/TV__1_35F7A3A941F417267BB3949F6F890E16.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Meshes/TV__1_.uasset'
+[2023.01.21-21.50.00:934][919]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/All_blockouts/Coffee_Table/TV/TV__1_
+[2023.01.21-21.50.00:934][919]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/TV__1_3E91B4A34BCD4905FBE447AE069C86DD.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/All_blockouts/Coffee_Table/TV/TV__1_.uasset'
+[2023.01.21-21.50.00:950][919]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.21-21.50.00:950][919]LogContentValidation: Display: Validating ObjectRedirector /Game/LevelDesign/s027702k_Mause/All_blockouts/Coffee_Table/TV/TV__1_.TV__1_
+[2023.01.21-21.50.00:950][919]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/TV__1_.TV__1_
+[2023.01.21-21.50.03:962][219]LogSavePackage: Moving output files for package: /Game/Materials/TV_Screen_BaseColor_sRGB_Mat
+[2023.01.21-21.50.03:962][219]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/TV_Screen_BaseColor_sRGB_Mat10138AB04C42A1A725F6209C63A2B8F3.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Materials/TV_Screen_BaseColor_sRGB_Mat.uasset'
+[2023.01.21-21.50.03:964][219]LogSavePackage: Moving output files for package: /Game/Materials/TV_01_-_Default_BaseColor_sRGB_Mat
+[2023.01.21-21.50.03:965][219]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/TV_01_-_Default_BaseColor_sRGB_MDB7AB4624DACDFE0E2177F8042223297.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Materials/TV_01_-_Default_BaseColor_sRGB_Mat.uasset'
+[2023.01.21-21.50.04:092][219]LogSavePackage: Moving output files for package: /Game/Textures/TV_Screen_OcclusionRoughnessMetallic_Raw
+[2023.01.21-21.50.04:092][219]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/TV_Screen_OcclusionRoughnessMetaFE10622F430FA713B4200C84CC14E52D.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Textures/TV_Screen_OcclusionRoughnessMetallic_Raw.uasset'
+[2023.01.21-21.50.04:812][219]LogSavePackage: Moving output files for package: /Game/Textures/TV_01_-_Default_BaseColor_sRGB
+[2023.01.21-21.50.04:812][219]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/TV_01_-_Default_BaseColor_sRGBB39F74B54619B6A67371849900504A10.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Textures/TV_01_-_Default_BaseColor_sRGB.uasset'
+[2023.01.21-21.50.05:675][219]LogSavePackage: Moving output files for package: /Game/Textures/TV_01_-_Default_Normal_Raw
+[2023.01.21-21.50.05:675][219]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/TV_01_-_Default_Normal_Raw67246D89421640029B9467B7F8F6D913.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Textures/TV_01_-_Default_Normal_Raw.uasset'
+[2023.01.21-21.50.05:971][219]LogSavePackage: Moving output files for package: /Game/Textures/TV_01_-_Default_OcclusionRoughnessMetallic_Raw
+[2023.01.21-21.50.05:971][219]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/TV_01_-_Default_OcclusionRoughneBA3ACD9C494CE589E869FC8AE618E019.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Textures/TV_01_-_Default_OcclusionRoughnessMetallic_Raw.uasset'
+[2023.01.21-21.50.06:141][219]LogSavePackage: Moving output files for package: /Game/Textures/TV_Screen_BaseColor_sRGB
+[2023.01.21-21.50.06:141][219]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/TV_Screen_BaseColor_sRGBDA184F814D1427516F88B985938D7F20.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Textures/TV_Screen_BaseColor_sRGB.uasset'
+[2023.01.21-21.50.06:340][219]LogSavePackage: Moving output files for package: /Game/Textures/TV_Screen_Normal_Raw
+[2023.01.21-21.50.06:340][219]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/TV_Screen_Normal_Raw1179FC174E8222118127D09F07C91A13.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Textures/TV_Screen_Normal_Raw.uasset'
+[2023.01.21-21.50.06:373][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.01.21-21.50.06:379][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.01.21-21.50.06:386][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.01.21-21.50.06:404][219]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.21-21.50.06:404][219]LogContentValidation: Display: Validating Texture2D /Game/Textures/TV_01_-_Default_Normal_Raw.TV_01_-_Default_Normal_Raw
+[2023.01.21-21.50.06:404][219]LogContentValidation: Display: Validating Texture2D /Game/Textures/TV_01_-_Default_BaseColor_sRGB.TV_01_-_Default_BaseColor_sRGB
+[2023.01.21-21.50.06:404][219]LogContentValidation: Display: Validating Material /Game/Materials/TV_Screen_BaseColor_sRGB_Mat.TV_Screen_BaseColor_sRGB_Mat
+[2023.01.21-21.50.06:404][219]LogContentValidation: Display: Validating Texture2D /Game/Textures/TV_Screen_OcclusionRoughnessMetallic_Raw.TV_Screen_OcclusionRoughnessMetallic_Raw
+[2023.01.21-21.50.06:404][219]LogContentValidation: Display: Validating Texture2D /Game/Textures/TV_Screen_Normal_Raw.TV_Screen_Normal_Raw
+[2023.01.21-21.50.06:404][219]LogContentValidation: Display: Validating Texture2D /Game/Textures/TV_Screen_BaseColor_sRGB.TV_Screen_BaseColor_sRGB
+[2023.01.21-21.50.06:404][219]LogContentValidation: Display: Validating Material /Game/Materials/TV_01_-_Default_BaseColor_sRGB_Mat.TV_01_-_Default_BaseColor_sRGB_Mat
+[2023.01.21-21.50.06:404][219]LogContentValidation: Display: Validating Texture2D /Game/Textures/TV_01_-_Default_OcclusionRoughnessMetallic_Raw.TV_01_-_Default_OcclusionRoughnessMetallic_Raw
+[2023.01.21-21.50.06:500][232]LogDerivedDataCache: C:/Users/m020115k/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.152 and deleted 0 file(s) with total size 0 MiB.
+[2023.01.21-21.50.20:598][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.01.21-21.50.21:729][909]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.21-21.50.21:739][909]LogUObjectGlobals: Force Deleting 9 Package(s):
+	Asset Name: /Game/LevelDesign/s027702k_Mause/All_blockouts/Coffee_Table/VCR/VCR/VCR_DefaultMaterial_BaseColor_sRGB_Mat.VCR_DefaultMaterial_BaseColor_sRGB_Mat
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/LevelDesign/s027702k_Mause/All_blockouts/Coffee_Table/TV/TV__1_.TV__1_
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/LevelDesign/s027702k_Mause/All_blockouts/Coffee_Table/VCR/VCR__1_.VCR__1_
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/LevelDesign/s027702k_Mause/All_blockouts/Coffee_Table/TV/TV_Screen_BaseColor_sRGB_Mat.TV_Screen_BaseColor_sRGB_Mat
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/LevelDesign/s027702k_Mause/All_blockouts/Coffee_Table/TV/TV_01_-_Default_BaseColor_sRGB_Mat.TV_01_-_Default_BaseColor_sRGB_Mat
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/LevelDesign/s027702k_Mause/All_blockouts/Coffee_Table/TvTable_SM__1_.TvTable_SM__1_
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/LevelDesign/s027702k_Mause/All_blockouts/Coffee_Table/VCR__1_.VCR__1_
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/LevelDesign/s027702k_Mause/All_blockouts/Coffee_Table/TV__1_.TV__1_
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/LevelDesign/s027702k_Mause/All_blockouts/Coffee_Table/TapeSleeve__1_.TapeSleeve__1_
+	Asset Type: ObjectRedirector
+[2023.01.21-21.50.21:868][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.01.21-21.50.21:874][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.01.21-21.50.21:879][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.01.21-21.50.27:082][515]LogLinker: Warning: Asset '/Game/LevelDesign/s027702k_Mause/All_blockouts/Desk_Table/01_-_Default' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.01.21-21.50.27:082][515]LoadErrors: Warning: Package '/Game/LevelDesign/s027702k_Mause/All_blockouts/Desk_Table/01_-_Default' contains a newer version than the current process supports. PackageVersion 1,008, MaxExpected 1,004 : LicenseePackageVersion 0, MaxExpected 0.
+[2023.01.21-21.50.27:082][515]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/LevelDesign/s027702k_Mause/All_blockouts/Desk_Table/01_-_Default'
+[2023.01.21-21.50.27:082][515]LogLinker: Warning: Asset '/Game/LevelDesign/s027702k_Mause/All_blockouts/Desk_Table/01_-_Default' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.01.21-21.50.27:082][515]LogLinker: Warning: Asset '/Game/LevelDesign/s027702k_Mause/All_blockouts/Desk_Table/01_-_Default' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.01.21-21.50.27:082][515]LogLinker: Warning: Asset '/Game/LevelDesign/s027702k_Mause/All_blockouts/Desk_Table/01_-_Default' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.01.21-21.50.27:083][515]LogLinker: Warning: [AssetLog] C:\Users\m020115k\Documents\GitHub\Group12_COLLAB\CritterballBoom\Content\LevelDesign\s027702k_Mause\All_blockouts\Desk_Table\Desk-01-kinairo.uasset: Failed to load '/Game/LevelDesign/s027702k_Mause/Kinairo_models/01_-_Default': Can't find file.
+[2023.01.21-21.50.27:083][515]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/LevelDesign/s027702k_Mause/Kinairo_models/01_-_Default'
+[2023.01.21-21.50.27:083][515]LogLinker: Warning: [AssetLog] C:\Users\m020115k\Documents\GitHub\Group12_COLLAB\CritterballBoom\Content\LevelDesign\s027702k_Mause\All_blockouts\Desk_Table\Desk-01-kinairo.uasset: Failed to load '/Game/LevelDesign/s027702k_Mause/Kinairo_models/07_-_Default': Can't find file.
+[2023.01.21-21.50.27:083][515]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/LevelDesign/s027702k_Mause/Kinairo_models/07_-_Default'
+[2023.01.21-21.50.27:084][515]LogLinker: Warning: [AssetLog] C:\Users\m020115k\Documents\GitHub\Group12_COLLAB\CritterballBoom\Content\LevelDesign\s027702k_Mause\All_blockouts\Desk_Table\desk_back_center-kinairo.uasset: Failed to load '/Game/LevelDesign/s027702k_Mause/Kinairo_models/Desk/01_-_Default': Can't find file.
+[2023.01.21-21.50.27:084][515]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/LevelDesign/s027702k_Mause/Kinairo_models/Desk/01_-_Default'
+[2023.01.21-21.50.27:089][515]LogLinker: Warning: [AssetLog] C:\Users\m020115k\Documents\GitHub\Group12_COLLAB\CritterballBoom\Content\LevelDesign\s027702k_Mause\All_blockouts\Desk_Table\door-Left-kinairo.uasset: Failed to load '/Game/LevelDesign/s027702k_Mause/Kinairo_models/Desk/07_-_Default': Can't find file.
+[2023.01.21-21.50.27:089][515]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/LevelDesign/s027702k_Mause/Kinairo_models/Desk/07_-_Default'
+[2023.01.21-21.50.27:092][515]LogLinker: Warning: [AssetLog] C:\Users\m020115k\Documents\GitHub\Group12_COLLAB\CritterballBoom\Content\LevelDesign\s027702k_Mause\All_blockouts\Desk_Table\Monitor-kinairo.uasset: Failed to load '/Game/LevelDesign/s027702k_Mause/Kinairo_models/Material__55': Can't find file.
+[2023.01.21-21.50.27:092][515]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/LevelDesign/s027702k_Mause/Kinairo_models/Material__55'
+[2023.01.21-21.50.27:092][515]LogLinker: Warning: [AssetLog] C:\Users\m020115k\Documents\GitHub\Group12_COLLAB\CritterballBoom\Content\LevelDesign\s027702k_Mause\All_blockouts\Desk_Table\Monitor-kinairo.uasset: Failed to load '/Game/LevelDesign/s027702k_Mause/Kinairo_models/Material__56': Can't find file.
+[2023.01.21-21.50.27:092][515]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/LevelDesign/s027702k_Mause/Kinairo_models/Material__56'
+[2023.01.21-21.50.27:093][515]LogLinker: Warning: [AssetLog] C:\Users\m020115k\Documents\GitHub\Group12_COLLAB\CritterballBoom\Content\LevelDesign\s027702k_Mause\All_blockouts\Desk_Table\Monitor-kinairo.uasset: Failed to load '/Game/LevelDesign/s027702k_Mause/Kinairo_models/Material__57': Can't find file.
+[2023.01.21-21.50.27:093][515]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/LevelDesign/s027702k_Mause/Kinairo_models/Material__57'
+[2023.01.21-21.50.27:093][515]LogLinker: Warning: [AssetLog] C:\Users\m020115k\Documents\GitHub\Group12_COLLAB\CritterballBoom\Content\LevelDesign\s027702k_Mause\All_blockouts\Desk_Table\Monitor-kinairo.uasset: Failed to load '/Game/LevelDesign/s027702k_Mause/Kinairo_models/Material__58': Can't find file.
+[2023.01.21-21.50.27:093][515]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/LevelDesign/s027702k_Mause/Kinairo_models/Material__58'
+[2023.01.21-21.50.27:093][515]LogLinker: Warning: [AssetLog] C:\Users\m020115k\Documents\GitHub\Group12_COLLAB\CritterballBoom\Content\LevelDesign\s027702k_Mause\All_blockouts\Desk_Table\Monitor-kinairo.uasset: Failed to load '/Game/LevelDesign/s027702k_Mause/Kinairo_models/Material__59': Can't find file.
+[2023.01.21-21.50.27:093][515]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/LevelDesign/s027702k_Mause/Kinairo_models/Material__59'
+[2023.01.21-21.50.27:093][515]LogLinker: Warning: [AssetLog] C:\Users\m020115k\Documents\GitHub\Group12_COLLAB\CritterballBoom\Content\LevelDesign\s027702k_Mause\All_blockouts\Desk_Table\Monitor-kinairo.uasset: Failed to load '/Game/LevelDesign/s027702k_Mause/Kinairo_models/Material__60': Can't find file.
+[2023.01.21-21.50.27:093][515]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/LevelDesign/s027702k_Mause/Kinairo_models/Material__60'
+[2023.01.21-21.50.27:093][515]LogLinker: Warning: [AssetLog] C:\Users\m020115k\Documents\GitHub\Group12_COLLAB\CritterballBoom\Content\LevelDesign\s027702k_Mause\All_blockouts\Desk_Table\Monitor-kinairo.uasset: Failed to load '/Game/LevelDesign/s027702k_Mause/Kinairo_models/Monitor': Can't find file.
+[2023.01.21-21.50.27:093][515]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/LevelDesign/s027702k_Mause/Kinairo_models/Monitor'
+[2023.01.21-21.50.27:093][515]LogLinker: Warning: [AssetLog] C:\Users\m020115k\Documents\GitHub\Group12_COLLAB\CritterballBoom\Content\LevelDesign\s027702k_Mause\All_blockouts\Desk_Table\Monitor-kinairo.uasset: Failed to load '/Game/LevelDesign/s027702k_Mause/Kinairo_models/screen': Can't find file.
+[2023.01.21-21.50.27:093][515]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/LevelDesign/s027702k_Mause/Kinairo_models/screen'
+[2023.01.21-21.50.27:096][515]LogLinker: Warning: [AssetLog] C:\Users\m020115k\Documents\GitHub\Group12_COLLAB\CritterballBoom\Content\LevelDesign\s027702k_Mause\All_blockouts\Desk_Table\Mouse-kinairo.uasset: Failed to load '/Game/LevelDesign/s027702k_Mause/Kinairo_models/01_-_Default_ncl1_1': Can't find file.
+[2023.01.21-21.50.27:096][515]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/LevelDesign/s027702k_Mause/Kinairo_models/01_-_Default_ncl1_1'
+[2023.01.21-21.50.29:010][721]LogMetaData: Removing '/Game/Meshes/computer-kinairo.computer-kinairo' ref from Metadata '/Game/LevelDesign/s027702k_Mause/All_blockouts/Desk_Table/computer-kinairo.PackageMetaData'
+[2023.01.21-21.50.29:011][721]LogMetaData: Removing '/Game/Meshes/Desk-01-kinairo.Desk-01-kinairo' ref from Metadata '/Game/LevelDesign/s027702k_Mause/All_blockouts/Desk_Table/Desk-01-kinairo.PackageMetaData'
+[2023.01.21-21.50.29:011][721]LogMetaData: Removing '/Game/Meshes/desk_back_center-kinairo.desk_back_center-kinairo' ref from Metadata '/Game/LevelDesign/s027702k_Mause/All_blockouts/Desk_Table/desk_back_center-kinairo.PackageMetaData'
+[2023.01.21-21.50.29:012][721]LogMetaData: Removing '/Game/Meshes/desk_back_Full-kinairo.desk_back_Full-kinairo' ref from Metadata '/Game/LevelDesign/s027702k_Mause/All_blockouts/Desk_Table/desk_back_Full-kinairo.PackageMetaData'
+[2023.01.21-21.50.29:012][721]LogMetaData: Removing '/Game/Meshes/Desktop-curve-kinairo.Desktop-curve-kinairo' ref from Metadata '/Game/LevelDesign/s027702k_Mause/All_blockouts/Desk_Table/Desktop-curve-kinairo.PackageMetaData'
+[2023.01.21-21.50.29:012][721]LogMetaData: Removing '/Game/Meshes/Desktop-Flat-kinairo.Desktop-Flat-kinairo' ref from Metadata '/Game/LevelDesign/s027702k_Mause/All_blockouts/Desk_Table/Desktop-Flat-kinairo.PackageMetaData'
+[2023.01.21-21.50.29:013][721]LogMetaData: Removing '/Game/Meshes/door-Left-kinairo.door-Left-kinairo' ref from Metadata '/Game/LevelDesign/s027702k_Mause/All_blockouts/Desk_Table/door-Left-kinairo.PackageMetaData'
+[2023.01.21-21.50.29:014][721]LogMetaData: Removing '/Game/Meshes/Draws.Draws' ref from Metadata '/Game/LevelDesign/s027702k_Mause/All_blockouts/Desk_Table/Draws.PackageMetaData'
+[2023.01.21-21.50.29:015][721]LogMetaData: Removing '/Game/Meshes/Electrical-Plug-01-kinairo.Electrical-Plug-01-kinairo' ref from Metadata '/Game/LevelDesign/s027702k_Mause/All_blockouts/Desk_Table/Electrical-Plug-01-kinairo.PackageMetaData'
+[2023.01.21-21.50.29:017][721]LogMetaData: Removing '/Game/Meshes/keyboard-kinairo.keyboard-kinairo' ref from Metadata '/Game/LevelDesign/s027702k_Mause/All_blockouts/Desk_Table/keyboard-kinairo.PackageMetaData'
+[2023.01.21-21.50.29:018][721]LogMetaData: Removing '/Game/Meshes/Monitor-kinairo.Monitor-kinairo' ref from Metadata '/Game/LevelDesign/s027702k_Mause/All_blockouts/Desk_Table/Monitor-kinairo.PackageMetaData'
+[2023.01.21-21.50.29:018][721]LogMetaData: Removing '/Game/Meshes/Mouse-kinairo.Mouse-kinairo' ref from Metadata '/Game/LevelDesign/s027702k_Mause/All_blockouts/Desk_Table/Mouse-kinairo.PackageMetaData'
+[2023.01.21-21.50.29:019][721]LogMetaData: Removing '/Game/Meshes/speaker-01-0kinairo.speaker-01-0kinairo' ref from Metadata '/Game/LevelDesign/s027702k_Mause/All_blockouts/Desk_Table/speaker-01-0kinairo.PackageMetaData'
+[2023.01.21-21.50.29:098][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/computer-kinairo" FILE="../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Meshes/computer-kinairo.uasset" SILENT=true
+[2023.01.21-21.50.29:102][721]LogSavePackage: Moving output files for package: /Game/Meshes/computer-kinairo
+[2023.01.21-21.50.29:102][721]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/computer-kinairo1C052EA7490AB4C7D031B5AADA82EDD3.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Meshes/computer-kinairo.uasset'
+[2023.01.21-21.50.29:104][721]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/All_blockouts/Desk_Table/computer-kinairo
+[2023.01.21-21.50.29:104][721]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/computer-kinairoDC18A6524AB994C22B91EE92ABA16E7D.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/All_blockouts/Desk_Table/computer-kinairo.uasset'
+[2023.01.21-21.50.29:114][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Desk-01-kinairo" FILE="../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Meshes/Desk-01-kinairo.uasset" SILENT=true
+[2023.01.21-21.50.29:117][721]LogSavePackage: Moving output files for package: /Game/Meshes/Desk-01-kinairo
+[2023.01.21-21.50.29:117][721]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Desk-01-kinairo672D90FF4AC164C5718A60869D8D6453.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Meshes/Desk-01-kinairo.uasset'
+[2023.01.21-21.50.29:128][721]LogSavePackage: Moving output files for package: /Game/Meshes/desk_back_center-kinairo
+[2023.01.21-21.50.29:128][721]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/desk_back_center-kinairoE58A38EB4B40FB5D285AB3BC625D997F.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Meshes/desk_back_center-kinairo.uasset'
+[2023.01.21-21.50.29:130][721]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/All_blockouts/Desk_Table/desk_back_center-kinairo
+[2023.01.21-21.50.29:130][721]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/desk_back_center-kinairoB639E3FF49684A08116400B979CB4393.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/All_blockouts/Desk_Table/desk_back_center-kinairo.uasset'
+[2023.01.21-21.50.29:143][721]LogSavePackage: Moving output files for package: /Game/Meshes/desk_back_Full-kinairo
+[2023.01.21-21.50.29:143][721]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/desk_back_Full-kinairoA23AAB4D49C5BC9D93DF76883BE0D5C9.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Meshes/desk_back_Full-kinairo.uasset'
+[2023.01.21-21.50.29:154][721]LogSavePackage: Moving output files for package: /Game/Meshes/Desktop-curve-kinairo
+[2023.01.21-21.50.29:154][721]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Desktop-curve-kinairoDBBE25324259B017C2C680988F51D691.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Meshes/Desktop-curve-kinairo.uasset'
+[2023.01.21-21.50.29:155][721]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/All_blockouts/Desk_Table/Desktop-curve-kinairo
+[2023.01.21-21.50.29:156][721]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Desktop-curve-kinairoF75AE7EF454C2E59A8992CB90986048E.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/All_blockouts/Desk_Table/Desktop-curve-kinairo.uasset'
+[2023.01.21-21.50.29:167][721]LogSavePackage: Moving output files for package: /Game/Meshes/Desktop-Flat-kinairo
+[2023.01.21-21.50.29:167][721]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Desktop-Flat-kinairo926B0B574A2FDE665DA75591BE41E119.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Meshes/Desktop-Flat-kinairo.uasset'
+[2023.01.21-21.50.29:175][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/door-Left-kinairo" FILE="../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Meshes/door-Left-kinairo.uasset" SILENT=true
+[2023.01.21-21.50.29:178][721]LogSavePackage: Moving output files for package: /Game/Meshes/door-Left-kinairo
+[2023.01.21-21.50.29:178][721]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/door-Left-kinairo48D8642D42F124D21909DCA0787F9162.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Meshes/door-Left-kinairo.uasset'
+[2023.01.21-21.50.29:188][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Draws" FILE="../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Meshes/Draws.uasset" SILENT=true
+[2023.01.21-21.50.29:206][721]LogSavePackage: Moving output files for package: /Game/Meshes/Draws
+[2023.01.21-21.50.29:206][721]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/DrawsCC24F82A459CE889BDCE07BD856E1AAA.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Meshes/Draws.uasset'
+[2023.01.21-21.50.29:207][721]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/All_blockouts/Desk_Table/Draws
+[2023.01.21-21.50.29:208][721]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Draws1BB8F13E49843D8F272D2D897A8558BC.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/All_blockouts/Desk_Table/Draws.uasset'
+[2023.01.21-21.50.29:221][721]LogSavePackage: Moving output files for package: /Game/Meshes/Electrical-Plug-01-kinairo
+[2023.01.21-21.50.29:221][721]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Electrical-Plug-01-kinairo4D7D30AA49AADCB1C0CE09BE831824D0.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Meshes/Electrical-Plug-01-kinairo.uasset'
+[2023.01.21-21.50.29:222][721]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/All_blockouts/Desk_Table/Electrical-Plug-01-kinairo
+[2023.01.21-21.50.29:223][721]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Electrical-Plug-01-kinairoEC714C82473CDB61EC4A4BA46541074D.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/All_blockouts/Desk_Table/Electrical-Plug-01-kinairo.uasset'
+[2023.01.21-21.50.29:232][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/keyboard-kinairo" FILE="../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Meshes/keyboard-kinairo.uasset" SILENT=true
+[2023.01.21-21.50.29:257][721]LogSavePackage: Moving output files for package: /Game/Meshes/keyboard-kinairo
+[2023.01.21-21.50.29:257][721]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/keyboard-kinairo93A2DFFD4A1A499744C63DB5D5089AE4.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Meshes/keyboard-kinairo.uasset'
+[2023.01.21-21.50.29:259][721]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/All_blockouts/Desk_Table/keyboard-kinairo
+[2023.01.21-21.50.29:259][721]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/keyboard-kinairo08A84BA2433774758BE2FCADFF394077.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/All_blockouts/Desk_Table/keyboard-kinairo.uasset'
+[2023.01.21-21.50.29:268][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Monitor-kinairo" FILE="../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Meshes/Monitor-kinairo.uasset" SILENT=true
+[2023.01.21-21.50.29:273][721]LogSavePackage: Moving output files for package: /Game/Meshes/Monitor-kinairo
+[2023.01.21-21.50.29:273][721]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Monitor-kinairo393B0BCA46551904364DEA9F1EA1430E.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Meshes/Monitor-kinairo.uasset'
+[2023.01.21-21.50.29:275][721]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/All_blockouts/Desk_Table/Monitor-kinairo
+[2023.01.21-21.50.29:275][721]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Monitor-kinairo175FD15140D3380EA5DAC2B67090FDAB.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/All_blockouts/Desk_Table/Monitor-kinairo.uasset'
+[2023.01.21-21.50.29:289][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Mouse-kinairo" FILE="../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Meshes/Mouse-kinairo.uasset" SILENT=true
+[2023.01.21-21.50.29:293][721]LogSavePackage: Moving output files for package: /Game/Meshes/Mouse-kinairo
+[2023.01.21-21.50.29:293][721]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Mouse-kinairoBC81002549B0B7967FE18C8E3242D988.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Meshes/Mouse-kinairo.uasset'
+[2023.01.21-21.50.29:295][721]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/All_blockouts/Desk_Table/Mouse-kinairo
+[2023.01.21-21.50.29:295][721]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Mouse-kinairoC69867DF45F713823B7660AAE18DE0B4.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/All_blockouts/Desk_Table/Mouse-kinairo.uasset'
+[2023.01.21-21.50.29:311][721]LogSavePackage: Moving output files for package: /Game/Meshes/speaker-01-0kinairo
+[2023.01.21-21.50.29:311][721]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/speaker-01-0kinairo589BE0274C5D5DCAEE5DBFB845C3164A.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Meshes/speaker-01-0kinairo.uasset'
+[2023.01.21-21.50.29:340][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.01.21-21.50.29:345][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.01.21-21.50.29:351][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.01.21-21.50.29:362][721]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.21-21.50.29:362][721]LogContentValidation: Display: Validating ObjectRedirector /Game/LevelDesign/s027702k_Mause/All_blockouts/Desk_Table/Mouse-kinairo.Mouse-kinairo
+[2023.01.21-21.50.29:362][721]LogContentValidation: Display: Validating ObjectRedirector /Game/LevelDesign/s027702k_Mause/All_blockouts/Desk_Table/Monitor-kinairo.Monitor-kinairo
+[2023.01.21-21.50.29:362][721]LogContentValidation: Display: Validating ObjectRedirector /Game/LevelDesign/s027702k_Mause/All_blockouts/Desk_Table/keyboard-kinairo.keyboard-kinairo
+[2023.01.21-21.50.29:362][721]LogContentValidation: Display: Validating ObjectRedirector /Game/LevelDesign/s027702k_Mause/All_blockouts/Desk_Table/Electrical-Plug-01-kinairo.Electrical-Plug-01-kinairo
+[2023.01.21-21.50.29:362][721]LogContentValidation: Display: Validating ObjectRedirector /Game/LevelDesign/s027702k_Mause/All_blockouts/Desk_Table/Draws.Draws
+[2023.01.21-21.50.29:362][721]LogContentValidation: Display: Validating ObjectRedirector /Game/LevelDesign/s027702k_Mause/All_blockouts/Desk_Table/Desktop-curve-kinairo.Desktop-curve-kinairo
+[2023.01.21-21.50.29:362][721]LogContentValidation: Display: Validating ObjectRedirector /Game/LevelDesign/s027702k_Mause/All_blockouts/Desk_Table/desk_back_center-kinairo.desk_back_center-kinairo
+[2023.01.21-21.50.29:362][721]LogContentValidation: Display: Validating ObjectRedirector /Game/LevelDesign/s027702k_Mause/All_blockouts/Desk_Table/computer-kinairo.computer-kinairo
+[2023.01.21-21.50.29:362][721]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/speaker-01-0kinairo.speaker-01-0kinairo
+[2023.01.21-21.50.29:362][721]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/Mouse-kinairo.Mouse-kinairo
+[2023.01.21-21.50.29:362][721]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/Monitor-kinairo.Monitor-kinairo
+[2023.01.21-21.50.29:362][721]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/keyboard-kinairo.keyboard-kinairo
+[2023.01.21-21.50.29:362][721]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/Electrical-Plug-01-kinairo.Electrical-Plug-01-kinairo
+[2023.01.21-21.50.29:362][721]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/Draws.Draws
+[2023.01.21-21.50.29:362][721]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/door-Left-kinairo.door-Left-kinairo
+[2023.01.21-21.50.29:362][721]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/desk_back_center-kinairo.desk_back_center-kinairo
+[2023.01.21-21.50.29:362][721]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/Desktop-Flat-kinairo.Desktop-Flat-kinairo
+[2023.01.21-21.50.29:362][721]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/Desktop-curve-kinairo.Desktop-curve-kinairo
+[2023.01.21-21.50.29:362][721]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/Desk-01-kinairo.Desk-01-kinairo
+[2023.01.21-21.50.29:363][721]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/desk_back_Full-kinairo.desk_back_Full-kinairo
+[2023.01.21-21.50.29:363][721]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/computer-kinairo.computer-kinairo
+[2023.01.21-21.50.34:995][351]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/DrawersMat" FILE="../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Materials/DrawersMat.uasset" SILENT=true
+[2023.01.21-21.50.34:996][351]LogSavePackage: Moving output files for package: /Game/Materials/DrawersMat
+[2023.01.21-21.50.34:996][351]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/DrawersMatA4CD6BD448512D68C870BDA18D468986.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Materials/DrawersMat.uasset'
+[2023.01.21-21.50.34:997][351]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/All_blockouts/Desk_Table/ChestODrawers/DrawersMat
+[2023.01.21-21.50.34:998][351]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/DrawersMatE52A71E840267AE6FC928F9E0C644185.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/All_blockouts/Desk_Table/ChestODrawers/DrawersMat.uasset'
+[2023.01.21-21.50.35:013][351]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.21-21.50.35:013][351]LogContentValidation: Display: Validating Material /Game/Materials/DrawersMat.DrawersMat
+[2023.01.21-21.50.35:013][351]LogContentValidation: Display: Validating ObjectRedirector /Game/LevelDesign/s027702k_Mause/All_blockouts/Desk_Table/ChestODrawers/DrawersMat.DrawersMat
+[2023.01.21-21.50.38:611][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/DrawersMat" FILE="../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Materials/DrawersMat.uasset" SILENT=true
+[2023.01.21-21.50.38:612][731]LogSavePackage: Moving output files for package: /Game/Materials/DrawersMat
+[2023.01.21-21.50.38:613][731]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/DrawersMatB45B913B459FE582D617C3B35BE8BAE1.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Materials/DrawersMat.uasset'
+[2023.01.21-21.50.39:143][731]LogSavePackage: Moving output files for package: /Game/Textures/Draws_DefaultMaterial_BaseColor_sRGB
+[2023.01.21-21.50.39:143][731]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Draws_DefaultMaterial_BaseColor_02E274AA422623F3933AB1B5B930C1D3.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Textures/Draws_DefaultMaterial_BaseColor_sRGB.uasset'
+[2023.01.21-21.50.39:846][731]LogSavePackage: Moving output files for package: /Game/Textures/Draws_DefaultMaterial_Normal_Raw
+[2023.01.21-21.50.39:846][731]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Draws_DefaultMaterial_Normal_Raw7146E1C0454644CD65C28FBD46C93F01.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Textures/Draws_DefaultMaterial_Normal_Raw.uasset'
+[2023.01.21-21.50.40:122][731]LogSavePackage: Moving output files for package: /Game/Textures/Draws_DefaultMaterial_OcclusionRoughnessMetallic_Raw
+[2023.01.21-21.50.40:122][731]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Draws_DefaultMaterial_OcclusionRA894AFC14AE1DC95FBCD48B35738C9E7.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Textures/Draws_DefaultMaterial_OcclusionRoughnessMetallic_Raw.uasset'
+[2023.01.21-21.50.40:145][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.01.21-21.50.40:150][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.01.21-21.50.40:156][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.01.21-21.50.40:168][731]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.21-21.50.40:168][731]LogContentValidation: Display: Validating Texture2D /Game/Textures/Draws_DefaultMaterial_Normal_Raw.Draws_DefaultMaterial_Normal_Raw
+[2023.01.21-21.50.40:168][731]LogContentValidation: Display: Validating Material /Game/Materials/DrawersMat.DrawersMat
+[2023.01.21-21.50.40:168][731]LogContentValidation: Display: Validating Texture2D /Game/Textures/Draws_DefaultMaterial_BaseColor_sRGB.Draws_DefaultMaterial_BaseColor_sRGB
+[2023.01.21-21.50.40:168][731]LogContentValidation: Display: Validating Texture2D /Game/Textures/Draws_DefaultMaterial_OcclusionRoughnessMetallic_Raw.Draws_DefaultMaterial_OcclusionRoughnessMetallic_Raw
+[2023.01.21-21.50.46:240][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.01.21-21.50.47:187][444]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.21-21.50.47:196][444]LogUObjectGlobals: Force Deleting 9 Package(s):
+	Asset Name: /Game/LevelDesign/s027702k_Mause/All_blockouts/Desk_Table/Mouse-kinairo.Mouse-kinairo
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/LevelDesign/s027702k_Mause/All_blockouts/Desk_Table/Monitor-kinairo.Monitor-kinairo
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/LevelDesign/s027702k_Mause/All_blockouts/Desk_Table/keyboard-kinairo.keyboard-kinairo
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/LevelDesign/s027702k_Mause/All_blockouts/Desk_Table/Electrical-Plug-01-kinairo.Electrical-Plug-01-kinairo
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/LevelDesign/s027702k_Mause/All_blockouts/Desk_Table/Draws.Draws
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/LevelDesign/s027702k_Mause/All_blockouts/Desk_Table/Desktop-curve-kinairo.Desktop-curve-kinairo
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/LevelDesign/s027702k_Mause/All_blockouts/Desk_Table/desk_back_center-kinairo.desk_back_center-kinairo
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/LevelDesign/s027702k_Mause/All_blockouts/Desk_Table/computer-kinairo.computer-kinairo
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/LevelDesign/s027702k_Mause/All_blockouts/Desk_Table/ChestODrawers/DrawersMat.DrawersMat
+	Asset Type: ObjectRedirector
+[2023.01.21-21.50.47:326][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.01.21-21.50.47:331][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.01.21-21.50.47:336][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.01.21-21.50.51:977][969]LogMetaData: Removing '/Game/Meshes/Gort.Gort' ref from Metadata '/Game/LevelDesign/s027702k_Mause/All_blockouts/Gort_Toy/Gort.PackageMetaData'
+[2023.01.21-21.50.52:050][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Gort" FILE="../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Meshes/Gort.uasset" SILENT=true
+[2023.01.21-21.50.52:063][969]LogSavePackage: Moving output files for package: /Game/Meshes/Gort
+[2023.01.21-21.50.52:063][969]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Gort80F626E84D24948B3BE0EB8BC987C178.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Meshes/Gort.uasset'
+[2023.01.21-21.50.52:064][969]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/All_blockouts/Gort_Toy/Gort
+[2023.01.21-21.50.52:065][969]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Gort95A8D18D4F5CF52894D05B8D395F9156.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/All_blockouts/Gort_Toy/Gort.uasset'
+[2023.01.21-21.50.52:082][969]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.21-21.50.52:082][969]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/Gort.Gort
+[2023.01.21-21.50.52:082][969]LogContentValidation: Display: Validating ObjectRedirector /Game/LevelDesign/s027702k_Mause/All_blockouts/Gort_Toy/Gort.Gort
+[2023.01.21-21.50.54:343][217]LogSavePackage: Moving output files for package: /Game/Materials/Gort_Unwrap_Texture_Checker_Material_BaseColor_sRGB_Mat
+[2023.01.21-21.50.54:343][217]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Gort_Unwrap_Texture_Checker_MateF47D8AB146E201EC0E321BB106C1B4E7.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Materials/Gort_Unwrap_Texture_Checker_Material_BaseColor_sRGB_Mat.uasset'
+[2023.01.21-21.50.54:345][217]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/All_blockouts/Gort_Toy/Gort_Unwrap_Texture_Checker_Material_BaseColor_sRGB_Mat
+[2023.01.21-21.50.54:345][217]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Gort_Unwrap_Texture_Checker_Mate5A55EBC2419B1A22AC6B85BB70CA8D01.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/All_blockouts/Gort_Toy/Gort_Unwrap_Texture_Checker_Material_BaseColor_sRGB_Mat.uasset'
+[2023.01.21-21.50.54:359][217]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.21-21.50.54:359][217]LogContentValidation: Display: Validating ObjectRedirector /Game/LevelDesign/s027702k_Mause/All_blockouts/Gort_Toy/Gort_Unwrap_Texture_Checker_Material_BaseColor_sRGB_Mat.Gort_Unwrap_Texture_Checker_Material_BaseColor_sRGB_Mat
+[2023.01.21-21.50.54:359][217]LogContentValidation: Display: Validating Material /Game/Materials/Gort_Unwrap_Texture_Checker_Material_BaseColor_sRGB_Mat.Gort_Unwrap_Texture_Checker_Material_BaseColor_sRGB_Mat
+[2023.01.21-21.50.57:144][515]LogSavePackage: Moving output files for package: /Game/Materials/Gort_Unwrap_Texture_Checker_Material_BaseColor_sRGB_Mat
+[2023.01.21-21.50.57:145][515]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Gort_Unwrap_Texture_Checker_MateFA95DA4E46B061E046942AB30736164F.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Materials/Gort_Unwrap_Texture_Checker_Material_BaseColor_sRGB_Mat.uasset'
+[2023.01.21-21.50.57:258][515]LogSavePackage: Moving output files for package: /Game/Textures/Gort_Unwrap_Texture_Checker_Material_OcclusionRoughnessMetallic_Raw
+[2023.01.21-21.50.57:258][515]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Gort_Unwrap_Texture_Checker_MateB63E539349F24F779BA5A8A3EB814454.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Textures/Gort_Unwrap_Texture_Checker_Material_OcclusionRoughnessMetallic_Raw.uasset'
+[2023.01.21-21.50.57:464][515]LogSavePackage: Moving output files for package: /Game/Textures/Gort_Unwrap_Texture_Checker_Material_BaseColor_sRGB
+[2023.01.21-21.50.57:465][515]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Gort_Unwrap_Texture_Checker_Mate0B127825404214F3614CCC84D9C6878B.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Textures/Gort_Unwrap_Texture_Checker_Material_BaseColor_sRGB.uasset'
+[2023.01.21-21.50.57:646][515]LogSavePackage: Moving output files for package: /Game/Textures/Gort_Unwrap_Texture_Checker_Material_Normal_Raw
+[2023.01.21-21.50.57:647][515]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Gort_Unwrap_Texture_Checker_MateBC6695774387556898521EAA9BB8FB42.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Textures/Gort_Unwrap_Texture_Checker_Material_Normal_Raw.uasset'
+[2023.01.21-21.50.57:668][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.01.21-21.50.57:673][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.01.21-21.50.57:678][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.01.21-21.50.57:689][515]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.21-21.50.57:690][515]LogContentValidation: Display: Validating Material /Game/Materials/Gort_Unwrap_Texture_Checker_Material_BaseColor_sRGB_Mat.Gort_Unwrap_Texture_Checker_Material_BaseColor_sRGB_Mat
+[2023.01.21-21.50.57:690][515]LogContentValidation: Display: Validating Texture2D /Game/Textures/Gort_Unwrap_Texture_Checker_Material_OcclusionRoughnessMetallic_Raw.Gort_Unwrap_Texture_Checker_Material_OcclusionRoughnessMetallic_Raw
+[2023.01.21-21.50.57:690][515]LogContentValidation: Display: Validating Texture2D /Game/Textures/Gort_Unwrap_Texture_Checker_Material_Normal_Raw.Gort_Unwrap_Texture_Checker_Material_Normal_Raw
+[2023.01.21-21.50.57:690][515]LogContentValidation: Display: Validating Texture2D /Game/Textures/Gort_Unwrap_Texture_Checker_Material_BaseColor_sRGB.Gort_Unwrap_Texture_Checker_Material_BaseColor_sRGB
+[2023.01.21-21.51.03:825][208]LogMetaData: Removing '/Game/Meshes/Round_Bulb_Base_Mesh_Sphere004.Round_Bulb_Base_Mesh_Sphere004' ref from Metadata '/Game/LevelDesign/s027702k_Mause/All_blockouts/Light/Round_Bulb_Base_Mesh_Sphere004.PackageMetaData'
+[2023.01.21-21.51.03:826][208]LogMetaData: Removing '/Game/Meshes/ceiling_light_frame_Base_Mesh_Cylinder001.ceiling_light_frame_Base_Mesh_Cylinder001' ref from Metadata '/Game/LevelDesign/s027702k_Mause/All_blockouts/Light/ceiling_light_frame_Base_Mesh_Cylinder001.PackageMetaData'
+[2023.01.21-21.51.03:826][208]LogMetaData: Removing '/Game/Meshes/ceiling_light_frame_Base_Mesh_Sphere001.ceiling_light_frame_Base_Mesh_Sphere001' ref from Metadata '/Game/LevelDesign/s027702k_Mause/All_blockouts/Light/ceiling_light_frame_Base_Mesh_Sphere001.PackageMetaData'
+[2023.01.21-21.51.03:827][208]LogMetaData: Removing '/Game/Meshes/ceiling_light_frame_Base_Mesh_Sphere002.ceiling_light_frame_Base_Mesh_Sphere002' ref from Metadata '/Game/LevelDesign/s027702k_Mause/All_blockouts/Light/ceiling_light_frame_Base_Mesh_Sphere002.PackageMetaData'
+[2023.01.21-21.51.03:827][208]LogMetaData: Removing '/Game/Meshes/Round_Bulb_Base_Mesh_Object002.Round_Bulb_Base_Mesh_Object002' ref from Metadata '/Game/LevelDesign/s027702k_Mause/All_blockouts/Light/Round_Bulb_Base_Mesh_Object002.PackageMetaData'
+[2023.01.21-21.51.03:902][208]LogSavePackage: Moving output files for package: /Game/Meshes/Round_Bulb_Base_Mesh_Sphere004
+[2023.01.21-21.51.03:902][208]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Round_Bulb_Base_Mesh_Sphere004CC51805B4D2257ADAF1ACBA2B1E9665D.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Meshes/Round_Bulb_Base_Mesh_Sphere004.uasset'
+[2023.01.21-21.51.03:904][208]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/All_blockouts/Light/Round_Bulb_Base_Mesh_Sphere004
+[2023.01.21-21.51.03:904][208]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Round_Bulb_Base_Mesh_Sphere004D1723E2140EB174EF04E1A82DC580C98.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/All_blockouts/Light/Round_Bulb_Base_Mesh_Sphere004.uasset'
+[2023.01.21-21.51.03:917][208]LogSavePackage: Moving output files for package: /Game/Meshes/ceiling_light_frame_Base_Mesh_Cylinder001
+[2023.01.21-21.51.03:917][208]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/ceiling_light_frame_Base_Mesh_CyAC2A1FE5472B15BF1F4D28B608529FA7.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Meshes/ceiling_light_frame_Base_Mesh_Cylinder001.uasset'
+[2023.01.21-21.51.03:919][208]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/All_blockouts/Light/ceiling_light_frame_Base_Mesh_Cylinder001
+[2023.01.21-21.51.03:919][208]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/ceiling_light_frame_Base_Mesh_CyAA79FF0B4C6581547D10049DAAD85C41.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/All_blockouts/Light/ceiling_light_frame_Base_Mesh_Cylinder001.uasset'
+[2023.01.21-21.51.03:932][208]LogSavePackage: Moving output files for package: /Game/Meshes/ceiling_light_frame_Base_Mesh_Sphere001
+[2023.01.21-21.51.03:932][208]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/ceiling_light_frame_Base_Mesh_Sp2A44EC4847CBA2CF9D59129FB299A55E.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Meshes/ceiling_light_frame_Base_Mesh_Sphere001.uasset'
+[2023.01.21-21.51.03:933][208]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/All_blockouts/Light/ceiling_light_frame_Base_Mesh_Sphere001
+[2023.01.21-21.51.03:934][208]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/ceiling_light_frame_Base_Mesh_Sp31FD5A8D402E24D23E6E1D827D89ED0E.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/All_blockouts/Light/ceiling_light_frame_Base_Mesh_Sphere001.uasset'
+[2023.01.21-21.51.03:947][208]LogSavePackage: Moving output files for package: /Game/Meshes/ceiling_light_frame_Base_Mesh_Sphere002
+[2023.01.21-21.51.03:947][208]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/ceiling_light_frame_Base_Mesh_Sp0709CFF34D075DB289DE13BEF9C19E63.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Meshes/ceiling_light_frame_Base_Mesh_Sphere002.uasset'
+[2023.01.21-21.51.03:949][208]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/All_blockouts/Light/ceiling_light_frame_Base_Mesh_Sphere002
+[2023.01.21-21.51.03:949][208]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/ceiling_light_frame_Base_Mesh_Sp40A72A5C4A7C24EE1934F1B297062044.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/All_blockouts/Light/ceiling_light_frame_Base_Mesh_Sphere002.uasset'
+[2023.01.21-21.51.03:961][208]LogSavePackage: Moving output files for package: /Game/Meshes/Round_Bulb_Base_Mesh_Object002
+[2023.01.21-21.51.03:962][208]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Round_Bulb_Base_Mesh_Object0022F1E84F34CA6185A0E6F39994FF50170.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Meshes/Round_Bulb_Base_Mesh_Object002.uasset'
+[2023.01.21-21.51.03:963][208]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/All_blockouts/Light/Round_Bulb_Base_Mesh_Object002
+[2023.01.21-21.51.03:963][208]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/Round_Bulb_Base_Mesh_Object002FFE8C2584E4685B161218C9B8F1ED7CC.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/All_blockouts/Light/Round_Bulb_Base_Mesh_Object002.uasset'
+[2023.01.21-21.51.03:985][208]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.21-21.51.03:985][208]LogContentValidation: Display: Validating ObjectRedirector /Game/LevelDesign/s027702k_Mause/All_blockouts/Light/Round_Bulb_Base_Mesh_Object002.Round_Bulb_Base_Mesh_Object002
+[2023.01.21-21.51.03:985][208]LogContentValidation: Display: Validating ObjectRedirector /Game/LevelDesign/s027702k_Mause/All_blockouts/Light/ceiling_light_frame_Base_Mesh_Sphere002.ceiling_light_frame_Base_Mesh_Sphere002
+[2023.01.21-21.51.03:985][208]LogContentValidation: Display: Validating ObjectRedirector /Game/LevelDesign/s027702k_Mause/All_blockouts/Light/ceiling_light_frame_Base_Mesh_Sphere001.ceiling_light_frame_Base_Mesh_Sphere001
+[2023.01.21-21.51.03:985][208]LogContentValidation: Display: Validating ObjectRedirector /Game/LevelDesign/s027702k_Mause/All_blockouts/Light/ceiling_light_frame_Base_Mesh_Cylinder001.ceiling_light_frame_Base_Mesh_Cylinder001
+[2023.01.21-21.51.03:985][208]LogContentValidation: Display: Validating ObjectRedirector /Game/LevelDesign/s027702k_Mause/All_blockouts/Light/Round_Bulb_Base_Mesh_Sphere004.Round_Bulb_Base_Mesh_Sphere004
+[2023.01.21-21.51.03:985][208]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/Round_Bulb_Base_Mesh_Object002.Round_Bulb_Base_Mesh_Object002
+[2023.01.21-21.51.03:985][208]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/ceiling_light_frame_Base_Mesh_Sphere002.ceiling_light_frame_Base_Mesh_Sphere002
+[2023.01.21-21.51.03:985][208]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/ceiling_light_frame_Base_Mesh_Sphere001.ceiling_light_frame_Base_Mesh_Sphere001
+[2023.01.21-21.51.03:985][208]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/ceiling_light_frame_Base_Mesh_Cylinder001.ceiling_light_frame_Base_Mesh_Cylinder001
+[2023.01.21-21.51.03:985][208]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/Round_Bulb_Base_Mesh_Sphere004.Round_Bulb_Base_Mesh_Sphere004
+[2023.01.21-21.51.19:370][ 31]LogStaticMesh: Display: Building static mesh Bollard_SM...
+[2023.01.21-21.51.19:370][ 31]LogStaticMesh: Built static mesh [0.00s] /Game/LevelDesign/s027702k_Mause/All_blockouts/Obstacle/Bollard_SM.Bollard_SM
+[2023.01.21-21.51.26:464][857]LogSlate: Window 'Failed Renames' being destroyed
+[2023.01.21-21.51.31:039][395]LogContentBrowser: Attempting asset rename: Bollard_SM -> SM_Bollard
+[2023.01.21-21.51.31:052][395]LogMetaData: Removing '/Game/LevelDesign/s027702k_Mause/All_blockouts/Obstacle/SM_Bollard.SM_Bollard' ref from Metadata '/Game/LevelDesign/s027702k_Mause/All_blockouts/Obstacle/Bollard_SM.PackageMetaData'
+[2023.01.21-21.51.31:128][395]LogSavePackage: Moving output files for package: /Game/LevelDesign/s027702k_Mause/All_blockouts/Obstacle/SM_Bollard
+[2023.01.21-21.51.31:128][395]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/SM_BollardF8281D234232BD1CF0964DB55DC9B84F.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/LevelDesign/s027702k_Mause/All_blockouts/Obstacle/SM_Bollard.uasset'
+[2023.01.21-21.51.31:143][395]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.01.21-21.51.31:148][395]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.01.21-21.51.31:153][395]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.01.21-21.51.31:156][395]AssetCheck: New page: Asset Save: SM_Bollard
+[2023.01.21-21.51.31:156][395]LogContentValidation: Display: Validating StaticMesh /Game/LevelDesign/s027702k_Mause/All_blockouts/Obstacle/SM_Bollard.SM_Bollard
+[2023.01.21-21.51.38:323][234]LogMetaData: Removing '/Game/Meshes/SM_Bollard.SM_Bollard' ref from Metadata '/Game/LevelDesign/s027702k_Mause/All_blockouts/Obstacle/SM_Bollard.PackageMetaData'
+[2023.01.21-21.51.38:378][234]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/SM_Bollard" FILE="../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Meshes/SM_Bollard.uasset" SILENT=true
+[2023.01.21-21.51.38:380][234]LogSavePackage: Moving output files for package: /Game/Meshes/SM_Bollard
+[2023.01.21-21.51.38:381][234]LogSavePackage: Moving '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Saved/SM_Bollard2F57681C4F1A3B05319AAC894B252F89.tmp' to '../../../../../../Users/m020115k/Documents/GitHub/Group12_COLLAB/CritterballBoom/Content/Meshes/SM_Bollard.uasset'
+[2023.01.21-21.51.38:393][234]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.01.21-21.51.38:398][234]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.01.21-21.51.38:403][234]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.01.21-21.51.38:413][234]AssetCheck: New page: Asset Save: SM_Bollard
+[2023.01.21-21.51.38:413][234]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/SM_Bollard.SM_Bollard
+[2023.01.21-21.51.43:988][866]LogMaterial: Display: Missing cached shadermap for Bollard_SM_Albedo_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: E4DBD1248887F76E2670110DD62FF16A854652AB), compiling. 
