@@ -1,0 +1,1328 @@
+﻿Log file open, 01/16/23 19:23:29
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=13336)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CritterballBoom
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "D:\University\Course\Year 2\Collab\Group12_COLLAB\CritterballBoom\CritterballBoom.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (21H2) [10.0.22000.1455] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i9-10885H CPU @ 2.40GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="8050b49740dc24429823748a1bd2ecca"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 36.746191
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-D865E1E848011E8AB116E3BD09A27BDD
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading Android ini files took 0.11 seconds
+LogConfig: Display: Loading IOS ini files took 0.13 seconds
+LogConfig: Display: Loading Windows ini files took 0.03 seconds
+LogConfig: Display: Loading Linux ini files took 0.18 seconds
+LogConfig: Display: Loading TVOS ini files took 0.13 seconds
+LogConfig: Display: Loading Unix ini files took 0.03 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.23 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.18 seconds
+LogConfig: Display: Loading Mac ini files took 0.12 seconds
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (21H2) [10.0.22000.1455] (), CPU: Intel(R) Core(TM) i9-10885H CPU @ 2.40GHz, GPU: NVIDIA GeForce RTX 2080 Super
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: D:/steamGames/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.01.16-19.23.46:960][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.01.16-19.23.46:960][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.01.16-19.23.46:960][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.01.16-19.23.46:960][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.01.16-19.23.46:990][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.01.16-19.23.46:991][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.01.16-19.23.46:991][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.01.16-19.23.46:991][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.01.16-19.23.46:991][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.01.16-19.23.46:991][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.01.16-19.23.46:991][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.01.16-19.23.46:991][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.01.16-19.23.46:991][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.01.16-19.23.46:991][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.01.16-19.23.46:991][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.01.16-19.23.46:991][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.01.16-19.23.46:991][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.01.16-19.23.46:991][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.01.16-19.23.46:991][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.01.16-19.23.46:991][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.01.16-19.23.46:991][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.01.16-19.23.46:991][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.01.16-19.23.46:991][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.01.16-19.23.46:991][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.01.16-19.23.46:991][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.01.16-19.23.46:991][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.01.16-19.23.46:991][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.01.16-19.23.46:991][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.01.16-19.23.46:991][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.01.16-19.23.46:991][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.01.16-19.23.46:991][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.01.16-19.23.46:991][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.01.16-19.23.46:991][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.01.16-19.23.46:991][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.01.16-19.23.46:991][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.01.16-19.23.46:991][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.01.16-19.23.46:991][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.01.16-19.23.46:991][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.01.16-19.23.46:991][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.01.16-19.23.46:991][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.01.16-19.23.46:991][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.01.16-19.23.46:991][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.01.16-19.23.46:991][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.01.16-19.23.46:991][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.01.16-19.23.46:991][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.01.16-19.23.46:991][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.01.16-19.23.46:991][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.01.16-19.23.46:991][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.01.16-19.23.46:991][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.01.16-19.23.46:991][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.01.16-19.23.46:991][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.01.16-19.23.46:991][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.01.16-19.23.46:991][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.01.16-19.23.46:991][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.01.16-19.23.46:991][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.01.16-19.23.46:991][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.01.16-19.23.46:991][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.01.16-19.23.47:153][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.01.16-19.23.47:154][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.01.16-19.23.47:154][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.01.16-19.23.47:154][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.01.16-19.23.47:154][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.01.16-19.23.47:154][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.01.16-19.23.47:154][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.01.16-19.23.47:154][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.01.16-19.23.47:172][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.01.16-19.23.47:172][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.01.16-19.23.47:172][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.01.16-19.23.47:946][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.01.16-19.23.47:950][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.01.16-19.23.47:950][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_1
+[2023.01.16-19.23.47:950][  0]LogD3D11RHI: D3D11 adapters:
+[2023.01.16-19.23.47:950][  0]LogD3D11RHI: Testing D3D11 Adapter 0:
+[2023.01.16-19.23.47:951][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2080 Super
+[2023.01.16-19.23.47:951][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.01.16-19.23.47:951][  0]LogD3D11RHI:     DeviceId    : 1ed3
+[2023.01.16-19.23.47:951][  0]LogD3D11RHI:     SubSysId    : 8748103c
+[2023.01.16-19.23.47:951][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.01.16-19.23.47:951][  0]LogD3D11RHI:     DedicatedVideoMemory : 8399093760 bytes
+[2023.01.16-19.23.47:951][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.01.16-19.23.47:951][  0]LogD3D11RHI:     SharedSystemMemory : 17094719488 bytes
+[2023.01.16-19.23.47:951][  0]LogD3D11RHI:     AdapterLuid : 0 101705
+[2023.01.16-19.23.48:141][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080 Super' (Feature Level 11_1)
+[2023.01.16-19.23.48:141][  0]LogD3D11RHI:       8010/0/16302 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2023.01.16-19.23.48:142][  0]LogD3D11RHI: Testing D3D11 Adapter 1:
+[2023.01.16-19.23.48:142][  0]LogD3D11RHI:     Description : Microsoft Basic Render Driver
+[2023.01.16-19.23.48:142][  0]LogD3D11RHI:     VendorId    : 1414
+[2023.01.16-19.23.48:142][  0]LogD3D11RHI:     DeviceId    : 008c
+[2023.01.16-19.23.48:142][  0]LogD3D11RHI:     SubSysId    : 0000
+[2023.01.16-19.23.48:142][  0]LogD3D11RHI:     Revision    : 0000
+[2023.01.16-19.23.48:142][  0]LogD3D11RHI:     DedicatedVideoMemory : 0 bytes
+[2023.01.16-19.23.48:142][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.01.16-19.23.48:142][  0]LogD3D11RHI:     SharedSystemMemory : 17094719488 bytes
+[2023.01.16-19.23.48:142][  0]LogD3D11RHI:     AdapterLuid : 0 105128
+[2023.01.16-19.23.48:144][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_1)
+[2023.01.16-19.23.48:144][  0]LogD3D11RHI:       0/0/16302 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.01.16-19.23.48:144][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.01.16-19.23.48:144][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2080 Super
+[2023.01.16-19.23.48:145][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.01.16-19.23.48:145][  0]LogD3D11RHI:     DeviceId    : 1ed3
+[2023.01.16-19.23.48:145][  0]LogD3D11RHI:     SubSysId    : 8748103c
+[2023.01.16-19.23.48:145][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.01.16-19.23.48:145][  0]LogD3D11RHI:     DedicatedVideoMemory : 8399093760 bytes
+[2023.01.16-19.23.48:145][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.01.16-19.23.48:145][  0]LogD3D11RHI:     SharedSystemMemory : 17094719488 bytes
+[2023.01.16-19.23.48:145][  0]LogD3D11RHI:     AdapterLuid : 0 101705
+[2023.01.16-19.23.48:145][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.01.16-19.23.48:222][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.01.16-19.23.48:238][  0]LogHAL: Display: Platform has ~ 32 GB [34189438976 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.01.16-19.23.48:238][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.01.16-19.23.48:238][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.01.16-19.23.48:238][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.01.16-19.23.48:696][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.01.16-19.23.48:696][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Saved/Config/WindowsEditor/Editor.ini]
+[2023.01.16-19.23.48:747][  0]LogInit: Computer: LAPTOP-0E6D3C0V
+[2023.01.16-19.23.48:747][  0]LogInit: User: andre
+[2023.01.16-19.23.48:747][  0]LogInit: CPU Page size=4096, Cores=8
+[2023.01.16-19.23.48:747][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.01.16-19.23.48:747][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2023.01.16-19.23.48:747][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.01.16-19.23.48:747][  0]LogMemory: Process Physical Memory: 273.61 MB used, 280.61 MB peak
+[2023.01.16-19.23.48:747][  0]LogMemory: Process Virtual Memory: 240.96 MB used, 240.96 MB peak
+[2023.01.16-19.23.48:747][  0]LogMemory: Physical Memory: 14755.99 MB used,  17849.60 MB free, 32605.59 MB total
+[2023.01.16-19.23.48:747][  0]LogMemory: Virtual Memory: 18554.20 MB used,  26851.39 MB free, 45405.59 MB total
+[2023.01.16-19.23.48:747][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.01.16-19.23.48:846][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.01.16-19.23.49:941][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.01.16-19.23.50:012][  0]LogInit: Using OS detected language (en-GB).
+[2023.01.16-19.23.50:012][  0]LogInit: Using OS detected locale (en-GB).
+[2023.01.16-19.23.50:771][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so 'en' will be used for the language.
+[2023.01.16-19.23.52:200][  0]LogInit: Setting process to per monitor DPI aware
+[2023.01.16-19.23.52:627][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.01.16-19.23.52:627][  0]LogWindowsTextInputMethodSystem:   - English (United Kingdom) - (Keyboard).
+[2023.01.16-19.23.52:627][  0]LogWindowsTextInputMethodSystem:   - English (United Kingdom) - Touch Input Correction (TSF IME).
+[2023.01.16-19.23.52:627][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2023.01.16-19.23.53:459][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.01.16-19.23.53:459][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.01.16-19.23.57:579][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.01.16-19.23.57:579][  0]LogD3D11RHI:     GPU DeviceId: 0x1ed3 (for the marketing name, search the web for "GPU Device Id")
+[2023.01.16-19.23.57:579][  0]LogWindows: Attached monitors:
+[2023.01.16-19.23.57:579][  0]LogWindows:     resolution: 2560x1440, work area: (0, 0) -> (2560, 1392), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.01.16-19.23.57:579][  0]LogWindows:     resolution: 2560x1440, work area: (2560, -1) -> (5120, 1391), device: '\\.\DISPLAY2'
+[2023.01.16-19.23.57:579][  0]LogWindows: Found 2 attached monitors.
+[2023.01.16-19.23.57:579][  0]LogWindows: EnumDisplayDevices:
+[2023.01.16-19.23.57:580][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080 Super' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.01.16-19.23.57:580][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080 Super' (P:0 D:1), name: '\\.\DISPLAY2'
+[2023.01.16-19.23.57:580][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080 Super' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.01.16-19.23.57:580][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080 Super' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.01.16-19.23.57:580][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.01.16-19.23.57:580][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080 Super
+[2023.01.16-19.23.57:580][  0]LogD3D11RHI:   Driver Version: 516.59 (internal:31.0.15.1659, unified:516.59)
+[2023.01.16-19.23.57:580][  0]LogD3D11RHI:      Driver Date: 6-23-2022
+[2023.01.16-19.23.57:580][  0]LogRHI: Texture pool is 5607 MB (70% of 8010 MB)
+[2023.01.16-19.23.57:580][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2023.01.16-19.23.57:580][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2080 Super
+[2023.01.16-19.23.57:580][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.01.16-19.23.57:580][  0]LogD3D11RHI:     DeviceId    : 1ed3
+[2023.01.16-19.23.57:580][  0]LogD3D11RHI:     SubSysId    : 8748103c
+[2023.01.16-19.23.57:580][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.01.16-19.23.57:580][  0]LogD3D11RHI:     DedicatedVideoMemory : 8399093760 bytes
+[2023.01.16-19.23.57:580][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.01.16-19.23.57:581][  0]LogD3D11RHI:     SharedSystemMemory : 17094719488 bytes
+[2023.01.16-19.23.57:581][  0]LogD3D11RHI:     AdapterLuid : 0 101705
+[2023.01.16-19.23.57:666][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.01.16-19.23.57:694][  0]LogD3D11RHI: Async texture creation enabled
+[2023.01.16-19.23.57:694][  0]LogD3D11RHI: D3D11_MAP_WRITE_NO_OVERWRITE for dynamic buffer SRVs is supported
+[2023.01.16-19.23.57:694][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.01.16-19.23.57:713][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x819f9025).
+[2023.01.16-19.23.58:722][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2023.01.16-19.23.59:123][  0]LogRHI: GeForceNow SDK initialized: 1
+[2023.01.16-19.23.59:419][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="D:/University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/CritterballBoom.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Intermediate/TurnkeyReport_0.log" -log="D:/University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Intermediate/TurnkeyLog_0.log" -project="D:/University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/CritterballBoom.uproject"  -platform=all'
+[2023.01.16-19.23.59:427][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""D:/steamGames/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/CritterballBoom.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Intermediate/TurnkeyReport_0.log" -log="D:/University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Intermediate/TurnkeyLog_0.log" -project="D:/University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/CritterballBoom.uproject"  -platform=all" ]
+[2023.01.16-19.24.00:427][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.01.16-19.24.01:819][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.01.16-19.24.01:819][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.01.16-19.24.02:176][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.01.16-19.24.02:176][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.01.16-19.24.02:176][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.01.16-19.24.02:176][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.01.16-19.24.02:176][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.01.16-19.24.02:176][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.01.16-19.24.02:176][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.01.16-19.24.02:176][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.01.16-19.24.02:176][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.01.16-19.24.02:176][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.01.16-19.24.02:391][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.01.16-19.24.02:391][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.01.16-19.24.02:612][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.01.16-19.24.02:612][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.01.16-19.24.02:727][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.01.16-19.24.02:727][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.01.16-19.24.02:727][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.01.16-19.24.02:727][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.01.16-19.24.02:772][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.01.16-19.24.02:772][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.01.16-19.24.02:772][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.01.16-19.24.02:801][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.01.16-19.24.02:801][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.01.16-19.24.02:900][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.01.16-19.24.02:900][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.01.16-19.24.02:900][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.01.16-19.24.02:900][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.01.16-19.24.02:900][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.01.16-19.24.03:728][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.01.16-19.24.03:804][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.01.16-19.24.03:804][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.01.16-19.24.03:804][  0]LogTargetPlatformManager:   ADPCM
+[2023.01.16-19.24.03:804][  0]LogTargetPlatformManager:   PCM
+[2023.01.16-19.24.03:870][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.01.16-19.24.03:870][  0]LogTargetPlatformManager:   BINKA
+[2023.01.16-19.24.03:870][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.01.16-19.24.03:870][  0]LogTargetPlatformManager:   OGG
+[2023.01.16-19.24.03:870][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.01.16-19.24.03:870][  0]LogTargetPlatformManager:   OPUS
+[2023.01.16-19.24.06:853][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.01.16-19.24.07:088][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.01.16-19.24.07:088][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.01.16-19.24.07:088][  0]LogTargetPlatformManager:   SF_METAL
+[2023.01.16-19.24.07:088][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.01.16-19.24.07:088][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.01.16-19.24.07:088][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.01.16-19.24.07:088][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.01.16-19.24.07:088][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.01.16-19.24.07:088][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.01.16-19.24.07:089][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.01.16-19.24.07:089][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.01.16-19.24.07:089][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.01.16-19.24.07:089][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.01.16-19.24.07:089][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.01.16-19.24.07:089][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.01.16-19.24.07:089][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.01.16-19.24.07:089][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.01.16-19.24.07:197][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.01.16-19.24.07:197][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.01.16-19.24.07:197][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.01.16-19.24.07:197][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.01.16-19.24.07:197][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.01.16-19.24.07:197][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.01.16-19.24.07:197][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.01.16-19.24.07:207][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.01.16-19.24.07:383][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.01.16-19.24.07:396][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.01.16-19.24.07:396][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.01.16-19.24.07:437][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.01.16-19.24.07:612][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.01.16-19.24.07:612][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.01.16-19.24.07:612][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.01.16-19.24.07:612][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.01.16-19.24.07:946][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.01.16-19.24.07:946][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.01.16-19.24.07:946][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.01.16-19.24.07:988][  0]LogDerivedDataCache: Speed tests for C:/Users/andre/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.04 seconds
+[2023.01.16-19.24.07:998][  0]LogDerivedDataCache: Display: Performance to C:/Users/andre/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.23ms. RandomReadSpeed=47.18MBs, RandomWriteSpeed=49.57MBs. Assigned SpeedClass 'Local'
+[2023.01.16-19.24.07:999][  0]LogDerivedDataCache: Using Local data cache path C:/Users/andre/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.01.16-19.24.07:999][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.01.16-19.24.07:999][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.01.16-19.24.08:018][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.01.16-19.24.08:018][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.01.16-19.24.08:466][  0]LogShaderCompilers: Guid format shader working directory is -32 characters bigger than the processId version (../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Intermediate/Shaders/WorkingDirectory/30932/).
+[2023.01.16-19.24.08:466][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/andre/AppData/Local/Temp/UnrealShaderWorkingDir/605FAF2C446D89895C6A79905C16FF9F/'.
+[2023.01.16-19.24.08:483][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.01.16-19.24.08:483][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2023.01.16-19.24.26:587][  0]LogSlate: Using FreeType 2.10.0
+[2023.01.16-19.24.26:797][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.01.16-19.24.27:882][  0]LogAssetRegistry: FAssetRegistry took 0.1340 seconds to start up
+[2023.01.16-19.24.27:914][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.01.16-19.24.48:588][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.01.16-19.24.49:184][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.01.16-19.24.50:115][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.01.16-19.24.50:115][  0]LogDeviceProfileManager: Active device profile: [0000065400C71C00][00000653F6F35000 50] WindowsEditor
+[2023.01.16-19.24.50:115][  0]LogDeviceProfileManager: Profiles: [0000065400C716C0][00000653F6F3A000 50] Windows, [0000065400C71C00][00000653F6F35000 50] WindowsEditor, [0000065400C72680][00000653F6F32800 50] WindowsServer, [0000065400C724C0][00000653F6E1A000 50] WindowsClient, [0000065400C72300][00000653E7A5A000 50] IOS, [0000065400C72140][00000653F3F95000 50] iPadAir2, [0000065400C75080][0000065400C22800 50] IPadPro, [0000065400C75400][0000065400C20000 50] iPadAir3, [0000065400C740C0][0000065400C27800 50] iPadAir4, [0000065400C71180][0000065400C2A000 50] iPadMini4, [0000065400C72D80][0000065400C2C800 50] iPadMini5, [0000065400C74EC0][00000653F6F37800 50] iPadMini6, [0000065400C77FC0][0000065400C35000 50] iPhone6S, [0000065400C78340][0000065400C32800 50] iPhone7, [0000065400C786C0][0000065400C30000 50] iPodTouch7, [0000065400C739C0][0000065400C3A000 50] iPhone6SPlus, [0000065400C77E00][0000065400C3C800 50] iPhone7Plus, [0000065400C72A00][0000065400C25000 50] iPhoneSE, [0000065400C77C40][0000065400C80000 50] iPhone8, [0000065400C77700][0000065400C85000 50] iPhone8Plus, [0000065400C71340][0000065400C87800 50] iPhoneX, [0000065400C77540][0000065400C8A000 50] iPhoneXS, [0000065400C72BC0][0000065400C8C800 50] iPhoneXSMax, [0000065400C77380][0000065400C37800 50] iPhoneXR, [0000065400C701C0][0000065400CA0000 50] iPhone11, [0000065400C778C0][0000065400CA5000 50] iPhone11Pro, [0000065400C73640][0000065400CA7800 50] iPhone11ProMax, [0000065400C76580][0000065400CAA000 50] iPhoneSE2, [0000065400C74280][0000065400CAC800 50] iPhone12Mini, [0000065400C70700][0000065400C82800 50] iPhone12, [0000065400C74440][0000065400CB0000 50] iPhone12Pro, [0000065400C74600][0000065400CB5000 50] iPhone12ProMax, [0000065400C78C00][0000065400CB7800 50] iPhone13Mini, [0000065400C771C0][0000065400CBA000 50] iPhone13, [0000065400C70000][0000065400CBC800 50] iPhone13Pro, [0000065400C73B80][0000065400CA2800 50] iPhone13ProMax, [0000065400C75CC0][0000065400CC0000 50] iPadPro105, [0000065400C72840][0000065400CC5000 50] iPadPro129, [0000065400C70E00][0000065400CC7800 50] iPadPro97, [0000065400C70A80][0000065400CCA000 50] iPadPro2_129, [0000065400C75E80][0000065400CCC800 50] iPad5, [0000065400C70C40][0000065400CB2800 50] iPad6, [0000065400C747C0][0000065400CD0000 50] iPad7, [0000065400C732C0][0000065400CD5000 50] iPad8, [0000065400C76900][0000065400CD7800 50] iPad9, [0000065400C73F00][0000065400CDA000 50] iPadPro11, [0000065400C71A40][0000065400CDC800 50] iPadPro2_11, [0000065400C70380][0000065400CC2800 50] iPadPro3_11, [0000065400C76040][0000065400CE0000 50] iPadPro3_129, [0000065400C72F40][0000065400CE5000 50] iPadPro4_129, [0000065400C74B40][0000065400CE7800 50] iPadPro5_129, [0000065400C75B00][0000065400CEA000 50] AppleTV, [0000065400C73100][0000065400CEC800 50] AppleTV4K, [0000065400C76AC0][0000065400CD2800 50] TVOS, [0000065400C7A480][0000065400D12800 50] Mac, [0000065400C7A800][0000065400D10000 50] MacEditor, [0000065400C70FC0][0000065400D17800 50] MacClient, [0000065400C76E40][0000065400D1A000 50] MacServer, [0000065400C75940][0000065400CE2800 50] Linux, [0000065400C78F80][0000065400D1C800 50] LinuxEditor, [0000065400C79A00][0000065400D20000 50] LinuxArm64Editor, [0000065400C78A40][0000065400D25000 50] LinuxArm64, [0000065400C78180][0000065400D27800 50] LinuxClient, [0000065400C76740][0000065400D2A000 50] LinuxArm64Client, [0000065400C79840][0000065400D2C800 50] LinuxServer, [0000065400C79300][0000065400D15000 50] LinuxArm64Server, [0000065400C73480][0000065400D30000 50] Android, [0000065400C763C0][0000065400D35000 50] Android_Preview_OpenGL, [0000065400C78DC0][0000065400D37800 50] Android_Preview_Vulkan, [0000065400C79140][0000065400D3A000 50] Android_Low, [0000065400C7A9C0][0000065400D3C800 50] Android_Mid, [0000065400C75240][0000065400D22800 50] Android_High, [0000065400C79D80][0000065400D40000 50] Android_Default, [0000065400C755C0][0000065400D45000 50] Android_Adreno4xx, [0000065400C71DC0][0000065400D47800 50] Android_Adreno5xx_Low, [0000065400C74980][0000065400D4A000 50] Android_Adreno5xx, [0000065400C75780][0000065400D4C800 50] Android_Adreno6xx, [0000065400C70540][0000065400D32800 50] Android_Adreno6xx_Vulkan, [0000065400C7A640][0000065400D50000 50] Android_Adreno7xx, [0000065400C77A80][0000065400D55000 50] Android_Adreno7xx_Vulkan, [0000065400C78500][0000065400D57800 50] Android_Mali_T6xx, [0000065400C7AD40][0000065400D5A000 50] Android_Mali_T7xx, [0000065400C7A2C0][0000065400D5C800 50] Android_Mali_T8xx, [0000065400C79BC0][0000065400D42800 50] Android_Mali_G71, [0000065400C708C0][0000065400C90000 50] Android_Mali_G72, [0000065400C71F80][0000065400C95000 50] Android_Mali_G72_Vulkan, [0000065400C7AF00][0000065400C97800 50] Android_Mali_G76, [0000065400C7B0C0][0000065400C9A000 50] Android_Mali_G76_Vulkan, [0000065400C794C0][0000065400C9C800 50] Android_Mali_G77, [0000065400C77000][0000065400D52800 50] Android_Mali_G77_Vulkan, [0000065400C78880][0000065400D60000 50] Android_Mali_G78, [0000065400C79680][0000065400D65000 50] Android_Mali_G78_Vulkan, [0000065400C7BD00][0000065400D67800 50] Android_Mali_G710, [0000065400C7BEC0][0000065400D6A000 50] Android_Mali_G710_Vulkan, [0000065400C7B440][0000065400D6C800 50] Android_Xclipse_920, [0000065400C7B7C0][0000065400C92800 50] Android_Xclipse_920_Vulkan, [0000065400C76200][0000065400D70000 50] Android_Vulkan_SM5, [0000065400C7C080][0000065400D75000 50] Android_PowerVR_G6xxx, [0000065400C79F40][0000065400D77800 50] Android_PowerVR_GT7xxx, [0000065400C7C240][0000065400D7A000 50] Android_PowerVR_GE8xxx, [0000065400C7A100][0000065400D7C800 50] Android_PowerVR_GM9xxx, [0000065400C7CE80][0000065400D62800 50] Android_PowerVR_GM9xxx_Vulkan, [0000065400C7CB00][0000065400D80000 50] Android_TegraK1, [0000065400C7C940][0000065400D85000 50] Android_Unknown_Vulkan, [0000065400C7C400][0000065400D87800 50] Oculus_Quest, [0000065400C7D040][0000065400D8A000 50] Oculus_Quest2, [0000065400C7B280][0000065400D8C800 50] HoloLens, 
+[2023.01.16-19.24.50:115][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.01.16-19.24.51:391][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.19041.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2023.01.16-19.24.55:700][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.01.16-19.25.06:726][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.01.16-19.25.06:726][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.01.16-19.25.06:726][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.01.16-19.25.06:726][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.01.16-19.25.06:726][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.01.16-19.25.10:162][  0]LogNetVersion: CritterballBoom 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 2663492005)
+[2023.01.16-19.25.20:112][  0]LogSlate: Border
+[2023.01.16-19.25.20:112][  0]LogSlate: BreadcrumbButton
+[2023.01.16-19.25.20:112][  0]LogSlate: Default
+[2023.01.16-19.25.20:112][  0]LogSlate: Icons.Save
+[2023.01.16-19.25.20:112][  0]LogSlate: Icons.Toolbar.Settings
+[2023.01.16-19.25.20:112][  0]LogSlate: ListView
+[2023.01.16-19.25.20:112][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.01.16-19.25.20:112][  0]LogSlate: SoftwareCursor_Grab
+[2023.01.16-19.25.20:112][  0]LogSlate: TableView.DarkRow
+[2023.01.16-19.25.20:112][  0]LogSlate: TableView.Row
+[2023.01.16-19.25.20:112][  0]LogSlate: TreeView
+[2023.01.16-19.25.33:722][  0]SourceControl: Source control is disabled
+[2023.01.16-19.25.34:272][  0]SourceControl: Source control is disabled
+[2023.01.16-19.25.34:273][  0]SourceControl: Source control is disabled
+[2023.01.16-19.25.36:160][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.01.16-19.25.36:180][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2023.01.16-19.25.36:180][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.01.16-19.25.40:546][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.01.16-19.25.40:681][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.01.16-19.25.41:323][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 7011D95E40DBE912078F8B9697C64684 | Instance: 414C54B6444FF850FDC4548C6DDDB593 (LAPTOP-0E6D3C0V-30932).
+[2023.01.16-19.25.46:571][  0]LogPython: Using Python 3.9.7
+[2023.01.16-19.25.57:379][  0]LogOpenImageDenoise: OIDN starting up
+[2023.01.16-19.25.59:242][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.01.16-19.25.59:242][  0]LogWindows: Warning: URL: C:/Users/q021572k/AppData/Local/Microsoft/GitHubDesktop/current/resources/app/git/cmd/git.exe version
+[2023.01.16-19.25.59:303][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.01.16-19.25.59:303][  0]LogWindows: Warning: URL: C:/Users/q021572k/AppData/Local/Microsoft/GitHubDesktop/current/resources/app/git/cmd/git.exe version
+[2023.01.16-19.25.59:400][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.01.16-19.25.59:400][  0]LogWindows: Warning: URL: C:/Users/q021572k/AppData/Local/Microsoft/GitHubDesktop/current/resources/app/git/cmd/git.exe version
+[2023.01.16-19.25.59:501][  0]LogUProjectInfo: Found projects:
+[2023.01.16-19.26.00:077][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.01.16-19.26.00:539][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.01.16-19.26.00:539][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.01.16-19.26.02:528][  0]LogCollectionManager: Loaded 0 collections in 0.001295 seconds
+[2023.01.16-19.26.03:029][  0]LogFileCache: Scanning file cache for directory 'D:/University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Saved/Collections/' took 0.00s
+[2023.01.16-19.26.03:029][  0]LogFileCache: Scanning file cache for directory 'D:/University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/Developers/andre/Collections/' took 0.05s
+[2023.01.16-19.26.03:029][  0]LogFileCache: Scanning file cache for directory 'D:/University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/Collections/' took 0.00s
+[2023.01.16-19.26.05:217][  0]LogEngine: Initializing Engine...
+[2023.01.16-19.26.05:352][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.01.16-19.26.05:368][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.014 s
+[2023.01.16-19.26.07:200][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.01.16-19.26.07:349][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.16-19.26.07:596][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.16-19.26.08:281][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.01.16-19.26.08:509][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.01.16-19.26.08:590][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.01.16-19.26.08:591][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.01.16-19.26.08:591][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.01.16-19.26.08:642][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.01.16-19.26.08:642][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.01.16-19.26.08:656][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.16-19.26.08:658][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.16-19.26.08:658][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.16-19.26.08:658][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.16-19.26.08:686][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.16-19.26.08:686][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.16-19.26.08:686][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.16-19.26.08:686][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.16-19.26.08:692][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.16-19.26.08:692][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.16-19.26.08:692][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.16-19.26.08:761][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.16-19.26.08:815][  0]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- Arctis 7 Game)
+[2023.01.16-19.26.08:843][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.16-19.26.08:846][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.16-19.26.08:846][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.16-19.26.08:848][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.01.16-19.26.08:848][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.01.16-19.26.08:849][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.01.16-19.26.08:849][  0]LogInit: FAudioDevice initialized.
+[2023.01.16-19.26.08:849][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.01.16-19.26.08:849][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.01.16-19.26.08:849][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.01.16-19.26.08:849][  0]LogInit: Texture streaming: Enabled
+[2023.01.16-19.26.09:065][  0]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.01.16-19.26.09:065][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.01.16-19.26.09:129][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.01.16-19.26.09:258][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.01.16-19.26.09:332][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.01.16-19.26.09:332][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.01.16-19.26.13:157][  0]LogLiveCoding: Display: First instance in process group "UE_CritterballBoom_0x298d217f", spawning console
+[2023.01.16-19.26.13:157][  0]LogLiveCoding: Display: Waiting for server
+[2023.01.16-19.26.13:157][  0]LogDerivedDataCache: C:/Users/andre/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.597 and deleted 308 file(s) with total size 15 MiB.
+[2023.01.16-19.26.13:157][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.01.16-19.26.13:296][  0]LogInit: Transaction tracking system initialized
+[2023.01.16-19.26.13:710][  0]BlueprintLog: New page: Editor Load
+[2023.01.16-19.26.15:304][  0]LocalizationService: Localization service is disabled
+[2023.01.16-19.26.15:548][  0]TimingProfiler: Initialize
+[2023.01.16-19.26.15:548][  0]TimingProfiler: OnSessionChanged
+[2023.01.16-19.26.15:548][  0]LoadingProfiler: Initialize
+[2023.01.16-19.26.15:548][  0]LoadingProfiler: OnSessionChanged
+[2023.01.16-19.26.15:548][  0]NetworkingProfiler: Initialize
+[2023.01.16-19.26.15:548][  0]NetworkingProfiler: OnSessionChanged
+[2023.01.16-19.26.15:548][  0]MemoryProfiler: Initialize
+[2023.01.16-19.26.15:548][  0]MemoryProfiler: OnSessionChanged
+[2023.01.16-19.26.20:962][  0]LogFileCache: Scanning file cache for directory 'D:/University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/' took 0.01s
+[2023.01.16-19.26.20:962][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.01.16-19.26.22:544][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.01.16-19.26.22:721][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.01.16-19.26.22:721][  0]LogWindows: Warning: URL: C:/Users/q021572k/AppData/Local/Microsoft/GitHubDesktop/current/resources/app/git/cmd/git.exe version
+[2023.01.16-19.26.22:743][  0]LogUnrealEdMisc: Loading editor; pre map load, took 273.646
+[2023.01.16-19.26.22:838][  0]Cmd: MAP LOAD FILE="../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.01.16-19.26.22:839][  0]LogEditorServer: Warning: Can't find file '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/ThirdPerson/Maps/ThirdPersonMap.umap'
+[2023.01.16-19.26.22:854][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.01.16-19.26.22:906][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 51.849ms to complete.
+[2023.01.16-19.26.22:907][  0]LogFileHelpers: Loading map 'ThirdPersonMap' took 0.115
+[2023.01.16-19.26.24:010][  0]LogUnrealEdMisc: Total Editor Startup Time, took 274.915
+[2023.01.16-19.26.24:010][  0]LogShaderCompilers: Display: ================================================
+[2023.01.16-19.26.24:010][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.16-19.26.24:010][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.01.16-19.26.24:023][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.01.16-19.26.24:023][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2023.01.16-19.26.24:023][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.16-19.26.24:023][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.01.16-19.26.24:023][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.01.16-19.26.24:023][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.01.16-19.26.24:023][  0]LogShaderCompilers: Display: ================================================
+[2023.01.16-19.26.24:673][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.16-19.26.24:706][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.16-19.26.24:712][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.16-19.26.24:717][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.16-19.26.25:245][  0]LogPakFile: Display: Mounted Pak file 'D:/steamGames/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.01.16-19.26.25:245][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.16-19.26.25:288][  0]LogPakFile: Display: Mounted Pak file 'D:/steamGames/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.01.16-19.26.25:288][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.16-19.26.25:314][  0]LogPakFile: Display: Mounted Pak file 'D:/steamGames/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.01.16-19.26.25:314][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.16-19.26.25:393][  0]LogPakFile: Display: Mounted Pak file 'D:/steamGames/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.01.16-19.26.25:393][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.16-19.26.25:408][  0]LogPakFile: Display: Mounted Pak file 'D:/steamGames/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.01.16-19.26.25:408][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.16-19.26.25:449][  0]LogPakFile: Display: Mounted Pak file 'D:/steamGames/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.01.16-19.26.25:449][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.16-19.26.25:483][  0]LogPakFile: Display: Mounted Pak file 'D:/steamGames/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.01.16-19.26.25:483][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.16-19.26.25:487][  0]LogPakFile: Display: Mounted Pak file 'D:/steamGames/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.01.16-19.26.25:487][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.16-19.26.25:490][  0]LogPakFile: Display: Mounted Pak file 'D:/steamGames/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.01.16-19.26.25:490][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.16-19.26.25:526][  0]LogPakFile: Display: Mounted Pak file 'D:/steamGames/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.01.16-19.26.25:526][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.16-19.26.25:526][  0]LogFeaturePack: Error: Error in Feature pack D:/steamGames/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.01.16-19.26.27:371][  0]LogSlate: Took 0.029219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.01.16-19.26.27:530][  0]LogSlate: Took 0.059508 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.01.16-19.26.27:555][  0]LogSlate: Took 0.024348 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.01.16-19.26.27:588][  0]LogSlate: Took 0.030947 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.01.16-19.26.27:607][  0]LogSlate: Took 0.018298 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.01.16-19.26.27:723][  0]LogViewport: Scene viewport resized to 2031x815, mode Windowed.
+[2023.01.16-19.26.30:213][  0]LogStall: Startup...
+[2023.01.16-19.26.30:215][  0]LogStall: Startup complete.
+[2023.01.16-19.26.30:360][  0]LogLoad: (Engine Initialization) Total time: 281.27 seconds
+[2023.01.16-19.26.30:360][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.01.16-19.26.30:572][  0]LogAssetRegistry: Asset discovery search completed in 122.7448 seconds
+[2023.01.16-19.26.30:611][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2023.01.16-19.26.30:740][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.01.16-19.26.31:421][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/' took 0.94s
+[2023.01.16-19.52.01:648][814]LogSlate: Took 0.323099 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.01.16-20.24.04:421][501]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2023.01.16-20.26.10:056][876]LogDerivedDataCache: C:/Users/andre/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.824 and deleted 0 file(s) with total size 0 MiB.
+[2023.01.16-20.38.50:025][149]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (3- Arctis 7 Game), InstanceID=1
+[2023.01.16-20.38.50:025][149]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=34908
+[2023.01.16-20.38.50:358][149]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{30263bed-b474-48a5-99ea-64dfc7c91cc3}, Name=Headphones (3- Arctis 7 Game)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=14.79
+[2023.01.16-20.38.50:358][149]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.01.16-20.38.50:360][150]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.01.16-20.38.51:695][154]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headset Earphone (3- Arctis 7 Chat), InstanceID=1
+[2023.01.16-20.38.51:695][154]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=34908
+[2023.01.16-20.38.52:029][154]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{5e051332-6486-4047-aab3-60369b52ceba}, Name=Headset Earphone (3- Arctis 7 Chat)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=12.57
+[2023.01.16-20.38.52:029][154]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.01.16-20.38.52:031][155]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.01.16-20.38.52:361][156]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (3- Arctis 7 Game), InstanceID=1
+[2023.01.16-20.38.52:361][156]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=34908
+[2023.01.16-20.38.52:695][156]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{30263bed-b474-48a5-99ea-64dfc7c91cc3}, Name=Headphones (3- Arctis 7 Game)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=21.51
+[2023.01.16-20.38.52:695][156]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.01.16-20.38.52:697][157]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.01.16-20.38.53:707][160]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headset Earphone (3- Arctis 7 Chat), InstanceID=1
+[2023.01.16-20.38.53:707][160]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=34908
+[2023.01.16-20.38.54:041][160]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{5e051332-6486-4047-aab3-60369b52ceba}, Name=Headset Earphone (3- Arctis 7 Chat)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=32.19
+[2023.01.16-20.38.54:041][160]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.01.16-20.38.54:042][161]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.01.16-20.38.56:373][168]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (3- Arctis 7 Game), InstanceID=1
+[2023.01.16-20.38.56:373][168]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=34908
+[2023.01.16-20.38.56:708][168]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{30263bed-b474-48a5-99ea-64dfc7c91cc3}, Name=Headphones (3- Arctis 7 Game)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=17.07
+[2023.01.16-20.38.56:708][168]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.01.16-20.38.56:710][169]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.01.16-20.39.33:223][323]LogViewport: Scene viewport resized to 1010x376, mode Windowed.
+[2023.01.16-20.39.35:509][391]LogViewport: Scene viewport resized to 2031x815, mode Windowed.
+[2023.01.16-20.41.38:707][964]PIE: Warning: Constraint in '/Engine/Transient.World_4:PersistentLevel.BP_PinballFlipper_C_0.PhysicsConstraint' attempting to create a joint between objects that are both static.  No joint created.
+[2023.01.16-20.41.39:168][977]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.01.16-20.41.39:168][977]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.01.16-20.41.40:474][ 46]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.01.16-20.41.40:474][ 46]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.01.16-20.41.41:768][107]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.01.16-20.41.41:768][107]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.01.16-20.41.42:710][160]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.01.16-20.41.42:710][160]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.01.16-20.41.46:328][354]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.01.16-20.41.46:328][354]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.01.16-20.42.19:584][268]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.01.16-20.42.19:604][268]LogContentBrowser: Creating deferred item: NewFolder
+[2023.01.16-20.42.19:614][269]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.01.16-20.42.22:313][426]LogContentBrowser: Attempting asset rename: NewFolder -> Obstacles
+[2023.01.16-20.42.22:313][426]LogContentBrowser: End creating deferred item NewFolder
+[2023.01.16-20.42.25:289][595]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.01.16-20.42.25:310][595]LogContentBrowser: Creating deferred item: NewFolder
+[2023.01.16-20.42.25:320][596]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.01.16-20.42.27:395][717]LogContentBrowser: Attempting asset rename: NewFolder -> Pickups
+[2023.01.16-20.42.27:395][717]LogContentBrowser: End creating deferred item NewFolder
+[2023.01.16-20.42.30:888][917]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/q021572k-Andrew/BP_Bollards.BP_Bollards_C
+[2023.01.16-20.42.30:889][917]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/q021572k-Andrew/BP_Bollards.BP_Bollards_C
+[2023.01.16-20.42.31:114][917]LogActorFactory: Actor Factory spawned Blueprint /Game/q021572k-Andrew/BP_Bollards.BP_Bollards as actor: BP_Bollards_C /Temp/Untitled_0.Untitled:PersistentLevel.BP_Bollards_C_0
+[2023.01.16-20.42.31:118][917]LogActorFactory: Actor Factory spawned Blueprint /Game/q021572k-Andrew/BP_Bollards.BP_Bollards as actor: BP_Bollards_C /Temp/Untitled_0.Untitled:PersistentLevel.BP_Bollards_C_0
+[2023.01.16-20.42.31:127][917]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/q021572k-Andrew/BP_BreakableWall.BP_BreakableWall_C
+[2023.01.16-20.42.31:127][917]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/q021572k-Andrew/BP_BreakableWall.BP_BreakableWall_C
+[2023.01.16-20.42.31:149][917]LogActorFactory: Actor Factory spawned Blueprint /Game/q021572k-Andrew/BP_BreakableWall.BP_BreakableWall as actor: BP_BreakableWall_C /Temp/Untitled_0.Untitled:PersistentLevel.BP_BreakableWall_C_0
+[2023.01.16-20.42.31:152][917]LogActorFactory: Actor Factory spawned Blueprint /Game/q021572k-Andrew/BP_BreakableWall.BP_BreakableWall as actor: BP_BreakableWall_C /Temp/Untitled_0.Untitled:PersistentLevel.BP_BreakableWall_C_0
+[2023.01.16-20.42.31:160][917]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/q021572k-Andrew/BP_Button.BP_Button_C
+[2023.01.16-20.42.31:160][917]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/q021572k-Andrew/BP_Button.BP_Button_C
+[2023.01.16-20.42.31:162][917]LogActorFactory: Actor Factory spawned Blueprint /Game/q021572k-Andrew/BP_Button.BP_Button as actor: BP_Button_C /Temp/Untitled_0.Untitled:PersistentLevel.BP_Button_C_0
+[2023.01.16-20.42.31:164][917]LogActorFactory: Actor Factory spawned Blueprint /Game/q021572k-Andrew/BP_Button.BP_Button as actor: BP_Button_C /Temp/Untitled_0.Untitled:PersistentLevel.BP_Button_C_0
+[2023.01.16-20.42.31:171][917]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/q021572k-Andrew/BP_Cannon.BP_Cannon_C
+[2023.01.16-20.42.31:171][917]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/q021572k-Andrew/BP_Cannon.BP_Cannon_C
+[2023.01.16-20.42.31:172][917]LogActorFactory: Actor Factory spawned Blueprint /Game/q021572k-Andrew/BP_Cannon.BP_Cannon as actor: BP_Cannon_C /Temp/Untitled_0.Untitled:PersistentLevel.BP_Cannon_C_0
+[2023.01.16-20.42.31:174][917]LogActorFactory: Actor Factory spawned Blueprint /Game/q021572k-Andrew/BP_Cannon.BP_Cannon as actor: BP_Cannon_C /Temp/Untitled_0.Untitled:PersistentLevel.BP_Cannon_C_0
+[2023.01.16-20.42.31:178][917]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/q021572k-Andrew/BP_CannonBall.BP_CannonBall_C
+[2023.01.16-20.42.31:178][917]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/q021572k-Andrew/BP_CannonBall.BP_CannonBall_C
+[2023.01.16-20.42.31:179][917]LogActorFactory: Actor Factory spawned Blueprint /Game/q021572k-Andrew/BP_CannonBall.BP_CannonBall as actor: BP_CannonBall_C /Temp/Untitled_0.Untitled:PersistentLevel.BP_CannonBall_C_0
+[2023.01.16-20.42.31:181][917]LogActorFactory: Actor Factory spawned Blueprint /Game/q021572k-Andrew/BP_CannonBall.BP_CannonBall as actor: BP_CannonBall_C /Temp/Untitled_0.Untitled:PersistentLevel.BP_CannonBall_C_0
+[2023.01.16-20.42.31:184][917]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/q021572k-Andrew/BP_PhysicsLever.BP_PhysicsLever_C
+[2023.01.16-20.42.31:184][917]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/q021572k-Andrew/BP_PhysicsLever.BP_PhysicsLever_C
+[2023.01.16-20.42.31:186][917]LogActorFactory: Actor Factory spawned Blueprint /Game/q021572k-Andrew/BP_PhysicsLever.BP_PhysicsLever as actor: BP_PhysicsLever_C /Temp/Untitled_0.Untitled:PersistentLevel.BP_PhysicsLever_C_0
+[2023.01.16-20.42.31:188][917]LogActorFactory: Actor Factory spawned Blueprint /Game/q021572k-Andrew/BP_PhysicsLever.BP_PhysicsLever as actor: BP_PhysicsLever_C /Temp/Untitled_0.Untitled:PersistentLevel.BP_PhysicsLever_C_0
+[2023.01.16-20.42.31:193][917]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/q021572k-Andrew/BP_PinballFlipper.BP_PinballFlipper_C
+[2023.01.16-20.42.31:193][917]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/q021572k-Andrew/BP_PinballFlipper.BP_PinballFlipper_C
+[2023.01.16-20.42.31:195][917]LogActorFactory: Actor Factory spawned Blueprint /Game/q021572k-Andrew/BP_PinballFlipper.BP_PinballFlipper as actor: BP_PinballFlipper_C /Temp/Untitled_0.Untitled:PersistentLevel.BP_PinballFlipper_C_0
+[2023.01.16-20.42.31:198][917]LogActorFactory: Actor Factory spawned Blueprint /Game/q021572k-Andrew/BP_PinballFlipper.BP_PinballFlipper as actor: BP_PinballFlipper_C /Temp/Untitled_0.Untitled:PersistentLevel.BP_PinballFlipper_C_0
+[2023.01.16-20.42.31:203][917]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/q021572k-Andrew/BP_Punch_Glove.BP_Punch_Glove_C
+[2023.01.16-20.42.31:203][917]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/q021572k-Andrew/BP_Punch_Glove.BP_Punch_Glove_C
+[2023.01.16-20.42.31:205][917]LogActorFactory: Actor Factory spawned Blueprint /Game/q021572k-Andrew/BP_Punch_Glove.BP_Punch_Glove as actor: BP_Punch_Glove_C /Temp/Untitled_0.Untitled:PersistentLevel.BP_Punch_Glove_C_0
+[2023.01.16-20.42.31:207][917]LogActorFactory: Actor Factory spawned Blueprint /Game/q021572k-Andrew/BP_Punch_Glove.BP_Punch_Glove as actor: BP_Punch_Glove_C /Temp/Untitled_0.Untitled:PersistentLevel.BP_Punch_Glove_C_0
+[2023.01.16-20.42.31:212][917]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/q021572k-Andrew/BP_Shield_Pickup.BP_Shield_Pickup_C
+[2023.01.16-20.42.31:212][917]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/q021572k-Andrew/BP_Shield_Pickup.BP_Shield_Pickup_C
+[2023.01.16-20.42.31:213][917]LogActorFactory: Actor Factory spawned Blueprint /Game/q021572k-Andrew/BP_Shield_Pickup.BP_Shield_Pickup as actor: BP_Shield_Pickup_C /Temp/Untitled_0.Untitled:PersistentLevel.BP_Shield_Pickup_C_0
+[2023.01.16-20.42.31:214][917]LogActorFactory: Actor Factory spawned Blueprint /Game/q021572k-Andrew/BP_Shield_Pickup.BP_Shield_Pickup as actor: BP_Shield_Pickup_C /Temp/Untitled_0.Untitled:PersistentLevel.BP_Shield_Pickup_C_0
+[2023.01.16-20.42.31:218][917]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/q021572k-Andrew/BP_Stun_Pickup.BP_Stun_Pickup_C
+[2023.01.16-20.42.31:218][917]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/q021572k-Andrew/BP_Stun_Pickup.BP_Stun_Pickup_C
+[2023.01.16-20.42.31:219][917]LogActorFactory: Actor Factory spawned Blueprint /Game/q021572k-Andrew/BP_Stun_Pickup.BP_Stun_Pickup as actor: BP_Stun_Pickup_C /Temp/Untitled_0.Untitled:PersistentLevel.BP_Stun_Pickup_C_0
+[2023.01.16-20.42.31:221][917]LogActorFactory: Actor Factory spawned Blueprint /Game/q021572k-Andrew/BP_Stun_Pickup.BP_Stun_Pickup as actor: BP_Stun_Pickup_C /Temp/Untitled_0.Untitled:PersistentLevel.BP_Stun_Pickup_C_0
+[2023.01.16-20.42.31:225][917]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/q021572k-Andrew/BP_Vertical_Spin_Pillar.BP_Vertical_Spin_Pillar_C
+[2023.01.16-20.42.31:225][917]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/q021572k-Andrew/BP_Vertical_Spin_Pillar.BP_Vertical_Spin_Pillar_C
+[2023.01.16-20.42.31:227][917]LogActorFactory: Actor Factory spawned Blueprint /Game/q021572k-Andrew/BP_Vertical_Spin_Pillar.BP_Vertical_Spin_Pillar as actor: BP_Vertical_Spin_Pillar_C /Temp/Untitled_0.Untitled:PersistentLevel.BP_Vertical_Spin_Pillar_C_0
+[2023.01.16-20.42.31:230][917]LogActorFactory: Actor Factory spawned Blueprint /Game/q021572k-Andrew/BP_Vertical_Spin_Pillar.BP_Vertical_Spin_Pillar as actor: BP_Vertical_Spin_Pillar_C /Temp/Untitled_0.Untitled:PersistentLevel.BP_Vertical_Spin_Pillar_C_0
+[2023.01.16-20.42.31:237][917]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/q021572k-Andrew/BP_Weight_Pickup.BP_Weight_Pickup_C
+[2023.01.16-20.42.31:237][917]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/q021572k-Andrew/BP_Weight_Pickup.BP_Weight_Pickup_C
+[2023.01.16-20.42.31:238][917]LogActorFactory: Actor Factory spawned Blueprint /Game/q021572k-Andrew/BP_Weight_Pickup.BP_Weight_Pickup as actor: BP_Weight_Pickup_C /Temp/Untitled_0.Untitled:PersistentLevel.BP_Weight_Pickup_C_0
+[2023.01.16-20.42.31:240][917]LogActorFactory: Actor Factory spawned Blueprint /Game/q021572k-Andrew/BP_Weight_Pickup.BP_Weight_Pickup as actor: BP_Weight_Pickup_C /Temp/Untitled_0.Untitled:PersistentLevel.BP_Weight_Pickup_C_0
+[2023.01.16-20.42.34:233][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Bollards.BP_Bollards_C' ref from Metadata '/Game/q021572k-Andrew/BP_Bollards.PackageMetaData'
+[2023.01.16-20.42.34:233][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Bollards.BP_Bollards:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/q021572k-Andrew/BP_Bollards.PackageMetaData'
+[2023.01.16-20.42.34:233][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Bollards.BP_Bollards:Set Target Locations.K2Node_FunctionEntry_0' ref from Metadata '/Game/q021572k-Andrew/BP_Bollards.PackageMetaData'
+[2023.01.16-20.42.34:233][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Bollards.BP_Bollards:SetStartScale.K2Node_FunctionEntry_0' ref from Metadata '/Game/q021572k-Andrew/BP_Bollards.PackageMetaData'
+[2023.01.16-20.42.34:233][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Bollards.SKEL_BP_Bollards_C:MoveBollards' ref from Metadata '/Game/q021572k-Andrew/BP_Bollards.PackageMetaData'
+[2023.01.16-20.42.34:233][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Bollards.SKEL_BP_Bollards_C:ReceiveBeginPlay' ref from Metadata '/Game/q021572k-Andrew/BP_Bollards.PackageMetaData'
+[2023.01.16-20.42.34:233][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Bollards.SKEL_BP_Bollards_C:StartBollardMovement' ref from Metadata '/Game/q021572k-Andrew/BP_Bollards.PackageMetaData'
+[2023.01.16-20.42.34:233][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Bollards.SKEL_BP_Bollards_C:InitMoveBollards' ref from Metadata '/Game/q021572k-Andrew/BP_Bollards.PackageMetaData'
+[2023.01.16-20.42.34:233][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Bollards.SKEL_BP_Bollards_C:UserConstructionScript' ref from Metadata '/Game/q021572k-Andrew/BP_Bollards.PackageMetaData'
+[2023.01.16-20.42.34:233][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Bollards.SKEL_BP_Bollards_C' ref from Metadata '/Game/q021572k-Andrew/BP_Bollards.PackageMetaData'
+[2023.01.16-20.42.34:233][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Bollards.BP_Bollards_C:ReceiveBeginPlay' ref from Metadata '/Game/q021572k-Andrew/BP_Bollards.PackageMetaData'
+[2023.01.16-20.42.34:249][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_BreakableWall.BP_BreakableWall:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/q021572k-Andrew/BP_BreakableWall.PackageMetaData'
+[2023.01.16-20.42.34:249][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_BreakableWall.BP_BreakableWall_C' ref from Metadata '/Game/q021572k-Andrew/BP_BreakableWall.PackageMetaData'
+[2023.01.16-20.42.34:249][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_BreakableWall.SKEL_BP_BreakableWall_C:ReceiveBeginPlay' ref from Metadata '/Game/q021572k-Andrew/BP_BreakableWall.PackageMetaData'
+[2023.01.16-20.42.34:249][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_BreakableWall.SKEL_BP_BreakableWall_C:PhysicsCollision' ref from Metadata '/Game/q021572k-Andrew/BP_BreakableWall.PackageMetaData'
+[2023.01.16-20.42.34:249][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_BreakableWall.SKEL_BP_BreakableWall_C:UserConstructionScript' ref from Metadata '/Game/q021572k-Andrew/BP_BreakableWall.PackageMetaData'
+[2023.01.16-20.42.34:249][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_BreakableWall.SKEL_BP_BreakableWall_C' ref from Metadata '/Game/q021572k-Andrew/BP_BreakableWall.PackageMetaData'
+[2023.01.16-20.42.34:249][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_BreakableWall.BP_BreakableWall_C:ReceiveBeginPlay' ref from Metadata '/Game/q021572k-Andrew/BP_BreakableWall.PackageMetaData'
+[2023.01.16-20.42.34:249][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_BreakableWall.BP_BreakableWall_C:PhysicsCollision' ref from Metadata '/Game/q021572k-Andrew/BP_BreakableWall.PackageMetaData'
+[2023.01.16-20.42.34:249][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Button.BP_Button_C' ref from Metadata '/Game/q021572k-Andrew/BP_Button.PackageMetaData'
+[2023.01.16-20.42.34:250][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Button.BP_Button:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/q021572k-Andrew/BP_Button.PackageMetaData'
+[2023.01.16-20.42.34:250][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Button.BP_Button:SetButtonState.K2Node_Tunnel_1' ref from Metadata '/Game/q021572k-Andrew/BP_Button.PackageMetaData'
+[2023.01.16-20.42.34:250][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Button.BP_Button:SetButtonState.K2Node_Tunnel_0' ref from Metadata '/Game/q021572k-Andrew/BP_Button.PackageMetaData'
+[2023.01.16-20.42.34:250][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Button.BP_Button:CheckIfDeactivate.K2Node_Tunnel_1' ref from Metadata '/Game/q021572k-Andrew/BP_Button.PackageMetaData'
+[2023.01.16-20.42.34:250][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Button.BP_Button:CheckIfDeactivate.K2Node_Tunnel_0' ref from Metadata '/Game/q021572k-Andrew/BP_Button.PackageMetaData'
+[2023.01.16-20.42.34:250][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Button.SKEL_BP_Button_C:BndEvt__BP_Button_TriggerCollider_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/q021572k-Andrew/BP_Button.PackageMetaData'
+[2023.01.16-20.42.34:250][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Button.SKEL_BP_Button_C:ReceiveBeginPlay' ref from Metadata '/Game/q021572k-Andrew/BP_Button.PackageMetaData'
+[2023.01.16-20.42.34:250][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Button.SKEL_BP_Button_C:UserConstructionScript' ref from Metadata '/Game/q021572k-Andrew/BP_Button.PackageMetaData'
+[2023.01.16-20.42.34:250][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Button.SKEL_BP_Button_C' ref from Metadata '/Game/q021572k-Andrew/BP_Button.PackageMetaData'
+[2023.01.16-20.42.34:250][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Button.BP_Button_C:ReceiveBeginPlay' ref from Metadata '/Game/q021572k-Andrew/BP_Button.PackageMetaData'
+[2023.01.16-20.42.34:250][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Cannon.BP_Cannon_C' ref from Metadata '/Game/q021572k-Andrew/BP_Cannon.PackageMetaData'
+[2023.01.16-20.42.34:250][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Cannon.BP_Cannon:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/q021572k-Andrew/BP_Cannon.PackageMetaData'
+[2023.01.16-20.42.34:250][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Cannon.BP_Cannon:SetRandomFireRate.K2Node_FunctionEntry_0' ref from Metadata '/Game/q021572k-Andrew/BP_Cannon.PackageMetaData'
+[2023.01.16-20.42.34:250][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Cannon.BP_Cannon:SetRandomFireRate.K2Node_FunctionResult_0' ref from Metadata '/Game/q021572k-Andrew/BP_Cannon.PackageMetaData'
+[2023.01.16-20.42.34:250][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Cannon.SKEL_BP_Cannon_C:Fire' ref from Metadata '/Game/q021572k-Andrew/BP_Cannon.PackageMetaData'
+[2023.01.16-20.42.34:250][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Cannon.SKEL_BP_Cannon_C:StartFireSequence' ref from Metadata '/Game/q021572k-Andrew/BP_Cannon.PackageMetaData'
+[2023.01.16-20.42.34:250][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Cannon.SKEL_BP_Cannon_C:ReceiveBeginPlay' ref from Metadata '/Game/q021572k-Andrew/BP_Cannon.PackageMetaData'
+[2023.01.16-20.42.34:250][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Cannon.SKEL_BP_Cannon_C:UserConstructionScript' ref from Metadata '/Game/q021572k-Andrew/BP_Cannon.PackageMetaData'
+[2023.01.16-20.42.34:250][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Cannon.SKEL_BP_Cannon_C' ref from Metadata '/Game/q021572k-Andrew/BP_Cannon.PackageMetaData'
+[2023.01.16-20.42.34:250][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Cannon.BP_Cannon_C:ReceiveBeginPlay' ref from Metadata '/Game/q021572k-Andrew/BP_Cannon.PackageMetaData'
+[2023.01.16-20.42.34:251][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_CannonBall.BP_CannonBall_C' ref from Metadata '/Game/q021572k-Andrew/BP_CannonBall.PackageMetaData'
+[2023.01.16-20.42.34:251][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_CannonBall.BP_CannonBall:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/q021572k-Andrew/BP_CannonBall.PackageMetaData'
+[2023.01.16-20.42.34:251][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_CannonBall.SKEL_BP_CannonBall_C:SetLifetime' ref from Metadata '/Game/q021572k-Andrew/BP_CannonBall.PackageMetaData'
+[2023.01.16-20.42.34:251][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_CannonBall.SKEL_BP_CannonBall_C:DestroyActor' ref from Metadata '/Game/q021572k-Andrew/BP_CannonBall.PackageMetaData'
+[2023.01.16-20.42.34:251][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_CannonBall.SKEL_BP_CannonBall_C:ReceiveBeginPlay' ref from Metadata '/Game/q021572k-Andrew/BP_CannonBall.PackageMetaData'
+[2023.01.16-20.42.34:251][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_CannonBall.SKEL_BP_CannonBall_C:UserConstructionScript' ref from Metadata '/Game/q021572k-Andrew/BP_CannonBall.PackageMetaData'
+[2023.01.16-20.42.34:251][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_CannonBall.SKEL_BP_CannonBall_C' ref from Metadata '/Game/q021572k-Andrew/BP_CannonBall.PackageMetaData'
+[2023.01.16-20.42.34:251][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_CannonBall.BP_CannonBall_C:ReceiveBeginPlay' ref from Metadata '/Game/q021572k-Andrew/BP_CannonBall.PackageMetaData'
+[2023.01.16-20.42.34:251][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_PhysicsLever.BP_PhysicsLever_C' ref from Metadata '/Game/q021572k-Andrew/BP_PhysicsLever.PackageMetaData'
+[2023.01.16-20.42.34:251][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_PhysicsLever.BP_PhysicsLever:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/q021572k-Andrew/BP_PhysicsLever.PackageMetaData'
+[2023.01.16-20.42.34:251][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_PhysicsLever.BP_PhysicsLever:ChangeLeverState.K2Node_FunctionEntry_0' ref from Metadata '/Game/q021572k-Andrew/BP_PhysicsLever.PackageMetaData'
+[2023.01.16-20.42.34:251][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_PhysicsLever.BP_PhysicsLever:IsForwardHit.K2Node_FunctionEntry_0' ref from Metadata '/Game/q021572k-Andrew/BP_PhysicsLever.PackageMetaData'
+[2023.01.16-20.42.34:251][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_PhysicsLever.SKEL_BP_PhysicsLever_C:BndEvt__BP_PhysicsLever_Lever_K2Node_ComponentBoundEvent_0_ComponentHitSignature__DelegateSignature' ref from Metadata '/Game/q021572k-Andrew/BP_PhysicsLever.PackageMetaData'
+[2023.01.16-20.42.34:251][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_PhysicsLever.SKEL_BP_PhysicsLever_C:UserConstructionScript' ref from Metadata '/Game/q021572k-Andrew/BP_PhysicsLever.PackageMetaData'
+[2023.01.16-20.42.34:251][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_PhysicsLever.SKEL_BP_PhysicsLever_C:IsForwardHit' ref from Metadata '/Game/q021572k-Andrew/BP_PhysicsLever.PackageMetaData'
+[2023.01.16-20.42.34:251][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_PhysicsLever.SKEL_BP_PhysicsLever_C' ref from Metadata '/Game/q021572k-Andrew/BP_PhysicsLever.PackageMetaData'
+[2023.01.16-20.42.34:251][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_PhysicsLever.BP_PhysicsLever_C:IsForwardHit' ref from Metadata '/Game/q021572k-Andrew/BP_PhysicsLever.PackageMetaData'
+[2023.01.16-20.42.34:251][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_PinballFlipper.BP_PinballFlipper:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/q021572k-Andrew/BP_PinballFlipper.PackageMetaData'
+[2023.01.16-20.42.34:252][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_PinballFlipper.BP_PinballFlipper_C' ref from Metadata '/Game/q021572k-Andrew/BP_PinballFlipper.PackageMetaData'
+[2023.01.16-20.42.34:252][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_PinballFlipper.SKEL_BP_PinballFlipper_C:ReceiveBeginPlay' ref from Metadata '/Game/q021572k-Andrew/BP_PinballFlipper.PackageMetaData'
+[2023.01.16-20.42.34:252][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_PinballFlipper.SKEL_BP_PinballFlipper_C:BndEvt__BP_PinballFlipper_DetectionCollider_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/q021572k-Andrew/BP_PinballFlipper.PackageMetaData'
+[2023.01.16-20.42.34:252][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_PinballFlipper.SKEL_BP_PinballFlipper_C:ActivateFlipper' ref from Metadata '/Game/q021572k-Andrew/BP_PinballFlipper.PackageMetaData'
+[2023.01.16-20.42.34:252][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_PinballFlipper.SKEL_BP_PinballFlipper_C:ResetFlipper' ref from Metadata '/Game/q021572k-Andrew/BP_PinballFlipper.PackageMetaData'
+[2023.01.16-20.42.34:252][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_PinballFlipper.SKEL_BP_PinballFlipper_C:BndEvt__BP_PinballFlipper_DetectionCollider_K2Node_ComponentBoundEvent_1_ComponentEndOverlapSignature__DelegateSignature' ref from Metadata '/Game/q021572k-Andrew/BP_PinballFlipper.PackageMetaData'
+[2023.01.16-20.42.34:252][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_PinballFlipper.SKEL_BP_PinballFlipper_C:UserConstructionScript' ref from Metadata '/Game/q021572k-Andrew/BP_PinballFlipper.PackageMetaData'
+[2023.01.16-20.42.34:252][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_PinballFlipper.SKEL_BP_PinballFlipper_C' ref from Metadata '/Game/q021572k-Andrew/BP_PinballFlipper.PackageMetaData'
+[2023.01.16-20.42.34:252][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_PinballFlipper.BP_PinballFlipper_C:ReceiveBeginPlay' ref from Metadata '/Game/q021572k-Andrew/BP_PinballFlipper.PackageMetaData'
+[2023.01.16-20.42.34:252][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Punch_Glove.BP_Punch_Glove_C' ref from Metadata '/Game/q021572k-Andrew/BP_Punch_Glove.PackageMetaData'
+[2023.01.16-20.42.34:252][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Punch_Glove.BP_Punch_Glove:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/q021572k-Andrew/BP_Punch_Glove.PackageMetaData'
+[2023.01.16-20.42.34:252][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Punch_Glove.BP_Punch_Glove:InitializeTimelines.K2Node_FunctionEntry_0' ref from Metadata '/Game/q021572k-Andrew/BP_Punch_Glove.PackageMetaData'
+[2023.01.16-20.42.34:252][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Punch_Glove.BP_Punch_Glove:InitializeLocations.K2Node_FunctionEntry_0' ref from Metadata '/Game/q021572k-Andrew/BP_Punch_Glove.PackageMetaData'
+[2023.01.16-20.42.34:252][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Punch_Glove.SKEL_BP_Punch_Glove_C:ReceiveBeginPlay' ref from Metadata '/Game/q021572k-Andrew/BP_Punch_Glove.PackageMetaData'
+[2023.01.16-20.42.34:252][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Punch_Glove.SKEL_BP_Punch_Glove_C:PunchGlove' ref from Metadata '/Game/q021572k-Andrew/BP_Punch_Glove.PackageMetaData'
+[2023.01.16-20.42.34:252][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Punch_Glove.SKEL_BP_Punch_Glove_C:RetractGlove' ref from Metadata '/Game/q021572k-Andrew/BP_Punch_Glove.PackageMetaData'
+[2023.01.16-20.42.34:252][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Punch_Glove.SKEL_BP_Punch_Glove_C:StartPunching' ref from Metadata '/Game/q021572k-Andrew/BP_Punch_Glove.PackageMetaData'
+[2023.01.16-20.42.34:252][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Punch_Glove.SKEL_BP_Punch_Glove_C:UserConstructionScript' ref from Metadata '/Game/q021572k-Andrew/BP_Punch_Glove.PackageMetaData'
+[2023.01.16-20.42.34:252][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Punch_Glove.SKEL_BP_Punch_Glove_C' ref from Metadata '/Game/q021572k-Andrew/BP_Punch_Glove.PackageMetaData'
+[2023.01.16-20.42.34:252][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Punch_Glove.BP_Punch_Glove_C:ReceiveBeginPlay' ref from Metadata '/Game/q021572k-Andrew/BP_Punch_Glove.PackageMetaData'
+[2023.01.16-20.42.34:253][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Shield_Pickup.BP_Shield_Pickup_C' ref from Metadata '/Game/q021572k-Andrew/BP_Shield_Pickup.PackageMetaData'
+[2023.01.16-20.42.34:253][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Shield_Pickup.BP_Shield_Pickup:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/q021572k-Andrew/BP_Shield_Pickup.PackageMetaData'
+[2023.01.16-20.42.34:253][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Shield_Pickup.SKEL_BP_Shield_Pickup_C:BndEvt__BP_Shield_Pickup_Sphere_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/q021572k-Andrew/BP_Shield_Pickup.PackageMetaData'
+[2023.01.16-20.42.34:253][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Shield_Pickup.SKEL_BP_Shield_Pickup_C:UserConstructionScript' ref from Metadata '/Game/q021572k-Andrew/BP_Shield_Pickup.PackageMetaData'
+[2023.01.16-20.42.34:253][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Shield_Pickup.SKEL_BP_Shield_Pickup_C' ref from Metadata '/Game/q021572k-Andrew/BP_Shield_Pickup.PackageMetaData'
+[2023.01.16-20.42.34:253][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Stun_Pickup.BP_Stun_Pickup_C' ref from Metadata '/Game/q021572k-Andrew/BP_Stun_Pickup.PackageMetaData'
+[2023.01.16-20.42.34:253][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Stun_Pickup.BP_Stun_Pickup:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/q021572k-Andrew/BP_Stun_Pickup.PackageMetaData'
+[2023.01.16-20.42.34:253][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Stun_Pickup.SKEL_BP_Stun_Pickup_C:BndEvt__BP_Stun_Pickup_Collider_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/q021572k-Andrew/BP_Stun_Pickup.PackageMetaData'
+[2023.01.16-20.42.34:253][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Stun_Pickup.SKEL_BP_Stun_Pickup_C:Stun' ref from Metadata '/Game/q021572k-Andrew/BP_Stun_Pickup.PackageMetaData'
+[2023.01.16-20.42.34:253][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Stun_Pickup.SKEL_BP_Stun_Pickup_C:UserConstructionScript' ref from Metadata '/Game/q021572k-Andrew/BP_Stun_Pickup.PackageMetaData'
+[2023.01.16-20.42.34:253][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Stun_Pickup.SKEL_BP_Stun_Pickup_C' ref from Metadata '/Game/q021572k-Andrew/BP_Stun_Pickup.PackageMetaData'
+[2023.01.16-20.42.34:254][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Vertical_Spin_Pillar.BP_Vertical_Spin_Pillar_C' ref from Metadata '/Game/q021572k-Andrew/BP_Vertical_Spin_Pillar.PackageMetaData'
+[2023.01.16-20.42.34:254][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Vertical_Spin_Pillar.BP_Vertical_Spin_Pillar:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/q021572k-Andrew/BP_Vertical_Spin_Pillar.PackageMetaData'
+[2023.01.16-20.42.34:254][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Vertical_Spin_Pillar.SKEL_BP_Vertical_Spin_Pillar_C:ReceiveBeginPlay' ref from Metadata '/Game/q021572k-Andrew/BP_Vertical_Spin_Pillar.PackageMetaData'
+[2023.01.16-20.42.34:254][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Vertical_Spin_Pillar.SKEL_BP_Vertical_Spin_Pillar_C:SetRotationSpeed' ref from Metadata '/Game/q021572k-Andrew/BP_Vertical_Spin_Pillar.PackageMetaData'
+[2023.01.16-20.42.34:254][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Vertical_Spin_Pillar.SKEL_BP_Vertical_Spin_Pillar_C:InitializeRotation' ref from Metadata '/Game/q021572k-Andrew/BP_Vertical_Spin_Pillar.PackageMetaData'
+[2023.01.16-20.42.34:254][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Vertical_Spin_Pillar.SKEL_BP_Vertical_Spin_Pillar_C:ReceiveTick' ref from Metadata '/Game/q021572k-Andrew/BP_Vertical_Spin_Pillar.PackageMetaData'
+[2023.01.16-20.42.34:254][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Vertical_Spin_Pillar.SKEL_BP_Vertical_Spin_Pillar_C:UserConstructionScript' ref from Metadata '/Game/q021572k-Andrew/BP_Vertical_Spin_Pillar.PackageMetaData'
+[2023.01.16-20.42.34:254][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Vertical_Spin_Pillar.SKEL_BP_Vertical_Spin_Pillar_C' ref from Metadata '/Game/q021572k-Andrew/BP_Vertical_Spin_Pillar.PackageMetaData'
+[2023.01.16-20.42.34:254][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Vertical_Spin_Pillar.BP_Vertical_Spin_Pillar_C:ReceiveTick' ref from Metadata '/Game/q021572k-Andrew/BP_Vertical_Spin_Pillar.PackageMetaData'
+[2023.01.16-20.42.34:254][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Vertical_Spin_Pillar.BP_Vertical_Spin_Pillar_C:ReceiveBeginPlay' ref from Metadata '/Game/q021572k-Andrew/BP_Vertical_Spin_Pillar.PackageMetaData'
+[2023.01.16-20.42.34:254][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Weight_Pickup.BP_Weight_Pickup:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/q021572k-Andrew/BP_Weight_Pickup.PackageMetaData'
+[2023.01.16-20.42.34:254][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Weight_Pickup.BP_Weight_Pickup_C' ref from Metadata '/Game/q021572k-Andrew/BP_Weight_Pickup.PackageMetaData'
+[2023.01.16-20.42.34:254][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Weight_Pickup.SKEL_BP_Weight_Pickup_C:BndEvt__BP_Weight_Pickup_Collider_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/q021572k-Andrew/BP_Weight_Pickup.PackageMetaData'
+[2023.01.16-20.42.34:254][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Weight_Pickup.SKEL_BP_Weight_Pickup_C:UserConstructionScript' ref from Metadata '/Game/q021572k-Andrew/BP_Weight_Pickup.PackageMetaData'
+[2023.01.16-20.42.34:254][971]LogMetaData: Removing '/Game/Gameplay/Obstacles/BP_Weight_Pickup.SKEL_BP_Weight_Pickup_C' ref from Metadata '/Game/q021572k-Andrew/BP_Weight_Pickup.PackageMetaData'
+[2023.01.16-20.42.34:375][971]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.006567 seconds
+[2023.01.16-20.42.34:386][971]LogSavePackage: Moving output files for package: /Game/q021572k-Andrew/BP_PickupItems/DT_PickUpItems
+[2023.01.16-20.42.34:387][971]LogSavePackage: Moving '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Saved/DT_PickUpItemsB2F7EF584367246E8022718C242C1719.tmp' to '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/q021572k-Andrew/BP_PickupItems/DT_PickUpItems.uasset'
+[2023.01.16-20.42.34:412][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/EngineContent/ThirdPerson/Maps/ThirdPersonMap/D/Z2/TTLSOOOVPWIHXY5AOWHUSH
+[2023.01.16-20.42.34:413][971]LogSavePackage: Moving '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Saved/TTLSOOOVPWIHXY5AOWHUSH886BF7CF4E899EF9FA157084C9E2D121.tmp' to '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/__ExternalActors__/EngineContent/ThirdPerson/Maps/ThirdPersonMap/D/Z2/TTLSOOOVPWIHXY5AOWHUSH.uasset'
+[2023.01.16-20.42.34:475][971]LogSavePackage: Moving output files for package: /Game/Gameplay/Obstacles/BP_Bollards
+[2023.01.16-20.42.34:475][971]LogSavePackage: Moving '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Saved/BP_BollardsA93DF6C04EB466BF01EE18B5C1D25165.tmp' to '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/Gameplay/Obstacles/BP_Bollards.uasset'
+[2023.01.16-20.42.34:477][971]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/q021572k-Andrew/BP_Bollards" FILE="../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/q021572k-Andrew/BP_Bollards.uasset" SILENT=true
+[2023.01.16-20.42.34:479][971]LogSavePackage: Moving output files for package: /Game/q021572k-Andrew/BP_Bollards
+[2023.01.16-20.42.34:480][971]LogSavePackage: Moving '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Saved/BP_Bollards1822624B47067AD88AECFF963A78ACF1.tmp' to '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/q021572k-Andrew/BP_Bollards.uasset'
+[2023.01.16-20.42.34:492][971]LogSavePackage: Moving output files for package: /Game/Gameplay/Obstacles/BP_BreakableWall
+[2023.01.16-20.42.34:492][971]LogSavePackage: Moving '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Saved/BP_BreakableWall22643FF34CD0EE9367A4A2AE7CB04957.tmp' to '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/Gameplay/Obstacles/BP_BreakableWall.uasset'
+[2023.01.16-20.42.34:508][971]LogSavePackage: Moving output files for package: /Game/Gameplay/Obstacles/BP_Button
+[2023.01.16-20.42.34:508][971]LogSavePackage: Moving '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Saved/BP_Button561F835A4719E2E205B5DABC625BDD3F.tmp' to '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/Gameplay/Obstacles/BP_Button.uasset'
+[2023.01.16-20.42.34:523][971]LogSavePackage: Moving output files for package: /Game/Gameplay/Obstacles/BP_Cannon
+[2023.01.16-20.42.34:524][971]LogSavePackage: Moving '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Saved/BP_Cannon38CAB83D42D0B0AE3861AD8BBB15E405.tmp' to '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/Gameplay/Obstacles/BP_Cannon.uasset'
+[2023.01.16-20.42.34:532][971]LogSavePackage: Moving output files for package: /Game/Gameplay/Obstacles/BP_CannonBall
+[2023.01.16-20.42.34:533][971]LogSavePackage: Moving '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Saved/BP_CannonBall2B08616C433DC5596164D9A6B80804ED.tmp' to '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/Gameplay/Obstacles/BP_CannonBall.uasset'
+[2023.01.16-20.42.34:554][971]LogSavePackage: Moving output files for package: /Game/Gameplay/Obstacles/BP_PhysicsLever
+[2023.01.16-20.42.34:554][971]LogSavePackage: Moving '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Saved/BP_PhysicsLever5166489C4847C7A42FAC6A983E5E25E9.tmp' to '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/Gameplay/Obstacles/BP_PhysicsLever.uasset'
+[2023.01.16-20.42.34:568][971]LogSavePackage: Moving output files for package: /Game/Gameplay/Obstacles/BP_PinballFlipper
+[2023.01.16-20.42.34:568][971]LogSavePackage: Moving '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Saved/BP_PinballFlipper209C3905440F92C9EB9A3CA833DBC581.tmp' to '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/Gameplay/Obstacles/BP_PinballFlipper.uasset'
+[2023.01.16-20.42.34:572][971]LogSavePackage: Moving output files for package: /Game/q021572k-Andrew/BP_PinballFlipper
+[2023.01.16-20.42.34:573][971]LogSavePackage: Moving '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Saved/BP_PinballFlipperBF4F14364775A3503E8061B2970B722F.tmp' to '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/q021572k-Andrew/BP_PinballFlipper.uasset'
+[2023.01.16-20.42.34:593][971]LogSavePackage: Moving output files for package: /Game/Gameplay/Obstacles/BP_Punch_Glove
+[2023.01.16-20.42.34:594][971]LogSavePackage: Moving '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Saved/BP_Punch_Glove7EAE40B24789A7AA459851B3E1142547.tmp' to '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/Gameplay/Obstacles/BP_Punch_Glove.uasset'
+[2023.01.16-20.42.34:600][971]LogSavePackage: Moving output files for package: /Game/Gameplay/Obstacles/BP_Shield_Pickup
+[2023.01.16-20.42.34:601][971]LogSavePackage: Moving '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Saved/BP_Shield_PickupBC615FAA437B2DC829A842B6D76F3F1F.tmp' to '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/Gameplay/Obstacles/BP_Shield_Pickup.uasset'
+[2023.01.16-20.42.34:611][971]LogSavePackage: Moving output files for package: /Game/Gameplay/Obstacles/BP_Stun_Pickup
+[2023.01.16-20.42.34:611][971]LogSavePackage: Moving '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Saved/BP_Stun_PickupE950910E46F4CB254A234A9E9A2C2B1A.tmp' to '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/Gameplay/Obstacles/BP_Stun_Pickup.uasset'
+[2023.01.16-20.42.34:621][971]LogSavePackage: Moving output files for package: /Game/Gameplay/Obstacles/BP_Vertical_Spin_Pillar
+[2023.01.16-20.42.34:621][971]LogSavePackage: Moving '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Saved/BP_Vertical_Spin_PillarDCEF3F8745CE7F1BAAF9B984DCF9BCD6.tmp' to '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/Gameplay/Obstacles/BP_Vertical_Spin_Pillar.uasset'
+[2023.01.16-20.42.34:650][971]LogSavePackage: Moving output files for package: /Game/Gameplay/Obstacles/BP_Weight_Pickup
+[2023.01.16-20.42.34:650][971]LogSavePackage: Moving '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Saved/BP_Weight_Pickup489176FA43D44A3C5BC9DBB46860E1E1.tmp' to '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/Gameplay/Obstacles/BP_Weight_Pickup.uasset'
+[2023.01.16-20.42.34:680][971]LogSavePackage: Moving output files for package: /Game/q021572k-Andrew/BP_Weight_Pickup
+[2023.01.16-20.42.34:681][971]LogSavePackage: Moving '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Saved/BP_Weight_Pickup3235CE314032FB5A4F7D759FABA6D7B1.tmp' to '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/q021572k-Andrew/BP_Weight_Pickup.uasset'
+[2023.01.16-20.42.35:086][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.01.16-20.42.35:114][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.01.16-20.42.35:124][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.01.16-20.42.35:205][971]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.16-20.42.35:205][971]LogContentValidation: Display: Validating Blueprint /Game/Gameplay/Obstacles/BP_Weight_Pickup.BP_Weight_Pickup
+[2023.01.16-20.42.35:205][971]LogContentValidation: Display: Validating Blueprint /Game/Gameplay/Obstacles/BP_Bollards.BP_Bollards
+[2023.01.16-20.42.35:205][971]LogContentValidation: Display: Validating Blueprint /Game/Gameplay/Obstacles/BP_BreakableWall.BP_BreakableWall
+[2023.01.16-20.42.35:205][971]LogContentValidation: Display: Validating Blueprint /Game/Gameplay/Obstacles/BP_Button.BP_Button
+[2023.01.16-20.42.35:205][971]LogContentValidation: Display: Validating Blueprint /Game/Gameplay/Obstacles/BP_CannonBall.BP_CannonBall
+[2023.01.16-20.42.35:205][971]LogContentValidation: Display: Validating Blueprint /Game/Gameplay/Obstacles/BP_Cannon.BP_Cannon
+[2023.01.16-20.42.35:205][971]LogContentValidation: Display: Validating Blueprint /Game/Gameplay/Obstacles/BP_PhysicsLever.BP_PhysicsLever
+[2023.01.16-20.42.35:206][971]LogContentValidation: Display: Validating Blueprint /Game/Gameplay/Obstacles/BP_PinballFlipper.BP_PinballFlipper
+[2023.01.16-20.42.35:206][971]LogContentValidation: Display: Validating Blueprint /Game/Gameplay/Obstacles/BP_Punch_Glove.BP_Punch_Glove
+[2023.01.16-20.42.35:206][971]LogContentValidation: Display: Validating Blueprint /Game/Gameplay/Obstacles/BP_Stun_Pickup.BP_Stun_Pickup
+[2023.01.16-20.42.35:206][971]LogContentValidation: Display: Validating Blueprint /Game/Gameplay/Obstacles/BP_Shield_Pickup.BP_Shield_Pickup
+[2023.01.16-20.42.35:206][971]LogContentValidation: Display: Validating Blueprint /Game/Gameplay/Obstacles/BP_Vertical_Spin_Pillar.BP_Vertical_Spin_Pillar
+[2023.01.16-20.42.35:206][971]LogContentValidation: Display: Validating DataTable /Game/q021572k-Andrew/BP_PickupItems/DT_PickUpItems.DT_PickUpItems
+[2023.01.16-20.42.35:206][971]LogContentValidation: Display: Validating ObjectRedirector /Game/q021572k-Andrew/BP_Bollards.BP_Bollards_C
+[2023.01.16-20.42.35:206][971]LogContentValidation: Display: Validating ObjectRedirector /Game/q021572k-Andrew/BP_Bollards.Default__BP_Bollards_C
+[2023.01.16-20.42.35:206][971]LogContentValidation: Display: Validating ObjectRedirector /Game/q021572k-Andrew/BP_Bollards.BP_Bollards
+[2023.01.16-20.42.35:206][971]LogContentValidation: Display: Validating ObjectRedirector /Game/q021572k-Andrew/BP_PinballFlipper.BP_PinballFlipper_C
+[2023.01.16-20.42.35:206][971]LogContentValidation: Display: Validating ObjectRedirector /Game/q021572k-Andrew/BP_PinballFlipper.Default__BP_PinballFlipper_C
+[2023.01.16-20.42.35:206][971]LogContentValidation: Display: Validating ObjectRedirector /Game/q021572k-Andrew/BP_PinballFlipper.BP_PinballFlipper
+[2023.01.16-20.42.35:206][971]LogContentValidation: Display: Validating ObjectRedirector /Game/q021572k-Andrew/BP_Weight_Pickup.BP_Weight_Pickup_C
+[2023.01.16-20.42.35:206][971]LogContentValidation: Display: Validating ObjectRedirector /Game/q021572k-Andrew/BP_Weight_Pickup.Default__BP_Weight_Pickup_C
+[2023.01.16-20.42.35:206][971]LogContentValidation: Display: Validating ObjectRedirector /Game/q021572k-Andrew/BP_Weight_Pickup.BP_Weight_Pickup
+[2023.01.16-20.42.35:206][971]LogContentValidation: Display: Validating BP_Vertical_Spin_Pillar_C /Game/EngineContent/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Vertical_Spin_Pillar_C_UAID_6C02E05F1ECEF55901_1954821269
+[2023.01.16-20.42.35:206][971]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/EngineContent/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Vertical_Spin_Pillar_C_UAID_6C02E05F1ECEF55901_1954821269'
+[2023.01.16-20.42.54:332][372]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.01.16-20.42.54:350][372]LogContentBrowser: Creating deferred item: NewFolder
+[2023.01.16-20.42.54:360][373]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.01.16-20.42.58:003][587]LogContentBrowser: Attempting asset rename: NewFolder -> Mallet_Pawn
+[2023.01.16-20.42.58:003][587]LogContentBrowser: End creating deferred item NewFolder
+[2023.01.16-20.43.03:026][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.01.16-20.43.09:237][220]LogSlate: Window 'Advanced Copy Asset Report' being destroyed
+[2023.01.16-20.43.10:773][307]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/q021572k-Andrew/BP_Ball_Mallet_V2.BP_Ball_Mallet_V2_C
+[2023.01.16-20.43.10:773][307]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/q021572k-Andrew/BP_Ball_Mallet_V2.BP_Ball_Mallet_V2_C
+[2023.01.16-20.43.10:775][307]LogActorFactory: Actor Factory spawned Blueprint /Game/q021572k-Andrew/BP_Ball_Mallet_V2.BP_Ball_Mallet_V2 as actor: BP_Ball_Mallet_V2_C /Temp/Untitled_0.Untitled:PersistentLevel.BP_Ball_Mallet_V2_C_0
+[2023.01.16-20.43.10:777][307]LogActorFactory: Actor Factory spawned Blueprint /Game/q021572k-Andrew/BP_Ball_Mallet_V2.BP_Ball_Mallet_V2 as actor: BP_Ball_Mallet_V2_C /Temp/Untitled_0.Untitled:PersistentLevel.BP_Ball_Mallet_V2_C_0
+[2023.01.16-20.43.12:094][375]LogMetaData: Removing '/Game/Gameplay/Player/Mallet_Pawn/BP_Ball_Mallet_V2.BP_Ball_Mallet_V2_C' ref from Metadata '/Game/q021572k-Andrew/BP_Ball_Mallet_V2.PackageMetaData'
+[2023.01.16-20.43.12:094][375]LogMetaData: Removing '/Game/Gameplay/Player/Mallet_Pawn/BP_Ball_Mallet_V2.BP_Ball_Mallet_V2:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/q021572k-Andrew/BP_Ball_Mallet_V2.PackageMetaData'
+[2023.01.16-20.43.12:094][375]LogMetaData: Removing '/Game/Gameplay/Player/Mallet_Pawn/BP_Ball_Mallet_V2.BP_Ball_Mallet_V2:UpdateMalletRotation.K2Node_FunctionEntry_0' ref from Metadata '/Game/q021572k-Andrew/BP_Ball_Mallet_V2.PackageMetaData'
+[2023.01.16-20.43.12:094][375]LogMetaData: Removing '/Game/Gameplay/Player/Mallet_Pawn/BP_Ball_Mallet_V2.SKEL_BP_Ball_Mallet_V2_C:InpAxisKeyEvt_Mouse2D_K2Node_InputVectorAxisEvent_0' ref from Metadata '/Game/q021572k-Andrew/BP_Ball_Mallet_V2.PackageMetaData'
+[2023.01.16-20.43.12:094][375]LogMetaData: Removing '/Game/Gameplay/Player/Mallet_Pawn/BP_Ball_Mallet_V2.SKEL_BP_Ball_Mallet_V2_C:ReceiveTick' ref from Metadata '/Game/q021572k-Andrew/BP_Ball_Mallet_V2.PackageMetaData'
+[2023.01.16-20.43.12:094][375]LogMetaData: Removing '/Game/Gameplay/Player/Mallet_Pawn/BP_Ball_Mallet_V2.SKEL_BP_Ball_Mallet_V2_C:ReceiveBeginPlay' ref from Metadata '/Game/q021572k-Andrew/BP_Ball_Mallet_V2.PackageMetaData'
+[2023.01.16-20.43.12:094][375]LogMetaData: Removing '/Game/Gameplay/Player/Mallet_Pawn/BP_Ball_Mallet_V2.SKEL_BP_Ball_Mallet_V2_C:TriggerPossessionSwap' ref from Metadata '/Game/q021572k-Andrew/BP_Ball_Mallet_V2.PackageMetaData'
+[2023.01.16-20.43.12:094][375]LogMetaData: Removing '/Game/Gameplay/Player/Mallet_Pawn/BP_Ball_Mallet_V2.SKEL_BP_Ball_Mallet_V2_C:SwapPossession' ref from Metadata '/Game/q021572k-Andrew/BP_Ball_Mallet_V2.PackageMetaData'
+[2023.01.16-20.43.12:094][375]LogMetaData: Removing '/Game/Gameplay/Player/Mallet_Pawn/BP_Ball_Mallet_V2.SKEL_BP_Ball_Mallet_V2_C:InpAxisEvt_MalletRotation_K2Node_InputAxisEvent_0' ref from Metadata '/Game/q021572k-Andrew/BP_Ball_Mallet_V2.PackageMetaData'
+[2023.01.16-20.43.12:094][375]LogMetaData: Removing '/Game/Gameplay/Player/Mallet_Pawn/BP_Ball_Mallet_V2.SKEL_BP_Ball_Mallet_V2_C:UserConstructionScript' ref from Metadata '/Game/q021572k-Andrew/BP_Ball_Mallet_V2.PackageMetaData'
+[2023.01.16-20.43.12:094][375]LogMetaData: Removing '/Game/Gameplay/Player/Mallet_Pawn/BP_Ball_Mallet_V2.SKEL_BP_Ball_Mallet_V2_C:UpdateMalletRotation' ref from Metadata '/Game/q021572k-Andrew/BP_Ball_Mallet_V2.PackageMetaData'
+[2023.01.16-20.43.12:094][375]LogMetaData: Removing '/Game/Gameplay/Player/Mallet_Pawn/BP_Ball_Mallet_V2.SKEL_BP_Ball_Mallet_V2_C' ref from Metadata '/Game/q021572k-Andrew/BP_Ball_Mallet_V2.PackageMetaData'
+[2023.01.16-20.43.12:094][375]LogMetaData: Removing '/Game/Gameplay/Player/Mallet_Pawn/BP_Ball_Mallet_V2.BP_Ball_Mallet_V2_C:ReceiveBeginPlay' ref from Metadata '/Game/q021572k-Andrew/BP_Ball_Mallet_V2.PackageMetaData'
+[2023.01.16-20.43.12:094][375]LogMetaData: Removing '/Game/Gameplay/Player/Mallet_Pawn/BP_Ball_Mallet_V2.BP_Ball_Mallet_V2_C:ReceiveTick' ref from Metadata '/Game/q021572k-Andrew/BP_Ball_Mallet_V2.PackageMetaData'
+[2023.01.16-20.43.12:094][375]LogMetaData: Removing '/Game/Gameplay/Player/Mallet_Pawn/BP_Ball_Mallet_V2.BP_Ball_Mallet_V2_C:UpdateMalletRotation' ref from Metadata '/Game/q021572k-Andrew/BP_Ball_Mallet_V2.PackageMetaData'
+[2023.01.16-20.43.12:207][375]LogSavePackage: Moving output files for package: /Game/Gameplay/Player/Mallet_Pawn/BP_Ball_Mallet_V2
+[2023.01.16-20.43.12:207][375]LogSavePackage: Moving '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Saved/BP_Ball_Mallet_V26C1AD3DC41D4F13819DB158FC02C02CD.tmp' to '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/Gameplay/Player/Mallet_Pawn/BP_Ball_Mallet_V2.uasset'
+[2023.01.16-20.43.12:211][375]LogSavePackage: Moving output files for package: /Game/q021572k-Andrew/BP_Ball_Mallet_V2
+[2023.01.16-20.43.12:212][375]LogSavePackage: Moving '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Saved/BP_Ball_Mallet_V2280F49BC43D148EF2E77C4AB9B47B08B.tmp' to '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/q021572k-Andrew/BP_Ball_Mallet_V2.uasset'
+[2023.01.16-20.43.12:262][375]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.16-20.43.12:262][375]LogContentValidation: Display: Validating ObjectRedirector /Game/q021572k-Andrew/BP_Ball_Mallet_V2.BP_Ball_Mallet_V2
+[2023.01.16-20.43.12:262][375]LogContentValidation: Display: Validating ObjectRedirector /Game/q021572k-Andrew/BP_Ball_Mallet_V2.Default__BP_Ball_Mallet_V2_C
+[2023.01.16-20.43.12:262][375]LogContentValidation: Display: Validating ObjectRedirector /Game/q021572k-Andrew/BP_Ball_Mallet_V2.BP_Ball_Mallet_V2_C
+[2023.01.16-20.43.12:262][375]LogContentValidation: Display: Validating Blueprint /Game/Gameplay/Player/Mallet_Pawn/BP_Ball_Mallet_V2.BP_Ball_Mallet_V2
+[2023.01.16-20.43.30:541][450]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.01.16-20.43.30:562][450]LogContentBrowser: Creating deferred item: NewFolder
+[2023.01.16-20.43.30:574][451]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.01.16-20.43.32:613][570]LogContentBrowser: Attempting asset rename: NewFolder -> Bollards
+[2023.01.16-20.43.32:613][570]LogContentBrowser: End creating deferred item NewFolder
+[2023.01.16-20.43.35:642][742]LogMetaData: Removing '/Game/Gameplay/Obstacles/Bollards/E_BollardMovement.E_BollardMovement' ref from Metadata '/Game/q021572k-Andrew/Enums/E_BollardMovement.PackageMetaData'
+[2023.01.16-20.43.35:908][742]LogSavePackage: Moving output files for package: /Game/Gameplay/Obstacles/BP_Bollards
+[2023.01.16-20.43.35:909][742]LogSavePackage: Moving '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Saved/BP_BollardsBF297B5A43A3D565BCF55B8A5AEE5E30.tmp' to '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/Gameplay/Obstacles/BP_Bollards.uasset'
+[2023.01.16-20.43.35:912][742]LogSavePackage: Moving output files for package: /Game/Gameplay/Obstacles/Bollards/E_BollardMovement
+[2023.01.16-20.43.35:912][742]LogSavePackage: Moving '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Saved/E_BollardMovementE80DF7FE4DA834063B5DA3889B96F0A2.tmp' to '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/Gameplay/Obstacles/Bollards/E_BollardMovement.uasset'
+[2023.01.16-20.43.35:944][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.01.16-20.43.35:952][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.01.16-20.43.35:960][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.01.16-20.43.36:012][742]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.16-20.43.36:012][742]LogContentValidation: Display: Validating UserDefinedEnum /Game/Gameplay/Obstacles/Bollards/E_BollardMovement.E_BollardMovement
+[2023.01.16-20.43.36:012][742]LogContentValidation: Display: Validating Blueprint /Game/Gameplay/Obstacles/BP_Bollards.BP_Bollards
+[2023.01.16-20.43.42:061][ 87]LogMetaData: Removing '/Game/Gameplay/Player/Mallet_Pawn/E_MalletState.E_MalletState' ref from Metadata '/Game/q021572k-Andrew/Enums/E_MalletState.PackageMetaData'
+[2023.01.16-20.43.42:241][ 87]LogSavePackage: Moving output files for package: /Game/Gameplay/Player/Mallet_Pawn/BP_Ball_Mallet_V2
+[2023.01.16-20.43.42:242][ 87]LogSavePackage: Moving '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Saved/BP_Ball_Mallet_V2197046B2495FCB6A84C10B9D436302FD.tmp' to '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/Gameplay/Player/Mallet_Pawn/BP_Ball_Mallet_V2.uasset'
+[2023.01.16-20.43.42:245][ 87]LogSavePackage: Moving output files for package: /Game/Gameplay/Player/Mallet_Pawn/E_MalletState
+[2023.01.16-20.43.42:245][ 87]LogSavePackage: Moving '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Saved/E_MalletState5CFC2F0942959F88B517A7BB1EAE8148.tmp' to '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/Gameplay/Player/Mallet_Pawn/E_MalletState.uasset'
+[2023.01.16-20.43.42:277][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.01.16-20.43.42:285][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.01.16-20.43.42:293][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.01.16-20.43.42:339][ 87]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.16-20.43.42:339][ 87]LogContentValidation: Display: Validating UserDefinedEnum /Game/Gameplay/Player/Mallet_Pawn/E_MalletState.E_MalletState
+[2023.01.16-20.43.42:339][ 87]LogContentValidation: Display: Validating Blueprint /Game/Gameplay/Player/Mallet_Pawn/BP_Ball_Mallet_V2.BP_Ball_Mallet_V2
+[2023.01.16-20.44.01:881][242]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.01.16-20.44.01:904][242]LogContentBrowser: Creating deferred item: NewFolder
+[2023.01.16-20.44.01:918][243]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.01.16-20.44.05:572][459]LogContentBrowser: Attempting asset rename: NewFolder -> BreakableWall
+[2023.01.16-20.44.05:573][459]LogContentBrowser: End creating deferred item NewFolder
+[2023.01.16-20.44.09:734][693]LogSavePackage: Moving output files for package: /Game/q021572k-Andrew/BreakableWall/BP_Breakable_Wall_V2_Thick
+[2023.01.16-20.44.09:736][693]LogSavePackage: Moving '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Saved/BP_Breakable_Wall_V2_Thick2FB0DB8047C5297DF1604DB34FB61DCC.tmp' to '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/q021572k-Andrew/BreakableWall/BP_Breakable_Wall_V2_Thick.uasset'
+[2023.01.16-20.44.09:741][693]LogSavePackage: Moving output files for package: /Game/q021572k-Andrew/Archive/GC_BreakableWall
+[2023.01.16-20.44.09:742][693]LogSavePackage: Moving '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Saved/GC_BreakableWallDF8DF9724ED0FD276E382697626CC437.tmp' to '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/q021572k-Andrew/Archive/GC_BreakableWall.uasset'
+[2023.01.16-20.44.09:753][693]LogSavePackage: Moving output files for package: /Game/Gameplay/Obstacles/BP_BreakableWall
+[2023.01.16-20.44.09:754][693]LogSavePackage: Moving '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Saved/BP_BreakableWallF3D5A2464AE3D7199AEFEE895AF4E953.tmp' to '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/Gameplay/Obstacles/BP_BreakableWall.uasset'
+[2023.01.16-20.44.09:759][693]LogSavePackage: Moving output files for package: /Game/Gameplay/Obstacles/BreakableWall/GC_Breakable_Wall_V2_Thick
+[2023.01.16-20.44.09:760][693]LogSavePackage: Moving '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Saved/GC_Breakable_Wall_V2_Thick22F7F54F41F08FC0B294D9BAC8315C38.tmp' to '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/Gameplay/Obstacles/BreakableWall/GC_Breakable_Wall_V2_Thick.uasset'
+[2023.01.16-20.44.09:764][693]LogSavePackage: Moving output files for package: /Game/Gameplay/Obstacles/BreakableWall/GC_Breakable_Wall_V3_Thin
+[2023.01.16-20.44.09:765][693]LogSavePackage: Moving '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Saved/GC_Breakable_Wall_V3_ThinBB129417456919A7E2706187BB6FA75D.tmp' to '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/Gameplay/Obstacles/BreakableWall/GC_Breakable_Wall_V3_Thin.uasset'
+[2023.01.16-20.44.09:767][693]LogSavePackage: Moving output files for package: /Game/q021572k-Andrew/BreakableWall/GC_Breakable_Wall_V3_Thin
+[2023.01.16-20.44.09:768][693]LogSavePackage: Moving '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Saved/GC_Breakable_Wall_V3_Thin9DE89B2C486F827BF68CC5BA854A4308.tmp' to '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/q021572k-Andrew/BreakableWall/GC_Breakable_Wall_V3_Thin.uasset'
+[2023.01.16-20.44.09:802][693]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.01.16-20.44.09:811][693]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.01.16-20.44.09:819][693]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.01.16-20.44.09:848][693]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.16-20.44.09:848][693]LogContentValidation: Display: Validating GeometryCollection /Game/Gameplay/Obstacles/BreakableWall/GC_Breakable_Wall_V2_Thick.GC_Breakable_Wall_V2_Thick
+[2023.01.16-20.44.09:848][693]LogContentValidation: Display: Validating Blueprint /Game/Gameplay/Obstacles/BP_BreakableWall.BP_BreakableWall
+[2023.01.16-20.44.09:848][693]LogContentValidation: Display: Validating ObjectRedirector /Game/q021572k-Andrew/BreakableWall/GC_Breakable_Wall_V3_Thin.GC_Breakable_Wall_V3_Thin
+[2023.01.16-20.44.09:848][693]LogContentValidation: Display: Validating Blueprint /Game/q021572k-Andrew/Archive/GC_BreakableWall.GC_BreakableWall
+[2023.01.16-20.44.09:848][693]LogContentValidation: Display: Validating ObjectRedirector /Game/q021572k-Andrew/BreakableWall/BP_Breakable_Wall_V2_Thick.BP_Breakable_Wall_V2_Thick
+[2023.01.16-20.44.09:848][693]LogContentValidation: Display: Validating GeometryCollection /Game/Gameplay/Obstacles/BreakableWall/GC_Breakable_Wall_V3_Thin.GC_Breakable_Wall_V3_Thin
+[2023.01.16-20.44.14:740][967]LogMetaData: Removing '/Game/Gameplay/Obstacles/BreakableWall/BP_BreakableWall.BP_BreakableWall_C' ref from Metadata '/Game/Gameplay/Obstacles/BP_BreakableWall.PackageMetaData'
+[2023.01.16-20.44.14:740][967]LogMetaData: Removing '/Game/Gameplay/Obstacles/BreakableWall/BP_BreakableWall.BP_BreakableWall_C:PhysicsCollision' ref from Metadata '/Game/Gameplay/Obstacles/BP_BreakableWall.PackageMetaData'
+[2023.01.16-20.44.14:740][967]LogMetaData: Removing '/Game/Gameplay/Obstacles/BreakableWall/BP_BreakableWall.BP_BreakableWall_C:ReceiveBeginPlay' ref from Metadata '/Game/Gameplay/Obstacles/BP_BreakableWall.PackageMetaData'
+[2023.01.16-20.44.14:740][967]LogMetaData: Removing '/Game/Gameplay/Obstacles/BreakableWall/BP_BreakableWall.SKEL_BP_BreakableWall_C' ref from Metadata '/Game/Gameplay/Obstacles/BP_BreakableWall.PackageMetaData'
+[2023.01.16-20.44.14:740][967]LogMetaData: Removing '/Game/Gameplay/Obstacles/BreakableWall/BP_BreakableWall.SKEL_BP_BreakableWall_C:ReceiveBeginPlay' ref from Metadata '/Game/Gameplay/Obstacles/BP_BreakableWall.PackageMetaData'
+[2023.01.16-20.44.14:740][967]LogMetaData: Removing '/Game/Gameplay/Obstacles/BreakableWall/BP_BreakableWall.SKEL_BP_BreakableWall_C:PhysicsCollision' ref from Metadata '/Game/Gameplay/Obstacles/BP_BreakableWall.PackageMetaData'
+[2023.01.16-20.44.14:741][967]LogMetaData: Removing '/Game/Gameplay/Obstacles/BreakableWall/BP_BreakableWall.SKEL_BP_BreakableWall_C:UserConstructionScript' ref from Metadata '/Game/Gameplay/Obstacles/BP_BreakableWall.PackageMetaData'
+[2023.01.16-20.44.14:741][967]LogMetaData: Removing '/Game/Gameplay/Obstacles/BreakableWall/BP_BreakableWall.BP_BreakableWall:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Gameplay/Obstacles/BP_BreakableWall.PackageMetaData'
+[2023.01.16-20.44.14:826][967]LogSavePackage: Moving output files for package: /Game/Gameplay/Obstacles/BreakableWall/BP_BreakableWall
+[2023.01.16-20.44.14:826][967]LogSavePackage: Moving '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Saved/BP_BreakableWall8EC61CEA493F43AB7ADA5FB01C0F8EEE.tmp' to '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/Gameplay/Obstacles/BreakableWall/BP_BreakableWall.uasset'
+[2023.01.16-20.44.14:851][967]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.01.16-20.44.14:859][967]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.01.16-20.44.14:866][967]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.01.16-20.44.14:890][967]AssetCheck: New page: Asset Save: BP_BreakableWall
+[2023.01.16-20.44.14:890][967]LogContentValidation: Display: Validating Blueprint /Game/Gameplay/Obstacles/BreakableWall/BP_BreakableWall.BP_BreakableWall
+[2023.01.16-20.44.20:601][299]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.01.16-20.44.23:645][299]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.16-20.44.24:583][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.01.16-20.44.24:806][341]LogAssetEditorSubsystem: Opening Asset editor for World /Game/q021572k-Andrew/Level_TestLevel_Andrew.Level_TestLevel_Andrew
+[2023.01.16-20.44.24:806][341]Cmd: MAP LOAD FILE="../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/q021572k-Andrew/Level_TestLevel_Andrew.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.01.16-20.44.24:807][341]LightingResults: New page: Lighting Build
+[2023.01.16-20.44.24:826][341]LoadErrors: New page: Loading map: Level_TestLevel_Andrew.umap
+[2023.01.16-20.44.24:873][341]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.01.16-20.44.24:938][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.16-20.44.24:938][341]MapCheck: New page: Map Check
+[2023.01.16-20.44.24:939][341]LightingResults: New page: Lighting Build
+[2023.01.16-20.44.24:946][341]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.16-20.44.25:050][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.01.16-20.44.25:052][341]LogWorld: UWorld::CleanupWorld for Level_TestLevel_Andrew, bSessionEnded=true, bCleanupResources=true
+[2023.01.16-20.44.25:053][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.16-20.44.25:053][341]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.16-20.44.25:053][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.16-20.44.25:123][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.01.16-20.44.25:132][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.01.16-20.44.25:138][341]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_TestLevel_Andrew'.
+[2023.01.16-20.44.25:138][341]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.16-20.44.25:138][341]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.16-20.44.25:139][341]LogAIModule: Creating AISystem for world Level_TestLevel_Andrew
+[2023.01.16-20.44.25:181][341]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/q021572k-Andrew/Level_TestLevel_Andrew_Geometry) is flushing async loading
+[2023.01.16-20.44.25:195][341]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2023.01.16-20.44.25:545][341]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Level_TestLevel_Tori_Gameplay) is flushing async loading
+[2023.01.16-20.44.25:546][341]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/q021572k-Andrew/Level_TestLevel_Andrew_Gameplay) is flushing async loading
+[2023.01.16-20.44.25:549][341]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.01.16-20.44.25:594][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.01.16-20.44.25:608][341]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.01.16-20.44.25:609][341]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.36ms to complete.
+[2023.01.16-20.44.25:609][341]LogFileHelpers: Loading map 'Level_TestLevel_Andrew' took 0.803
+[2023.01.16-20.44.30:231][548]Cmd: DELETE
+[2023.01.16-20.44.30:231][548]Cmd: ACTOR DELETE
+[2023.01.16-20.44.30:266][548]LogEditorActor: Deleted Actor: GeometryCollectionActor
+[2023.01.16-20.44.30:274][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.01.16-20.44.30:275][548]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2023.01.16-20.44.37:847][959]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.01.16-20.44.37:856][959]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.01.16-20.44.37:865][959]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.01.16-20.44.37:875][959]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.01.16-20.44.37:887][959]LogSavePackage: Moving output files for package: /Game/q021572k-Andrew/Level_TestLevel_Andrew
+[2023.01.16-20.44.37:888][959]LogSavePackage: Moving '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Saved/Level_TestLevel_Andrew4C69540C4F92487472EF73894F824233.tmp' to '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/q021572k-Andrew/Level_TestLevel_Andrew.umap'
+[2023.01.16-20.44.37:922][959]LogFileHelpers: Saving map 'Level_TestLevel_Andrew' took 0.056
+[2023.01.16-20.44.37:925][959]LogSavePackage: Moving output files for package: /Game/q021572k-Andrew/BreakableWall/BP_Breakable_Wall_V3_Thin
+[2023.01.16-20.44.37:926][959]LogSavePackage: Moving '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Saved/BP_Breakable_Wall_V3_Thin99877E8243016A663F37C8BFC61EAE11.tmp' to '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/q021572k-Andrew/BreakableWall/BP_Breakable_Wall_V3_Thin.uasset'
+[2023.01.16-20.44.37:963][959]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.01.16-20.44.38:431][959]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.01.16-20.44.38:440][959]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.01.16-20.44.38:450][959]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.01.16-20.44.38:456][959]LogAssetRegistry: Warning: D:/University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/q021572k-Andrew/BreakableWall/BP_Breakable_Wall_V3_Thin.uasset: package was marked as deleted in editor, but has been modified on disk. It will once again be returned from AssetRegistry queries.
+[2023.01.16-20.44.38:460][959]AssetCheck: New page: Asset Save: Level_TestLevel_Andrew
+[2023.01.16-20.44.38:460][959]LogContentValidation: Display: Validating World /Game/q021572k-Andrew/Level_TestLevel_Andrew.Level_TestLevel_Andrew
+[2023.01.16-20.44.50:422][659]LogMetaData: Removing '/Game/Gameplay/Pickups/BP_PickUp_Item_Component.BP_PickUp_Item_Component_C' ref from Metadata '/Game/q021572k-Andrew/BP_PickupItems/BP_PickUp_Item_Component.PackageMetaData'
+[2023.01.16-20.44.50:422][659]LogMetaData: Removing '/Game/Gameplay/Pickups/BP_PickUp_Item_Component.BP_PickUp_Item_Component:Init.K2Node_FunctionEntry_0' ref from Metadata '/Game/q021572k-Andrew/BP_PickupItems/BP_PickUp_Item_Component.PackageMetaData'
+[2023.01.16-20.44.50:422][659]LogMetaData: Removing '/Game/Gameplay/Pickups/BP_PickUp_Item_Component.SKEL_BP_PickUp_Item_Component_C:Init' ref from Metadata '/Game/q021572k-Andrew/BP_PickupItems/BP_PickUp_Item_Component.PackageMetaData'
+[2023.01.16-20.44.50:422][659]LogMetaData: Removing '/Game/Gameplay/Pickups/BP_PickUp_Item_Component.SKEL_BP_PickUp_Item_Component_C' ref from Metadata '/Game/q021572k-Andrew/BP_PickupItems/BP_PickUp_Item_Component.PackageMetaData'
+[2023.01.16-20.44.50:422][659]LogMetaData: Removing '/Game/Gameplay/Pickups/BP_PickUp_Item_Component.BP_PickUp_Item_Component_C:Init' ref from Metadata '/Game/q021572k-Andrew/BP_PickupItems/BP_PickUp_Item_Component.PackageMetaData'
+[2023.01.16-20.44.50:423][659]LogMetaData: Removing '/Game/Gameplay/Pickups/S_PickupItem.S_PickupItem' ref from Metadata '/Game/q021572k-Andrew/BP_PickupItems/S_PickupItem.PackageMetaData'
+[2023.01.16-20.44.50:764][659]LogSavePackage: Moving output files for package: /Game/Gameplay/Player/Ball_Pawn/BP_Ball_Pawn
+[2023.01.16-20.44.50:765][659]LogSavePackage: Moving '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Saved/BP_Ball_Pawn80FEADE64FC62AB6DFBF13B6CE4ED367.tmp' to '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/Gameplay/Player/Ball_Pawn/BP_Ball_Pawn.uasset'
+[2023.01.16-20.44.50:773][659]LogSavePackage: Moving output files for package: /Game/Gameplay/Pickups/BP_PickUp_Item_Component
+[2023.01.16-20.44.50:773][659]LogSavePackage: Moving '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Saved/BP_PickUp_Item_ComponentDCBBF25C4D09F57D5A575AA83CDD0FF2.tmp' to '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/Gameplay/Pickups/BP_PickUp_Item_Component.uasset'
+[2023.01.16-20.44.50:776][659]LogSavePackage: Moving output files for package: /Game/Gameplay/Pickups/DT_PickUpItems
+[2023.01.16-20.44.50:776][659]LogSavePackage: Moving '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Saved/DT_PickUpItemsE1DFE901415A851F6B4947B8F0E6519B.tmp' to '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/Gameplay/Pickups/DT_PickUpItems.uasset'
+[2023.01.16-20.44.50:779][659]LogSavePackage: Moving output files for package: /Game/Gameplay/Pickups/S_PickupItem
+[2023.01.16-20.44.50:779][659]LogSavePackage: Moving '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Saved/S_PickupItem3ED7F4B042FF7E9B60124BB65B9FDEAE.tmp' to '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/Gameplay/Pickups/S_PickupItem.uasset'
+[2023.01.16-20.44.50:816][659]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.01.16-20.44.50:824][659]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.01.16-20.44.50:833][659]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.01.16-20.44.50:887][659]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.16-20.44.50:887][659]LogContentValidation: Display: Validating UserDefinedStruct /Game/Gameplay/Pickups/S_PickupItem.S_PickupItem
+[2023.01.16-20.44.50:887][659]LogContentValidation: Display: Validating Blueprint /Game/Gameplay/Pickups/BP_PickUp_Item_Component.BP_PickUp_Item_Component
+[2023.01.16-20.44.50:887][659]LogContentValidation: Display: Validating Blueprint /Game/Gameplay/Player/Ball_Pawn/BP_Ball_Pawn.BP_Ball_Pawn
+[2023.01.16-20.44.50:887][659]LogContentValidation: Display: Validating DataTable /Game/Gameplay/Pickups/DT_PickUpItems.DT_PickUpItems
+[2023.01.16-20.45.08:360][702]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2023.01.16-20.45.08:360][702]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2023.01.16-20.45.09:998][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/_ParentComps/BP_ChildActor_Parent.BP_ChildActor_Parent_C' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/_ParentComps/BP_ChildActor_Parent.PackageMetaData'
+[2023.01.16-20.45.09:998][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/_ParentComps/BP_ChildActor_Parent.BP_ChildActor_Parent:EventGraph.K2Node_Event_0' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/_ParentComps/BP_ChildActor_Parent.PackageMetaData'
+[2023.01.16-20.45.09:998][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/_ParentComps/BP_ChildActor_Parent.BP_ChildActor_Parent:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/_ParentComps/BP_ChildActor_Parent.PackageMetaData'
+[2023.01.16-20.45.09:998][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/_ParentComps/BP_ChildActor_Parent.BP_ChildActor_Parent:Set Components to Moveable.K2Node_FunctionEntry_0' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/_ParentComps/BP_ChildActor_Parent.PackageMetaData'
+[2023.01.16-20.45.09:998][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/_ParentComps/BP_ChildActor_Parent.SKEL_BP_ChildActor_Parent_C:ReceiveBeginPlay' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/_ParentComps/BP_ChildActor_Parent.PackageMetaData'
+[2023.01.16-20.45.09:998][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/_ParentComps/BP_ChildActor_Parent.SKEL_BP_ChildActor_Parent_C:UserConstructionScript' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/_ParentComps/BP_ChildActor_Parent.PackageMetaData'
+[2023.01.16-20.45.09:998][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/_ParentComps/BP_ChildActor_Parent.SKEL_BP_ChildActor_Parent_C' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/_ParentComps/BP_ChildActor_Parent.PackageMetaData'
+[2023.01.16-20.45.09:998][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/_ParentComps/BP_ChildActor_Parent.BP_ChildActor_Parent_C:ReceiveBeginPlay' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/_ParentComps/BP_ChildActor_Parent.PackageMetaData'
+[2023.01.16-20.45.09:999][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/MoveTo/BP_MoveTo_EditVariables.BP_MoveTo_EditVariables_C' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/MoveTo/BP_MoveTo_EditVariables.PackageMetaData'
+[2023.01.16-20.45.09:999][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/MoveTo/BP_MoveTo_EditVariables.BP_MoveTo_EditVariables:EventGraph.K2Node_Event_0' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/MoveTo/BP_MoveTo_EditVariables.PackageMetaData'
+[2023.01.16-20.45.09:999][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/MoveTo/BP_MoveTo_EditVariables.BP_MoveTo_EditVariables:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/MoveTo/BP_MoveTo_EditVariables.PackageMetaData'
+[2023.01.16-20.45.09:999][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/MoveTo/BP_MoveTo_EditVariables.SKEL_BP_MoveTo_EditVariables_C:ReceiveBeginPlay' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/MoveTo/BP_MoveTo_EditVariables.PackageMetaData'
+[2023.01.16-20.45.09:999][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/MoveTo/BP_MoveTo_EditVariables.SKEL_BP_MoveTo_EditVariables_C:RemoveInteractible' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/MoveTo/BP_MoveTo_EditVariables.PackageMetaData'
+[2023.01.16-20.45.09:999][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/MoveTo/BP_MoveTo_EditVariables.SKEL_BP_MoveTo_EditVariables_C' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/MoveTo/BP_MoveTo_EditVariables.PackageMetaData'
+[2023.01.16-20.45.09:999][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/MoveTo/BP_MoveTo_EditVariables.BP_MoveTo_EditVariables_C:RemoveInteractible' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/MoveTo/BP_MoveTo_EditVariables.PackageMetaData'
+[2023.01.16-20.45.09:999][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/MoveTo/BP_MoveTo_EditVariables.BP_MoveTo_EditVariables_C:ReceiveBeginPlay' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/MoveTo/BP_MoveTo_EditVariables.PackageMetaData'
+[2023.01.16-20.45.10:000][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/MoveTo/BP_MoveTo_ChildActor.BP_MoveTo_ChildActor_C' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/MoveTo/BP_MoveTo_ChildActor.PackageMetaData'
+[2023.01.16-20.45.10:000][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/MoveTo/BP_MoveTo_ChildActor.BP_MoveTo_ChildActor:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/MoveTo/BP_MoveTo_ChildActor.PackageMetaData'
+[2023.01.16-20.45.10:000][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/MoveTo/BP_MoveTo_ChildActor.BP_MoveTo_ChildActor:SetForwardSpeed.K2Node_Tunnel_0' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/MoveTo/BP_MoveTo_ChildActor.PackageMetaData'
+[2023.01.16-20.45.10:000][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/MoveTo/BP_MoveTo_ChildActor.BP_MoveTo_ChildActor:SetForwardSpeed.K2Node_Tunnel_1' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/MoveTo/BP_MoveTo_ChildActor.PackageMetaData'
+[2023.01.16-20.45.10:000][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/MoveTo/BP_MoveTo_ChildActor.SKEL_BP_MoveTo_ChildActor_C:MoveActor' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/MoveTo/BP_MoveTo_ChildActor.PackageMetaData'
+[2023.01.16-20.45.10:000][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/MoveTo/BP_MoveTo_ChildActor.SKEL_BP_MoveTo_ChildActor_C:InitMovement' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/MoveTo/BP_MoveTo_ChildActor.PackageMetaData'
+[2023.01.16-20.45.10:000][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/MoveTo/BP_MoveTo_ChildActor.SKEL_BP_MoveTo_ChildActor_C:DelayMovement' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/MoveTo/BP_MoveTo_ChildActor.PackageMetaData'
+[2023.01.16-20.45.10:000][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/MoveTo/BP_MoveTo_ChildActor.SKEL_BP_MoveTo_ChildActor_C:Initialize' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/MoveTo/BP_MoveTo_ChildActor.PackageMetaData'
+[2023.01.16-20.45.10:000][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/MoveTo/BP_MoveTo_ChildActor.SKEL_BP_MoveTo_ChildActor_C:StartTimeline' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/MoveTo/BP_MoveTo_ChildActor.PackageMetaData'
+[2023.01.16-20.45.10:000][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/MoveTo/BP_MoveTo_ChildActor.SKEL_BP_MoveTo_ChildActor_C:UserConstructionScript' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/MoveTo/BP_MoveTo_ChildActor.PackageMetaData'
+[2023.01.16-20.45.10:000][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/MoveTo/BP_MoveTo_ChildActor.SKEL_BP_MoveTo_ChildActor_C' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/MoveTo/BP_MoveTo_ChildActor.PackageMetaData'
+[2023.01.16-20.45.10:000][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/MoveTo/BP_MoveTo_ChildActor.BP_MoveTo_ChildActor_C:Initialize' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/MoveTo/BP_MoveTo_ChildActor.PackageMetaData'
+[2023.01.16-20.45.10:000][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/MoveTo/Structs/S_MoveTo_Editable_Variables.S_MoveTo_Editable_Variables' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/MoveTo/Structs/S_MoveTo_Editable_Variables.PackageMetaData'
+[2023.01.16-20.45.10:001][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/ScaleTo/BP_ScaleTo_EditVariables.BP_ScaleTo_EditVariables_C' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/ScaleTo/BP_ScaleTo_EditVariables.PackageMetaData'
+[2023.01.16-20.45.10:001][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/ScaleTo/BP_ScaleTo_EditVariables.SKEL_BP_ScaleTo_EditVariables_C:ReceiveBeginPlay' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/ScaleTo/BP_ScaleTo_EditVariables.PackageMetaData'
+[2023.01.16-20.45.10:001][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/ScaleTo/BP_ScaleTo_EditVariables.SKEL_BP_ScaleTo_EditVariables_C' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/ScaleTo/BP_ScaleTo_EditVariables.PackageMetaData'
+[2023.01.16-20.45.10:001][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/ScaleTo/BP_ScaleTo_EditVariables.BP_ScaleTo_EditVariables_C:ReceiveBeginPlay' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/ScaleTo/BP_ScaleTo_EditVariables.PackageMetaData'
+[2023.01.16-20.45.10:002][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/_ParentComps/BP_EditVariables_Parent.BP_EditVariables_Parent_C' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/_ParentComps/BP_EditVariables_Parent.PackageMetaData'
+[2023.01.16-20.45.10:002][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/_ParentComps/BP_EditVariables_Parent.BP_EditVariables_Parent:SearchForChildActor.K2Node_FunctionEntry_0' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/_ParentComps/BP_EditVariables_Parent.PackageMetaData'
+[2023.01.16-20.45.10:002][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/_ParentComps/BP_EditVariables_Parent.BP_EditVariables_Parent:SearchForChildComponent.K2Node_FunctionEntry_0' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/_ParentComps/BP_EditVariables_Parent.PackageMetaData'
+[2023.01.16-20.45.10:002][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/_ParentComps/BP_EditVariables_Parent.SKEL_BP_EditVariables_Parent_C' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/_ParentComps/BP_EditVariables_Parent.PackageMetaData'
+[2023.01.16-20.45.10:002][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/ScaleTo/BP_ScaleTo_ChildActor.BP_ScaleTo_ChildActor_C' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/ScaleTo/BP_ScaleTo_ChildActor.PackageMetaData'
+[2023.01.16-20.45.10:002][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/ScaleTo/BP_ScaleTo_ChildActor.SKEL_BP_ScaleTo_ChildActor_C:StartMovement' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/ScaleTo/BP_ScaleTo_ChildActor.PackageMetaData'
+[2023.01.16-20.45.10:002][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/ScaleTo/BP_ScaleTo_ChildActor.SKEL_BP_ScaleTo_ChildActor_C:DelayMovement' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/ScaleTo/BP_ScaleTo_ChildActor.PackageMetaData'
+[2023.01.16-20.45.10:002][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/ScaleTo/BP_ScaleTo_ChildActor.SKEL_BP_ScaleTo_ChildActor_C:InitMovement' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/ScaleTo/BP_ScaleTo_ChildActor.PackageMetaData'
+[2023.01.16-20.45.10:002][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/ScaleTo/BP_ScaleTo_ChildActor.SKEL_BP_ScaleTo_ChildActor_C:Initialize' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/ScaleTo/BP_ScaleTo_ChildActor.PackageMetaData'
+[2023.01.16-20.45.10:002][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/ScaleTo/BP_ScaleTo_ChildActor.SKEL_BP_ScaleTo_ChildActor_C:TimelineCheck' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/ScaleTo/BP_ScaleTo_ChildActor.PackageMetaData'
+[2023.01.16-20.45.10:002][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/ScaleTo/BP_ScaleTo_ChildActor.SKEL_BP_ScaleTo_ChildActor_C:UserConstructionScript' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/ScaleTo/BP_ScaleTo_ChildActor.PackageMetaData'
+[2023.01.16-20.45.10:002][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/ScaleTo/BP_ScaleTo_ChildActor.SKEL_BP_ScaleTo_ChildActor_C' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/ScaleTo/BP_ScaleTo_ChildActor.PackageMetaData'
+[2023.01.16-20.45.10:002][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/ScaleTo/BP_ScaleTo_ChildActor.BP_ScaleTo_ChildActor_C:Initialize' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/ScaleTo/BP_ScaleTo_ChildActor.PackageMetaData'
+[2023.01.16-20.45.10:003][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/ScaleTo/Structs/S_ScaleTo_Editable_Variables.S_ScaleTo_Editable_Variables' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/ScaleTo/Structs/S_ScaleTo_Editable_Variables.PackageMetaData'
+[2023.01.16-20.45.10:003][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/RotateTo/BP_RotateTo_EditVariables.BP_RotateTo_EditVariables_C' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/RotateTo/BP_RotateTo_EditVariables.PackageMetaData'
+[2023.01.16-20.45.10:003][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/RotateTo/BP_RotateTo_EditVariables.SKEL_BP_RotateTo_EditVariables_C:ReceiveBeginPlay' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/RotateTo/BP_RotateTo_EditVariables.PackageMetaData'
+[2023.01.16-20.45.10:003][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/RotateTo/BP_RotateTo_EditVariables.SKEL_BP_RotateTo_EditVariables_C' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/RotateTo/BP_RotateTo_EditVariables.PackageMetaData'
+[2023.01.16-20.45.10:003][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/RotateTo/BP_RotateTo_EditVariables.BP_RotateTo_EditVariables_C:ReceiveBeginPlay' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/RotateTo/BP_RotateTo_EditVariables.PackageMetaData'
+[2023.01.16-20.45.10:004][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/RotateTo/BP_RotateTo_ChildActor.BP_RotateTo_ChildActor_C' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/RotateTo/BP_RotateTo_ChildActor.PackageMetaData'
+[2023.01.16-20.45.10:004][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/RotateTo/BP_RotateTo_ChildActor.SKEL_BP_RotateTo_ChildActor_C:InitializeRotation' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/RotateTo/BP_RotateTo_ChildActor.PackageMetaData'
+[2023.01.16-20.45.10:004][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/RotateTo/BP_RotateTo_ChildActor.SKEL_BP_RotateTo_ChildActor_C:Initialize' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/RotateTo/BP_RotateTo_ChildActor.PackageMetaData'
+[2023.01.16-20.45.10:004][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/RotateTo/BP_RotateTo_ChildActor.SKEL_BP_RotateTo_ChildActor_C:ReceiveTick' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/RotateTo/BP_RotateTo_ChildActor.PackageMetaData'
+[2023.01.16-20.45.10:004][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/RotateTo/BP_RotateTo_ChildActor.SKEL_BP_RotateTo_ChildActor_C:RotateTo' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/RotateTo/BP_RotateTo_ChildActor.PackageMetaData'
+[2023.01.16-20.45.10:004][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/RotateTo/BP_RotateTo_ChildActor.SKEL_BP_RotateTo_ChildActor_C:UserConstructionScript' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/RotateTo/BP_RotateTo_ChildActor.PackageMetaData'
+[2023.01.16-20.45.10:004][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/RotateTo/BP_RotateTo_ChildActor.SKEL_BP_RotateTo_ChildActor_C' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/RotateTo/BP_RotateTo_ChildActor.PackageMetaData'
+[2023.01.16-20.45.10:004][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/RotateTo/BP_RotateTo_ChildActor.BP_RotateTo_ChildActor_C:ReceiveTick' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/RotateTo/BP_RotateTo_ChildActor.PackageMetaData'
+[2023.01.16-20.45.10:004][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/RotateTo/BP_RotateTo_ChildActor.BP_RotateTo_ChildActor_C:Initialize' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/RotateTo/BP_RotateTo_ChildActor.PackageMetaData'
+[2023.01.16-20.45.10:004][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/RotateTo/Structs/S_RotateTo_Editable_Variables.S_RotateTo_Editable_Variables' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/RotateTo/Structs/S_RotateTo_Editable_Variables.PackageMetaData'
+[2023.01.16-20.45.10:005][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/BP_InteractableBase.BP_InteractableBase_C' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/BP_InteractableBase.PackageMetaData'
+[2023.01.16-20.45.10:005][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/BP_InteractableBase.BP_InteractableBase:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/BP_InteractableBase.PackageMetaData'
+[2023.01.16-20.45.10:005][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/BP_InteractableBase.BP_InteractableBase:EventGraph.K2Node_Event_0' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/BP_InteractableBase.PackageMetaData'
+[2023.01.16-20.45.10:005][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/BP_InteractableBase.BP_InteractableBase:EventGraph.K2Node_Event_1' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/BP_InteractableBase.PackageMetaData'
+[2023.01.16-20.45.10:005][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/BP_InteractableBase.BP_InteractableBase:EventGraph.K2Node_Event_2' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/BP_InteractableBase.PackageMetaData'
+[2023.01.16-20.45.10:005][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/BP_InteractableBase.SKEL_BP_InteractableBase_C:ReceiveBeginPlay' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/BP_InteractableBase.PackageMetaData'
+[2023.01.16-20.45.10:005][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/BP_InteractableBase.SKEL_BP_InteractableBase_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/BP_InteractableBase.PackageMetaData'
+[2023.01.16-20.45.10:005][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/BP_InteractableBase.SKEL_BP_InteractableBase_C:ReceiveTick' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/BP_InteractableBase.PackageMetaData'
+[2023.01.16-20.45.10:005][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/BP_InteractableBase.SKEL_BP_InteractableBase_C:UserConstructionScript' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/BP_InteractableBase.PackageMetaData'
+[2023.01.16-20.45.10:005][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/BP_InteractableBase.SKEL_BP_InteractableBase_C' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/BP_InteractableBase.PackageMetaData'
+[2023.01.16-20.45.10:005][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/MoveTo/BP_Spline_Comp.BP_Spline_Comp_C' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/MoveTo/BP_Spline_Comp.PackageMetaData'
+[2023.01.16-20.45.10:005][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/MoveTo/BP_Spline_Comp.BP_Spline_Comp:EventGraph.K2Node_Event_0' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/MoveTo/BP_Spline_Comp.PackageMetaData'
+[2023.01.16-20.45.10:005][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/MoveTo/BP_Spline_Comp.BP_Spline_Comp:EventGraph.K2Node_Event_1' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/MoveTo/BP_Spline_Comp.PackageMetaData'
+[2023.01.16-20.45.10:005][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/MoveTo/BP_Spline_Comp.SKEL_BP_Spline_Comp_C:ReceiveBeginPlay' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/MoveTo/BP_Spline_Comp.PackageMetaData'
+[2023.01.16-20.45.10:005][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/MoveTo/BP_Spline_Comp.SKEL_BP_Spline_Comp_C:ReceiveTick' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/MoveTo/BP_Spline_Comp.PackageMetaData'
+[2023.01.16-20.45.10:005][787]LogMetaData: Removing '/Game/Gameplay/Stage_Interactibles/MoveTo/BP_Spline_Comp.SKEL_BP_Spline_Comp_C' ref from Metadata '/Game/q021572k-Andrew/Stage_Interactibles/MoveTo/BP_Spline_Comp.PackageMetaData'
+[2023.01.16-20.45.10:094][787]LogSavePackage: Moving output files for package: /Game/Gameplay/Stage_Interactibles/_ParentComps/BP_ChildActor_Parent
+[2023.01.16-20.45.10:094][787]LogSavePackage: Moving '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Saved/BP_ChildActor_Parent8B0DEBF147D3858412BE13B796001BA2.tmp' to '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/Gameplay/Stage_Interactibles/_ParentComps/BP_ChildActor_Parent.uasset'
+[2023.01.16-20.45.10:098][787]LogSavePackage: Moving output files for package: /Game/q021572k-Andrew/Stage_Interactibles/_ParentComps/BP_ChildActor_Parent
+[2023.01.16-20.45.10:099][787]LogSavePackage: Moving '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Saved/BP_ChildActor_Parent4224DC1A46BD2ADF188394897F575D7C.tmp' to '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/q021572k-Andrew/Stage_Interactibles/_ParentComps/BP_ChildActor_Parent.uasset'
+[2023.01.16-20.45.10:110][787]LogSavePackage: Moving output files for package: /Game/Gameplay/Stage_Interactibles/MoveTo/BP_MoveTo_EditVariables
+[2023.01.16-20.45.10:110][787]LogSavePackage: Moving '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Saved/BP_MoveTo_EditVariablesFFEEAA4F4F0946CADB7BFD932A52E77F.tmp' to '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/Gameplay/Stage_Interactibles/MoveTo/BP_MoveTo_EditVariables.uasset'
+[2023.01.16-20.45.10:179][787]LogSavePackage: Moving output files for package: /Game/Gameplay/Stage_Interactibles/MoveTo/BP_MoveTo_ChildActor
+[2023.01.16-20.45.10:179][787]LogSavePackage: Moving '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Saved/BP_MoveTo_ChildActor2FC7D69447DC905BEE5371BCA519319A.tmp' to '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/Gameplay/Stage_Interactibles/MoveTo/BP_MoveTo_ChildActor.uasset'
+[2023.01.16-20.45.10:183][787]LogSavePackage: Moving output files for package: /Game/Gameplay/Stage_Interactibles/MoveTo/Structs/S_MoveTo_Editable_Variables
+[2023.01.16-20.45.10:183][787]LogSavePackage: Moving '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Saved/S_MoveTo_Editable_Variables75BE1FF149B354846542148FC98F44B4.tmp' to '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/Gameplay/Stage_Interactibles/MoveTo/Structs/S_MoveTo_Editable_Variables.uasset'
+[2023.01.16-20.45.10:191][787]LogSavePackage: Moving output files for package: /Game/Gameplay/Stage_Interactibles/ScaleTo/BP_ScaleTo_EditVariables
+[2023.01.16-20.45.10:191][787]LogSavePackage: Moving '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Saved/BP_ScaleTo_EditVariables21B6638E42163A27F9B2AFA7BA4FD6EA.tmp' to '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/Gameplay/Stage_Interactibles/ScaleTo/BP_ScaleTo_EditVariables.uasset'
+[2023.01.16-20.45.10:195][787]LogSavePackage: Moving output files for package: /Game/q021572k-Andrew/Stage_Interactibles/ScaleTo/BP_ScaleTo_EditVariables
+[2023.01.16-20.45.10:196][787]LogSavePackage: Moving '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Saved/BP_ScaleTo_EditVariablesDADD43944B1B510910938D83A03B6096.tmp' to '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/q021572k-Andrew/Stage_Interactibles/ScaleTo/BP_ScaleTo_EditVariables.uasset'
+[2023.01.16-20.45.10:208][787]LogSavePackage: Moving output files for package: /Game/Gameplay/Stage_Interactibles/_ParentComps/BP_EditVariables_Parent
+[2023.01.16-20.45.10:208][787]LogSavePackage: Moving '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Saved/BP_EditVariables_ParentB14489E7426BECAFFB7F50BBF62F451C.tmp' to '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/Gameplay/Stage_Interactibles/_ParentComps/BP_EditVariables_Parent.uasset'
+[2023.01.16-20.45.10:283][787]LogSavePackage: Moving output files for package: /Game/Gameplay/Stage_Interactibles/ScaleTo/BP_ScaleTo_ChildActor
+[2023.01.16-20.45.10:283][787]LogSavePackage: Moving '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Saved/BP_ScaleTo_ChildActor9BE12AAF47CA653C3650A6A0D742FD2F.tmp' to '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/Gameplay/Stage_Interactibles/ScaleTo/BP_ScaleTo_ChildActor.uasset'
+[2023.01.16-20.45.10:288][787]LogSavePackage: Moving output files for package: /Game/q021572k-Andrew/Stage_Interactibles/ScaleTo/BP_ScaleTo_ChildActor
+[2023.01.16-20.45.10:289][787]LogSavePackage: Moving '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Saved/BP_ScaleTo_ChildActor95332DF54865E86E5A25DCA485787EF5.tmp' to '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/q021572k-Andrew/Stage_Interactibles/ScaleTo/BP_ScaleTo_ChildActor.uasset'
+[2023.01.16-20.45.10:293][787]LogSavePackage: Moving output files for package: /Game/Gameplay/Stage_Interactibles/ScaleTo/Structs/S_ScaleTo_Editable_Variables
+[2023.01.16-20.45.10:293][787]LogSavePackage: Moving '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Saved/S_ScaleTo_Editable_VariablesAA59D0E941DD4A2054D46CABCC52969F.tmp' to '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/Gameplay/Stage_Interactibles/ScaleTo/Structs/S_ScaleTo_Editable_Variables.uasset'
+[2023.01.16-20.45.10:300][787]LogSavePackage: Moving output files for package: /Game/Gameplay/Stage_Interactibles/RotateTo/BP_RotateTo_EditVariables
+[2023.01.16-20.45.10:300][787]LogSavePackage: Moving '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Saved/BP_RotateTo_EditVariablesE892F3EA4C448B16076E59B7F129E463.tmp' to '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/Gameplay/Stage_Interactibles/RotateTo/BP_RotateTo_EditVariables.uasset'
+[2023.01.16-20.45.10:318][787]LogSavePackage: Moving output files for package: /Game/Gameplay/Stage_Interactibles/RotateTo/BP_RotateTo_ChildActor
+[2023.01.16-20.45.10:318][787]LogSavePackage: Moving '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Saved/BP_RotateTo_ChildActor018E90C343905F6EEA41C89750D14F03.tmp' to '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/Gameplay/Stage_Interactibles/RotateTo/BP_RotateTo_ChildActor.uasset'
+[2023.01.16-20.45.10:321][787]LogSavePackage: Moving output files for package: /Game/Gameplay/Stage_Interactibles/RotateTo/Structs/S_RotateTo_Editable_Variables
+[2023.01.16-20.45.10:322][787]LogSavePackage: Moving '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Saved/S_RotateTo_Editable_Variables3807E55148907CFE63C1D8A447A5D2A7.tmp' to '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/Gameplay/Stage_Interactibles/RotateTo/Structs/S_RotateTo_Editable_Variables.uasset'
+[2023.01.16-20.45.10:328][787]LogSavePackage: Moving output files for package: /Game/Gameplay/Stage_Interactibles/BP_InteractableBase
+[2023.01.16-20.45.10:328][787]LogSavePackage: Moving '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Saved/BP_InteractableBase06270D2F41FB2E638864C39B5649829B.tmp' to '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/Gameplay/Stage_Interactibles/BP_InteractableBase.uasset'
+[2023.01.16-20.45.10:332][787]LogSavePackage: Moving output files for package: /Game/Gameplay/Stage_Interactibles/MoveTo/BP_Spline_Comp
+[2023.01.16-20.45.10:332][787]LogSavePackage: Moving '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Saved/BP_Spline_Comp020B97A94B7DF7A62AE10B972E46A0F2.tmp' to '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/Gameplay/Stage_Interactibles/MoveTo/BP_Spline_Comp.uasset'
+[2023.01.16-20.45.10:415][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.01.16-20.45.10:424][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.01.16-20.45.10:434][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.01.16-20.45.10:475][787]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.16-20.45.10:475][787]LogContentValidation: Display: Validating Blueprint /Game/Gameplay/Stage_Interactibles/_ParentComps/BP_ChildActor_Parent.BP_ChildActor_Parent
+[2023.01.16-20.45.10:475][787]LogContentValidation: Display: Validating Blueprint /Game/Gameplay/Stage_Interactibles/MoveTo/BP_MoveTo_EditVariables.BP_MoveTo_EditVariables
+[2023.01.16-20.45.10:475][787]LogContentValidation: Display: Validating Blueprint /Game/Gameplay/Stage_Interactibles/MoveTo/BP_MoveTo_ChildActor.BP_MoveTo_ChildActor
+[2023.01.16-20.45.10:475][787]LogContentValidation: Display: Validating UserDefinedStruct /Game/Gameplay/Stage_Interactibles/MoveTo/Structs/S_MoveTo_Editable_Variables.S_MoveTo_Editable_Variables
+[2023.01.16-20.45.10:475][787]LogContentValidation: Display: Validating Blueprint /Game/Gameplay/Stage_Interactibles/ScaleTo/BP_ScaleTo_EditVariables.BP_ScaleTo_EditVariables
+[2023.01.16-20.45.10:475][787]LogContentValidation: Display: Validating Blueprint /Game/Gameplay/Stage_Interactibles/_ParentComps/BP_EditVariables_Parent.BP_EditVariables_Parent
+[2023.01.16-20.45.10:475][787]LogContentValidation: Display: Validating Blueprint /Game/Gameplay/Stage_Interactibles/ScaleTo/BP_ScaleTo_ChildActor.BP_ScaleTo_ChildActor
+[2023.01.16-20.45.10:475][787]LogContentValidation: Display: Validating UserDefinedStruct /Game/Gameplay/Stage_Interactibles/ScaleTo/Structs/S_ScaleTo_Editable_Variables.S_ScaleTo_Editable_Variables
+[2023.01.16-20.45.10:475][787]LogContentValidation: Display: Validating Blueprint /Game/Gameplay/Stage_Interactibles/BP_InteractableBase.BP_InteractableBase
+[2023.01.16-20.45.10:475][787]LogContentValidation: Display: Validating Blueprint /Game/Gameplay/Stage_Interactibles/RotateTo/BP_RotateTo_EditVariables.BP_RotateTo_EditVariables
+[2023.01.16-20.45.10:475][787]LogContentValidation: Display: Validating ObjectRedirector /Game/q021572k-Andrew/Stage_Interactibles/ScaleTo/BP_ScaleTo_ChildActor.BP_ScaleTo_ChildActor
+[2023.01.16-20.45.10:475][787]LogContentValidation: Display: Validating ObjectRedirector /Game/q021572k-Andrew/Stage_Interactibles/ScaleTo/BP_ScaleTo_ChildActor.Default__BP_ScaleTo_ChildActor_C
+[2023.01.16-20.45.10:475][787]LogContentValidation: Display: Validating ObjectRedirector /Game/q021572k-Andrew/Stage_Interactibles/ScaleTo/BP_ScaleTo_ChildActor.BP_ScaleTo_ChildActor_C
+[2023.01.16-20.45.10:475][787]LogContentValidation: Display: Validating ObjectRedirector /Game/q021572k-Andrew/Stage_Interactibles/ScaleTo/BP_ScaleTo_EditVariables.BP_ScaleTo_EditVariables
+[2023.01.16-20.45.10:475][787]LogContentValidation: Display: Validating ObjectRedirector /Game/q021572k-Andrew/Stage_Interactibles/ScaleTo/BP_ScaleTo_EditVariables.Default__BP_ScaleTo_EditVariables_C
+[2023.01.16-20.45.10:475][787]LogContentValidation: Display: Validating ObjectRedirector /Game/q021572k-Andrew/Stage_Interactibles/ScaleTo/BP_ScaleTo_EditVariables.BP_ScaleTo_EditVariables_C
+[2023.01.16-20.45.10:475][787]LogContentValidation: Display: Validating ObjectRedirector /Game/q021572k-Andrew/Stage_Interactibles/_ParentComps/BP_ChildActor_Parent.BP_ChildActor_Parent
+[2023.01.16-20.45.10:475][787]LogContentValidation: Display: Validating ObjectRedirector /Game/q021572k-Andrew/Stage_Interactibles/_ParentComps/BP_ChildActor_Parent.Default__BP_ChildActor_Parent_C
+[2023.01.16-20.45.10:475][787]LogContentValidation: Display: Validating ObjectRedirector /Game/q021572k-Andrew/Stage_Interactibles/_ParentComps/BP_ChildActor_Parent.BP_ChildActor_Parent_C
+[2023.01.16-20.45.10:475][787]LogContentValidation: Display: Validating Blueprint /Game/Gameplay/Stage_Interactibles/MoveTo/BP_Spline_Comp.BP_Spline_Comp
+[2023.01.16-20.45.10:475][787]LogContentValidation: Display: Validating Blueprint /Game/Gameplay/Stage_Interactibles/RotateTo/BP_RotateTo_ChildActor.BP_RotateTo_ChildActor
+[2023.01.16-20.45.10:475][787]LogContentValidation: Display: Validating UserDefinedStruct /Game/Gameplay/Stage_Interactibles/RotateTo/Structs/S_RotateTo_Editable_Variables.S_RotateTo_Editable_Variables
+[2023.01.16-20.45.18:975][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.01.16-20.45.18:987][259]LogSavePackage: Moving output files for package: /Game/q021572k-Andrew/Level_TestLevel_Andrew
+[2023.01.16-20.45.18:988][259]LogSavePackage: Moving '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Saved/Level_TestLevel_AndrewFE01F60B45D66A797EF17F80B5AFE800.tmp' to '../../../../../University/Course/Year 2/Collab/Group12_COLLAB/CritterballBoom/Content/q021572k-Andrew/Level_TestLevel_Andrew.umap'
+[2023.01.16-20.45.19:006][259]LogFileHelpers: Saving map 'Level_TestLevel_Andrew' took 0.040
+[2023.01.16-20.45.19:030][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.01.16-20.45.19:199][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.01.16-20.45.19:208][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.01.16-20.45.19:218][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.01.16-20.45.19:223][259]AssetCheck: New page: Asset Save: Level_TestLevel_Andrew
+[2023.01.16-20.45.19:223][259]LogContentValidation: Display: Validating World /Game/q021572k-Andrew/Level_TestLevel_Andrew.Level_TestLevel_Andrew
+[2023.01.16-20.45.31:703][966]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (SKM_Manny_Simple) ...
+[2023.01.16-20.46.33:701][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.01.16-20.46.35:032][ 36]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.16-20.46.35:053][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.01.16-20.46.35:061][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.01.16-20.46.35:070][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.01.16-20.46.36:486][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.01.16-20.46.37:827][113]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.16-20.46.37:851][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.01.16-20.46.37:858][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.01.16-20.46.37:866][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.01.16-20.46.38:549][152]LogBlueprint: Warning: [AssetLog] D:\University\Course\Year 2\Collab\Group12_COLLAB\CritterballBoom\Content\q021572k-Andrew\Archive\BP_Ball_Mallet_V1.uasset: [Compiler] InputAction Event references unknown Action 'Launch' for  InputAction Launch
+[2023.01.16-20.46.38:558][152]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/q021572k-Andrew/Archive/BP_Ball_Mallet_V1.BP_Ball_Mallet_V1
+[2023.01.16-20.46.38:667][152]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.16-20.46.40:465][152]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Docking.TabFont'. Using FTextBlockStyle defaults instead.
+[2023.01.16-20.46.40:465][152]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Docking.TabFont'. Using FTextBlockStyle defaults instead.
