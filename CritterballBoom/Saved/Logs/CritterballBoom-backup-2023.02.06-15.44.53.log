@@ -1,0 +1,1034 @@
+﻿Log file open, 02/06/23 15:43:07
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=21148)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CritterballBoom
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:\Users\p018948l\Documents\Group12_COLLAB\CritterballBoom\CritterballBoom.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.2486] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|11th Gen Intel(R) Core(TM) i7-11700 @ 2.50GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="7f3ba9ae4bc3bc4094ff168ee405e714"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.222228
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-B754845C47958FC07DCFE185049F2D5A
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading Mac ini files took 0.03 seconds
+LogConfig: Display: Loading Android ini files took 0.03 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.03 seconds
+LogConfig: Display: Loading IOS ini files took 0.03 seconds
+LogConfig: Display: Loading Unix ini files took 0.03 seconds
+LogConfig: Display: Loading Windows ini files took 0.03 seconds
+LogConfig: Display: Loading TVOS ini files took 0.03 seconds
+LogConfig: Display: Loading Linux ini files took 0.04 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.04 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin WinDualShock
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) [10.0.19044.2486] (), CPU: 11th Gen Intel(R) Core(TM) i7-11700 @ 2.50GHz, GPU: NVIDIA GeForce RTX 3080
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Epic/UE5/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.02.06-15.43.08:211][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.02.06-15.43.08:211][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.02.06-15.43.08:211][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.02.06-15.43.08:211][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.02.06-15.43.08:211][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.02.06-15.43.08:211][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.02.06-15.43.08:211][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.02.06-15.43.08:211][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.02.06-15.43.08:211][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.02.06-15.43.08:211][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.02.06-15.43.08:211][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.02.06-15.43.08:211][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.02.06-15.43.08:211][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.02.06-15.43.08:211][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.02.06-15.43.08:211][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.02.06-15.43.08:211][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.02.06-15.43.08:211][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.02.06-15.43.08:211][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.02.06-15.43.08:211][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.02.06-15.43.08:211][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.02.06-15.43.08:211][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.02.06-15.43.08:211][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.02.06-15.43.08:211][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.02.06-15.43.08:211][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.02.06-15.43.08:211][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.02.06-15.43.08:211][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.02.06-15.43.08:211][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.02.06-15.43.08:211][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.02.06-15.43.08:211][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.02.06-15.43.08:211][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.02.06-15.43.08:211][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.02.06-15.43.08:211][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.02.06-15.43.08:211][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.02.06-15.43.08:212][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.02.06-15.43.08:212][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.02.06-15.43.08:212][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.02.06-15.43.08:212][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.02.06-15.43.08:212][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.02.06-15.43.08:212][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.02.06-15.43.08:212][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.02.06-15.43.08:212][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.02.06-15.43.08:212][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.02.06-15.43.08:212][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.02.06-15.43.08:212][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.02.06-15.43.08:212][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.02.06-15.43.08:212][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.02.06-15.43.08:212][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.02.06-15.43.08:212][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.02.06-15.43.08:212][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.02.06-15.43.08:212][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.02.06-15.43.08:212][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.02.06-15.43.08:212][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.02.06-15.43.08:212][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.02.06-15.43.08:212][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.02.06-15.43.08:212][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.02.06-15.43.08:212][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.02.06-15.43.08:212][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.02.06-15.43.08:216][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.02.06-15.43.08:216][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.02.06-15.43.08:216][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.02.06-15.43.08:216][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.02.06-15.43.08:216][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.02.06-15.43.08:216][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.02.06-15.43.08:216][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.02.06-15.43.08:216][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.02.06-15.43.08:216][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.02.06-15.43.08:216][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.02.06-15.43.08:216][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.02.06-15.43.08:228][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.02.06-15.43.08:230][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.02.06-15.43.08:230][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_1
+[2023.02.06-15.43.08:230][  0]LogD3D11RHI: D3D11 adapters:
+[2023.02.06-15.43.08:230][  0]LogD3D11RHI: Testing D3D11 Adapter 0:
+[2023.02.06-15.43.08:230][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3080
+[2023.02.06-15.43.08:230][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.02.06-15.43.08:230][  0]LogD3D11RHI:     DeviceId    : 2206
+[2023.02.06-15.43.08:230][  0]LogD3D11RHI:     SubSysId    : 88d7103c
+[2023.02.06-15.43.08:230][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.02.06-15.43.08:230][  0]LogD3D11RHI:     DedicatedVideoMemory : 10556014592 bytes
+[2023.02.06-15.43.08:230][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.02.06-15.43.08:230][  0]LogD3D11RHI:     SharedSystemMemory : 17045770240 bytes
+[2023.02.06-15.43.08:230][  0]LogD3D11RHI:     AdapterLuid : 0 50998
+[2023.02.06-15.43.08:321][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3080' (Feature Level 11_1)
+[2023.02.06-15.43.08:321][  0]LogD3D11RHI:       10067/0/16256 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2023.02.06-15.43.08:321][  0]LogD3D11RHI: Testing D3D11 Adapter 1:
+[2023.02.06-15.43.08:321][  0]LogD3D11RHI:     Description : Intel(R) UHD Graphics 750
+[2023.02.06-15.43.08:321][  0]LogD3D11RHI:     VendorId    : 8086
+[2023.02.06-15.43.08:321][  0]LogD3D11RHI:     DeviceId    : 4c8a
+[2023.02.06-15.43.08:321][  0]LogD3D11RHI:     SubSysId    : 88be103c
+[2023.02.06-15.43.08:321][  0]LogD3D11RHI:     Revision    : 0004
+[2023.02.06-15.43.08:321][  0]LogD3D11RHI:     DedicatedVideoMemory : 134217728 bytes
+[2023.02.06-15.43.08:321][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.02.06-15.43.08:321][  0]LogD3D11RHI:     SharedSystemMemory : 17045770240 bytes
+[2023.02.06-15.43.08:321][  0]LogD3D11RHI:     AdapterLuid : 0 65344
+[2023.02.06-15.43.08:398][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 750' (Feature Level 11_1)
+[2023.02.06-15.43.08:398][  0]LogD3D11RHI:       128/0/16256 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2023.02.06-15.43.08:398][  0]LogD3D11RHI: Testing D3D11 Adapter 2:
+[2023.02.06-15.43.08:398][  0]LogD3D11RHI:     Description : Microsoft Basic Render Driver
+[2023.02.06-15.43.08:398][  0]LogD3D11RHI:     VendorId    : 1414
+[2023.02.06-15.43.08:398][  0]LogD3D11RHI:     DeviceId    : 008c
+[2023.02.06-15.43.08:398][  0]LogD3D11RHI:     SubSysId    : 0000
+[2023.02.06-15.43.08:398][  0]LogD3D11RHI:     Revision    : 0000
+[2023.02.06-15.43.08:398][  0]LogD3D11RHI:     DedicatedVideoMemory : 0 bytes
+[2023.02.06-15.43.08:398][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.02.06-15.43.08:398][  0]LogD3D11RHI:     SharedSystemMemory : 17045770240 bytes
+[2023.02.06-15.43.08:398][  0]LogD3D11RHI:     AdapterLuid : 0 65264
+[2023.02.06-15.43.08:400][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_1)
+[2023.02.06-15.43.08:400][  0]LogD3D11RHI:       0/0/16256 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.02.06-15.43.08:400][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.02.06-15.43.08:400][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3080
+[2023.02.06-15.43.08:400][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.02.06-15.43.08:400][  0]LogD3D11RHI:     DeviceId    : 2206
+[2023.02.06-15.43.08:400][  0]LogD3D11RHI:     SubSysId    : 88d7103c
+[2023.02.06-15.43.08:400][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.02.06-15.43.08:400][  0]LogD3D11RHI:     DedicatedVideoMemory : 10556014592 bytes
+[2023.02.06-15.43.08:400][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.02.06-15.43.08:400][  0]LogD3D11RHI:     SharedSystemMemory : 17045770240 bytes
+[2023.02.06-15.43.08:400][  0]LogD3D11RHI:     AdapterLuid : 0 50998
+[2023.02.06-15.43.08:400][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.02.06-15.43.08:400][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.02.06-15.43.08:400][  0]LogHAL: Display: Platform has ~ 32 GB [34091540480 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.02.06-15.43.08:400][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.02.06-15.43.08:400][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.02.06-15.43.08:400][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.02.06-15.43.08:400][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.02.06-15.43.08:400][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Saved/Config/WindowsEditor/Editor.ini]
+[2023.02.06-15.43.08:400][  0]LogInit: Computer: C115-02
+[2023.02.06-15.43.08:400][  0]LogInit: User: p018948l
+[2023.02.06-15.43.08:400][  0]LogInit: CPU Page size=4096, Cores=8
+[2023.02.06-15.43.08:400][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.02.06-15.43.08:400][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2023.02.06-15.43.08:400][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.02.06-15.43.08:400][  0]LogMemory: Process Physical Memory: 271.31 MB used, 288.75 MB peak
+[2023.02.06-15.43.08:400][  0]LogMemory: Process Virtual Memory: 241.59 MB used, 241.59 MB peak
+[2023.02.06-15.43.08:400][  0]LogMemory: Physical Memory: 11559.93 MB used,  20952.29 MB free, 32512.23 MB total
+[2023.02.06-15.43.08:400][  0]LogMemory: Virtual Memory: 18267.08 MB used,  19109.15 MB free, 37376.23 MB total
+[2023.02.06-15.43.08:400][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.02.06-15.43.08:404][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.02.06-15.43.08:414][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.02.06-15.43.08:415][  0]LogInit: Using OS detected language (en-GB).
+[2023.02.06-15.43.08:415][  0]LogInit: Using OS detected locale (en-GB).
+[2023.02.06-15.43.08:418][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so 'en' will be used for the language.
+[2023.02.06-15.43.08:539][  0]LogInit: Setting process to per monitor DPI aware
+[2023.02.06-15.43.08:551][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.02.06-15.43.08:551][  0]LogWindowsTextInputMethodSystem:   - English (United Kingdom) - (Keyboard).
+[2023.02.06-15.43.08:551][  0]LogWindowsTextInputMethodSystem:   - English (United Kingdom) - Touch Input Correction (TSF IME).
+[2023.02.06-15.43.08:551][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2023.02.06-15.43.08:563][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.02.06-15.43.08:563][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.02.06-15.43.08:648][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.02.06-15.43.08:648][  0]LogD3D11RHI:     GPU DeviceId: 0x2206 (for the marketing name, search the web for "GPU Device Id")
+[2023.02.06-15.43.08:648][  0]LogWindows: Attached monitors:
+[2023.02.06-15.43.08:648][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1040), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.02.06-15.43.08:648][  0]LogWindows:     resolution: 1920x1080, work area: (0, -1080) -> (1920, -40), device: '\\.\DISPLAY2'
+[2023.02.06-15.43.08:648][  0]LogWindows: Found 2 attached monitors.
+[2023.02.06-15.43.08:648][  0]LogWindows: EnumDisplayDevices:
+[2023.02.06-15.43.08:648][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3080' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.02.06-15.43.08:648][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3080' (P:0 D:1), name: '\\.\DISPLAY2'
+[2023.02.06-15.43.08:648][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3080' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.02.06-15.43.08:648][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3080' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.02.06-15.43.08:649][  0]LogWindows:    4. 'Intel(R) UHD Graphics 750' (P:0 D:0), name: '\\.\DISPLAY5'
+[2023.02.06-15.43.08:649][  0]LogWindows:    5. 'Intel(R) UHD Graphics 750' (P:0 D:0), name: '\\.\DISPLAY6'
+[2023.02.06-15.43.08:649][  0]LogWindows:    6. 'Intel(R) UHD Graphics 750' (P:0 D:0), name: '\\.\DISPLAY7'
+[2023.02.06-15.43.08:649][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2023.02.06-15.43.08:650][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3080
+[2023.02.06-15.43.08:650][  0]LogD3D11RHI:   Driver Version: 528.02 (internal:31.0.15.2802, unified:528.02)
+[2023.02.06-15.43.08:650][  0]LogD3D11RHI:      Driver Date: 12-22-2022
+[2023.02.06-15.43.08:650][  0]LogRHI: Texture pool is 7046 MB (70% of 10067 MB)
+[2023.02.06-15.43.08:650][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2023.02.06-15.43.08:650][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3080
+[2023.02.06-15.43.08:650][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.02.06-15.43.08:650][  0]LogD3D11RHI:     DeviceId    : 2206
+[2023.02.06-15.43.08:650][  0]LogD3D11RHI:     SubSysId    : 88d7103c
+[2023.02.06-15.43.08:650][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.02.06-15.43.08:650][  0]LogD3D11RHI:     DedicatedVideoMemory : 10556014592 bytes
+[2023.02.06-15.43.08:650][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.02.06-15.43.08:650][  0]LogD3D11RHI:     SharedSystemMemory : 17045770240 bytes
+[2023.02.06-15.43.08:650][  0]LogD3D11RHI:     AdapterLuid : 0 50998
+[2023.02.06-15.43.08:703][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.02.06-15.43.08:703][  0]LogD3D11RHI: Async texture creation enabled
+[2023.02.06-15.43.08:703][  0]LogD3D11RHI: D3D11_MAP_WRITE_NO_OVERWRITE for dynamic buffer SRVs is supported
+[2023.02.06-15.43.08:703][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.02.06-15.43.08:723][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2023.02.06-15.43.08:741][  0]LogRHI: GeForceNow SDK initialized: 1
+[2023.02.06-15.43.08:745][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/CritterballBoom.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Intermediate/TurnkeyReport_0.log" -log="C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Intermediate/TurnkeyLog_0.log" -project="C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/CritterballBoom.uproject"  -platform=all'
+[2023.02.06-15.43.08:745][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Epic/UE5/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/CritterballBoom.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Intermediate/TurnkeyReport_0.log" -log="C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Intermediate/TurnkeyLog_0.log" -project="C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/CritterballBoom.uproject"  -platform=all" ]
+[2023.02.06-15.43.08:760][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.02.06-15.43.08:769][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.02.06-15.43.08:769][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.02.06-15.43.08:769][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.02.06-15.43.08:769][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.02.06-15.43.08:769][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.02.06-15.43.08:769][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.02.06-15.43.08:769][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.02.06-15.43.08:769][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.02.06-15.43.08:769][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.02.06-15.43.08:769][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.02.06-15.43.08:783][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.02.06-15.43.08:783][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.02.06-15.43.08:785][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.02.06-15.43.08:786][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.02.06-15.43.08:788][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.02.06-15.43.08:788][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.02.06-15.43.08:788][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.02.06-15.43.08:788][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.02.06-15.43.08:790][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.02.06-15.43.08:790][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.02.06-15.43.08:790][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.02.06-15.43.08:791][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.02.06-15.43.08:791][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.02.06-15.43.08:795][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.02.06-15.43.08:795][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.02.06-15.43.08:795][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.02.06-15.43.08:795][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.02.06-15.43.08:795][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.02.06-15.43.08:800][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.02.06-15.43.08:802][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.02.06-15.43.08:802][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.02.06-15.43.08:802][  0]LogTargetPlatformManager:   ADPCM
+[2023.02.06-15.43.08:802][  0]LogTargetPlatformManager:   PCM
+[2023.02.06-15.43.08:803][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.02.06-15.43.08:803][  0]LogTargetPlatformManager:   BINKA
+[2023.02.06-15.43.08:803][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.02.06-15.43.08:803][  0]LogTargetPlatformManager:   OGG
+[2023.02.06-15.43.08:803][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.02.06-15.43.08:803][  0]LogTargetPlatformManager:   OPUS
+[2023.02.06-15.43.08:833][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.02.06-15.43.08:837][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.02.06-15.43.08:837][  0]LogTargetPlatformManager:   SF_METAL
+[2023.02.06-15.43.08:837][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.02.06-15.43.08:837][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.02.06-15.43.08:837][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.02.06-15.43.08:837][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.02.06-15.43.08:837][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.02.06-15.43.08:837][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.02.06-15.43.08:837][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.02.06-15.43.08:837][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.02.06-15.43.08:837][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.02.06-15.43.08:837][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.02.06-15.43.08:837][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.02.06-15.43.08:837][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.02.06-15.43.08:837][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.02.06-15.43.08:837][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.02.06-15.43.08:839][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.02.06-15.43.08:839][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.02.06-15.43.08:839][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.02.06-15.43.08:839][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.02.06-15.43.08:839][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.02.06-15.43.08:839][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.02.06-15.43.08:839][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.02.06-15.43.08:839][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.02.06-15.43.08:840][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.02.06-15.43.08:841][  0]LogShaderCompilers: Display: Shader autogen file written: ../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.02.06-15.43.08:841][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.02.06-15.43.08:842][  0]LogShaderCompilers: Display: Shader autogen file written: ../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.02.06-15.43.08:844][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.02.06-15.43.08:844][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.02.06-15.43.08:845][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.02.06-15.43.08:845][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.02.06-15.43.08:861][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.02.06-15.43.08:862][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.02.06-15.43.08:862][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.02.06-15.43.08:870][  0]LogDerivedDataCache: Speed tests for C:/Users/p018948l/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.02.06-15.43.08:870][  0]LogDerivedDataCache: Display: Performance to C:/Users/p018948l/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1479.92MBs, RandomWriteSpeed=120.31MBs. Assigned SpeedClass 'Local'
+[2023.02.06-15.43.08:871][  0]LogDerivedDataCache: Using Local data cache path C:/Users/p018948l/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.02.06-15.43.08:871][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.02.06-15.43.08:871][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.02.06-15.43.08:876][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.02.06-15.43.08:876][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.02.06-15.43.08:877][  0]LogShaderCompilers: Guid format shader working directory is -25 characters bigger than the processId version (../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Intermediate/Shaders/WorkingDirectory/14244/).
+[2023.02.06-15.43.08:877][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/p018948l/AppData/Local/Temp/UnrealShaderWorkingDir/D253EC054853DF08B1DDE1B8D1E67490/'.
+[2023.02.06-15.43.08:877][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.02.06-15.43.08:877][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2023.02.06-15.43.09:996][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.02.06-15.43.09:996][  0]LogSlate: Using FreeType 2.10.0
+[2023.02.06-15.43.09:997][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.02.06-15.43.10:023][  0]LogAssetRegistry: FAssetRegistry took 0.0087 seconds to start up
+[2023.02.06-15.43.10:026][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.02.06-15.43.10:173][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.02.06-15.43.10:174][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.02.06-15.43.10:390][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.02.06-15.43.10:390][  0]LogDeviceProfileManager: Active device profile: [0000080142364B40][0000080135740000 50] WindowsEditor
+[2023.02.06-15.43.10:390][  0]LogDeviceProfileManager: Profiles: [0000080142364600][00000801356CA000 50] Windows, [0000080142364B40][0000080135740000 50] WindowsEditor, [0000080142362300][000008011F725000 50] WindowsServer, [00000801423616C0][0000080135702800 50] WindowsClient, [0000080142362840][0000080133F57800 50] IOS, [0000080142361500][0000080142350000 50] iPadAir2, [0000080142365080][0000080142357800 50] IPadPro, [0000080142365400][0000080142355000 50] iPadAir3, [0000080142362680][000008014235A000 50] iPadAir4, [00000801423640C0][000008014235C800 50] iPadMini4, [0000080142360A80][0000080135705000 50] iPadMini5, [00000801423655C0][0000080142390000 50] iPadMini6, [0000080142367FC0][000008014239A000 50] iPhone6S, [0000080142368340][0000080142397800 50] iPhone7, [00000801423686C0][0000080142395000 50] iPodTouch7, [0000080142360540][000008014239C800 50] iPhone6SPlus, [00000801423678C0][0000080142352800 50] iPhone7Plus, [00000801423601C0][00000801423A0000 50] iPhoneSE, [0000080142361180][00000801423A5000 50] iPhone8, [0000080142367700][00000801423A7800 50] iPhone8Plus, [0000080142363100][00000801423AA000 50] iPhoneX, [0000080142360380][00000801423AC800 50] iPhoneXS, [0000080142367540][0000080142392800 50] iPhoneXSMax, [0000080142368C00][00000801423E0000 50] iPhoneXR, [0000080142367380][00000801423E5000 50] iPhone11, [0000080142368A40][00000801423E7800 50] iPhone11Pro, [0000080142367E00][00000801423EA000 50] iPhone11ProMax, [0000080142363F00][00000801423EC800 50] iPhoneSE2, [0000080142364EC0][00000801423A2800 50] iPhone12Mini, [00000801423624C0][00000801423F0000 50] iPhone12, [0000080142365E80][00000801423F5000 50] iPhone12Pro, [0000080142360C40][00000801423F7800 50] iPhone12ProMax, [0000080142368500][00000801423FA000 50] iPhone13Mini, [0000080142361C00][00000801423FC800 50] iPhone13, [00000801423671C0][00000801423E2800 50] iPhone13Pro, [0000080142365CC0][0000080142400000 50] iPhone13ProMax, [00000801423663C0][0000080142405000 50] iPadPro105, [0000080142361A40][0000080142407800 50] iPadPro129, [0000080142362140][000008014240A000 50] iPadPro97, [0000080142360E00][000008014240C800 50] iPadPro2_129, [0000080142366040][00000801423F2800 50] iPad5, [0000080142367A80][0000080142410000 50] iPad6, [0000080142365940][0000080142415000 50] iPad7, [0000080142366C80][0000080142417800 50] iPad8, [0000080142360700][000008014241A000 50] iPad9, [0000080142366900][000008014241C800 50] iPadPro11, [0000080142365780][0000080142402800 50] iPadPro2_11, [0000080142364D00][0000080142420000 50] iPadPro3_11, [0000080142362F40][0000080142425000 50] iPadPro3_129, [0000080142361F80][0000080142427800 50] iPadPro4_129, [0000080142364280][000008014242A000 50] iPadPro5_129, [0000080142365240][000008014242C800 50] AppleTV, [0000080142362A00][0000080142412800 50] AppleTV4K, [0000080142361DC0][0000080142430000 50] TVOS, [000008014236A2C0][0000080142437800 50] Mac, [000008014236A640][0000080142435000 50] MacEditor, [0000080142361340][000008014243A000 50] MacClient, [0000080142368880][000008014243C800 50] MacServer, [000008014236A480][0000080142450000 50] Linux, [000008014236AF00][0000080142452800 50] LinuxEditor, [000008014236A9C0][0000080142457800 50] LinuxArm64Editor, [000008014236A100][000008014245A000 50] LinuxArm64, [0000080142363480][000008014245C800 50] LinuxClient, [0000080142365B00][0000080142422800 50] LinuxArm64Client, [0000080142362BC0][0000080142455000 50] LinuxServer, [0000080142368DC0][0000080142440000 50] LinuxArm64Server, [00000801423632C0][0000080142445000 50] Android, [0000080142368F80][0000080142447800 50] Android_Preview_OpenGL, [000008014236AB80][000008014244A000 50] Android_Preview_Vulkan, [0000080142360000][000008014244C800 50] Android_Low, [0000080142360FC0][0000080142432800 50] Android_Mid, [0000080142369A00][0000080142460000 50] Android_High, [0000080142369680][0000080142465000 50] Android_Default, [000008014236B7C0][0000080142467800 50] Android_Adreno4xx, [00000801423694C0][000008014246A000 50] Android_Adreno5xx_Low, [0000080142367000][000008014246C800 50] Android_Adreno5xx, [0000080142369D80][0000080142442800 50] Android_Adreno6xx, [0000080142364980][0000080142470000 50] Android_Adreno6xx_Vulkan, [0000080142361880][0000080142475000 50] Android_Adreno7xx, [000008014236B280][0000080142477800 50] Android_Adreno7xx_Vulkan, [0000080142366580][000008014247A000 50] Android_Mali_T6xx, [0000080142366200][000008014247C800 50] Android_Mali_T7xx, [00000801423608C0][0000080142462800 50] Android_Mali_T8xx, [0000080142366AC0][0000080142480000 50] Android_Mali_G71, [0000080142363800][0000080142485000 50] Android_Mali_G72, [0000080142363640][0000080142487800 50] Android_Mali_G72_Vulkan, [0000080142363D40][000008014248A000 50] Android_Mali_G76, [0000080142363B80][000008014248C800 50] Android_Mali_G76_Vulkan, [000008014236BD00][0000080142472800 50] Android_Mali_G77, [0000080142369BC0][0000080142490000 50] Android_Mali_G77_Vulkan, [0000080142366740][0000080142495000 50] Android_Mali_G78, [0000080142367C40][0000080142497800 50] Android_Mali_G78_Vulkan, [000008014236BEC0][000008014249A000 50] Android_Mali_G710, [0000080142364440][000008014249C800 50] Android_Mali_G710_Vulkan, [0000080142368180][0000080142482800 50] Android_Xclipse_920, [000008014236C080][00000801424A0000 50] Android_Xclipse_920_Vulkan, [000008014236AD40][00000801424A5000 50] Android_Vulkan_SM5, [0000080142362D80][00000801424A7800 50] Android_PowerVR_G6xxx, [000008014236C240][00000801424AA000 50] Android_PowerVR_GT7xxx, [0000080142369840][00000801424AC800 50] Android_PowerVR_GE8xxx, [000008014236CE80][0000080142492800 50] Android_PowerVR_GM9xxx, [000008014236C5C0][00000801424B0000 50] Android_PowerVR_GM9xxx_Vulkan, [000008014236B0C0][00000801424B5000 50] Android_TegraK1, [000008014236D040][00000801424B7800 50] Android_Unknown_Vulkan, [000008014236A800][00000801424BA000 50] Oculus_Quest, [000008014236DC80][00000801424BC800 50] Oculus_Quest2, [000008014236D580][00000801424A2800 50] HoloLens, 
+[2023.02.06-15.43.10:390][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.02.06-15.43.10:393][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2023.02.06-15.43.10:393][  0]LogTurnkeySupport: Turnkey Platform: HoloLens: (Status=Valid, Installed=10.0.19041.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2023.02.06-15.43.10:393][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2023.02.06-15.43.10:393][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.02.06-15.43.10:393][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.02.06-15.43.10:393][  0]LogTurnkeySupport: Turnkey Platform: TVOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2023.02.06-15.43.10:393][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.19041.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2023.02.06-15.43.10:551][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.02.06-15.43.10:551][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.02.06-15.43.10:551][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.02.06-15.43.10:551][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.02.06-15.43.10:551][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.02.06-15.43.10:563][  0]LogNetVersion: CritterballBoom 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 2663492005)
+[2023.02.06-15.43.10:655][  0]LogSlate: Border
+[2023.02.06-15.43.10:656][  0]LogSlate: BreadcrumbButton
+[2023.02.06-15.43.10:656][  0]LogSlate: Default
+[2023.02.06-15.43.10:656][  0]LogSlate: Icons.Save
+[2023.02.06-15.43.10:656][  0]LogSlate: Icons.Toolbar.Settings
+[2023.02.06-15.43.10:656][  0]LogSlate: ListView
+[2023.02.06-15.43.10:656][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.02.06-15.43.10:656][  0]LogSlate: SoftwareCursor_Grab
+[2023.02.06-15.43.10:656][  0]LogSlate: TableView.DarkRow
+[2023.02.06-15.43.10:656][  0]LogSlate: TableView.Row
+[2023.02.06-15.43.10:656][  0]LogSlate: TreeView
+[2023.02.06-15.43.10:786][  0]SourceControl: Source control is disabled
+[2023.02.06-15.43.10:808][  0]SourceControl: Source control is disabled
+[2023.02.06-15.43.10:809][  0]SourceControl: Source control is disabled
+[2023.02.06-15.43.10:898][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.02.06-15.43.10:898][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2023.02.06-15.43.10:898][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.02.06-15.43.11:050][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 634DC64848DA38A189CE6F8C167595E4 | Instance: EA353CCE46B5B9C6F934E28A02A52396 (C115-02-14244).
+[2023.02.06-15.43.11:178][  0]LogPython: Using Python 3.9.7
+[2023.02.06-15.43.11:784][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.02.06-15.43.11:784][  0]LogWindows: Warning: URL: C:/Users/q021572k/AppData/Local/Microsoft/GitHubDesktop/current/resources/app/git/cmd/git.exe version
+[2023.02.06-15.43.12:006][  0]LogOpenImageDenoise: OIDN starting up
+[2023.02.06-15.43.12:020][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.02.06-15.43.12:020][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.02.06-15.43.12:080][  0]LogCollectionManager: Loaded 0 collections in 0.001643 seconds
+[2023.02.06-15.43.12:143][  0]LogFileCache: Scanning file cache for directory 'C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Saved/Collections/' took 0.00s
+[2023.02.06-15.43.12:143][  0]LogFileCache: Scanning file cache for directory 'C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Developers/p018948l/Collections/' took 0.00s
+[2023.02.06-15.43.12:143][  0]LogFileCache: Scanning file cache for directory 'C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Collections/' took 0.00s
+[2023.02.06-15.43.12:357][  0]LogEngine: Initializing Engine...
+[2023.02.06-15.43.12:367][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.02.06-15.43.12:368][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.02.06-15.43.12:578][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.02.06-15.43.12:579][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.02.06-15.43.12:587][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.06-15.43.12:609][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.02.06-15.43.12:610][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.02.06-15.43.12:630][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.02.06-15.43.12:630][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.02.06-15.43.12:630][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.02.06-15.43.12:630][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.02.06-15.43.12:630][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.02.06-15.43.12:630][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.06-15.43.12:630][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.06-15.43.12:630][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.06-15.43.12:631][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.06-15.43.12:631][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.06-15.43.12:631][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.06-15.43.12:631][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.06-15.43.12:631][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.06-15.43.12:631][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.06-15.43.12:631][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.06-15.43.12:631][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.06-15.43.12:636][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.06-15.43.12:660][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.02.06-15.43.12:660][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.06-15.43.12:661][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.06-15.43.12:661][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.06-15.43.12:662][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.02.06-15.43.12:662][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.02.06-15.43.12:663][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.02.06-15.43.12:663][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.02.06-15.43.12:663][  0]LogInit: FAudioDevice initialized.
+[2023.02.06-15.43.12:663][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.02.06-15.43.12:663][  0]LogNetVersion: Set ProjectVersion to WeekFive. Version Checksum will be recalculated on next use.
+[2023.02.06-15.43.12:663][  0]LogInit: Texture streaming: Enabled
+[2023.02.06-15.43.12:692][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.02.06-15.43.12:698][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.02.06-15.43.12:699][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={BAA162A4-4E5C-738B-2485-3CB4E0BC7D8C}
+[2023.02.06-15.43.12:719][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.02.06-15.43.12:725][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.02.06-15.43.12:725][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.02.06-15.43.13:464][  0]LogLiveCoding: Display: First instance in process group "UE_CritterballBoom_0x3d7d9269", spawning console
+[2023.02.06-15.43.13:464][  0]LogLiveCoding: Display: Waiting for server
+[2023.02.06-15.43.13:464][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.02.06-15.43.13:489][  0]LogInit: Transaction tracking system initialized
+[2023.02.06-15.43.13:507][  0]LogSourceControl: Error: Version number is invalid (file: 1, current: 0).
+[2023.02.06-15.43.13:548][  0]BlueprintLog: New page: Editor Load
+[2023.02.06-15.43.13:701][  0]LocalizationService: Localization service is disabled
+[2023.02.06-15.43.13:741][  0]TimingProfiler: Initialize
+[2023.02.06-15.43.13:741][  0]TimingProfiler: OnSessionChanged
+[2023.02.06-15.43.13:741][  0]LoadingProfiler: Initialize
+[2023.02.06-15.43.13:742][  0]LoadingProfiler: OnSessionChanged
+[2023.02.06-15.43.13:742][  0]NetworkingProfiler: Initialize
+[2023.02.06-15.43.13:742][  0]NetworkingProfiler: OnSessionChanged
+[2023.02.06-15.43.13:742][  0]MemoryProfiler: Initialize
+[2023.02.06-15.43.13:742][  0]MemoryProfiler: OnSessionChanged
+[2023.02.06-15.43.14:153][  0]LogFileCache: Scanning file cache for directory 'C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/' took 0.01s
+[2023.02.06-15.43.14:153][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.02.06-15.43.14:277][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.02.06-15.43.14:278][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.02.06-15.43.14:278][  0]LogWindows: Warning: URL: C:/Users/q021572k/AppData/Local/Microsoft/GitHubDesktop/current/resources/app/git/cmd/git.exe version
+[2023.02.06-15.43.14:279][  0]LogUnrealEdMisc: Loading editor; pre map load, took 7.061
+[2023.02.06-15.43.14:279][  0]Cmd: MAP LOAD FILE="../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Levels/Menus/LevelTITLESCREEN_Persistent.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.06-15.43.14:279][  0]LightingResults: New page: Lighting Build
+[2023.02.06-15.43.14:284][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.02.06-15.43.14:284][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.06-15.43.14:284][  0]MapCheck: New page: Map Check
+[2023.02.06-15.43.14:284][  0]LightingResults: New page: Lighting Build
+[2023.02.06-15.43.14:289][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.06-15.43.14:292][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.02.06-15.43.14:346][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelTITLESCREEN_Persistent'.
+[2023.02.06-15.43.14:346][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.02.06-15.43.14:346][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.06-15.43.14:346][  0]LogAIModule: Creating AISystem for world LevelTITLESCREEN_Persistent
+[2023.02.06-15.43.14:349][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.06-15.43.14:356][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.02.06-15.43.14:356][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.06-15.43.14:356][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.158ms to complete.
+[2023.02.06-15.43.14:356][  0]LogFileHelpers: Loading map 'LevelTITLESCREEN_Persistent' took 0.078
+[2023.02.06-15.43.14:365][  0]LogUnrealEdMisc: Total Editor Startup Time, took 7.147
+[2023.02.06-15.43.14:365][  0]LogShaderCompilers: Display: ================================================
+[2023.02.06-15.43.14:365][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.06-15.43.14:365][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.02.06-15.43.14:365][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.02.06-15.43.14:365][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2023.02.06-15.43.14:365][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.06-15.43.14:365][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.02.06-15.43.14:365][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.02.06-15.43.14:365][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.02.06-15.43.14:365][  0]LogShaderCompilers: Display: ================================================
+[2023.02.06-15.43.14:730][  0]LogBlueprint: Warning: [AssetLog] C:\Users\p018948l\Documents\Group12_COLLAB\CritterballBoom\Content\Animation\WeasleSwingBP.uasset: [Compiler] Weasle_Swing_Blendspace to HighSwing_Base  will never be taken, please connect something to  Can Enter Transition
+[2023.02.06-15.43.14:730][  0]LogBlueprint: Warning: [AssetLog] C:\Users\p018948l\Documents\Group12_COLLAB\CritterballBoom\Content\Animation\WeasleSwingBP.uasset: [Compiler] Weasle_Swing_Blendspace to Swing_Low_Full  will never be taken, please connect something to  Can Enter Transition
+[2023.02.06-15.43.14:730][  0]LogBlueprint: Warning: [AssetLog] C:\Users\p018948l\Documents\Group12_COLLAB\CritterballBoom\Content\Animation\WeasleSwingBP.uasset: [Compiler] Swing_Low_Full to Weasle_Swing_Blendspace  will never be taken, please connect something to  Can Enter Transition
+[2023.02.06-15.43.14:730][  0]LogBlueprint: Warning: [AssetLog] C:\Users\p018948l\Documents\Group12_COLLAB\CritterballBoom\Content\Animation\WeasleSwingBP.uasset: [Compiler] HighSwing_Base to Weasle_Swing_Blendspace  will never be taken, please connect something to  Can Enter Transition
+[2023.02.06-15.43.15:891][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.06-15.43.15:896][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.06-15.43.15:900][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.06-15.43.15:904][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.06-15.43.15:920][  0]LogPakFile: Display: Mounted Pak file 'C:/Epic/UE5/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.02.06-15.43.15:920][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.02.06-15.43.15:920][  0]LogPakFile: Display: Mounted Pak file 'C:/Epic/UE5/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.02.06-15.43.15:920][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.02.06-15.43.15:921][  0]LogPakFile: Display: Mounted Pak file 'C:/Epic/UE5/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.02.06-15.43.15:921][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.02.06-15.43.15:921][  0]LogPakFile: Display: Mounted Pak file 'C:/Epic/UE5/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.02.06-15.43.15:921][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.02.06-15.43.15:921][  0]LogPakFile: Display: Mounted Pak file 'C:/Epic/UE5/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.02.06-15.43.15:921][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.02.06-15.43.15:922][  0]LogPakFile: Display: Mounted Pak file 'C:/Epic/UE5/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.02.06-15.43.15:922][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.02.06-15.43.15:922][  0]LogPakFile: Display: Mounted Pak file 'C:/Epic/UE5/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.02.06-15.43.15:922][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.02.06-15.43.15:923][  0]LogPakFile: Display: Mounted Pak file 'C:/Epic/UE5/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.02.06-15.43.15:923][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.02.06-15.43.15:923][  0]LogPakFile: Display: Mounted Pak file 'C:/Epic/UE5/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.02.06-15.43.15:923][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.02.06-15.43.15:923][  0]LogPakFile: Display: Mounted Pak file 'C:/Epic/UE5/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.02.06-15.43.15:923][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.02.06-15.43.15:923][  0]LogFeaturePack: Error: Error in Feature pack C:/Epic/UE5/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.02.06-15.43.16:036][  0]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.02.06-15.43.16:038][  0]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.02.06-15.43.16:039][  0]LogSlate: Took 0.000101 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.02.06-15.43.16:040][  0]LogSlate: Took 0.000100 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.02.06-15.43.16:041][  0]LogSlate: Took 0.000059 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.02.06-15.43.16:058][  0]LogViewport: Scene viewport resized to 1526x585, mode Windowed.
+[2023.02.06-15.43.16:132][  0]LogStall: Startup...
+[2023.02.06-15.43.16:133][  0]LogStall: Startup complete.
+[2023.02.06-15.43.16:144][  0]LogLoad: (Engine Initialization) Total time: 8.93 seconds
+[2023.02.06-15.43.16:144][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.02.06-15.43.16:179][  0]LogAssetRegistry: Asset discovery search completed in 6.1587 seconds
+[2023.02.06-15.43.16:190][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2023.02.06-15.43.16:235][  0]LogNiagara: Compiling System NiagaraSystem /Game/VFX/NS_MalletStrike.NS_MalletStrike took 0.529285 sec, no shader worker used.
+[2023.02.06-15.43.16:237][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.02.06-15.43.16:840][  2]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.02.06-15.43.19:189][  9]AssetReimport: New page: Outstanding source content changes 15:43:19
+[2023.02.06-15.43.19:193][  9]LogEditorFactories: Performing atomic reimport of [C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/ramp_low_Standardmaterial_BaseColor_Utility - sRGB - Texture.jpg]
+[2023.02.06-15.43.19:194][  9]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/ramp_low_Standardmaterial_BaseColor_Utility - sRGB - Texture.jpg)
+[2023.02.06-15.43.19:220][  9]LogEditorFactories: -- imported successfully
+[2023.02.06-15.43.19:227][  9]LogEditorFactories: Performing atomic reimport of [C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Meshes/ramp.fbx]
+[2023.02.06-15.43.19:232][  9]LogFbx: Loading FBX Scene from C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Meshes/ramp.fbx
+[2023.02.06-15.43.19:236][  9]LogFbx: FBX Scene Loaded Succesfully
+[2023.02.06-15.43.19:503][  9]LogStaticMesh: Built static mesh [0.00s] /Game/Meshes/ramp.ramp
+[2023.02.06-15.43.19:510][  9]LogEditorFactories: -- imported successfully
+[2023.02.06-15.43.19:749][  9]LogSlate: Took 0.000126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.02.06-15.43.19:785][ 10]LogEditorFactories: Performing atomic reimport of [C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Meshes/cannon_fixed_lowpoly.fbx]
+[2023.02.06-15.43.19:792][ 10]LogFbx: Loading FBX Scene from C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Meshes/cannon_fixed_lowpoly.fbx
+[2023.02.06-15.43.19:799][ 10]LogFbx: FBX Scene Loaded Succesfully
+[2023.02.06-15.43.19:869][ 10]LogStaticMesh: Built static mesh [0.04s] /Game/Meshes/cannon_fixed_lowpoly.cannon_fixed_lowpoly
+[2023.02.06-15.43.19:888][ 10]LogEditorFactories: -- imported successfully
+[2023.02.06-15.43.19:900][ 10]LogEditorFactories: Performing atomic reimport of [C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Meshes/Flag.fbx]
+[2023.02.06-15.43.19:907][ 10]LogFbx: Loading FBX Scene from C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Meshes/Flag.fbx
+[2023.02.06-15.43.19:914][ 10]LogFbx: FBX Scene Loaded Succesfully
+[2023.02.06-15.43.20:051][ 10]LogStaticMesh: Built static mesh [0.03s] /Game/Meshes/Flag.Flag
+[2023.02.06-15.43.20:065][ 10]LogEditorFactories: -- imported successfully
+[2023.02.06-15.43.20:124][ 11]LogEditorFactories: Performing atomic reimport of [C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Meshes/Jump Pad_low.fbx]
+[2023.02.06-15.43.20:133][ 11]LogFbx: Loading FBX Scene from C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Meshes/Jump Pad_low.fbx
+[2023.02.06-15.43.20:144][ 11]LogFbx: FBX Scene Loaded Succesfully
+[2023.02.06-15.43.20:237][ 11]LogStaticMesh: Built static mesh [0.06s] /Game/Meshes/Jump_Pad_low.Jump_Pad_low
+[2023.02.06-15.43.20:255][ 11]LogEditorFactories: -- imported successfully
+[2023.02.06-15.43.20:267][ 11]LogEditorFactories: Performing atomic reimport of [C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Meshes/Ramp_low (1).fbx]
+[2023.02.06-15.43.20:271][ 11]LogFbx: Loading FBX Scene from C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Meshes/Ramp_low (1).fbx
+[2023.02.06-15.43.20:276][ 11]LogFbx: FBX Scene Loaded Succesfully
+[2023.02.06-15.43.20:524][ 11]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/Ramp_low__1_.Ramp_low__1_
+[2023.02.06-15.43.20:531][ 11]LogEditorFactories: -- imported successfully
+[2023.02.06-15.43.20:788][ 12]LogEditorFactories: Performing atomic reimport of [C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Meshes/sign post.fbx]
+[2023.02.06-15.43.20:793][ 12]LogFbx: Loading FBX Scene from C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Meshes/sign post.fbx
+[2023.02.06-15.43.20:797][ 12]LogFbx: FBX Scene Loaded Succesfully
+[2023.02.06-15.43.20:818][ 12]LogStaticMesh: Built static mesh [0.00s] /Game/Meshes/sign_post_Box002.sign_post_Box002
+[2023.02.06-15.43.20:825][ 12]LogEditorFactories: -- imported successfully
+[2023.02.06-15.43.20:865][ 12]LogEditorFactories: Performing atomic reimport of [C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Meshes/sign post.fbx]
+[2023.02.06-15.43.20:871][ 12]LogFbx: Loading FBX Scene from C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Meshes/sign post.fbx
+[2023.02.06-15.43.20:876][ 12]LogFbx: FBX Scene Loaded Succesfully
+[2023.02.06-15.43.20:899][ 12]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/sign_post_Box001.sign_post_Box001
+[2023.02.06-15.43.20:905][ 12]LogEditorFactories: -- imported successfully
+[2023.02.06-15.43.20:909][ 12]LogEditorFactories: Performing atomic reimport of [C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Meshes/signpost_attached.fbx]
+[2023.02.06-15.43.20:916][ 12]LogFbx: Loading FBX Scene from C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Meshes/signpost_attached.fbx
+[2023.02.06-15.43.20:934][ 12]LogFbx: FBX Scene Loaded Succesfully
+[2023.02.06-15.43.20:965][ 12]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/signpost_attached.signpost_attached
+[2023.02.06-15.43.20:973][ 12]LogEditorFactories: -- imported successfully
+[2023.02.06-15.43.21:124][ 13]LogEditorFactories: Performing atomic reimport of [C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Meshes/SM_keyboard_low.fbx]
+[2023.02.06-15.43.21:140][ 13]LogFbx: Loading FBX Scene from C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Meshes/SM_keyboard_low.fbx
+[2023.02.06-15.43.21:154][ 13]LogFbx: FBX Scene Loaded Succesfully
+[2023.02.06-15.43.21:711][ 13]LogStaticMesh: Built static mesh [0.10s] /Game/Meshes/SM_keyboard_low.SM_keyboard_low
+[2023.02.06-15.43.21:754][ 13]LogEditorFactories: -- imported successfully
+[2023.02.06-15.43.21:971][ 14]LogEditorFactories: Performing atomic reimport of [C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Meshes/SM_screen_low.fbx]
+[2023.02.06-15.43.21:977][ 14]LogFbx: Loading FBX Scene from C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Meshes/SM_screen_low.fbx
+[2023.02.06-15.43.21:982][ 14]LogFbx: FBX Scene Loaded Succesfully
+[2023.02.06-15.43.22:044][ 14]LogStaticMesh: Built static mesh [0.03s] /Game/Meshes/SM_screen_low.SM_screen_low
+[2023.02.06-15.43.22:058][ 14]LogEditorFactories: -- imported successfully
+[2023.02.06-15.43.22:065][ 14]LogEditorFactories: Performing atomic reimport of [C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/cannon_low_Standardmaterial_BaseColor_Utility - sRGB - Texture.png]
+[2023.02.06-15.43.22:074][ 14]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/cannon_low_Standardmaterial_BaseColor_Utility - sRGB - Texture.png)
+[2023.02.06-15.43.22:252][ 14]LogEditorFactories: -- imported successfully
+[2023.02.06-15.43.22:310][ 15]LogEditorFactories: Performing atomic reimport of [C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/cannon_low_Standardmaterial_Normal_Utility - Raw.png]
+[2023.02.06-15.43.22:318][ 15]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/cannon_low_Standardmaterial_Normal_Utility - Raw.png)
+[2023.02.06-15.43.22:501][ 15]LogEditorFactories: -- imported successfully
+[2023.02.06-15.43.22:644][ 16]LogEditorFactories: Performing atomic reimport of [C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/cannon_low_Standardmaterial_OcclusionRoughnessMetallic_Utility - Raw.png]
+[2023.02.06-15.43.22:651][ 16]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/cannon_low_Standardmaterial_OcclusionRoughnessMetallic_Utility - Raw.png)
+[2023.02.06-15.43.22:809][ 16]LogEditorFactories: -- imported successfully
+[2023.02.06-15.43.22:972][ 17]LogEditorFactories: Performing atomic reimport of [C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/Flag_DefaultMaterial_BaseColor_sRGB.png]
+[2023.02.06-15.43.22:976][ 17]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/Flag_DefaultMaterial_BaseColor_sRGB.png)
+[2023.02.06-15.43.23:125][ 17]LogEditorFactories: -- imported successfully
+[2023.02.06-15.43.23:191][ 18]LogEditorFactories: Performing atomic reimport of [C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/Flag_DefaultMaterial_Normal_Raw.png]
+[2023.02.06-15.43.23:202][ 18]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/Flag_DefaultMaterial_Normal_Raw.png)
+[2023.02.06-15.43.23:378][ 18]LogEditorFactories: -- imported successfully
+[2023.02.06-15.43.23:447][ 19]LogEditorFactories: Performing atomic reimport of [C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/Flag_DefaultMaterial_OcclusionRoughnessMetallic_Raw.png]
+[2023.02.06-15.43.23:448][ 19]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/Flag_DefaultMaterial_OcclusionRoughnessMetallic_Raw.png)
+[2023.02.06-15.43.23:572][ 19]LogEditorFactories: -- imported successfully
+[2023.02.06-15.43.23:582][ 20]LogEditorFactories: Performing atomic reimport of [C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/jumppad_low_Standardmaterial_BaseColor_Utility - sRGB - Texture.png]
+[2023.02.06-15.43.23:587][ 20]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/jumppad_low_Standardmaterial_BaseColor_Utility - sRGB - Texture.png)
+[2023.02.06-15.43.23:693][ 20]LogEditorFactories: -- imported successfully
+[2023.02.06-15.43.23:706][ 21]LogEditorFactories: Performing atomic reimport of [C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/jumppad_low_Standardmaterial_Normal_Utility - Raw.png]
+[2023.02.06-15.43.23:712][ 21]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/jumppad_low_Standardmaterial_Normal_Utility - Raw.png)
+[2023.02.06-15.43.23:840][ 21]LogEditorFactories: -- imported successfully
+[2023.02.06-15.43.23:853][ 22]LogEditorFactories: Performing atomic reimport of [C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/jumppad_low_Standardmaterial_OcclusionRoughnessMetallic_Utility - Raw.png]
+[2023.02.06-15.43.23:860][ 22]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/jumppad_low_Standardmaterial_OcclusionRoughnessMetallic_Utility - Raw.png)
+[2023.02.06-15.43.23:984][ 22]LogEditorFactories: -- imported successfully
+[2023.02.06-15.43.23:998][ 23]LogEditorFactories: Performing atomic reimport of [C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/ramp_low_Standardmaterial_Normal_Utility - Raw.jpg]
+[2023.02.06-15.43.23:999][ 23]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/ramp_low_Standardmaterial_Normal_Utility - Raw.jpg)
+[2023.02.06-15.43.24:054][ 23]LogEditorFactories: -- imported successfully
+[2023.02.06-15.43.24:064][ 24]LogEditorFactories: Performing atomic reimport of [C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/ramp_low_Standardmaterial_OcclusionRoughnessMetallic_Utility - Raw.jpg]
+[2023.02.06-15.43.24:066][ 24]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/ramp_low_Standardmaterial_OcclusionRoughnessMetallic_Utility - Raw.jpg)
+[2023.02.06-15.43.24:093][ 24]LogEditorFactories: -- imported successfully
+[2023.02.06-15.43.24:103][ 25]LogMeshUtilities: Finished distance field build in 1.9s - 126x112x126 sparse distance field, 2.2Mb total, 0.0Mb always loaded, 70% occupied, 803 triangles, SM_screen_low
+[2023.02.06-15.43.24:106][ 25]LogEditorFactories: Performing atomic reimport of [C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/SM_keyboard_low_DefaultMaterial_BaseColor.png]
+[2023.02.06-15.43.24:112][ 25]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/SM_keyboard_low_DefaultMaterial_BaseColor.png)
+[2023.02.06-15.43.24:254][ 25]LogEditorFactories: -- imported successfully
+[2023.02.06-15.43.24:298][ 26]LogEditorFactories: Performing atomic reimport of [C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/SM_keyboard_low_DefaultMaterial_Normal.png]
+[2023.02.06-15.43.24:311][ 26]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/SM_keyboard_low_DefaultMaterial_Normal.png)
+[2023.02.06-15.43.24:530][ 26]LogEditorFactories: -- imported successfully
+[2023.02.06-15.43.24:550][ 27]LogEditorFactories: Performing atomic reimport of [C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/SM_keyboard_low_DefaultMaterial_OcclusionRoughnessMetallic.png]
+[2023.02.06-15.43.24:555][ 27]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/SM_keyboard_low_DefaultMaterial_OcclusionRoughnessMetallic.png)
+[2023.02.06-15.43.24:706][ 27]LogEditorFactories: -- imported successfully
+[2023.02.06-15.43.24:721][ 28]LogEditorFactories: Performing atomic reimport of [C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/SM_screen_low_DefaultMaterial_BaseColor.png]
+[2023.02.06-15.43.24:730][ 28]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/SM_screen_low_DefaultMaterial_BaseColor.png)
+[2023.02.06-15.43.24:906][ 28]LogEditorFactories: -- imported successfully
+[2023.02.06-15.43.24:921][ 29]LogEditorFactories: Performing atomic reimport of [C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/SM_screen_low_DefaultMaterial_Normal.png]
+[2023.02.06-15.43.24:933][ 29]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/SM_screen_low_DefaultMaterial_Normal.png)
+[2023.02.06-15.43.25:100][ 29]LogEditorFactories: -- imported successfully
+[2023.02.06-15.43.25:122][ 30]LogEditorFactories: Performing atomic reimport of [C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/SM_screen_low_DefaultMaterial_OcclusionRoughnessMetallic.png]
+[2023.02.06-15.43.25:127][ 30]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/SM_screen_low_DefaultMaterial_OcclusionRoughnessMetallic.png)
+[2023.02.06-15.43.25:278][ 30]LogEditorFactories: -- imported successfully
+[2023.02.06-15.43.25:339][ 31]LogTexture: Display: Building textures: /Game/Textures/SM_screen_low_DefaultMaterial_OcclusionRoughnessMetallic.SM_screen_low_DefaultMaterial_OcclusionRoughnessMetallic (AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.02.06-15.43.25:380][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/ramp" FILE="../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Meshes/ramp.uasset" SILENT=true
+[2023.02.06-15.43.25:387][ 31]LogPackageLocalizationCache: Processed 28 localized package path(s) for 1 prioritized culture(s) in 0.006742 seconds
+[2023.02.06-15.43.25:402][ 31]LogSavePackage: Moving output files for package: /Game/Meshes/ramp
+[2023.02.06-15.43.25:403][ 31]LogSavePackage: Moving '../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Saved/rampB81D4D6442FE891469355E80F3963675.tmp' to '../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Meshes/ramp.uasset'
+[2023.02.06-15.43.25:419][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/cannon_fixed_lowpoly" FILE="../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Meshes/cannon_fixed_lowpoly.uasset" SILENT=true
+[2023.02.06-15.43.25:434][ 31]LogSavePackage: Moving output files for package: /Game/Meshes/cannon_fixed_lowpoly
+[2023.02.06-15.43.25:441][ 31]LogSavePackage: Moving '../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Saved/cannon_fixed_lowpoly7F122B8E4187139AE6141E9C6715818B.tmp' to '../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Meshes/cannon_fixed_lowpoly.uasset'
+[2023.02.06-15.43.25:470][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Flag" FILE="../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Meshes/Flag.uasset" SILENT=true
+[2023.02.06-15.43.25:481][ 31]LogSavePackage: Moving output files for package: /Game/Meshes/Flag
+[2023.02.06-15.43.25:482][ 31]LogSavePackage: Moving '../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Saved/Flag449485B24C2B68DC1D2F4FBE7611BB27.tmp' to '../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Meshes/Flag.uasset'
+[2023.02.06-15.43.25:497][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Jump_Pad_low" FILE="../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Meshes/Jump_Pad_low.uasset" SILENT=true
+[2023.02.06-15.43.25:513][ 31]LogSavePackage: Moving output files for package: /Game/Meshes/Jump_Pad_low
+[2023.02.06-15.43.25:514][ 31]LogSavePackage: Moving '../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Saved/Jump_Pad_low311EBE6A4245E586E5DA67B7B00FDCCD.tmp' to '../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Meshes/Jump_Pad_low.uasset'
+[2023.02.06-15.43.25:529][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Ramp_low__1_" FILE="../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Meshes/Ramp_low__1_.uasset" SILENT=true
+[2023.02.06-15.43.25:533][ 31]LogSavePackage: Moving output files for package: /Game/Meshes/Ramp_low__1_
+[2023.02.06-15.43.25:534][ 31]LogSavePackage: Moving '../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Saved/Ramp_low__1_568BD1F24A5FB3BD045115A18C51C226.tmp' to '../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Meshes/Ramp_low__1_.uasset'
+[2023.02.06-15.43.25:550][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/sign_post_Box002" FILE="../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Meshes/sign_post_Box002.uasset" SILENT=true
+[2023.02.06-15.43.25:557][ 31]LogSavePackage: Moving output files for package: /Game/Meshes/sign_post_Box002
+[2023.02.06-15.43.25:557][ 31]LogSavePackage: Moving '../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Saved/sign_post_Box0028B4990624B66D87F1BE995B948F42625.tmp' to '../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Meshes/sign_post_Box002.uasset'
+[2023.02.06-15.43.25:571][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/sign_post_Box001" FILE="../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Meshes/sign_post_Box001.uasset" SILENT=true
+[2023.02.06-15.43.25:574][ 31]LogSavePackage: Moving output files for package: /Game/Meshes/sign_post_Box001
+[2023.02.06-15.43.25:574][ 31]LogSavePackage: Moving '../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Saved/sign_post_Box0015ADD7960461DD07B3AA05CBB601B376A.tmp' to '../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Meshes/sign_post_Box001.uasset'
+[2023.02.06-15.43.25:588][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/signpost_attached" FILE="../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Meshes/signpost_attached.uasset" SILENT=true
+[2023.02.06-15.43.25:590][ 31]LogSavePackage: Moving output files for package: /Game/Meshes/signpost_attached
+[2023.02.06-15.43.25:591][ 31]LogSavePackage: Moving '../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Saved/signpost_attached1A825B5545CF01BA22FB16960678050B.tmp' to '../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Meshes/signpost_attached.uasset'
+[2023.02.06-15.43.25:603][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/SM_keyboard_low" FILE="../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Meshes/SM_keyboard_low.uasset" SILENT=true
+[2023.02.06-15.43.25:623][ 31]LogSavePackage: Moving output files for package: /Game/Meshes/SM_keyboard_low
+[2023.02.06-15.43.25:623][ 31]LogSavePackage: Moving '../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Saved/SM_keyboard_low45AA060849EAA5A7BC8521B8A3B93C7A.tmp' to '../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Meshes/SM_keyboard_low.uasset'
+[2023.02.06-15.43.25:636][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/SM_screen_low" FILE="../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Meshes/SM_screen_low.uasset" SILENT=true
+[2023.02.06-15.43.25:642][ 31]LogSavePackage: Moving output files for package: /Game/Meshes/SM_screen_low
+[2023.02.06-15.43.25:642][ 31]LogSavePackage: Moving '../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Saved/SM_screen_lowCEE426934FEC4A6311EB37A6645D1E57.tmp' to '../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Meshes/SM_screen_low.uasset'
+[2023.02.06-15.43.25:911][ 31]LogSavePackage: Moving output files for package: /Game/Textures/cannon_low_Standardmaterial_BaseColor_Utility_-_sRGB_-_Texture
+[2023.02.06-15.43.25:911][ 31]LogSavePackage: Moving '../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Saved/cannon_low_Standardmaterial_BaseB791905D472FD7BC73A3C78C106E38CB.tmp' to '../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/cannon_low_Standardmaterial_BaseColor_Utility_-_sRGB_-_Texture.uasset'
+[2023.02.06-15.43.26:191][ 31]LogSavePackage: Moving output files for package: /Game/Textures/cannon_low_Standardmaterial_Normal_Utility_-_Raw
+[2023.02.06-15.43.26:191][ 31]LogSavePackage: Moving '../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Saved/cannon_low_Standardmaterial_NormCAAA73DD489D9A4BC63A628DF6EF531A.tmp' to '../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/cannon_low_Standardmaterial_Normal_Utility_-_Raw.uasset'
+[2023.02.06-15.43.26:431][ 31]LogSavePackage: Moving output files for package: /Game/Textures/cannon_low_Standardmaterial_OcclusionRoughnessMetallic_Utility_-_Raw
+[2023.02.06-15.43.26:431][ 31]LogSavePackage: Moving '../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Saved/cannon_low_Standardmaterial_Occl648D1D374BE365B7B69551A12451D093.tmp' to '../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/cannon_low_Standardmaterial_OcclusionRoughnessMetallic_Utility_-_Raw.uasset'
+[2023.02.06-15.43.26:618][ 31]LogSavePackage: Moving output files for package: /Game/Textures/Flag_DefaultMaterial_BaseColor_sRGB
+[2023.02.06-15.43.26:618][ 31]LogSavePackage: Moving '../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Saved/Flag_DefaultMaterial_BaseColor_s0DBE7FA74F4804555B6362A3ACB59512.tmp' to '../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/Flag_DefaultMaterial_BaseColor_sRGB.uasset'
+[2023.02.06-15.43.26:854][ 31]LogSavePackage: Moving output files for package: /Game/Textures/Flag_DefaultMaterial_Normal_Raw
+[2023.02.06-15.43.26:855][ 31]LogSavePackage: Moving '../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Saved/Flag_DefaultMaterial_Normal_Raw2EEB9A9A47B309C0D10EAA8D1AA08CE4.tmp' to '../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/Flag_DefaultMaterial_Normal_Raw.uasset'
+[2023.02.06-15.43.26:971][ 31]LogSavePackage: Moving output files for package: /Game/Textures/Flag_DefaultMaterial_OcclusionRoughnessMetallic_Raw
+[2023.02.06-15.43.26:971][ 31]LogSavePackage: Moving '../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Saved/Flag_DefaultMaterial_OcclusionRo8CEEAF564C8341C8B7AEE48BEDDA9D43.tmp' to '../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/Flag_DefaultMaterial_OcclusionRoughnessMetallic_Raw.uasset'
+[2023.02.06-15.43.27:140][ 31]LogSavePackage: Moving output files for package: /Game/Textures/jumppad_low_Standardmaterial_BaseColor_Utility_-_sRGB_-_Texture
+[2023.02.06-15.43.27:140][ 31]LogSavePackage: Moving '../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Saved/jumppad_low_Standardmaterial_Bas8CD6057349427C7EC1BFB8A10A9BAB36.tmp' to '../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/jumppad_low_Standardmaterial_BaseColor_Utility_-_sRGB_-_Texture.uasset'
+[2023.02.06-15.43.27:357][ 31]LogSavePackage: Moving output files for package: /Game/Textures/jumppad_low_Standardmaterial_Normal_Utility_-_Raw
+[2023.02.06-15.43.27:358][ 31]LogSavePackage: Moving '../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Saved/jumppad_low_Standardmaterial_NorB3D54920429F545210060CB532F69B2A.tmp' to '../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/jumppad_low_Standardmaterial_Normal_Utility_-_Raw.uasset'
+[2023.02.06-15.43.27:579][ 31]LogSavePackage: Moving output files for package: /Game/Textures/jumppad_low_Standardmaterial_OcclusionRoughnessMetallic_Utility_-_Raw
+[2023.02.06-15.43.27:580][ 31]LogSavePackage: Moving '../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Saved/jumppad_low_Standardmaterial_Occ93F4300B4842B39F4876C9B37A9D007D.tmp' to '../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/jumppad_low_Standardmaterial_OcclusionRoughnessMetallic_Utility_-_Raw.uasset'
+[2023.02.06-15.43.27:584][ 31]LogSavePackage: Moving output files for package: /Game/Textures/ramp_low_Standardmaterial_Normal_Utility_-_Raw
+[2023.02.06-15.43.27:585][ 31]LogSavePackage: Moving '../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Saved/ramp_low_Standardmaterial_Normal811DF6EC4036BA034A6872A69D041D35.tmp' to '../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/ramp_low_Standardmaterial_Normal_Utility_-_Raw.uasset'
+[2023.02.06-15.43.27:591][ 31]LogSavePackage: Moving output files for package: /Game/Textures/ramp_low_Standardmaterial_OcclusionRoughnessMetallic_Utility_-_Raw
+[2023.02.06-15.43.27:591][ 31]LogSavePackage: Moving '../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Saved/ramp_low_Standardmaterial_OcclusA931857B4162AF33F2C6A4A305DDABD0.tmp' to '../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/ramp_low_Standardmaterial_OcclusionRoughnessMetallic_Utility_-_Raw.uasset'
+[2023.02.06-15.43.27:796][ 31]LogSavePackage: Moving output files for package: /Game/Textures/SM_keyboard_low_DefaultMaterial_BaseColor
+[2023.02.06-15.43.27:796][ 31]LogSavePackage: Moving '../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Saved/SM_keyboard_low_DefaultMaterial_585E3D934013ED27542D298563DBF936.tmp' to '../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/SM_keyboard_low_DefaultMaterial_BaseColor.uasset'
+[2023.02.06-15.43.28:073][ 31]LogSavePackage: Moving output files for package: /Game/Textures/SM_keyboard_low_DefaultMaterial_Normal
+[2023.02.06-15.43.28:073][ 31]LogSavePackage: Moving '../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Saved/SM_keyboard_low_DefaultMaterial_8F16564A40B1B67F7FF6518D07BA0725.tmp' to '../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/SM_keyboard_low_DefaultMaterial_Normal.uasset'
+[2023.02.06-15.43.28:252][ 31]LogSavePackage: Moving output files for package: /Game/Textures/SM_keyboard_low_DefaultMaterial_OcclusionRoughnessMetallic
+[2023.02.06-15.43.28:252][ 31]LogSavePackage: Moving '../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Saved/SM_keyboard_low_DefaultMaterial_47A048C44CACB47CAE32F6A70F74A091.tmp' to '../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/SM_keyboard_low_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2023.02.06-15.43.28:507][ 31]LogSavePackage: Moving output files for package: /Game/Textures/SM_screen_low_DefaultMaterial_BaseColor
+[2023.02.06-15.43.28:507][ 31]LogSavePackage: Moving '../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Saved/SM_screen_low_DefaultMaterial_BaB7BF9F544A03D060B7B6FF9D0226AE30.tmp' to '../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/SM_screen_low_DefaultMaterial_BaseColor.uasset'
+[2023.02.06-15.43.28:793][ 31]LogSavePackage: Moving output files for package: /Game/Textures/SM_screen_low_DefaultMaterial_Normal
+[2023.02.06-15.43.28:793][ 31]LogSavePackage: Moving '../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Saved/SM_screen_low_DefaultMaterial_No2B61FE1249A4D91E28C0F1A384D5690D.tmp' to '../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/SM_screen_low_DefaultMaterial_Normal.uasset'
+[2023.02.06-15.43.28:995][ 31]LogSavePackage: Moving output files for package: /Game/Textures/SM_screen_low_DefaultMaterial_OcclusionRoughnessMetallic
+[2023.02.06-15.43.28:996][ 31]LogSavePackage: Moving '../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Saved/SM_screen_low_DefaultMaterial_Oc44FB0A9A413803F158E350AAF38B6655.tmp' to '../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/SM_screen_low_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2023.02.06-15.43.29:025][ 32]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.06-15.43.29:025][ 32]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/cannon_fixed_lowpoly.cannon_fixed_lowpoly
+[2023.02.06-15.43.29:025][ 32]LogContentValidation: Display: Validating Texture2D /Game/Textures/jumppad_low_Standardmaterial_BaseColor_Utility_-_sRGB_-_Texture.jumppad_low_Standardmaterial_BaseColor_Utility_-_sRGB_-_Texture
+[2023.02.06-15.43.29:025][ 32]LogContentValidation: Display: Validating Texture2D /Game/Textures/jumppad_low_Standardmaterial_Normal_Utility_-_Raw.jumppad_low_Standardmaterial_Normal_Utility_-_Raw
+[2023.02.06-15.43.29:025][ 32]LogContentValidation: Display: Validating Texture2D /Game/Textures/jumppad_low_Standardmaterial_OcclusionRoughnessMetallic_Utility_-_Raw.jumppad_low_Standardmaterial_OcclusionRoughnessMetallic_Utility_-_Raw
+[2023.02.06-15.43.29:025][ 32]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/Jump_Pad_low.Jump_Pad_low
+[2023.02.06-15.43.29:025][ 32]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/ramp.ramp
+[2023.02.06-15.43.29:025][ 32]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/Flag.Flag
+[2023.02.06-15.43.29:025][ 32]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/Ramp_low__1_.Ramp_low__1_
+[2023.02.06-15.43.29:025][ 32]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/sign_post_Box002.sign_post_Box002
+[2023.02.06-15.43.29:025][ 32]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/sign_post_Box001.sign_post_Box001
+[2023.02.06-15.43.29:025][ 32]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/signpost_attached.signpost_attached
+[2023.02.06-15.43.29:025][ 32]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/SM_keyboard_low.SM_keyboard_low
+[2023.02.06-15.43.29:025][ 32]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/SM_screen_low.SM_screen_low
+[2023.02.06-15.43.29:025][ 32]LogContentValidation: Display: Validating Texture2D /Game/Textures/cannon_low_Standardmaterial_BaseColor_Utility_-_sRGB_-_Texture.cannon_low_Standardmaterial_BaseColor_Utility_-_sRGB_-_Texture
+[2023.02.06-15.43.29:025][ 32]LogContentValidation: Display: Validating Texture2D /Game/Textures/cannon_low_Standardmaterial_Normal_Utility_-_Raw.cannon_low_Standardmaterial_Normal_Utility_-_Raw
+[2023.02.06-15.43.29:025][ 32]LogContentValidation: Display: Validating Texture2D /Game/Textures/cannon_low_Standardmaterial_OcclusionRoughnessMetallic_Utility_-_Raw.cannon_low_Standardmaterial_OcclusionRoughnessMetallic_Utility_-_Raw
+[2023.02.06-15.43.29:025][ 32]LogContentValidation: Display: Validating Texture2D /Game/Textures/Flag_DefaultMaterial_BaseColor_sRGB.Flag_DefaultMaterial_BaseColor_sRGB
+[2023.02.06-15.43.29:025][ 32]LogContentValidation: Display: Validating Texture2D /Game/Textures/Flag_DefaultMaterial_Normal_Raw.Flag_DefaultMaterial_Normal_Raw
+[2023.02.06-15.43.29:025][ 32]LogContentValidation: Display: Validating Texture2D /Game/Textures/Flag_DefaultMaterial_OcclusionRoughnessMetallic_Raw.Flag_DefaultMaterial_OcclusionRoughnessMetallic_Raw
+[2023.02.06-15.43.29:025][ 32]LogContentValidation: Display: Validating Texture2D /Game/Textures/ramp_low_Standardmaterial_Normal_Utility_-_Raw.ramp_low_Standardmaterial_Normal_Utility_-_Raw
+[2023.02.06-15.43.29:025][ 32]LogContentValidation: Display: Validating Texture2D /Game/Textures/ramp_low_Standardmaterial_OcclusionRoughnessMetallic_Utility_-_Raw.ramp_low_Standardmaterial_OcclusionRoughnessMetallic_Utility_-_Raw
+[2023.02.06-15.43.29:025][ 32]LogContentValidation: Display: Validating Texture2D /Game/Textures/SM_keyboard_low_DefaultMaterial_BaseColor.SM_keyboard_low_DefaultMaterial_BaseColor
+[2023.02.06-15.43.29:025][ 32]LogContentValidation: Display: Validating Texture2D /Game/Textures/SM_keyboard_low_DefaultMaterial_Normal.SM_keyboard_low_DefaultMaterial_Normal
+[2023.02.06-15.43.29:025][ 32]LogContentValidation: Display: Validating Texture2D /Game/Textures/SM_keyboard_low_DefaultMaterial_OcclusionRoughnessMetallic.SM_keyboard_low_DefaultMaterial_OcclusionRoughnessMetallic
+[2023.02.06-15.43.29:025][ 32]LogContentValidation: Display: Validating Texture2D /Game/Textures/SM_screen_low_DefaultMaterial_BaseColor.SM_screen_low_DefaultMaterial_BaseColor
+[2023.02.06-15.43.29:025][ 32]LogContentValidation: Display: Validating Texture2D /Game/Textures/SM_screen_low_DefaultMaterial_Normal.SM_screen_low_DefaultMaterial_Normal
+[2023.02.06-15.43.29:025][ 32]LogContentValidation: Display: Validating Texture2D /Game/Textures/SM_screen_low_DefaultMaterial_OcclusionRoughnessMetallic.SM_screen_low_DefaultMaterial_OcclusionRoughnessMetallic
+[2023.02.06-15.43.29:026][ 32]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/' took 12.87s
+[2023.02.06-15.43.32:007][357]AssetReimport: Reimported asset ramp_low_Standardmaterial_BaseColor_Utility_-_sRGB_-_Texture from C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/ramp_low_Standardmaterial_BaseColor_Utility - sRGB - Texture.jpg.
+[2023.02.06-15.43.32:007][357]AssetReimport: Reimported asset ramp from C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Meshes/ramp.fbx.
+[2023.02.06-15.43.32:007][357]AssetReimport: Reimported asset cannon_fixed_lowpoly from C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Meshes/cannon_fixed_lowpoly.fbx.
+[2023.02.06-15.43.32:007][357]AssetReimport: Reimported asset Flag from C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Meshes/Flag.fbx.
+[2023.02.06-15.43.32:007][357]AssetReimport: Reimported asset Jump_Pad_low from C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Meshes/Jump Pad_low.fbx.
+[2023.02.06-15.43.32:007][357]AssetReimport: Reimported asset Ramp_low__1_ from C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Meshes/Ramp_low (1).fbx.
+[2023.02.06-15.43.32:007][357]AssetReimport: Reimported asset sign_post_Box002 from C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Meshes/sign post.fbx.
+[2023.02.06-15.43.32:007][357]AssetReimport: Reimported asset sign_post_Box001 from C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Meshes/sign post.fbx.
+[2023.02.06-15.43.32:007][357]AssetReimport: Reimported asset signpost_attached from C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Meshes/signpost_attached.fbx.
+[2023.02.06-15.43.32:008][357]AssetReimport: Reimported asset SM_keyboard_low from C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Meshes/SM_keyboard_low.fbx.
+[2023.02.06-15.43.32:008][357]AssetReimport: Reimported asset SM_screen_low from C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Meshes/SM_screen_low.fbx.
+[2023.02.06-15.43.32:008][357]AssetReimport: Reimported asset cannon_low_Standardmaterial_BaseColor_Utility_-_sRGB_-_Texture from C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/cannon_low_Standardmaterial_BaseColor_Utility - sRGB - Texture.png.
+[2023.02.06-15.43.32:008][357]AssetReimport: Reimported asset cannon_low_Standardmaterial_Normal_Utility_-_Raw from C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/cannon_low_Standardmaterial_Normal_Utility - Raw.png.
+[2023.02.06-15.43.32:008][357]AssetReimport: Reimported asset cannon_low_Standardmaterial_OcclusionRoughnessMetallic_Utility_-_Raw from C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/cannon_low_Standardmaterial_OcclusionRoughnessMetallic_Utility - Raw.png.
+[2023.02.06-15.43.32:008][357]AssetReimport: Reimported asset Flag_DefaultMaterial_BaseColor_sRGB from C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/Flag_DefaultMaterial_BaseColor_sRGB.png.
+[2023.02.06-15.43.32:008][357]AssetReimport: Reimported asset Flag_DefaultMaterial_Normal_Raw from C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/Flag_DefaultMaterial_Normal_Raw.png.
+[2023.02.06-15.43.32:008][357]AssetReimport: Reimported asset Flag_DefaultMaterial_OcclusionRoughnessMetallic_Raw from C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/Flag_DefaultMaterial_OcclusionRoughnessMetallic_Raw.png.
+[2023.02.06-15.43.32:008][357]AssetReimport: Reimported asset jumppad_low_Standardmaterial_BaseColor_Utility_-_sRGB_-_Texture from C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/jumppad_low_Standardmaterial_BaseColor_Utility - sRGB - Texture.png.
+[2023.02.06-15.43.32:008][357]AssetReimport: Reimported asset jumppad_low_Standardmaterial_Normal_Utility_-_Raw from C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/jumppad_low_Standardmaterial_Normal_Utility - Raw.png.
+[2023.02.06-15.43.32:008][357]AssetReimport: Reimported asset jumppad_low_Standardmaterial_OcclusionRoughnessMetallic_Utility_-_Raw from C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/jumppad_low_Standardmaterial_OcclusionRoughnessMetallic_Utility - Raw.png.
+[2023.02.06-15.43.32:008][357]AssetReimport: Reimported asset ramp_low_Standardmaterial_Normal_Utility_-_Raw from C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/ramp_low_Standardmaterial_Normal_Utility - Raw.jpg.
+[2023.02.06-15.43.32:008][357]AssetReimport: Reimported asset ramp_low_Standardmaterial_OcclusionRoughnessMetallic_Utility_-_Raw from C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/ramp_low_Standardmaterial_OcclusionRoughnessMetallic_Utility - Raw.jpg.
+[2023.02.06-15.43.32:008][357]AssetReimport: Reimported asset SM_keyboard_low_DefaultMaterial_BaseColor from C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/SM_keyboard_low_DefaultMaterial_BaseColor.png.
+[2023.02.06-15.43.32:008][357]AssetReimport: Reimported asset SM_keyboard_low_DefaultMaterial_Normal from C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/SM_keyboard_low_DefaultMaterial_Normal.png.
+[2023.02.06-15.43.32:008][357]AssetReimport: Reimported asset SM_keyboard_low_DefaultMaterial_OcclusionRoughnessMetallic from C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/SM_keyboard_low_DefaultMaterial_OcclusionRoughnessMetallic.png.
+[2023.02.06-15.43.32:008][357]AssetReimport: Reimported asset SM_screen_low_DefaultMaterial_BaseColor from C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/SM_screen_low_DefaultMaterial_BaseColor.png.
+[2023.02.06-15.43.32:008][357]AssetReimport: Reimported asset SM_screen_low_DefaultMaterial_Normal from C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/SM_screen_low_DefaultMaterial_Normal.png.
+[2023.02.06-15.43.32:008][357]AssetReimport: Reimported asset SM_screen_low_DefaultMaterial_OcclusionRoughnessMetallic from C:/Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/SM_screen_low_DefaultMaterial_OcclusionRoughnessMetallic.png.
+[2023.02.06-15.44.23:230][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.02.06-15.44.25:138][489]LogSlate: Window 'Save Content' being destroyed
+[2023.02.06-15.44.25:200][489]LogSavePackage: Moving output files for package: /Game/Textures/ramp_low_Standardmaterial_BaseColor_Utility_-_sRGB_-_Texture
+[2023.02.06-15.44.25:201][489]LogSavePackage: Moving '../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Saved/ramp_low_Standardmaterial_BaseCoD25B51484F6931D6CA2FB587FB8E0231.tmp' to '../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Textures/ramp_low_Standardmaterial_BaseColor_Utility_-_sRGB_-_Texture.uasset'
+[2023.02.06-15.44.25:263][489]LogLinker: Warning: [AssetLog] C:\Users\p018948l\Documents\Group12_COLLAB\CritterballBoom\Content\Levels\Bedroom\Set1_Persistant.umap: Failed to load '/Game/Levels/Bedroom/Set1_Persistant_BuiltData': Can't find file.
+[2023.02.06-15.44.25:263][489]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Levels/Bedroom/Set1_Persistant_BuiltData'
+[2023.02.06-15.44.25:303][489]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Bedroom/Set1_Persistant.Set1_Persistant
+[2023.02.06-15.44.25:303][489]Cmd: MAP LOAD FILE="../../../../../../Users/p018948l/Documents/Group12_COLLAB/CritterballBoom/Content/Levels/Bedroom/Set1_Persistant.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.06-15.44.25:303][489]LightingResults: New page: Lighting Build
+[2023.02.06-15.44.25:303][489]LoadErrors: New page: Loading map: Set1_Persistant.umap
+[2023.02.06-15.44.25:304][489]LogWorld: UWorld::CleanupWorld for LevelTITLESCREEN_Persistent, bSessionEnded=true, bCleanupResources=true
+[2023.02.06-15.44.25:304][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.06-15.44.25:304][489]MapCheck: New page: Map Check
+[2023.02.06-15.44.25:304][489]LightingResults: New page: Lighting Build
+[2023.02.06-15.44.25:311][489]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.06-15.44.25:312][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.02.06-15.44.25:315][489]LogWorld: UWorld::CleanupWorld for Set1_Persistant, bSessionEnded=true, bCleanupResources=true
+[2023.02.06-15.44.25:315][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.06-15.44.25:323][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.02.06-15.44.25:330][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.02.06-15.44.25:335][489]LogAudio: Display: Audio Device (ID: 1) registered with world 'Set1_Persistant'.
+[2023.02.06-15.44.25:335][489]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.02.06-15.44.25:335][489]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.06-15.44.25:335][489]LogAIModule: Creating AISystem for world Set1_Persistant
+[2023.02.06-15.44.25:343][489]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Bedroom/Stage3/Set1_Hole3_Lighting) is flushing async loading
+[2023.02.06-15.44.25:344][489]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2023.02.06-15.44.25:344][489]LogStreaming: Error: Couldn't find file for package /Game/Levels/Bedroom/Stage3/Set1_Hole3_Lighting_BuiltData requested by async loading code. NameToLoad: /Game/Levels/Bedroom/Stage3/Set1_Hole3_Lighting_BuiltData
+[2023.02.06-15.44.25:345][489]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Bedroom/Stage5/Set1_Hole_5_Geometry) is flushing async loading
+[2023.02.06-15.44.25:356][489]LogStreaming: Error: Couldn't find file for package /Game/Levels/Bedroom/Stage5/Set1_Hole_5_Geometry_BuiltData requested by async loading code. NameToLoad: /Game/Levels/Bedroom/Stage5/Set1_Hole_5_Geometry_BuiltData
+[2023.02.06-15.44.25:396][489]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Bedroom/Stage1/Set1_Hole1_geometry) is flushing async loading
+[2023.02.06-15.44.25:411][489]LogStreaming: Error: Couldn't find file for package /Game/Levels/Bedroom/Stage1/Set1_Hole1_geometry_BuiltData requested by async loading code. NameToLoad: /Game/Levels/Bedroom/Stage1/Set1_Hole1_geometry_BuiltData
+[2023.02.06-15.44.25:521][489]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Bedroom/Stage1/Set1_Hole1_lighting) is flushing async loading
+[2023.02.06-15.44.25:521][489]LogStreaming: Error: Couldn't find file for package /Game/Levels/Bedroom/Stage1/Set1_Hole1_lighting_BuiltData requested by async loading code. NameToLoad: /Game/Levels/Bedroom/Stage1/Set1_Hole1_lighting_BuiltData
+[2023.02.06-15.44.25:523][489]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry) is flushing async loading
+[2023.02.06-15.44.25:525][489]LogStreaming: Error: Couldn't find file for package /Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry_BuiltData requested by async loading code. NameToLoad: /Game/Levels/Bedroom/Stage3/Set1_Hole_3_Geometry_BuiltData
+[2023.02.06-15.44.25:619][489]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Bedroom/Stage3/Set1_Hole_3_Gameplay) is flushing async loading
+[2023.02.06-15.44.25:620][489]LogStreaming: Error: Couldn't find file for package /Game/Levels/Bedroom/Stage3/Set1_Hole_3_Gameplay_BuiltData requested by async loading code. NameToLoad: /Game/Levels/Bedroom/Stage3/Set1_Hole_3_Gameplay_BuiltData
+[2023.02.06-15.44.25:623][489]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Bedroom/Stage5/Set1_Hole_5_Lighting) is flushing async loading
+[2023.02.06-15.44.25:624][489]LogStreaming: Error: Couldn't find file for package /Game/Levels/Bedroom/Stage5/Set1_Hole_5_Lighting_BuiltData requested by async loading code. NameToLoad: /Game/Levels/Bedroom/Stage5/Set1_Hole_5_Lighting_BuiltData
+[2023.02.06-15.44.25:624][489]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Bedroom/Stage4/Set1_Hole_4_Geometry) is flushing async loading
+[2023.02.06-15.44.25:638][489]LogStreaming: Error: Couldn't find file for package /Game/Levels/Bedroom/Stage4/Set1_Hole_4_Geometry_BuiltData requested by async loading code. NameToLoad: /Game/Levels/Bedroom/Stage4/Set1_Hole_4_Geometry_BuiltData
+[2023.02.06-15.44.25:736][489]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Bedroom/Stage2/Set1_Hole_2_Lighting) is flushing async loading
+[2023.02.06-15.44.25:737][489]LogStreaming: Error: Couldn't find file for package /Game/Levels/Bedroom/Stage2/Set1_Hole_2_Lighting_BuiltData requested by async loading code. NameToLoad: /Game/Levels/Bedroom/Stage2/Set1_Hole_2_Lighting_BuiltData
+[2023.02.06-15.44.25:739][489]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Bedroom/Stage4/Set1_Hole_4_Lighting) is flushing async loading
+[2023.02.06-15.44.25:740][489]LogStreaming: Error: Couldn't find file for package /Game/Levels/Bedroom/Stage4/Set1_Hole_4_Lighting_BuiltData requested by async loading code. NameToLoad: /Game/Levels/Bedroom/Stage4/Set1_Hole_4_Lighting_BuiltData
+[2023.02.06-15.44.25:740][489]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Bedroom/Stage5/Set1_Hole_5_Gameplay) is flushing async loading
+[2023.02.06-15.44.25:741][489]LogStreaming: Error: Couldn't find file for package /Game/Levels/Bedroom/Stage5/Set1_Hole_5_Gameplay_BuiltData requested by async loading code. NameToLoad: /Game/Levels/Bedroom/Stage5/Set1_Hole_5_Gameplay_BuiltData
+[2023.02.06-15.44.25:752][489]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Bedroom/Stage2/Set1_Hole2_Gameplay) is flushing async loading
+[2023.02.06-15.44.25:753][489]LogStreaming: Error: Couldn't find file for package /Game/Levels/Bedroom/Stage2/Set1_Hole2_Gameplay_BuiltData requested by async loading code. NameToLoad: /Game/Levels/Bedroom/Stage2/Set1_Hole2_Gameplay_BuiltData
+[2023.02.06-15.44.25:770][489]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Bedroom/Stage2/Set1_Hole_2_Geometry) is flushing async loading
+[2023.02.06-15.44.25:794][489]LogStreaming: Error: Couldn't find file for package /Game/Levels/Bedroom/Stage2/Set1_Hole_2_Geometry_BuiltData requested by async loading code. NameToLoad: /Game/Levels/Bedroom/Stage2/Set1_Hole_2_Geometry_BuiltData
+[2023.02.06-15.44.25:826][489]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Bedroom/Stage1/Set1_Hole1_Gameplay) is flushing async loading
+[2023.02.06-15.44.25:826][489]LogStreaming: Error: Couldn't find file for package /Game/Levels/Bedroom/Stage1/Set1_Hole1_Gameplay_BuiltData requested by async loading code. NameToLoad: /Game/Levels/Bedroom/Stage1/Set1_Hole1_Gameplay_BuiltData
+[2023.02.06-15.44.25:835][489]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Bedroom/Stage4/Set1_Hole_4_Gameplay) is flushing async loading
+[2023.02.06-15.44.25:836][489]LogStreaming: Error: Couldn't find file for package /Game/Levels/Bedroom/Stage4/Set1_Hole_4_Gameplay_BuiltData requested by async loading code. NameToLoad: /Game/Levels/Bedroom/Stage4/Set1_Hole_4_Gameplay_BuiltData
+[2023.02.06-15.44.25:865][489]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.06-15.44.25:877][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.02.06-15.44.25:886][489]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.06-15.44.25:887][489]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.756ms to complete.
+[2023.02.06-15.44.25:887][489]LogFileHelpers: Loading map 'Set1_Persistant' took 0.584
+[2023.02.06-15.44.25:981][489]AssetCheck: New page: Asset Save: ramp_low_Standardmaterial_BaseColor_Utility_-_sRGB_-_Texture
+[2023.02.06-15.44.25:981][489]LogContentValidation: Display: Validating Texture2D /Game/Textures/ramp_low_Standardmaterial_BaseColor_Utility_-_sRGB_-_Texture.ramp_low_Standardmaterial_BaseColor_Utility_-_sRGB_-_Texture
+[2023.02.06-15.44.35:420][542]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.02.06-15.44.39:541][ 12]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Gameplay/Player/Turn_Manager/Kill_Volume.Kill_Volume_C
+[2023.02.06-15.44.39:541][ 12]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Gameplay/Player/Turn_Manager/Kill_Volume.Kill_Volume_C
+[2023.02.06-15.44.39:542][ 12]LogActorFactory: Actor Factory spawned Blueprint /Game/Gameplay/Player/Turn_Manager/Kill_Volume.Kill_Volume as actor: Kill_Volume_C /Game/Levels/Bedroom/Stage1/Set1_Hole1_Gameplay.Set1_Hole1_Gameplay:PersistentLevel.Kill_Volume_C_0
+[2023.02.06-15.44.39:542][ 12]LogActorFactory: Actor Factory spawned Blueprint /Game/Gameplay/Player/Turn_Manager/Kill_Volume.Kill_Volume as actor: Kill_Volume_C /Game/Levels/Bedroom/Stage1/Set1_Hole1_Gameplay.Set1_Hole1_Gameplay:PersistentLevel.Kill_Volume_C_0
+[2023.02.06-15.44.40:903][171]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Gameplay/Player/Turn_Manager/Kill_Volume.Kill_Volume_C
+[2023.02.06-15.44.40:903][171]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Gameplay/Player/Turn_Manager/Kill_Volume.Kill_Volume_C
+[2023.02.06-15.44.40:904][171]LogActorFactory: Actor Factory spawned Blueprint /Game/Gameplay/Player/Turn_Manager/Kill_Volume.Kill_Volume as actor: Kill_Volume_C /Game/Levels/Bedroom/Stage1/Set1_Hole1_Gameplay.Set1_Hole1_Gameplay:PersistentLevel.Kill_Volume_C_4
+[2023.02.06-15.44.40:905][171]LogActorFactory: Actor Factory spawned Blueprint /Game/Gameplay/Player/Turn_Manager/Kill_Volume.Kill_Volume as actor: Kill_Volume_C /Game/Levels/Bedroom/Stage1/Set1_Hole1_Gameplay.Set1_Hole1_Gameplay:PersistentLevel.Kill_Volume_C_4
+[2023.02.06-15.44.52:098][452]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2023.02.06-15.44.53:341][454]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.02.06-15.44.53:341][454]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2023.02.06-15.44.53:342][454]LogWindows: Error: === Critical error: ===
+[2023.02.06-15.44.53:342][454]LogWindows: Error: 
+[2023.02.06-15.44.53:342][454]LogWindows: Error: Fatal error: [File:D:\build\++UE5\Sync\Engine\Source\Runtime\RenderCore\Private\RenderingThread.cpp] [Line: 934] 
+[2023.02.06-15.44.53:342][454]LogWindows: Error: Rendering thread exception:
+[2023.02.06-15.44.53:342][454]LogWindows: Error: Assertion failed: (Index >= 0) & (Index < ArrayNum) [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Public\Containers\Array.h] [Line: 691] 
+[2023.02.06-15.44.53:342][454]LogWindows: Error: Array index out of bounds: -1 from an array of size 489
+[2023.02.06-15.44.53:342][454]LogWindows: Error: 
+[2023.02.06-15.44.53:342][454]LogWindows: Error: 
+[2023.02.06-15.44.53:342][454]LogWindows: Error: [Callstack] 0x00007ffa230db74c UnrealEditor-Renderer.dll!FScene::UpdatePrimitiveVelocityState_RenderThread() [D:\build\++UE5\Sync\Engine\Source\Runtime\Renderer\Private\RendererScene.cpp:4218]
+[2023.02.06-15.44.53:342][454]LogWindows: Error: [Callstack] 0x00007ffa2a0bd0c6 UnrealEditor-Engine.dll!TEnqueueUniqueRenderCommandType<`FPrimitiveSceneProxy::SetIsBeingMovedByEditor_GameThread'::`2'::SetIsBeingMovedByEditorName,<lambda_f73098b45977b08d84791d16f075c6bf> >::DoTask() [D:\build\++UE5\Sync\Engine\Source\Runtime\RenderCore\Public\RenderingThread.h:193]
+[2023.02.06-15.44.53:342][454]LogWindows: Error: [Callstack] 0x00007ffa2a0ca8aa UnrealEditor-Engine.dll!TGraphTask<TEnqueueUniqueRenderCommandType<`FPrimitiveSceneProxy::SetIsBeingMovedByEditor_GameThread'::`2'::SetIsBeingMovedByEditorName,<lambda_f73098b45977b08d84791d16f075c6bf> > >::ExecuteTask() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Public\Async\TaskGraphInterfaces.h:975]
+[2023.02.06-15.44.53:342][454]LogWindows: Error: [Callstack] 0x00007ffa66353a9d UnrealEditor-Core.dll!FNamedTaskThread::ProcessTasksNamedThread() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Private\Async\TaskGraph.cpp:753]
+[2023.02.06-15.44.53:342][454]LogWindows: Error: [Callstack] 0x00007ffa66353f3e UnrealEditor-Core.dll!FNamedTaskThread::ProcessTasksUntilQuit() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Private\Async\TaskGraph.cpp:642]
+[2023.02.06-15.44.53:342][454]LogWindows: Error: [Callstack] 0x00007ffa663542e1 UnrealEditor-Core.dll!FTaskGraphCompatibilityImplementation::ProcessThreadUntilRequestReturn() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Private\Async\TaskGraph.cpp:2115]
+[2023.02.06-15.44.53:342][454]LogWindows: Error: [Callstack] 0x00007ffa85ac976b UnrealEditor-RenderCore.dll!RenderingThreadMain() [D:\build\++UE5\Sync\Engine\Source\Runtime\RenderCore\Private\RenderingThread.cpp:380]
+[2023.02.06-15.44.53:343][454]LogWindows: Error: [Callstack] 0x00007ffa85acd158 UnrealEditor-RenderCore.dll!FRenderingThread::Run() [D:\build\++UE5\Sync\Engine\Source\Runtime\RenderCore\Private\RenderingThread.cpp:527]
+[2023.02.06-15.44.53:343][454]LogWindows: Error: [Callstack] 0x00007ffa66a27a2b UnrealEditor-Core.dll!FRunnableThreadWin::Run() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Private\Windows\WindowsRunnableThread.cpp:146]
+[2023.02.06-15.44.53:343][454]LogWindows: Error: [Callstack] 0x00007ffa66a20a90 UnrealEditor-Core.dll!FRunnableThreadWin::GuardedRun() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Private\Windows\WindowsRunnableThread.cpp:76]
+[2023.02.06-15.44.53:343][454]LogWindows: Error: [Callstack] 0x00007ffabda17614 KERNEL32.DLL!UnknownFunction []
+[2023.02.06-15.44.53:343][454]LogWindows: Error: [Callstack] 0x00007ffabf7426a1 ntdll.dll!UnknownFunction []
+[2023.02.06-15.44.53:343][454]LogWindows: Error: 
+[2023.02.06-15.44.53:343][454]LogWindows: Error: 
+[2023.02.06-15.44.53:343][454]LogWindows: Error: 
+[2023.02.06-15.44.53:343][454]LogWindows: Error: 
+[2023.02.06-15.44.53:343][454]LogWindows: Error: 
+[2023.02.06-15.44.53:343][454]LogWindows: Error: 
+[2023.02.06-15.44.53:352][454]LogExit: Executing StaticShutdownAfterError
+[2023.02.06-15.44.53:353][454]LogWindows: FPlatformMisc::RequestExit(1)
+[2023.02.06-15.44.53:354][454]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 3)
+[2023.02.06-15.44.53:354][454]LogCore: Engine exit requested (reason: Win RequestExit)
+[2023.02.06-15.44.53:359][454]Log file closed, 02/06/23 15:44:53
