@@ -61,14 +61,17 @@
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/Xray",
 				"/Game/Textures/M_Mouse4",
+				"/Game/Meshes/HeliRedo/WorldGridMaterial",
+				"/Game/Meshes/Standardmaterial",
+				"/Game/Meshes/Silver_material",
+				"/Game/Meshes/09_-_Default_ncl1_1",
+				"/Game/Meshes/09_-_Default",
+				"/Game/Meshes/03_-_Default",
+				"/Game/Meshes/01_-_Default",
 				"/Game/Materials/M_Mouse6",
 				"/Game/Materials/M_Mouse5",
 				"/Game/Materials/M_Mouse3",
-				"/Game/Materials/M_Mouse2",
-				"/Game/Materials/M_Mouse",
-				"/Game/Materials/Mouse_Basemesh_default",
-				"/Game/Materials/09_-_Default",
-				"/Game/Materials/01_-_Default"
+				"/Game/Materials/Mouse_Basemesh_default"
 			]
 		},
 		{
@@ -102,21 +105,38 @@
 			]
 		},
 		{
+			"ShaderMapHash": "3A5C67BB1D82F0A169D07CDAAD327D1E35483814",
+			"Assets": [
+				"/Game/Meshes/Mouse_Basemesh_default",
+				"/Game/Materials/M_Mouse2",
+				"/Game/Materials/M_Mouse",
+				"/Game/Materials/Material",
+				"/Game/Materials/09_-_Default",
+				"/Game/Materials/01_-_Default"
+			]
+		},
+		{
 			"ShaderMapHash": "F64C5788D85ADF654FD16AEBA3E30101B7CE760D",
 			"Assets": [
 				"/Game/Materials/testDONOTUSE"
 			]
 		},
 		{
-			"ShaderMapHash": "5FB668975B7F3177F14E8C3ECCB5A3D1A9A72C75",
+			"ShaderMapHash": "7E8D656355577797CFA133B723CEB975EFB5AD5E",
 			"Assets": [
-				"/Game/Materials/MM"
+				"/Game/Materials/M_Test_CritterRand"
 			]
 		},
 		{
-			"ShaderMapHash": "3A5C67BB1D82F0A169D07CDAAD327D1E35483814",
+			"ShaderMapHash": "32B9AE4CEB5DD09D75600B1FD7824ADB2B467CDA",
 			"Assets": [
-				"/Game/Materials/Material"
+				"/Game/Materials/M_Golden"
+			]
+		},
+		{
+			"ShaderMapHash": "0BE568C048868EB582E5FB8310CD003CBC521216",
+			"Assets": [
+				"/Game/Materials/Light"
 			]
 		},
 		{
@@ -126,15 +146,28 @@
 			]
 		},
 		{
-			"ShaderMapHash": "BA45AC8976EC3417F5DB49E582EDB7F8E25F9FA5",
+			"ShaderMapHash": "C87B078C0349A5FA895DE594E0C209C9B48B900A",
 			"Assets": [
-				"/Game/Materials/FishBowl"
+				"/Game/Materials/Debug"
 			]
 		},
 		{
 			"ShaderMapHash": "DDFDED41BEC619FC7E5912E1D2B583E3DD534B15",
 			"Assets": [
-				"/Game/Characters/Weasle_Max/FUCKFUR2"
+				"/Game/Characters/WeasleSkele/Weasle_Max_ContainsBaseSkele_/Material_002",
+				"/Game/Characters/WeasleSkele/Weasle_Max_ContainsBaseSkele_/Material_001"
+			]
+		},
+		{
+			"ShaderMapHash": "70646F682ED3E3ED86B8F59FB2A24843183C330C",
+			"Assets": [
+				"/Game/Characters/M_AnimZoo_2"
+			]
+		},
+		{
+			"ShaderMapHash": "B318EB1A98024E02DE3B832A33D6D9D36880CFF2",
+			"Assets": [
+				"/Game/Characters/M_AnimZoo"
 			]
 		},
 		{
@@ -153,12 +186,6 @@
 			"ShaderMapHash": "C52E5226D3CFA1CAC3D87FAC8D50F38D363FAB58",
 			"Assets": [
 				"/Niagara/DefaultAssets/DefaultSpriteMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "1F93A139C6F08E1E62E6232D8FE39719B4541263",
-			"Assets": [
-				"/Engine/VREditor/UI/KeyDiskMaterial"
 			]
 		},
 		{
@@ -265,10 +292,22 @@
 			]
 		},
 		{
+			"ShaderMapHash": "F055B97F66115E322EA8CE0F210C77378FBDFB51",
+			"Assets": [
+				"/Game/M_ShieldOverlay"
+			]
+		},
+		{
 			"ShaderMapHash": "B43D983CD3BDA59466984205703D5D9E6F5FE1F6",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough",
 				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "C8077F647315C9E572D945EA06CB03317A316AF7",
+			"Assets": [
+				"/Game/VFX/Particle_JumpPad"
 			]
 		},
 		{
@@ -278,34 +317,162 @@
 			]
 		},
 		{
-			"ShaderMapHash": "B0AD3B7C8D9A1787D7258FC187ECC2A1A369CF83",
-			"Assets": [
-				"/Game/Materials/VCR_DefaultMaterial_BaseColor_sRGB_Mat"
-			]
-		},
-		{
 			"ShaderMapHash": "487616879B9F735A5A473EE1B1E83F4D510E06FD",
 			"Assets": [
-				"/Game/Materials/M_Book",
-				"/Game/Materials/M_Book2",
+				"/Game/Materials/Signposts/M_Signpost_75",
+				"/Game/Materials/Signposts/M_Signpost_50",
+				"/Game/Materials/Signposts/M_Signpost_25",
+				"/Game/Materials/Signposts/M_Signpost_100",
 				"/Game/Materials/TV_Screen_BaseColor_sRGB_Mat",
 				"/Game/Materials/TV_01_-_Default_BaseColor_sRGB_Mat",
+				"/Game/Textures/TrackTurn_LP_BaseColor_Mat",
+				"/Game/Materials/TrackTPiece_LP_BaseColor_Mat",
 				"/Game/Materials/Toybox_DefaultMaterial_BaseColor_sRGB_Mat",
+				"/Game/Textures/StraightPiece_LP_BaseColor_Mat",
 				"/Game/Materials/SM_WardrobeLevel_Albedo_Mat",
-				"/Game/Materials/SM_WardrobeLevelOut_Albedo_Mat",
-				"/Game/Materials/SM_WardrobeFrame_Albedo_Mat",
+				"/Game/Textures/SM_WardrobeDoorSmall_LP_BaseColor_Mat",
 				"/Game/Materials/SM_WardrobeDoorOne_Albedo_Mat",
 				"/Game/Materials/SM_WardrobeDoor3_Albedo_Mat",
 				"/Game/Materials/SM_WardrobeDoor2_Albedo_Mat",
+				"/Game/Textures/SM_WardrobeDoor1_LP_BaseColor_Mat",
+				"/Game/Textures/SM_WallWindowFrame_LP_BaseColor_Mat",
+				"/Game/Materials/SM_TVTABLE_LP_BaseColor_Mat",
 				"/Game/Materials/SM_speaker_low_DefaultMaterial_BaseColor_sRGB_Mat",
-				"/Game/Materials/SM_PoledShelf_LP_Albedo_Mat",
+				"/Game/Materials/SM_mouse_low_DefaultMaterial_BaseColor_Mat",
+				"/Game/Materials/mATRESS",
+				"/Game/Materials/SM_keyboard_low_DefaultMaterial_BaseColor_Mat",
 				"/Game/Materials/SM_Flipper_LP_Albedo_Mat",
-				"/Game/Materials/Shoes_DefaultMaterial_BaseColor_sRGB_Mat",
-				"/Game/Materials/Gort_Unwrap_Texture_Checker_Material_BaseColor_sRGB_Mat",
+				"/Game/Textures/SM_Door_LP_BaseColor_Mat",
+				"/Game/Materials/SM_desk_low_01_-_Default_BaseColor_sRGB_Mat",
+				"/Game/Materials/SM_computer_low_DefaultMaterial_BaseColor_Mat",
+				"/Game/Materials/ramp_low_Standardmaterial_BaseColor_Utility_-_sRGB_-_Texture_Mat",
+				"/Game/Materials/RampPiece_LP_BaseColor_Mat",
+				"/Game/Materials/Pillow_LP_BaseColor_Mat",
+				"/Game/Materials/Heli_DefaultMaterial_BaseColor_sRGB_Mat",
+				"/Game/Textures/Flag_DefaultMaterial_BaseColor_sRGB_Mat",
 				"/Game/Materials/DrawersMat",
+				"/Game/Materials/M_CrispGreem",
+				"/Game/Materials/crisppacket_low_Standardmaterial_BaseColor_Utility_-_sRGB_-_Texture_Mat",
+				"/Game/Materials/M_SNESConstoller",
+				"/Game/Materials/M_SnesConsole",
 				"/Game/Materials/console_low_Standardmaterial_BaseColor_Utility_-_sRGB_-_Texture_Mat",
 				"/Game/Materials/book2-lp_DefaultMaterial_BaseColor_Mat",
+				"/Game/Materials/BedsideDraws_DefaultMaterial_BaseColor_sRGB_Mat",
+				"/Game/Textures/BasketBallHoop_DefaultMaterial_BaseColor_sRGB_Mat",
 				"/Game/Materials/BasketBallHoop_DefaultMaterial_BaseColor_sRGB_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "90C94B11A409FB6E8EB5CB4C3099D3548B6737F8",
+			"Assets": [
+				"/Game/Materials/Glowband"
+			]
+		},
+		{
+			"ShaderMapHash": "565C642145FE4473882D4EC2EA55D7307A1CE65F",
+			"Assets": [
+				"/Game/Textures/WoodPlanks_BaseColor_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "B0AD3B7C8D9A1787D7258FC187ECC2A1A369CF83",
+			"Assets": [
+				"/Game/Materials/VCR_DefaultMaterial_BaseColor_sRGB_Mat",
+				"/Game/Textures/SM_screen_low_DefaultMaterial_BaseColor_Mat",
+				"/Game/Materials/RCRemote"
+			]
+		},
+		{
+			"ShaderMapHash": "58C465426BF1D61C76074743ABE903241CE94356",
+			"Assets": [
+				"/Game/Materials/Cubemap_Sky"
+			]
+		},
+		{
+			"ShaderMapHash": "8F9D98FE1EEBBFCA1F8735CFBB6E2066555E5BE2",
+			"Assets": [
+				"/Game/Materials/M_Book",
+				"/Game/Materials/SM_WardrobeFrame_Albedo_Mat",
+				"/Game/Materials/SM_PoledShelf_LP_Albedo_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "64628EF3E201DEB81DC51A8BAFE0E5500EEE634E",
+			"Assets": [
+				"/Game/Materials/M_Book2"
+			]
+		},
+		{
+			"ShaderMapHash": "D3CF26C940DA1D459BABFA88AF091019C72FDE4E",
+			"Assets": [
+				"/Game/Textures/TV_Screen_BaseColor_sRGB_Mat",
+				"/Game/Meshes/M_Bollard",
+				"/Game/Materials/pencil_low_Standardmaterial_BaseColor_Utility_-_sRGB_-_Texture_Mat",
+				"/Game/Textures/jumppad_low_Standardmaterial_BaseColor_Utility_-_sRGB_-_Texture_Mat",
+				"/Game/Materials/Gloves_Unwrap_Texture_Checker_Material_BaseColor_sRGB_Mat",
+				"/Game/Materials/cannon_low_Standardmaterial_BaseColor_Utility_-_sRGB_-_Texture_Mat",
+				"/Game/Materials/Bollard_SM_Albedo_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "42F23FD42EE0D75EED6C3D1398242DE740FC0CDB",
+			"Assets": [
+				"/Game/Materials/Decal_TOD_Poster",
+				"/Game/Materials/Decal_SOTL_Poster",
+				"/Game/Materials/Decal_SailorGort_Poster",
+				"/Game/Materials/Decal_JurrasicGortPoster",
+				"/Game/Materials/Decal_GortInBlackPoster",
+				"/Game/Gameplay/Level/Stage_Interactibles/ApplyDecal/M_DecalHitText",
+				"/Game/Materials/Decal_GortAlienPoster",
+				"/Game/Materials/Decal_BTTF_Poster",
+				"/Game/Materials/Decal_Akira_Poster",
+				"/Game/LevelDesign/s027702k_Mause/Decal_YellowMark3",
+				"/Game/LevelDesign/s027702k_Mause/Decal_Mark001",
+				"/Game/LevelDesign/s027702k_Mause/Decal_YRMark4",
+				"/Game/LevelDesign/s027702k_Mause/Decal_YRMark3",
+				"/Game/LevelDesign/s027702k_Mause/Decal_YRMark2",
+				"/Game/LevelDesign/s027702k_Mause/Decal_YRMark1",
+				"/Game/LevelDesign/s027702k_Mause/Decal_YellowMark2",
+				"/Game/LevelDesign/s027702k_Mause/Decal_YellowMark1",
+				"/Game/LevelDesign/s027702k_Mause/Decal_WhiteMark1",
+				"/Game/LevelDesign/s027702k_Mause/Decal_Spray_Yellow2",
+				"/Game/LevelDesign/s027702k_Mause/Decal_Spray_White2",
+				"/Game/LevelDesign/s027702k_Mause/Decal_Spray_Red2",
+				"/Game/LevelDesign/s027702k_Mause/Decal_Spray_Blue3",
+				"/Game/LevelDesign/s027702k_Mause/Decal_Spray_Black3",
+				"/Game/LevelDesign/s027702k_Mause/Decal_Spray_Yellow1",
+				"/Game/LevelDesign/s027702k_Mause/Decal_Spray_White1",
+				"/Game/LevelDesign/s027702k_Mause/Decal_Spray_Red1",
+				"/Game/LevelDesign/s027702k_Mause/Decal_Spray_Blue2",
+				"/Game/LevelDesign/s027702k_Mause/Decal_Spray_Black2",
+				"/Game/LevelDesign/s027702k_Mause/Decal_Spray_Yellow",
+				"/Game/LevelDesign/s027702k_Mause/Decal_Spray_White",
+				"/Game/LevelDesign/s027702k_Mause/Decal_Spray_Red",
+				"/Game/LevelDesign/s027702k_Mause/Decal_Spray_Blue",
+				"/Game/LevelDesign/s027702k_Mause/Decal_Spray_Black1",
+				"/Game/LevelDesign/s027702k_Mause/Decal_Scratch5",
+				"/Game/LevelDesign/s027702k_Mause/Decal_Scratch4",
+				"/Game/LevelDesign/s027702k_Mause/Decal_Brown_Scratch1",
+				"/Game/LevelDesign/s027702k_Mause/Decal_Brown_Scratch",
+				"/Game/LevelDesign/s027702k_Mause/Decal_Scratch3",
+				"/Game/LevelDesign/s027702k_Mause/Decal_Scratch2",
+				"/Game/LevelDesign/s027702k_Mause/Decal_Scratch1",
+				"/Game/LevelDesign/s027702k_Mause/Decal_Scratch",
+				"/Game/LevelDesign/s027702k_Mause/Decal_RedMark3",
+				"/Game/LevelDesign/s027702k_Mause/Decal_RedMark2",
+				"/Game/LevelDesign/s027702k_Mause/Decal_DustMark1",
+				"/Game/LevelDesign/s027702k_Mause/Decal_BYmark2",
+				"/Game/LevelDesign/s027702k_Mause/Decal_BYmark1",
+				"/Game/LevelDesign/s027702k_Mause/Decal_ArrowWorn5",
+				"/Game/LevelDesign/s027702k_Mause/Decal_Arrow5",
+				"/Game/LevelDesign/s027702k_Mause/Decal_ArrowWorn4",
+				"/Game/LevelDesign/s027702k_Mause/Decal_Arrow4",
+				"/Game/LevelDesign/s027702k_Mause/Decal_ArrowWorn3",
+				"/Game/LevelDesign/s027702k_Mause/Decal_Arrow3",
+				"/Game/LevelDesign/s027702k_Mause/Decal_ArrowWorn2",
+				"/Game/LevelDesign/s027702k_Mause/Decal_Arrow2",
+				"/Game/LevelDesign/s027702k_Mause/Decal_ArrowWorn1",
+				"/Game/LevelDesign/s027702k_Mause/Decal_Arrow"
 			]
 		},
 		{
@@ -321,22 +488,146 @@
 			]
 		},
 		{
-			"ShaderMapHash": "23EC581C11449BF822DCF0FE8851A5AED199981D",
+			"ShaderMapHash": "29799F3277D2B2C5E1E09E7A02A77E6DFF1B1B82",
 			"Assets": [
-				"/Game/Materials/TapeSleeve_DefaultMaterial_BaseColor_sRGB_Mat"
+				"/Game/Materials/TapeSleeve_DefaultMaterial_BaseColor_sRGB_Mat",
+				"/Game/Materials/M_StandTop"
+			]
+		},
+		{
+			"ShaderMapHash": "9069FEBC3CE21D2372B49806E7C28E43B0F75A42",
+			"Assets": [
+				"/Game/Materials/Wallpaper_basecolor_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "0F6B61A253838CDF8FB12C96D3F2ECC878C1C0B0",
+			"Assets": [
+				"/Game/Materials/M_SpeedBoost1"
+			]
+		},
+		{
+			"ShaderMapHash": "D8584EC6AE4DB048B5219090FF70939C418FE731",
+			"Assets": [
+				"/Game/Materials/M_SpeedBoost"
+			]
+		},
+		{
+			"ShaderMapHash": "5CF862492765F4D7CF3E9EEE8CCD12B884DC9ED8",
+			"Assets": [
+				"/Game/Materials/Soda_Unwrap_Texture_Checker_Material_BaseColor_sRGB_Mat"
 			]
 		},
 		{
 			"ShaderMapHash": "2D159E063D0623109F06B79D1AE226B717670A9D",
 			"Assets": [
-				"/Game/Materials/SM_WallSplit_LP_AO_Metallic_Roughness_Mat"
+				"/Game/Materials/SM_WallSplit_LP_AO_Metallic_Roughness_Mat",
+				"/Game/Materials/M_LookThruMaster"
 			]
 		},
 		{
-			"ShaderMapHash": "D3CF26C940DA1D459BABFA88AF091019C72FDE4E",
+			"ShaderMapHash": "59EF120F93ED362B84040AD9EAAB0738A0CFED89",
 			"Assets": [
-				"/Game/Meshes/M_Bollard",
-				"/Game/Materials/Bollard_SM_Albedo_Mat"
+				"/Game/Materials/M_StandLeg"
+			]
+		},
+		{
+			"ShaderMapHash": "0ECC2880460A3E023B85120AC924E42AA3C5A819",
+			"Assets": [
+				"/Game/Textures/LP_Lamp_DefaultMaterial_BaseColor_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "4F5C15B81F0E2242370D1D08A85B309F80E3237F",
+			"Assets": [
+				"/Game/Materials/M_JumpPad"
+			]
+		},
+		{
+			"ShaderMapHash": "80F1DFB1A777C37238FDE464D642BB1FFF180C6A",
+			"Assets": [
+				"/Game/Materials/M_GoldenGort"
+			]
+		},
+		{
+			"ShaderMapHash": "97323799B2AF0B10F67F6482890A8D864BA0E701",
+			"Assets": [
+				"/Game/Materials/Gort_Unwrap_Texture_Checker_Material_BaseColor_sRGB_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "5896DEF3B9137EB86C7CFFB61F193DD1CD560ED5",
+			"Assets": [
+				"/Game/Gameplay/EndingScreen/M_DoubleSided"
+			]
+		},
+		{
+			"ShaderMapHash": "03A7F68C86750458DA9E7B534C6814514ED3B4DD",
+			"Assets": [
+				"/Game/Materials/M_CeilingLight"
+			]
+		},
+		{
+			"ShaderMapHash": "482618C5B1F810F2E2B9D375D3757E279DDEAD3C",
+			"Assets": [
+				"/Game/Meshes/Pickup/M_PickupBase"
+			]
+		},
+		{
+			"ShaderMapHash": "AE2797177D6058DDBD400B65B1080A79A6CE6079",
+			"Assets": [
+				"/Game/Meshes/Unwrap_Texture_Checker_Material"
+			]
+		},
+		{
+			"ShaderMapHash": "E7A45BE6721FD0760BB39DB2979DADF83A4C1E58",
+			"Assets": [
+				"/Game/LevelDesign/s027702k_Mause/Decal_WearMark1"
+			]
+		},
+		{
+			"ShaderMapHash": "0D5A4510F0BF8F52C9430B2FDEC5036D1C3D215A",
+			"Assets": [
+				"/Game/Characters/Weasle_Skeletal/M_Hammer_Punk"
+			]
+		},
+		{
+			"ShaderMapHash": "2A8C79304048EB2C5DD2CD2D50FB3E4889E7B377",
+			"Assets": [
+				"/Game/Characters/Weasle_Skeletal/M_Hammer_Weasle",
+				"/Game/Characters/Terrapin_Skeletal/M_Hammer_Terrapin",
+				"/Game/Characters/Terrapin_Skeletal/M_Hammer_Pirate",
+				"/Game/Characters/Terrapin_Skeletal/M_Terrapin_Body",
+				"/Game/Characters/Terrapin_Skeletal/M_Terrapin_Hat",
+				"/Game/Characters/Owl_Skeletal/M_Owl_Hammer",
+				"/Game/Characters/Owl_Skeletal/M_OwlBody",
+				"/Game/Characters/MouseSkeletal/M_Hammer_Skate",
+				"/Game/Characters/MouseSkeletal/M_Mouse"
+			]
+		},
+		{
+			"ShaderMapHash": "E3F2C98EE0B053C42FBE5DC95A2B63B4A52BF3C2",
+			"Assets": [
+				"/Game/Characters/Weasle_Skeletal/M_Weasle"
+			]
+		},
+		{
+			"ShaderMapHash": "55371F035C4ECD1FE8ED404993A0564205889F00",
+			"Assets": [
+				"/Game/Characters/Weasle_Skeletal/M_Mohawk",
+				"/Game/Characters/Owl_Skeletal/M_SpaceAdditions"
+			]
+		},
+		{
+			"ShaderMapHash": "34416074F0A8E4FEA619797CD5233E0CA98D2CEF",
+			"Assets": [
+				"/Game/Characters/MouseSkeletal/M_Hammer_Mouse"
+			]
+		},
+		{
+			"ShaderMapHash": "C48C66A7E6D63A9007622D1D6F5CC3D8015C0FB8",
+			"Assets": [
+				"/Game/Characters/MouseSkeletal/M_Sunglasses"
 			]
 		},
 		{
@@ -355,6 +646,24 @@
 			"ShaderMapHash": "CA5E52CACC8C177679D06C910BA38FFD19582423",
 			"Assets": [
 				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0E8D76DBFC20CC3315A01E5C718526034CEF4305",
+			"Assets": [
+				"/Game/VFX/Particle_Pickup_good"
+			]
+		},
+		{
+			"ShaderMapHash": "070B34DA58CEE0195B7C7535DFB1A5764FD7D71E",
+			"Assets": [
+				"/Game/Materials/M_CritterBall"
+			]
+		},
+		{
+			"ShaderMapHash": "7264A578FD049A3E8E5754A12463F29A70980701",
+			"Assets": [
+				"/Game/Materials/FishBowl"
 			]
 		},
 		{
@@ -388,12 +697,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "2B6116EE209355AA9A044BCBCC26CA28BFD22797",
-			"Assets": [
-				"/Game/Materials/M_LookThruMaster"
-			]
-		},
-		{
 			"ShaderMapHash": "648B34FBF1A6265873DAA2FDE756E9E90165B27A",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
@@ -409,6 +712,57 @@
 			"ShaderMapHash": "23B1EF696CB55868211558A2D14ECFFBB29B851A",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "0FE27E46A5E79F3831EDAF9ADA4A04A9FC004E87",
+			"Assets": [
+				"/Game/Meshes/Pickup/MI_Stun",
+				"/Game/Meshes/Pickup/MI_SpeedDown",
+				"/Game/Meshes/Pickup/MI_EnergyUp"
+			]
+		},
+		{
+			"ShaderMapHash": "E6D5961E9C022F6F6A0D3F9498910F4B56636E4C",
+			"Assets": [
+				"/Game/VFX/M_MalletStrike"
+			]
+		},
+		{
+			"ShaderMapHash": "3CFD56A390552E9C8BD6507BC654CE55B348B776",
+			"Assets": [
+				"/Game/Materials/SodaCrush_Unwrap_Texture_Checker_Material_BaseColor_sRGB_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "2C4DA229D6F93DD2FBF69FAE046D62C864DB28E5",
+			"Assets": [
+				"/Game/Materials/SM_WardrobeLevelOut_Albedo_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "91FA7B6470D4C603D15C8E68E6F65510E750EDB2",
+			"Assets": [
+				"/Game/Materials/SM_BedFrame_LP_BaseColor_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "9B7607BC4B37FAF1A84468E1BF67D30D3D9EFC2D",
+			"Assets": [
+				"/Game/Materials/Shoes_DefaultMaterial_BaseColor_sRGB_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "B9B9A60A93C9F325971A75EF0F51BC16B0912B81",
+			"Assets": [
+				"/Game/Materials/M_LookThruExample"
+			]
+		},
+		{
+			"ShaderMapHash": "60D3AD41CCE149B4AF133CCB87C1AD66A6CDDBD3",
+			"Assets": [
+				"/Game/Materials/MM",
+				"/Game/Materials/OffWhite_MI_2"
 			]
 		},
 		{
@@ -433,6 +787,12 @@
 			"ShaderMapHash": "D0117C354E7E46EABA7DAF71F71B6C5078FA3A73",
 			"Assets": [
 				"/Engine/OpenWorldTemplate/LandscapeMaterial/M_ProcGrid"
+			]
+		},
+		{
+			"ShaderMapHash": "CF013ED3BEEF1B025EDC8A0A82BDB2507324A57A",
+			"Assets": [
+				"/Game/Materials/BedWood_MI"
 			]
 		},
 		{
